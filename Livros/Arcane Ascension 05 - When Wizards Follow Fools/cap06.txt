@@ -1,0 +1,678 @@
+CHAPTER V – WORKAROUNDS
+
+There was a considerable problem with what I’d just offered to do for Mara — but one that I fully intended to solve.
+
+In order to be able to look at someone else’s attunement, I needed mental mana. And in order to make changes to Mara’s attunement, I needed core functions of both of my attunements. At the moment, I’d been told to avoid using my Enchanter attunement for a while…meaning both of those tasks were, at present, impossible to do safely.
+
+…But what about mildly unsafely?I didn’t like the idea of breaking my mind. I did, however, like the idea of finding reasonable alternatives to six months of feeling entirely useless.
+
+To that end, I checked in with Sera, then I tracked Researcher down. Mundanely, unfortunately, given that my current lack of mental mana also meant I couldn’t actually cast tracking spells. Fortunately, Sera was able to point me to the right direction — a lounge car, where Researcher was reading a book.
+
+“Can I sit down?”
+
+Researcher looked up at me, startled. “Arbiter Cadence. I see no reason why you would currently lack that capability. Would you like me to perform any tests?”
+
+“Ah, no. Let me rephrase — do you mind if I sit with you to ask you some questions?”
+
+“Oh, pardon my misunderstanding. I would be more than pleased to provide what assistance to you I can, Arbiter. I have no objections to either of your inquiries.”
+
+I nodded and took a seat across from her. “Thank you.” I almost asked a basic small talk question, then realized that in this rare case, it was absolutely unnecessary to either of us. Instead, I asked something I waslegitimately curious about. “Why are you reading a book? Can’t you just… like, absorb the contents in an instant?”
+
+“I can parse the contents of a book through a simple spell, yes. That, however, is not nearly so enjoyable of an experience.”
+
+“Oh. I guess that makes sense. What are you…?”
+
+She closed her book to show me the cover. Dragon’s Damsel 7: The Damsel’s Destiny.
+
+“…You enjoy that sort of thing?” I asked.
+
+“I enjoy reading all forms of human-generated literature. I find that they contribute to my understanding to the human perspective. Biases, hopes, dreams, desires…it is fascinating to me how they manifest in fictional form. This particular manuscript does excellent work of showcasing human mating dynamics, especially with extreme power differentials. As one reviewer stated—”
+
+I put my hands up. “I, uh, would rather not hear about mating dynamics.”
+
+“Ah. Please forgive me, Arbiter. I had not adequately processed your disinclination toward sexual content. Please forgive my error in this regard.”
+
+“No, you’re fine. I asked. Thank you for answering.” I paused, thinking. “I’m pretty sure I was here to ask you about something else.”
+
+“I would postulate that would likely be the case, given that you were not aware that I was reading until after you had approached, upon which you indicated surprise and made your query. Perhaps you required my services in some other capacity?”
+
+“I…oh! Yes. Mental mana.” I snapped my fingers. “I need your help with that.”
+
+“That	is	a		very	open-ended	statement.	You	already	possess	an attunement capable of generating mental mana. Please clarify your request.” “Right,	sorry.		Not	thinking	very		clearly	right	now.	Which	is… admittedly, part of why I’m here. As you probably have already heard, I overused my Enchanter attunement during my last fight.” I glanced around, not seeing anyone else nearby, but not wanting to take too many risks. “Please do not talk about the specific nature of that fight while we are inpublic, by the way. I am not ready to disclose who we were fighting.” “Understood.	My	Summoner	has	already	provided	me	with	thisinstruction, however, I will consider this instruction to come from you aswell.”
+
+That made wonder if my authority with her exceeded Sera’s in some way, but that wasn’t the type of thing I needed to get side-tracked with at the moment. “Right. So, basically, I can’t use my Enchanter attunement safely. I was wondering if you could cast some mental mana spells for me in order to help improve my situation?”
+
+“Of course, Arbiter. What were you thinking?”
+
+“Firstly, the formation of a few memory crystals at certain points would be useful. But beyond that…I might need your help with something more complicated. For that, we would need to discuss things in private, and I would want your assessment of whether or not my plan is safe.”
+
+“Of course, Arbiter. I am pleased to assist you with your plans, which, based on all available data, I can already evaluate have a high probability of being unsafe.”
+
+“…I haven’t even told you what the plans are yet.”
+
+“That is correct, Arbiter. However, given that the plans are constructed by Arbiter Corin Cadence, I can estimate a 97.4% chance that they are unsafe.”
+
+“Are you…making fun of me?”
+
+Researcher smiled. “Of course not, Arbiter. I am merely emulating the style of conversation utilized by the protagonists of this renowned, human- written fantasy series. Has this been a satisfactory rendition of human communication?”
+
+“…You know what, it wasn’t bad.” I sighed. “Can I drag you away from your book a little longer to talk about this more in private?”
+
+“Of course, Arbiter. If this was a Dragon’s Damsel novel, I would expect that such an invitation would have a romantic element, but given that it is not, I can only presume that you intend to take me to an area you have already secured with anti-divination measures.”
+
+“…You’re still making fun of me.”
+
+“If that is your assessment of my behavior, how would you rate my effectiveness at ‘making fun of you’?”
+
+“Ten out of ten, Researcher. Ten out of ten.”
+
+***When we got back to my room — which was very definitely just for making use of the added security — we sat down for me to explain myslightly-but-not-97%-deadly plan. I ran her through the basics, which she parsed easily.
+
+“I understand. You want me to cast the basic mental mana spells that would enable you to look at your own attunements, which would allow you to visualize them without technically using your own mental mana. Then, you would copy the functions that allow for generating and converting mental mana, as well as the entire suite of ‘enchanting’ functions, from your Enchanter attunement into a new level for your Arbiter attunement. This would, in effect, allow you to turn your Arbiter attunement into a hybrid Arbiter/Enchanter attunement temporarily, while in this specific attunement level. Would you like for me to evaluate the dangers of this plan?”
+
+I sighed. I’d already thought about this, but I waved for her to continue. “Yes.”
+
+“There are four critical points of danger in my evaluation. First, the usage of any form of mental mana may cause your problems to get worse, even if the mental mana is provided by an external source. I would agree with your underlying assessment that the risk level of doing this is lower than if you were to cast the spells yourself, however, and the mental strain of using the Analyze Attunement Composition in itself is relatively low. That being said, historically, you have almost always worked on your attunement with Accelerated Computation active. Given your current state, I would advise you against using those mental mana spells simultaneously, as the combination of the two spell effects would radically change your processing speed and functionality. I would expect the risks of combining those two effects at the moment to be significant, even if you are provided the mana from an external source.”
+
+I grunted. I’d considered that running multiple spells at the same time was a higher risk, but not specifically how those two spells would interact.
+
+That was going to slow down any possible progress significantly, but I couldn’t risk it.
+
+I was already uncomfortably close to the situation my great grandfather, Alaric Cadence, had been in the last years of his life. He’d pushed his mental mana too far, apparently, and his mental facilities had deteriorated. I still didn’t know exactly how he’d died — Mother had been vague on that, and Father hadn’t talked to me about it at all — but Mother had told me stories about how he’d sometimes been unable to recognize his own children toward the end of his life.
+
+It was terrifying, coming as close to that as I already had. I wasn’t going to let the fear stop me like it might have early on in my career as an Enchanter, but I wasn’t going to abandon caution, either.
+
+I’d take the problems Researcher mentioned seriously, but she’d only listed two problems so far. I had a guess at the others, but I wasn’t sure.
+
+“Go on.”
+
+“Presuming that you are able to view your attunements successfully, this does not enable you to make changes without drawing directly from both Enchanter and Arbiter functions. You are clearly aware of this, as you intend to copy your Enchanter functions to your Arbiter attunement in order to allow for future work. This means that it is, unfortunately, necessary for you to utilize your Enchanter attunement for a bare minimum of one step — the step that allows you to copy the Enchanter attunement functions themselves to the new attunement level for your Arbiter attunement.”
+
+I had anticipated that one. “Understood. What is your risk assessment for that?”
+
+“Unknown. My experience in medical diagnostics is, unfortunately, not as sophisticated as Doctor Theas.”
+
+I blinked at hearing Sheridan referred to as a doctor. That…absolutely made sense, they literally worked as a healer in a hospital much of the time, but I didn’t know if I’d ever heard that title used before. Maybe I had, and I was just forgetting? My mind…wasn’t very clear at the moment.
+
+“…Okay. Understood. I’ll consider that an unknown risk. What’s the fourth problem?”
+
+“It is unknown what the interactions would be between the baseline Enchanter and Arbiter functions if they are held within the same attunement. My estimates indicate that the chances of this causing a critical attunement failure are low, given that the attunements already share two mana types and have no direct conflicts. That being said, if your body is incapable of supporting the necessary functions, your attunement may shut down.”
+
+I nodded. “I intended to mitigate that risk by creating a custom attunement level that flips immediately back to standard Arbiter functionality if certain safety thresholds are exceeded.”
+
+“That is a wise decision for mitigating this particular risk, Arbiter. It does, however, expand the risk of causing problems by using Enchanter functionality  from  your  Enchanter  attunement  before  moving  thatfunctionality to your new Arbiter attunement, as that would be a pre- requisite step.”
+
+I winced. She was right, of course. And of the two, using my Enchanter attunement was actually more immediately dangerous…but long-term, having my Arbiter attunement disabled was crippling. I’d have to put in the new level first, I couldn’t risk losing the one functional attunement I still had.
+
+“…Okay. Hm.” I pondered for a moment if someone else could make these changes for me, but there wasn’t any safe way of doing that, either. I’d need another Arbiter/Enchanter, and the only one I knew was Warren Constantine — who had deliberately destroyed his own attunements. A dual-attuned Biomancer/Enchanter could have probably done it, too, but that would mean giving access to my Arbiter attunement to a Biomancer, which was basically letting Farren win. Unless I could find an unaffiliated Biomancer/Enchanter, of course, but that was unlikely. And I wasn’t going to find one I trusted enough to mess with my attunements in six months.
+
+I exhaled a deep breath. “Okay. I’ll think about all this. What about fixing the damage I’ve suffered faster? Any ideas?”
+
+“Regrettably, the only available tool I am aware of that might help address your issues would be a Goddess’ Tear. And as you are aware, Arbiter, these are a rare blessing.”
+
+I thought I heard a hint of chastisement in that, or perhaps warning. She clearly didn’t approve of the idea of me using a tear to try to fix a temporary problem like this.
+
+“Do you think I’m being too impatient? Should I just wait for this to resolve itself?”
+
+“I cannot answer that question, Arbiter, as I am not aware of all of the pertinent data necessary to extrapolate possible outcomes.”
+
+That was fair. I wasn’t, either. Not really.
+
+I exhaled another deep breath. “…You’ve read a bunch of books, and parsed a bunch of the ones in Constantine’s library. How much do you know about spirit Arts?”
+
+“Regrettably, Arbiter, most details about the functionality of spirit arts are considered forbidden knowledge. I can provide you with a brief overview, but it would be redundant with what you already know. Would you like for me to send an inquiry to request access to more detailed information?”
+
+I pondered that. Doing any kind of information request could get us unwanted attention…But honestly? This was a pretty innocuous-sounding topic for “forbidden knowledge”. And I was an Arbiter. That had to be worth something — maybe it was about time I started taking that more seriously.
+
+“Yes,” I said. “I think I would.”
+
+Researcher closed her eyes. “Very well, Arbiter. Processing.” Her eyes fluttered open. “Your request has been submitted. Please be advised that responses may be delayed due to spire conditions.”
+
+“…Wait. Hold on. Does that mean you can actually get messages into the Serpent Spire right now?”
+
+Researcher flinched. “That, is, unfortunately, currently restricted information. Would you like for me to send an inquiry to request access to this information?”
+
+“…What’s the distinction between forbidden knowledge and restricted information?”
+
+“Forbidden knowledge is a topic that is permanently considered ‘forbidden’ to disseminate information about without express permission from the an appropriate-level authority, typically a visage. Restricted information is similar, but the limitations on information distribution are temporary, rather than permanent.”
+
+“…Don’t send a request for information about the spire thing. Do, however, inform me if that information becomes unrestricted in the future. Also, please inform me as soon as you get a reply on my first request.”
+
+Researcher seemed to relax. Apparently, I’d handled that situation in a way that was satisfactory. “Of course, Arbiter. Will there be anything else?” “Yeah, one last thing. I’d like you to make me some memory crystals right now. Then, if it’s possible, I’d like us to make some securitymodifications to some crystals.”
+
+“What sort of memory crystals would you like to make, Arbiter?”
+
+I	took	a	breath,	then	rested	my	fingers	on	Selys-Lyann’s	grip. “Memories of when I was possessed by my sword.”
+
+***Days passed as the train rolled on toward the mid-point of the Unclaimed Lands, where we planned to disembark at a Haven Securities refueling facility. At that point, the plan was to make our way north from the facility through the Unclaimed Lands to the expedition town ofPending, and from there, just a bit further north to Warren Constantine’s tower.
+
+Every day I waited made it marginally safer…and gave me a little more time to practice something to make it less likely to destroy my mind.
+
+Spirit Art: Rapid Recovery, I told myself, drawing on my connection with Selys-Lyann and the Null-Contract Gauntlet to provide myself with the necessary spirit mana, and adding in some of my own mana from my Arbiter attunement to supplement it.
+
+…It didn’t quite work. Not yet. I felt a soothing sensation flood through me, but I was trying to emulate Thorn’s technique through how it felt in my memories, and a thread of his consciousness that bled into my own. His understanding of that specific technique was near-instinctual — it had to have been something that he’d practiced a thousand times — and as such, he didn’t guide the magic consciously enough for me to emulate it properly.
+
+I also got the impression that whatever he was doing wasn’t exactly a “typical” spirit art. More like he was using the sword’s spirit mana and my own to emulate something he’d been able to do during his life. Or…lives, really, given that Thorn was an amalgamation of multiple entities. Either way, what he was doing was an approximation of a true spirit art, but not identical to one.
+
+Researcher had been able to make sophisticated memory crystals containing fragments of my thoughts — or Thorn’s thoughts — from the fight. We’d also made some from the other parts of the fight, and as I’d requested, added some security modifications — things that could lock access to the crystals or break them with certain voice commands. We took that time to add some security enchantments to the ones in Keras’ box, too, just in case we needed that extra layer of defense for them.
+
+Unfortunately, even with her assistance, it wasn’t possible to capture the level of detail that I needed to reverse engineer the techniques that Thorn had used. The thoughts gathered in the crystals were surface-level, without any of the underlying background information necessary to comprehend the process. Maybe that was because the Dominion of Memory simply didn’t have all of that information, or maybe it was just a limitation on how the spell to make memory crystals worked — I wasn’t sure.
+
+I supplemented that basic knowledge with everything I could find from my books, as well as what Sera knew from her own studies of spirit magicin the context of summoning — but it still wasn’t quite enough to make a fully-functional technique.
+
+I tried to throw something together by blending what I could understand from Thorn’s usage of the technique with a Regeneration spell, since that was something my own Arbiter attunement could still provide.
+
+In the end, I probably had made something closer to a spirit-aligned Regeneration spell than a true spirit art. It was doing something, and Researcher was able to observe and confirm that it was interacting with my spirit, but she lacked the expertise to determine if it was actually healing any damage in the way that Thorn’s spirit art had.
+
+…I found myself wishing that Sheridan was there. And not just because of their medical expertise, though that was absolutely a part of it.
+
+In Sheridan’s absence, I contacted Elora, who put me in touch with a Citrine-level Mender. Said Mender was frankly horrified at my condition, but said that they thought I was probably helping it with my “weird and hugely dangerous experimental healing idea”, so I took that as a sign that it was time to move forward with the next phase of my plan.
+
+I didn’t want to break my mind. I was terrified.
+
+But I had two days left before we were set to get off the train, and if anything scared me more than causing myself mental harm, it was politics.
+
+I wasn’t going to deal with that without preparing every weapon at my disposal.
+
+***“Are you certain you wish to proceed with this exercise, Arbiter?” Researcher asked.
+
+“Not really,” I told her. “What do you estimate our chances of success are?”
+
+“I cannot assign a chance of success value to this activity for two reasons. One, I do not have sufficient data about the level of damage you have sustained. Two, the potential results are broader than the binary outcomes of ‘success’ or ‘failure’. There are many potential levels of failure, including but not limited to—”
+
+“I get it, thank you.” I exhaled a breath.
+
+Was it really worth risking my mind further just to give myself the ability to work on more projects?My answer to that, unfortunately, was unequivocally “yes”. Not because I felt like the risk vs. reward payoff was worth it, but because I wasabsolutely dying of impatience. “Let’s do it.”
+
+I’ll spare you an explicit description of my panic throughout the process. The activity itself was simple, although much slower than I would have liked, given that Researcher was adamant that I should not use Accelerated Computation in the process. Fortunately, it wasn’t nearly as necessary as it would have been if I was actually making new functions or other significant changes — since I was just copying functions from place to place, I didn’t really need any kind of mental enhancement to do that.
+
+It was uncomfortably close to what I’d done to my father. The main difference is that I was simply copying extra information to my attunement, rather than overwriting the existing functions with new ones. In theory, that actually made it even simpler, but it was still absolutely terrifying. Any mistake meant I could destroy my attunement or worse.
+
+Here we go.
+
+Analyze Attunement Composition. And…I focused on the right sections of my Enchanter attunement immediately, checking and double checking in a way that I hadn’t when I’d destroyed Father’s power. The only way I’d been able to attack him as quickly as I did was by completely avoiding any sort of analysis — for him, I’d just copied information from my attunement and used it to replace the sub-glyphs that were already there.
+
+In his case, I’d been willing to take the risk that I’d do something even worse than I’d intended by sacrificing safety for speed. Nothing else had been a viable option — I had a matter of moments while our hands were touching to make the spell happen.
+
+For this process, I was back to spending minutes checking the sub- glyphs. Not enough time to read entire segments in any detail, of course. Basically, I was checking the first and last lines of every individual function to make sure I was getting everything I needed and nothing superfluous.
+
+The mental image remained simple — I saw myself lifting pages of text from various stacks that represented different functions of the Enchanter attunement, finding the right ones, and then snapping my fingers with my off hand to create a copy of that whole section. Once I had the copied section, I mentally set it aside on an empty “table”, to prepare it. When Ihad all the copies I needed, I moved them over to a second table representing my Arbiter attunement.
+
+And…that was that.
+
+I opened my eyes and took several deep, steadying breaths.
+
+Test one.
+
+I called a bit of transference mana through my Arbiter attunement, just enough to lift an actual piece of paper. It worked.
+
+I hadn’t destroyed my attunement entirely. Another deep, steadying breath.
+
+Then, I continued the tests, verifying each basic Arbiter function one at a time.
+
+Then…from there, the real test.
+
+Detect Aura.
+
+My eyes flashed as new light appeared everywhere in the room — from a mental spell that had been conjured not from my Enchanter attunement, but from my right hand.
+
+I inspected the aura colors, expecting that something would go wildly wrong. Even if it was working, what if I’d skewed the output somehow?Ultimately, there was no discernable difference in functionality — at least on a first test.
+
+It had worked. I won’t say it was simple, but…it somehow felt too easy. I…didn’t even have a headache.
+
+The amount of actual use for my Enchanter attunement needed was so minimal — maybe a point or two worth of mana, if that — that I barely even noticed it. But, when a doctor says, “don’t do this thing right after surgery,”, they generally don’t mean, “only do it a little”, so it was still a risk…just an unquantifiable level of risk.
+
+In the end, I didn’t have any obvious side effects. I panicked for a long time that I might have caused myself so much damage that I couldn’t perceive the harm I’d caused, but ultimately, I knew I’d just have to wait until I had an expert to check on me before I could know for sure.
+
+I’ll save you from my nervousness — it worked out fine.
+
+Anyway, now that I’d taken my first steps toward being a functional sort-of Enchanter again, I had a lot of work to catch up on. It was time to see what my newly-forged dual-attunement could do.
+
+***In spite of how dramatic that last statement was, I didn’t start out by making anything crazy or impressive. It was, in fact, surprisingly literal.
+
+Analyze Attunement Composition.
+
+I pulled the mental mana from my Arbiter attunement, just as I had with Detect Aura. Then, I began to read.
+
+I’d been doing a considerable amount of book reading on the train, but there was no substitute for studying sub-glyphs directly — and there were a couple things I needed to confirm before I walked into the Emerald Council.
+
+First and most importantly, I needed to know how vulnerable I was.
+
+I’d defeated my father in a duel near-instantly by overwriting his attunement sub-glyphs with Enchanter ones. It had been absurdly easy. Making an extra function to allow his older mana to vent was a bit of extra time to prepare before the fight, just to ensure my trick didn’t kill him by accident, but that wasn’t actually hard, just time consuming. Really, the hardest part had been the social engineering side to get him to accept the dueling criteria. Starting in physical contact was critical.
+
+Getting his “consent” to do anything I wanted in the battle was…maybe critical, maybe not. I still wasn’t sure.
+
+I didn’t know if anyone had used the same strategy I’d used in that duel in the past, but if they had, it hadn’t been widespread enough public knowledge that I’d heard about it. A young Arbiter and Enchanter defeating a semi-famous Shaper, though? That would raise questions. And there had been witnesses that hadn’t been strictly sworn to secrecy.
+
+I didn’t know exactly how much my uncle understood about the exchange. We didn’t discuss it. Roland had worked with me enough during the school year enough to pick up on it, though, especially since he was a Diviner. If he understood and told that story to anyone, even if it was just his own family, they could spread that information further.
+
+And, of course, Sheridan Theas had been there. At a minimum, Deni would have recorded the official results of the duel. Questions would be asked.
+
+How much would Sheridan tell people?Sera had set up most of the social engineering side of preparation for the duel — misleading my father into lowering his guard and all that. It worked perfectly.
+
+When it was done, I’d moved on. Maybe she’d done things to keep people quiet afterward, but I hadn’t asked. I hadn’t wanted to know.
+
+That was, of course, a huge oversight on my part. A potentially critical classic Corin Cadence weakness.
+
+If my technique was publicly known, other people could reproduce it. They could figure out how to use it against me. Or worse — they could figure out that what I’d done by offensively modifying an attunement wasn’t the maximum extent of it.
+
+They could potentially do what Warren Constantine had feared and, for example, turn an attunement into a brand, then detonate it on the spot.
+
+I had a tendency to design my strategies and tools as responses to enemy action. In this case, that was unacceptable. If I failed to take action on something this critical there would be no response. I’d be done as an attuned.
+
+Asking Sera more about the social side of things would be important, but it wasn’t the first step.
+
+The first step was digging deep into my Arbiter attunement’s restricted functions and figuring out what, exactly, “consent” meant in the context of using it on someone.
+
+The difficulty wasn’t finding the right glyph section. I’d done that before the duel, during my preparatory process. The problem was that I hadn’t been able to find all the relevant sub-glyphs in my borrowed books. I couldn’t actually read the whole thing.
+
+I’d found more of the glyphs during my time on the train, but not all of them. Days of downtime without much work to do had, however, given me the chance to do something else — something I wouldn’t have ordinarily considered.
+
+I had, with a significant amount of Researcher’s help and guidance, created a prototype for a new spell.
+
+Spell research could be very straightforward or very complex, depending on the desired result. The simplest forms of spell research were iteration; taking an existing spell and modifying it in some way. A very minor alteration would be something like taking Lesser Regeneration or Haste and extrapolating it into a higher-level version.
+
+The next layer of complexity was making a larger alteration, like trying to change one of the parameters of how an existing spell functioned. This might involve changing the exact composition of the mana involved towarda different purpose. When I used mental mana for Detect Aura, it wasn’t the exact same composition as what I used for Identify, nor was it applied in the same way. Modifying Detect Aura to use something closer to Identify’s mana composition would create a different effect. I’d actually tinkered with that, hoping to identify magical items at a glance, but it didn’t actually work that way. There wasn’t enough data in my sight to provide information Identify could parse, and therefore, the spell didn’t do anything useful. A more complex visually based identification spell was possible, but I’d never gotten one to work.
+
+A related process was modifying a spell by changing the mana types more significantly, like adding a whole new mana type or subtracting one, in order to get a slightly different result. A common application for this was modifying an attack spell slightly to either augment it or make it deal a different type of damage. Change your fire blast into a blast of light, that sort of thing. I’d done something similar for creating my transcendent variants of each of my spells.
+
+You could also bolt a couple entire spells onto each other, like my Spirit Tracking Analytical Arrow. Simple enough in concept, but testing was usually required to figure out if they actually worked properly.
+
+Finally, there was creating something entirely new. I hadn’t done much of that myself yet, unless one counted creating new attunement functions. I’d done a fair bit of that, and it was actually easier in some respects than casting a new spell, since I could do the math at my own speed and then put the exact mana values straight into sub-glyphs, rather than having to remember exact mana compositions when casting something.
+
+My spell research project was a combination of a few of the approaches I’d done in the past.
+
+Analyze Attunement Composition let me see sub-glyphs, but didn’t translate them for me. I had, however, proven capable of casting spells while looking at my sub-glyphs already — it was a necessary process for being able to copy them from one place to another.
+
+I’d tried a standard Identify spell to figure out what a sub-glyph did. It worked on some glyphs, but not all of them. After a bit of tinkering, I figured out that it appeared to only spit out information if I used it on sub- glyphs that directly referenced mana types in some way.
+
+During my downtime, I’d found a solution.
+
+When I’d first visited Warren Constantine, Len had taught me two spells I hadn’t had much use for yet — Identify Spirit Glyph Capacity and Identify Spirit Glyph Function. I’d used them on the Jaden Box, but without other Artinian items to play with, I hadn’t thought about them much.
+
+Trying to use one on a sub-glyph would get me nonsense results. To give you a comparison, it was sort of like they were a translation key, but for the wrong language. That wasn’t useful on its own, but when combined with a spell that was actually designed for subglyphs…that got me exactly what I needed.
+
+I picked one I already understood first, just to test it.
+
+Identify Sub-Glyph Function.
+
+[n% mana.]Excellent.
+
+I ran through several more, not a single success to give me false confidence…then I got to the segment I really needed to read.
+
+Sub-glyphs didn’t use the same grammatical structure as Valian, so giving you a direct reading of it wouldn’t make a lot of sense. But in summary, I was able to search through the relevant functions in the main attunement segments and the restricted ones to find a few critical pieces of information.
+
+First, the general Arbiter segment for attunement modification said something along the lines of:[Run function: Detect Hostile Intent. Target: Self. Allocate result: Temporary Test Storage (current value)+1.][Reference result from Temporary Test Storage (most recent value).] [If pass, go to function: main.][If fail, go to function: transfer fail state 4.] [Else, go to function: unspecified error.][Clear referenced result from Temporary Test Storage.]In summary, whenever an Arbiter attempted to tinker with a target’s attunement, the attunement itself was running some sort of internal function to determine if it was intended to be harmful. Upon digging into that, I determined that it was a simple mental mana effect to read the Arbiter’s own surface thoughts to determine if they were in a state where harm was intended to the target of the effect.
+
+This was, to be blunt, an extremely error-prone strategy with a number of possible fail states and workarounds.
+
+No actual “consent” was required — there was no check about the target’s opinion on the subject. That was, as far as I could tell, either a pure fabrication, or perhaps a very loose interpretation of the hostility detection function.
+
+Even with just that information, I had several ways of getting around it. Figuring out how to alter my mental state to not trigger the hostility detection was potentially doable, but unreliable. The easiest thing would be to just…take out the whole hostility check.
+
+And, as it turned out, the restricted functions did exactly that.
+
+At Citrine-level, a new hidden function in the attunement changed the core functionality of the attunement to bypass the hostility check. Basically, any Citrine-level or higher Arbiter had no restrictions on modifying the attunements of others.
+
+That was a little terrifying in itself, but it wasn’t the worst thing I found. Now that I was able to rapidly parse through unfamiliar sub-glyphs, I went through a whole bunch of other sections, some out of curiosity, someout of fear.
+
+I found what I was looking for quickly enough. [Subsection: Administrator Override, Visage.][Activation methods: Detect stored composition, detect stored command phrase.][Valid commands: Disable. Revert to brand. Terminate user.] My fists clenched.
+
+Warren was right.
+
+They really could just…kill us at any time.
+
+All a visage had to do was interact with an attunement with their own mana…or, even easier, to say a phrase.
+
+Wait. Is it looking for a specific voice for that command phrase?The answer was, horrifyingly enough, “no”.
+
+Resh…That’s…really bad. How complex are these phrases? Could someone just…get access to your attunement by accident?I dug into my own attunements.
+
+My Enchanter attunement surprised me. There was no override command phrase built into it. When I first looked at it and found a blank line, I wondered if I’d made a mistake or my spell simply couldn’t find the relevant information.
+
+When I got to my Arbiter attunement, I changed my mind.
+
+It wasn’t a simple phrase. Not something your average person would say in casual conversation.
+
+But it absolutely seemed like the type of thing a visage might say, if they’d planned for the possibility of taking my attunement away — or just killing me with a spoken phrase — at an unspecified point in the future.
+
+I scowled.
+
+Warren was right. We’d been sabotaged from the start.
+
+But I wouldn’t burn out my attunements like he did. That was unacceptable.
+
+I dug deeper and deeper until I was confident that I understood. I couldn’t check with Researcher on this. Not when I was directly opposing a visage’s work.
+
+For this one occasion, I’d have to trust only my own mind. It was terrifying, but leaving things alone was worse.
+
+I found all the linked functions and worked backward, organizing papers in my mental framework.
+
+And then, once I had the ones I needed, I pictured Keras’ disintegrating aura in my mind and reached out, burning those functions to dust.
+
+I couldn’t be sure that even that would be enough, but it was a start. And with that destruction, I could begin, once again, to create. [Subsection: Administrator Override, Corin Cadence.][Additional attunement anti-tampering function: Layer 1.] I had a lot of work to do.
+
+***The next two days were almost entirely dedicated to working on security changes for my attunement. The next evening was doing the same for my friends, with their direct permission.
+
+I didn’t make quite as extreme of changes for the others. Instead, I quickly checked if they had administrator override phrases built into their attunements.
+
+Patrick didn’t. Mara did.
+
+I froze up a bit when I found that little tidbit. I thought of when and how it had happened, my fists tightening.
+
+How long had he planned this?I burned it away, adding my own layers of security, hoping they would be enough.
+
+But if Mara’s was a slight surprise, Sera’s was far more so.
+
+Her entire administrator access section for visages was missing. Apparently, I wasn’t the first person who had this idea.
+
+Someone else had gotten to her first.
+
+And they’d written something else. One that tested the spirit of a person trying to read it. I didn’t realize what it was doing until I was in the middle of identifying it.
+
+Someone — or something — had left me a note in my sister’s attunement functions.
+
+If you have reached this point, you should know what the presence of this message means. All those with bonds can influence one another, sometimes without the recipient’s knowledge or consent.
+
+Be cautious as you explore and do not advance before you are ready. There will be a time when you must send a message in return.
+
+I opened my eyes and pulled my hand away from Sera’s back. I shivered.
+
+My fingers were covered in frost.
+
+***There would be no further tinkering with Sera’s attunement in the days to come. I had several possible ideas of what the message meant, but in all cases, I thought it was best that I avoid any risk of breaking it.
+
+I did, however, continue to study.
+
+I hit a wall right away with one of my first goals — analyzing the functions of Sera’s attunement that made it an “Ascended” attunement. Those were restricted in a way that even a Citrine-level Arbiter attunement did not give me access to. I thought I could work around it. In fact, I found functions built into the attunement that appeared to be designed to let me bypass those restrictions. After seeing the message in the attunement, though, I was very cognizant of the fact that Sera’s attunement was altered in ways that could present problems, or even traps.
+
+It wasn’t time to turn those keys. Not while I was barely functional. If I hit some sort of alarm system or other defense, I needed to be able to react quickly, which meant that I’d need to get back to full functionality with my attunements first.
+
+So, I turned to simpler things. Other functions I could understand and access with significantly lesser risk.
+
+I understood the basic functions of each of our attunements very well at this point, but there had been some things I hadn’t been able to easily read, largely in terms of attunement-specific features.
+
+I read through the rest of those, debating which ones might be useful to copy to others. I could, with my new knowledge, give everyone in our group the ability to make magical contracts like a Summoner, if I provided them with the right mana types to do so.
+
+That was tempting, but it would also be incredibly obvious.
+
+Instead, I chose to dig into something subtler. Something more plausible on the surface, that wouldn’t let on that I was making massive modifications to our attunements:Attunement Specializations.
+
+I’d learned early on in Meltlake’s classes that attunements could change based on mana usage. Meltlake, for example, focused so heavily on fire magic that her attunement had developed a new line and additional functions to facilitate that.
+
+Patrick was following her training routines to develop a specialization of his own, but for lightning, rather than fire. This was intended to be a years-long process. I knew it required using a certain mana type near- exclusively, but I didn’t understand the exact mechanics of why. Not until I looked directly at the inner workings of the attunement functions themselves.
+
+[Initiate mana flow test.][Begin transference mana test. Save value present in DiP1 to temp variable…][Activate transference mana monitor on DiP1.][Activate transference mana flow from DiP0 to DiP1.] [Initiate timer.][If transference mana value > saved temp variable, pause timer.] [Save timer value to temporary variable (current +1)].
+
+[Save transference mana value present in DiP1 to temporary variable (current +1].][Activate transference mana monitor on DiP2.] [Resume test…]Parsing through all of that, as well as a bunch of other sub-glyphs, I got the general idea.
+
+There were periodic tests of how quickly specific mana types could flow through each of the star veins in the body, from Dianis Point to Dianis Point.
+
+If a flow rate test successfully hit a threshold, other tests would run. Tests like checking the total mana composition in specific Dianis Points, in things called secondary essence structures, in the star veins themselves… there was a lot.
+
+The quick summary of all of the above testing was that, if someone used enough of a mana type over a long enough period of time, they’d get their Dianis Points and star veins acclimated to that mana type enough that they’d trigger a function to activate an attunement specialization.
+
+These requirements could be broken down into two critical components: acclimation and composition.
+
+Acclimation required using the mana type a lot. It was the harder requirement to reach, and as far as I could tell, there was no easy way to cheat around it. People acclimated to a specific mana type the more they used it, but the body had a certain maximum acclimation rate that was split among every mana type they were using. This meant that, for example, an Elementalist who was using fire, lightning, and air mana would be splitting their acclimation rate among all three. They would eventually hit the acclimation requirements for a specialization with any or all of them, but at that point, they’d run into the composition requirement.
+
+Composition was comparatively easier. Someone who used a specific mana type almost exclusively could skew their composition very quickly in a certain direction, but they wouldn’t develop an attunement specialization a few days after getting one and only casting one spell, since they still required the acclimation part of the requirement.
+
+So, in order to get a specialization, you needed to use a specific mana type near-exclusively over a long period of time.
+
+The functions themselves were impressive. There was a reason why Farren had pushed Cecily into getting one through her second Judgment, even if I didn’t approve of her method. Looking over several of the options, it was clear to me that specialization functions were potent enough that some of them could be considered comparable to an entire attunement level in value, but at a significant cost. Using any other type of mana would be much more challenging, as the attunement would begin to allocate the majority of the mana it stored toward a single mana type, and drawing fromthat mana pool for other types of spells would require converting it to the target type. That was both slow and inefficient.
+
+Was it worth the cost? Meltlake seemed to think so, and she was one of the most powerful attuned I knew about.
+
+I was less certain…but I did check my progress toward a transference specialization, just to see what it would take to get there.
+
+I was closer than I expected.
+
+Having transference mana with two different attunements and using it as frequently as I did meant that I had already almost met the acclimation requirement. That was unusual — normally it took someone about a full year of using a mana type near-exclusively — but my compounding effect from multiple sources of transference mana was apparently skewing my internal mana balance, too.
+
+I was further off in terms of composition…and in ways that got more complicated.
+
+Transference was the main mana type used in my body, but I had several others. I used mental mana the next most frequently, since I often used Detect Aura, Identify, Accelerated Computation, and even Analyze Attunement Composition.
+
+I barely used other mana types directly, but I’d begun using transcendence mana to augment my spells, and that was a factor. I was experimenting with spirit mana more, too.
+
+If I wasn’t an Arbiter, I expect that my mana composition balance would have skewed toward about 70% transference usage. That wouldn’t be enough to qualify for a transference specialization, but it would be close enough that such a goal would be achievable over a period of dedicated effort.
+
+As an Arbiter, however, my Arbiter attunement erased my mana signature. And that meant that the grey mana generated by my body was, at present, perfectly balanced.
+
+Grey mana was built from the twelve base mana types, or in Mythralian terms, the twelve prime dominions. Earth, air, fire, water, light, umbral, motion, enhancement, life, death, perception, and mental.
+
+An ordinary attuned would have mana composition that gradually skewed toward the mana types they used most frequently. This is not to say that Meltlake, a fire specialist, would have grey mana that was 90% fire — the skew was never that extreme. My understanding was that the upperboundary of grey mana distribution was somewhere around twenty-four percent, after which it was considered a hybrid mana type, rather than grey mana, but different documentation had different answers on the exact number brackets.
+
+Anyway, let’s say that Meltlake’s grey mana was around 24%. That left eleven other mana types and 76% between them, so a split of about 6.9% to each.
+
+This is a bit of an oversimplification, since grey mana in the case of an attunement can also include compound mana types. Meltlake, for example, would have lightning included in her grey mana composition. Patrick would have it even more strongly represented. Your average attuned would only have the twelve base types in any significant amounts, though, since most people didn’t learn to use composite mana types directly.
+
+In my case, however, no matter my mana usage, my Arbiter attunement was keeping my mana balanced. It would use a light mana-based function to burn out any excess mana of other types, and to block light mana from being absorbed from the environment if my current light mana exceeded the threshold. The result was that my grey mana was exactly the default split: all twelve mana types represented at 8.333% (repeating of course) of the composition of the grey mana in my attunements.
+
+Composition tests did measure things other than the grey mana in attunements, as I mentioned. Testing my star veins would, however, get largely the same result. The only way to accurately test my mana usage was my “secondary mana,” which was something I didn’t fully understand, but I’d read about it a bit. Basically, secondary mana was the mana that classical dominion sorcerers used, rather than attuned. It built up naturally in the body as mana was used, and it was what was responsible for things like my permanent speed improvements from repeatedly casting Haste spells, or my memory and calculation improvements from casting mental spells all the time.
+
+Unlike the mana used by my attunements, my secondary mana wasn’t altered by my Arbiter attunement. It wasn’t necessary to purify it, since my attunement didn’t transfer secondary mana or use it for spells. As a result, that meant that the pool was more representative of my actual spellcasting habits, and a better measurement of whether or not I’d be close to qualifying for a specialization.
+
+Upon figuring all that out, I reverse engineered the function from the sub-glyphs themselves that analyzed secondary mana and worked it into a spell I could cast directly. Then, I cast it on myself.
+
+Analyze Secondary Mana Composition.
+
+The results spat out readings for sixty different mana types, so I’m not going to list them all out. The important part was that my transference composition was at around 15%. That was higher than it sounded, since it was competing with 59 other mana types, all of which apparently occurred naturally in the body to some degree or another, but mostly in very small quantities. Most of the base mana types were around 6 to 7%, with mental around 10%. Most of the composites were less than a quarter of a percentage point, with spirit and transcendence around 1%.
+
+15% transference composition was almost enough to qualify for a specialization. My target for a transference-specialized Enchanter attunement was 18%. Unfortunately, that value was averaged between Dianis Point composition, star vein mana, and secondary mana, meaning my secondary mana would have to be vastly higher to compensate for the auto-balancing nature of my Arbiter attunement.
+
+I’d never get there. Not manually, anyway. It simply wasn’t feasible.
+
+But I’d looked at my mana already knowing that was likely to be the case — mostly, I wanted to know if I was close enough that I could maybe, possibly, just flip on a transference specialization safely.
+
+Also, I was curious.
+
+With that information, I had a couple options.
+
+Rather than actually casting spells to change my mana balance organically, like how people normally would, I had the option of just… telling my attunements to generate whatever mana composition I wanted. This was ultimately very similar to what a specialization would do, anyway, and I could just copy those functions and start playing with them early.
+
+That would, however, immediately limit my ability to use other types of mana.
+
+There was a workaround that didn’t require that, though.
+
+I was fully capable of just…turning on a specialization function, or even a component of it, without technically meeting the requirements.
+
+If I activated a specialization function without the part that would skew my mana in a certain way, I could use the new features without changing my mana composition. The problem with that approach was that thesefeatures generally required a specific amount of mana of that type as a form of continuous upkeep, and if I didn’t skew my mana composition in the intended way, there was a risk that I wouldn’t actually have enough mana of the right type to power them…and then I’d drain all my mana until my attunements were unusable.
+
+In order to figure out if that was likely to happen, I’d have to look at the individual functions in more detail…then do a bunch of mana conversion math.
+
+Would it be worth all that work, and the risks?To figure that out, it was finally time to look at what Attunement Specializations could actually do.
+
+***Over the next few hours, I looked at sub-glyphs for each and every attunement specialization that was available to me, parsing through sub- glyph text to figure out exactly how they worked. I’ll save you from having to listen to my exact thought process for each. I took notes. I’ll just give you the summary from those.
+
+I went through my Enchanter attunement first, both because it was my first attunement and because I was curious exactly how Cecily’s specialization worked. If Farren had thought it was worth sending Cecily in for a second Judgment, it had to be valuable, right?I hoped that was the case. Cecily had been badly hurt getting her specialization.
+
+Enchanter Specialization OptionsI found four “current” specialization options within the Enchanter attunement. I say “current” because, weirdly, there are a couple more that do not have any valid criteria for activation and are listed as “deprecated”. Which, I think means that they’re old functions that are disabled, but still exist? That’s weird. More on that later, but for now, writing down function stuff.
+
+Mental first, since Cecily already has one.
+
+Deep Diagnostics: Stores results from mental mana spells into an accessible “container” within the Enchanter attunement. This container can be accessed with a “Recall” function, similar to how a memory crystal works, but presenting the caster with a mental landscape to review the stored information. The information is kept in two formats: in base memory format (based on the Enchanter’s initial memories of the information fromthe spell) and copied into a readable text format. In both cases, further diagnostic spells can be used to analyze the stored information, and there are several analytical functions available, including “search”, “copy”, and “compare”.
+
+Hm.
+
+This sounds similar to what I’m doing with Analyze Attunement Composition to look at how attunement functions work, but instead of being for sub-glyphs, it’s basically outputting the results of every mental spell the person casts into a readable log. I can see how that might be useful, but is it really worth what Cecily went through?I suppose things like “search” and “compare” features being built in might be more useful than I’m giving it credit for, especially if it’s used for parsing large amounts of data. If, for example, she’s checking through the secondary mana compositions of a hundred different people and looking for patterns…yeah, something like that having functions built in might be important.
+
+And if it spits out information as readable text, that means none of the learning curve of reading sub-glyphs.
+
+Huh.
+
+I might need to copy this function at some point. What would the maintenance cost be?Let’s see, it’s all mental mana, with an initial cost of 120 mana to create the initial container, that’s doable, and an upkeep cost of…yikes. With my mana composition, that’d translate to something like…another 48 mana per hour to maintain it.
+
+Assuming Cecily’s attunement mana is skewed much more toward mental than mine, though, she’s probably only paying about…maybe somewhere between a third and half of that? That’s still a ton, but 24 mana is doable, even with her mana lower than mine.
+
+I can’t afford to suppress 48 mana per hour for something that would be a marginal convenience. Not yet. Let’s move on.
+
+Transference next.
+
+Internal Power: Huh. Okay, another container-style one in a sense, but very different.
+
+This function is designed to let you use your own mana to power an item directly. You link to an item with something that seems like my mana threads, but created directly through an attunement function. Then, you canrapidly pour mana into the item as needed to make it work. It’s like the reverse of a mana battery — it’s treating the Enchanter as the battery for an item. Could be useful if an item is out of mana, or in some sort of weird hypothetical where you need a larger mana pool for a function than the item itself can actually hold.
+
+Kind of a neat idea, except…I can already do all that? I guess your average Enchanter probably doesn’t have a fast enough mana transfer rate to manage the mana drain from an equal-level item. And they wouldn’t have the mana threads for accelerating things or charging an item at a distance.
+
+Is there anything to glean from this? I could study it in more detail to see if there’s a way to make my mana threads more efficient, I suppose, but I think I can just simulate all this with my own abilities.
+
+Not sure if I should be disappointed. Transference is kind of my thing. Something new would have been nice, but I guess it’s good that I don’t need it? Moving on.
+
+Light specialization next. Super unlikely anyone would ever get this, so I’m surprised it’s even here, but I suppose visages enjoy covering edge cases? Maybe just whichever visage worked on this. If it was a visage at all.
+
+Mana Output Purification: This is an interesting one. Functionally, it’s very similar to what my Arbiter attunement does, but rather than purifying the mana in my body, it purifies my mana on the way out when I’m enchanting things. There are advantages and disadvantages here. If I was using this rather than the Arbiter function, my grey mana would start to shift toward whatever mana types I’m using, making casting those spells more efficient and making it more possible for me to qualify for specializations organically.
+
+The downsides, however, would be significant. Having a mana signature in my body would make it easier to track me, and having extra layers of defense against tracking is nice. More importantly, though, this function would cost extra mana every time I cast a spell to even out the ratio in it. That could be a significant extra mana cost, meaning it would be harder to perform high-mana enchantments. And lastly, it only modifies enchanting. It wouldn’t purify my mana for, say, giving people mana through my Arbiter attunement. I’d have to either modify this function or write another one specifically for that purpose.
+
+Going to pass on this one. Would have been an interesting option if I wasn’t already an Arbiter, but with what I have…nah. I can think aboutstripping ideas out of it later, though.
+
+Finally, Acuity. That’s the compound mana type of transference and mental, which is pretty interesting.
+
+Mana Minutia Manipulation: Okay, now this is something new, at least. This works sort of like the transference one, where it creates a link with an item. Rather than letting you emulate a capacity rune, though, this lets you link with a function rune. When you activate the function, the acuity effect communicates how the effect works, and hypothetically, helps you make small changes to the effect on the way out.
+
+Conceptually, this is a great idea. In terms of practicality, though…I don’t really know without testing it. It seems like I’d need something like Accelerated Computation to have a meaningful frame of time to actually make any decisions related to changing a spell on the way out, and I’m not sure what kind of raw output I’d get out of the comprehension component of the function. If it’s something like an Identify spell, it’s probably too simplistic to be helpful. Conversely, if it’s something as complex as Analyze Attunement Composition, the amount of data would be so significant that it could be a critical distraction in battle. From the functions, it looks like it’s somewhere in between…which means that’s probably still enough information that it might be too much to be worth using in a fight?…Oh. This might not be built for mid-combat rapid iterations on spells.
+
+Right. Normal Enchanters don’t do what I do.
+
+Okay. Still worth thinking about, maybe testing sometime in a limited capacity. I could probably make a one-off version of the function to use without actually needing the whole framework behind it. Something more like just a spell I can cast.
+
+That’ll have to go on the list.
+
+I paused, taking a break after the initial set. While reading through sub- glyphs with my new spell wasn’t particularly mana intensive, I still wanted to avoid stressing my mental mana too much. I took some time to relax, cast another version of my Spirit Art: Rapid Recovery, which still wasn’t a real spirit art, but did help me feel a little better.
+
+Of the options I’d seen, the Acuity function was the most interesting by far, but it also didn’t seem like the type of thing I had an immediate need for. I’d be much more interested in emulating it than risking turning it on. I could try that later, when I’d recovered from my strain a bit more.
+
+I considered digging into the deprecated functions of the Enchanter attunement next, but I decided they were the least likely to be usable right now, and I wanted to focus on things that had immediate potential utility. Thus, I swapped over to reading the Arbiter functions next.
+
+Arbiter Specialization Options Transference first.
+
+Secondary Infusion: This may be the first one that I’m not confident I’m reading properly.
+
+I think what’s going on here is that it’s a second way to apply the Arbiter’s mana transfer function, but rather than infusing mana into an attunement, it transfers mana into the target’s secondary mana structures.
+
+If I’m reading this right, it means that I could — for example — push transference mana into someone’s secondary essence structures directly. This would, I think, either recharge their secondary mana if they used it (like a dominion sorcerer who had used up their motion mana?) or maybe overcharge them like I can overcharge an attunement, promoting growth. Or, you know, it might just kill them, because I have no idea if that’s actually what happens if you overcharge someone’s secondary mana.
+
+No documentation here, just functionality glyphs, and while I get most of the individual ones, I don’t have…like, studies or research on how you’re supposed to deal with this.
+
+I need to, at a minimum, ask Researcher about increasing secondary mana. Is it safe? How would it impact someone? Could I just take transference mana from my attunement and pour it into myself daily to increase my speed?Definitely worth exploring, but high-risk. Probably something I need to wait several months before trying in any case.
+
+After that, I took a bit to track down Researcher. I asked about it immediately.
+
+“The detailed functionality of secondary mana is considered restricted knowledge, Arbiter. Would you like me to request access to this on your behalf?”
+
+“You know what? Yeah, actually. That’s innocuous and ‘me’ enough that I don’t think it’s going to set off any flags. In the meantime, though, do you know who else might have information on this topic?”
+
+Researcher frowned. “Providing you with another source of information on a restricted topic is effectively still providing you with restricted knowledge, albeit indirectly.”
+
+“Got it.” I nodded. “Thank you.”
+
+A little annoying, but I understood her limitations. One more item for the long-term list. I can always tinker with it in the future.
+
+I got back to work.
+
+Okay, life mana is next.
+
+Heal Attunement Structures: Attempts to repair damage to the physical structures of a damaged attunement or “analogous structure”. This looks like what I was trying to help Deni with on getting attunements functional after limbs were reattached, but it’s a function expressly designed for it. I wish I’d known about this a couple weeks ago.
+
+I wonder if it would help mana scarring? It doesn’t expressly say so, but again, no documentation. I think it’s principally targeting Dianis Points, rather than star veins, so it’s not likely, but…hm.
+
+Might have been worth testing on Sera if I had this earlier, but I didn’t. Debating if it’d be worth testing on myself, but I lean toward “no”. If I’m reading it right, it’s for fixing damage incurred from an attack, not for something like fixing strain of overuse. It might help strain, it might make it worse — life mana actually accelerates poison, for example. Another thing to ask an expert about. Think this one is more of a Deni question, or maybe a Farren or Constantine question. Will need to wait.
+
+Next is light.
+
+Direct Target Purification: This one is actually pretty straightforward. It’s a new activated function that uses light mana to erase the mana signature in a target, much like it automatically does for my own mana. The more mana the target has, the more light mana required to do it. There’s a component to detect the target’s mana value and composition before the mana is spent, but weirdly, there’s no fail state if I don’t have enough — it’ll just try to burn through my mana until I hit my minimum safe value and stop there. That might be bad design? I don’t think there’s a lot of utility to using this if you can only purify something part-way. Hm. Maybe as a means to try to do something like work around a mental effect on a target? I think this could help with that, but it isn’t designed for it.
+
+Incremental uses to change something gradually, maybe? With batteries to help? I guess that’s doable?Anyway, I can see some applications here, largely in terms of something like clearing the mana signature from an item someone else made. Purifying another person’s mana doesn’t have a lot of use — they’ll get the signature back immediately after they use their mana pool and it refills.
+
+Oh, I guess I could use it right before starting on a cooperative enchantment project with someone. Like, to balance out Patrick’s mana so he could help me build a thing, and it wouldn’t have a signature. That’s not bad, but…I’m not sure I still need much help from anyone who has a small enough mana pool that I could actively purify it?Maybe from someone who has a diametrically opposed mana type to my own, like Mara. Moving things like enhancement is tougher for me, even with the batteries, and her mana pool might exceed what I can work with on the battery side right now. Or compound mana types I don’t have batteries for.
+
+Still, this is niche, at least for me. I can see how it’d be helpful for someone who isn’t me, but it’s not necessary for me right now. I might see if I can figure out how to copy it with a spell at some point, but low priority.
+
+And finally…adaptation. Hm. That’s the compound between transference and life. Let’s see what this does.
+
+Oh, wow. Okay. Wow. Notes. Right.
+
+Improve Acclimation Rate: This function continuously uses a significant portion of the user’s mana — about a quarter — to run a function that improves the body’s rate of acclimating to mana usage. This, so far as I can tell without any documentation, probably refers to increasing safe mana capacity faster, as opposed to working for secondary mana acclimation. It might do both? It might do both.
+
+I hope it does both.
+
+Wow. I’ve been looking for something like this for so long that it feels… a little surreal that there’s just a function that is already capable of doing it. I guess I did find a similar transcendence spell, but that was Citrine-plus, and this seems like it actually scales with your own mana.
+
+Okay, less excitement, more objectivity. Let’s see. What are the downsides?Obvious flaw one: It takes up a quarter of my mana. I’d have that much less to use, which is…significant. Even if I turned this off for things likefights, if I didn’t do it well in advance, I wouldn’t have the extra mana to use.
+
+Obvious flaw two: I don’t actually know which mana type acclimation it refers to. I’d be happy with either, but safe mana capacity is more valuable to me.
+
+Obvious flaw three: I have no idea what the rate of improvement is. If it’s 1 extra safe mana per year at a loss of a quarter of my mana, that’s obviously not worth much. If it’s an extra 1 safe mana a day, that’s absurdly helpful. It’s probably somewhere in between. If I had to guess, it would probably be a similar level of improvement to what I’d be getting out of something like my Null-Contract Gauntlet, but with a more general function and a higher overall mana cost.
+
+Obvious flaw four: It might primarily acclimate me specifically to adaptation mana? I honestly have no idea. Does adaptation mana let me acclimate to any mana type? Is that what it does? I need to study this.
+
+Less obvious flaw one: This might not actually do anything new. It’s possible that things like the exercises I’m doing, or my Null-Contract Gauntlet, serve similar functions to this acclimation improvement. I don’t know if they’d work cumulatively with each other. I think they probably would, but I have no test data to work with.
+
+Less obvious flaw two: If it’s as effective as I’m hoping, there has to be a reason this isn’t better known. I mean, I guess it’s an unlikely specialization for someone to arrive at with an ultra-rare attunement, but someone else has to have broken into this thing before. I guess maybe people like Farren do know about it, and have ways of doing similar things, they just don’t disseminate that information, similar to how nobles keep their secrets? I guess that’s plausible.
+
+Less obvious flaw three: Could I just replicate this with a spell, rather than needing to use an attunement function? If so, I could use it with more granularity, or on other people.
+
+Addendum: Not actually a flaw, this is an idea. Stop writing ideas as flaws.
+
+I paused there.
+
+I think it’s pretty obvious which one excited me. Honestly, I strongly considered just turning the Adaptation function on right then and there.
+
+Two main reasons why I didn’t.
+
+First? I had never directly cast an adaptation spell.
+
+This wasn’t to say that I had no acclimation to adaptation mana. My Arbiter function for transferring mana to someone else used adaptation as a major component of the process — it was, as far as I could tell from looking at the function, designed to help the recipient handle going over their maximum mana value. Essentially, it helped prevent the kind of mana scarring that Sera had experienced after drinking the mana primer.
+
+Since I’d been using the Arbiter function on both my friends and myself, I’d been using adaptation mana on a weekly basis. Using it directly on myself probably helped my acclimation amount, too. And I probably benefitted from the fact that the attunement was generating and using adaptation mana in general, including for my shroud.
+
+With all that said, that was better than nothing, but it was only a small fraction of the amount that I’d used something like transference mana. So, trying to turn on a function that generally expected a greater than 90% usage of adaptation magic was…maybe not such a good idea. Sure, adaptation sounded a lot safer than some mana types, but maybe not “let’s continuously spend a quarter of your mana on a mana type you’ve never used” level of safe.
+
+If I wanted to use it, I’d need to at least practice some basic adaptation spells first to get my star veins and Dianis Points ready for that kind of strain.
+
+Next, my body and mind were still recovering from Saffron. And while I was comfortable experimenting a little bit to read through functions, that didn’t extend to making major, life-altering attunement function changes. I might have considered it safe enough to turn on a transference function, but even that would have been pushing it, and I decided against making the attempt. There was no urgent need.
+
+I considered the other functions as well. Transference was possibly an even more overwhelming win than adaptation if it worked the way I hoped, but so high risk that I couldn’t justify playing with it without asking someone who knew. Hopefully Researcher would be able to get access to that information for me, but if not, I’d ask Len or someone else soon.
+
+All in all, I was very excited about the long-term power potential of turning on some of the Arbiter functions, but I knew I needed to wait before actively using them.
+
+After a couple hours of rest to ensure I wasn’t pushing myself too hard, I began to dig through the deprecated functions. I wasn’t sure if I should beexcited about them. Deprecated probably meant that they weren’t as good as the current functions, maybe things that had been left over from earlier attempts to build something useful that didn’t work out.
+
+At least, that was the most likely explanation, right?I didn’t get a clear answer to that question. But I did figure out very rapidly that these were not just failed prototypes for the existing functions— they were something else entirely.
+
+And they were very, very dangerous.
+
+I probably shouldn’t have looked at these.
+
+I feel like my “Forbidden Knowledge” threshold just went from “sketchy but acceptable” into “Wydd has decided to delete you, have a nice day.”
+
+I’m not actually going to write down what these things do. In fact, I’m going to go back and cut the parts out of my notes about deprecated functions above.
+
+After I did that, I read them anyway, and I’m going to tell you what I found, since my concerns from that time — while reasonable — have shifted since that day.
+
+The first deprecated function was “Enchant Spire Sigil”.
+
+This was, I rapidly realized, a function specifically for creating the strange three-dimensional runes I had seen inside the Serpent Spire. Things like the crystallized runes inside the prison that had held Vera, Echion, and Keras. The runes etched into the exterior walls of the spire itself might have counted, too.
+
+With that function, provided I had the right materials, I could create the same types of three-dimensional glyphs that were used in the spire. How significant was that?I genuinely had no real idea.
+
+These things didn’t exactly come with documentation. I could parse what the function did, but it didn’t tell me the instructions for making any given rune — or sigils, as they referred to these.
+
+While making more of the sigils themselves was impractical without any knowledge of how they worked, that wasn’t all the function did. It was similar to the core function of Enchanters — it wasn’t just for building enchantments.
+
+It let me interact with existing enchantments, too.
+
+I could, in theory, use this function to alter existing Spire Sigils.
+
+This would, of course, require some idea of how they worked…but now that I had a starting point with some references for sigil functionality in the sub-glyphs in here, I could begin to study that.
+
+I’d need another information source to be able to do too much with it, but I already had something that would help. Something I’d tucked away for a long time, having translated a portion and understanding its value, but having no application for it.
+
+It wasn’t the right time for that, but I began to make plans.
+
+I wouldn’t make any changes to my attunements at that very moment. I needed time to continue to study, build my foundations, and prepare my body for the changes that would come. When my body and spirit were healed, I would be ready.
+
+And I would forge the tools for my victory within myself.
+

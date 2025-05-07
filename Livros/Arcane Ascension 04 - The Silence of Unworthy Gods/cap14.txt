@@ -1,0 +1,622 @@
+CHAPTER XIII – SPIRIT STUDIES
+
+When I went home that night, I looked for Keras to ask him about “Lute”. I wasn’t sure if Keras would recognize the name — it was almost definitely a pseudonym — but it seemed worth at least asking, given their obvious similarities.
+
+Unfortunately, Keras was out again that evening with Derek, so I was left to contemplate the issue further.
+
+The idea of someone else in the world having powers even similar to Keras was a little terrifying, although admittedly, there seemed to be enough subtle distinctions in their behavior and abilities that I doubted that they were using exactly the same type of magic.
+
+Either way, I had to be very careful. Lute was ostensibly on “my team”, but if he was anything like what I was imagining, his agenda would go far beyond the scope of a simple dueling class.
+
+***A little bit later, Sera knocked on my door. Sera knocked on my door shortly thereafter.
+
+“You need something?” I asked after opening the door.
+
+“I should be the one asking you that question. What was that with Teft? Are you okay?”
+
+I blinked. Of all the things I expected out of Sera, concern wasn’t toward the top of the list.
+
+Maybe that was unfair. It wasn’t like Sera had never expressed worries about my well-being before, but she generally padded it with humor, jabs, or both. There was none of that here.
+
+The reason was obvious enough. When Teft had singled me out the first year, she’d had to step in to defend me along with Roland and Patrick. If he’d done something similar this time…I raised a hand in a calming gesture. “It’s fine, he wasn’t trying to start a fight. Well, I suppose he technically was, but not in a bad way.”
+
+Sera folded her arms. “A little clarity would help.”
+
+“Oh, right. Sorry, sorry. So, he heard about what was happening with my upcoming duel…and he offered to practice with me.”
+
+Sera made a thoughtful expression, then nodded, more to herself than to me. “…Yes, I suppose that makes sense. As another high-profile Citrine-level Shaper in the same profession as Father, he’s a comparable sparring partner, at least in some respects. And if Father loses, that will likely improve Teft’s comparative reputation in dueling circles. He has a vested interest in a positive outcome for you.”
+
+“I, uh…that’s definitely all true, but I don’t think it was quite that cutthroat. Do you know that Teft is an Enchanter, too?”
+
+“I’d surmised that based on the hazing on the first day of last year’s class and his casual recharging of shield sigils, yes.”
+
+…I wished I’d realized it sooner myself. But Sera was always better at modeling people.
+
+“Right. So, he apparently feels bad about how he handled that, and he probably thinks of me as being in a similar position to what he was when he first started dueling as an Enchanter.”
+
+She wrinkled her nose. “A bit of a stretch, given your dissimilar secondary attunements and background, but I suppose that doesn’t really matter. As long as his desire to assist you is genuine, the rest is of little consequence. I say ‘little’ because you should also consider the downsides — most notably, Father is going to hear about this.”
+
+I frowned. “Sure, students talk, and I wasn’t expecting to hide any private training…but is that really a problem?”
+
+“It might be. At this point, Father probably isn’t taking your duel particularly seriously. He has little reason to. Heclearly suspects you have a secondary attunement, based on your conversation at the Theas estate last year, but we don’t know if he’s gathered any details about it. At the moment, most of your training is being done here, in relative privacy. Granted, you’re in the dueling class itself, but that’s mundane enough that he may or may not bother looking into it. If he catches the fact that you’re training with one of his peers, that gives him significant reason to begin researching your general dueling performance and capabilities.”
+
+“…Hm. That’s not a bad point. Still, I think that having a comparable training partner outweighs that potential downside. Can you think of other problems?”
+
+“Certainly. There’s also the risk of injury, which is higher when fighting high-level opponents. Not something you’re likely to take as a deal breaker, considering that you routinely train with Derek and Keras, but those two are already acclimated to our abilities. Teft sees you in class, but he hasn’t had a chance to fight you directly since the start of last year — and we don’t know much about how aggressive he is.”
+
+I nodded. “Yeah, fair. That is a risk, but I have healing spells. And if there’s something more severe, I suppose I could reach out to Deni.”
+
+“Using pet names now, are we?” Sera’s lips turned up.
+
+“I, uh, no. It’s just more of a nickname, right? I mean, isn’t that what both Derek and Keras call them?”
+
+“Oh, my dear brother. Such innocence. I’d pat you on the head if you weren’t so vehemently opposed to human affection.”
+
+I groaned. “Even if I wasn’t touch-averse, I think I’d rather keep affection to times when it isn’t intended to be demeaning.”
+
+“But demeaning affection is an integral part of my role as a sibling!”
+
+I rolled my eyes. “Well, at least you’re sounding like yourself again. When you first came over, you sounded so kind-hearted that I was about to start looking for the real Sera’s body.”
+
+She put a hand to her chest. “Meaning you were worried about me? My heart is warmed by the sentiment.”
+
+“…Okay, back on topic. You think I should say ‘no’ to Teft?”
+
+“Not at all. I was merely talking about the elements you should be considering. You don’t typically think about social consequences…and I want to help with that. I’d like to help more in general. I owe you that.”
+
+“…Owe me…hold on, I’m going to need a minute to get started on looking for the real Sera after all.”
+
+“Ha-ha. Let me be sincere for a moment. Thank you, Corin. For the assistance with getting me help with healing my throat, for talking to Katashi on my behalf, for the items…you’ve done a lot for me, and it’s time I recognized that more directly. And while I’ve tried to do what I can to help you as well, none of it has been quite as tangible. Social modeling is something I can do for you for situations like this. And if there’s anything else you need a hand with, just let me know.”
+
+I didn’t know what to say to that. Such acknowledgements just…felt out-of-character for her, but I supposed we’d been through a lot, and she was coming off from feeling worried about Teft. And speaking of which… “You did help me with Teft on the first day of class. And you helped me reconnect with Patrick. I probably wouldn’t even be talking to him if you hadn’t convinced me, as awful as that may sound. So, uh, yeah. You’ve been helping. And you’re welcome?”
+
+“Good. But I’d still like to help you further. And all that was quite some time ago.”
+
+I nodded. It was harder for her to help me for a while due to her inability to speak, but I didn’t want to point that outand make her feel worse. Now that she was mostly capable of speaking normally again, she could use that skillset to assist me further…but there was something else I’d been thinking about that she was uniquely qualified to assist me with.
+
+“I have an idea…but I’m not quite ready for it yet. Give me a little longer to do some reading. When I’m ready, I’ll let you know.”
+
+“Should I ask what this dubious new plan of yours is?” “Nah,” I grinned. “It’ll be more fun as a surprise.”
+
+***On the last day of my first week, I finally had a chance to meet with Professor Vellum for my long-neglected Selys- Lyann training. It started about exactly how you’d expect.
+
+“The things I teach you today will be among the most important things you’ll ever learn. Naturally, I expect you to ignore my lessons until you make a crucial mistake. Just remember to think, ‘Vellum was right all along’ when that inevitably happens.” She waved toward a chair on the opposite side of her desk.
+
+I raised an eyebrow. “Not going to go to a training field?” “Goodness, no. If you’re expecting me to teach you somekind of martial art, you haven’t been paying attention. You have plenty of teachers for that sort of thing, for better or worse. Mostly worse, given the quality of our institutions, but I can only do so much.”
+
+I took a seat. “I understand your objections to our enchanting curriculum, but you have broader issues?”
+
+“Oh, you don’t want to open that door. We’ll be here all day. Suffice to say that Lorian Heights has a long history of slanted teachings and creative omissions. That’s not to say that any of the other universities are much better, of course, but the further you get from Valia, the less influence you tend to see from doctrine in education.”
+
+“I’d assume Dalenos is even worse, then, if that’s your complaint?”
+
+“Yes and no. They’re a theocracy, but their nation was founded by Artinians, rather than Mythralians…and knowledge of Artinia isn’t suppressed to the same degree as Mythralis.”
+
+“Why is…no, you’re right. We’re going to end up talking about this all day if we get into it. Teach me how to use the sword safely.”
+
+Vellum nodded. “To do that, you’ll need to understand the foundations of your problem. How much do you know about the spirit?”
+
+“Virtually nothing, really. Spirit magic seems to be very versatile. I’ve heard about several applications for it — it’s involved with contract magic, for example, and it can be used to make yourself incorporeal. And then there’s Artinian spirit arts, which use the spirit somehow, but…” I shook my head. “I don’t really know a lot of details.”
+
+“Good. The less you think you know, the fewer mistakes you’ll have to unlearn.” Vellum pulled out a sheet of paper, then drew something on it. A crude outline of a person.
+
+Then, around that, she drew another outline. Then another. Then another. Layers, like…a cake? A person cake.
+
+I frowned at the image. “What’s this?”
+
+“This,” she waved at the drawing, “is you. Or, rather, a person in general.” She wrote “body” in the center of the drawing…then began labeling each of the layers. “Body. Shade. Spirit. Memory. You can think of these as core components to the self. The body is your physical form here, in this world. Each of the others is a reflection of the self that exists on another plane. Your shade is an echo of your physical self. The spirit is a manifestation of your magic. And your memory self is, of course, a mirror of your mind.”
+
+I blinked. “Why? Why do we have those?”
+
+Vellum raised an eyebrow. “That’s an advanced question, and one I wasn’t expecting to address right away. There’s considerable scholarly debate, but the most popular theory is  that  we  were  designed  by  the  gods  to  have  theseadditional layers as redundant backups for different parts of the self. The shade is not simply a mirror of the current self, for example — it is a version of yourself that is ‘undamaged’, at least in theory. Your connection with your shade assists you with recovering from harm by representing that ‘perfect’ state. In theory, the memory self and spirit self can serve similar functions.”
+
+“You said that’s the most popular theory — is that what you believe?”
+
+I earned a slight smile from Vellum with that one. “An excellent question. I have greater insight, of course, but these fundamentals are…not untrue, if somewhat basic. Each of these other selves have degrees of interaction with one another, and additional functions beyond their relationship to the body. This includes the spirit’s most famous role — serving as a means for the self to continue beyond the death of the body.”
+
+“…Wait, is that a real thing? I’ve heard bits and pieces about the spirit plane, but…reincarnation? Ghosts? Wait, is resurrection magic possible? Could we…”
+
+“We’re not talking about resurrection today, Cadence. And probably not ever, if you want to avoid a wide variety of fates worse than death.”
+
+“…Could you be a little more specific about those?”
+
+Vellum sighed. “I could, but that’s not what we’re here for. We’re not going to tinker with the afterlife — or afterlives, I should say, given the complexities of that subject matter — during this discussion. Your issue relates to the lives of the deceased, but not in that way.”
+
+I grumbled a little, but conceded the point. “…Fine. For now. So, how does my issue relate to the dead, then?”
+
+Vellum pushed up her glasses. “A better question. There are several ways for a weapon to end up with a spirit of some kind. In many cases, it’s a deliberate binding of a living spirit, such as a Soulblade’s items. In some cases, a spirit is created directly for the purpose of an object — atechnique that we won’t get into here. In your weapon’s case, based on what you’ve told me thus far, the spirit appears to be a fragment of a previous wielder’s consciousness…or perhaps someone close to that wielder that imbued the sword with a piece of their will. Have you learned any more about the sword since our early discussions?”
+
+I nodded. “…Quite a bit, actually. I can’t be absolutely certain about this, but…I think Selys-Lyann was built from a piece of Flowbreaker, the Sacred Sword of Ice. And that, in turn, was built from something called the True Blade.”
+
+Vellum froze. Not in the literal ‘my sword turned her to ice’ sense, in this case, although admittedly that kind of thing was pretty plausible in context. But she definitely went very still when I said those last two words.
+
+“…Ah, unavoidable, isn’t it? That would certainly explain a certain young lady’s ill attentions toward you.”
+
+I blanked on who she was talking about for a moment, then remembered something critical. “…Are you calling Mizuchi, the Hero’s End, a young lady?”
+
+“Well, she is. In the grand scheme of the universe, she’s very young. And very rude.”
+
+I tensed. “…Who are you, really? No teasing, just tell me.
+
+Clear answers.”
+
+“No.” Vellum shook her head. “That’s your clear answer. ‘No.’ Not even you have earned that sort of punishment.”
+
+I wasn’t sure if I should be confused, offended, or both. “Is this one of those forbidden knowledge things? Because, if so, I’m already so deep in forbidden knowledge that I’m definitely doomed, so you may as well pile more on.”
+
+Vellum laughed. “Oh, child. I was very much like you, once. But no, this isn’t the sort of forbidden knowledge that gets Wydd to burn your mind to dust. This is me avoiding my past, one which I am absolutely confident you would pursue in ways I disapprove if I told you about it. So, the answer is ‘no’, and we’re going to return to one of the othermost likely methods of your doom — carrying around a piece of the goddess’ own regret.”
+
+I was tempted to push harder on Vellum’s identity, but I left it aside for the moment. I hated the constant omissions from my mentors, but if it was a personal matter she didn’t want me to dig into…well, I had to respect that. At least a little. For now. “What do you mean by that, aside from the obvious? Do you mean Selys’ regret literally manifested into a part of this weapon somehow?”
+
+“Oh, no. Unlikely. Even with the goddess’ tears, I sincerely doubt that our goddess is out there weeping her eyes out. No, I mean that what you have is a symbol of something Selys would probably rather forget.”
+
+“…That reminds me. Would you be willing to help with making a potion out of a Goddess’ Tear?”
+
+Her eyebrow went up. “You happened to stumble upon one, did you?”
+
+“Let’s just say that I might know someone who has one available to work with.”
+
+She rolled her eyes. “Then ‘let’s just say’ that I have no intention of toying with those things any further. As useful as they are, I have no interest in the attention they bring.”
+
+“Are you sure you can’t be convinced? I—”
+
+She shook her head. “That time is long past for me. There are things I need to move beyond. Now, I believe we were talking about other business?”
+
+I considered pressing further, but I decided against it. There were other alchemists, and I was sure Sera had connections of her own to draw from.
+
+“Right. Okay…well, if the goddess wanted to forget about something, why would she have made it into a sacred sword in the first place?”
+
+“A good question. People often prolong their own suffering by maintaining old habits. The goddess was, perhaps, no different — she sought to preserve somethingthat had once given her happiness. Or, you know, she didn’t. Not all stories are true.”
+
+“Meaning that you think someone else made the sacred swords?” My eyebrows went up at that.
+
+“I don’t know. Swords aren’t my area. Spirits in items, however…that, perhaps, I can help with.”
+
+I nodded. “I’d be grateful for that. Where do we start?” “By determining our approach. You’re probably thinkingof wrestling the spirit into submission, which is possible, but also the highest risk approach. I fully expect that you’ll want to do it anyway, but I’d like to remind you of what you are — an Enchanter. Not a Summoner, not a Soulblade. Your approach should take that into account.”
+
+I frowned. She wasn’t entirely wrong about what I’d been picturing, although I’d been hoping for a more…positive connection with the spirit, rather than “wrestling” with it. Keras’ stories about Dawn had given me a particular image of how beneficial a bond with a sacred sword could be, and if I had something like a piece of one…well, I hoped I could get something similar.
+
+But I was an Enchanter. And I could think like one, too. “So, what, modify the sub-glyphs of the rune to…restrict certain undesirable behaviors from the spirit? Prevent it from lashing out without my conscious effort?”
+
+“Modifying sub-glyphs is so much extra effort.” She shook her head. “You could just add more runes. Infinitely simpler and vastly less error-prone than trying to tinker with an existing foundation, especially where spirits are concerned.”
+
+“That…makes sense, I suppose. I could just add functions for activating any sort of ability I want the sword to have, then prevent it from doing anything otherwise.” I frowned. “That would be like…chaining the spirit, though. I’m not sure I like that.”
+
+Vellum shrugged. “It’s not self-aware yet, is it?”
+
+“I…don’t think so. Not entirely, at least. I’ve seen some visions of the weapon’s past, and it reacts to my thoughts to some degree, but…that seems more like some kind of empathy than any kind of conscious decision making.”
+
+“Then binding it wouldn’t be a problem, would it?” “…Maybe  not.  But  what  if  it  becomes  conscious?”  Iconsidered Keras’ story about Dawnbringer — she hadn’t been self-aware until about twenty years before he met her. And then she’d been trapped inside a stone for virtually her entire existence until he rescued her.
+
+If I put limitations on Selys-Lyann, then lost the sword somehow…and the spirit awakened…they could end up in a similar situation to Dawnbringer’s. Or, perhaps more like Soulbrand’s, which was potentially even worse.
+
+“The chances of a sword spontaneously developing awareness is low, even if it has some level of empathy.” Vellum shook her head. “You could potentially build in some kind of overrides for the sword if it becomes conscious enough to feel restricted, but then, those same overrides would be security risks for you. They could be triggered by the sword accidentally.”
+
+“…I don’t like it.” I shook my head. “It might be unlikely, but if it’s happened before, it could happen again. More than once, and specifically to the sacred swords, which this sword is related to. Even if that wasn’t spontaneous, it implies some outside force is doing it deliberately…which could happen here as well. I don’t want to risk that happening. What other options do we have?”
+
+“You have to make everything more difficult, don’t you?” Vellum sighed. “Fine. If you want to be difficult, then there are a couple other options. First, rather than restricting the weapon’s abilities, you could add a filter layer. Essentially, this would prevent the sword from acting until you mentally approve the sword’s intended action.”
+
+“That…would be better, I guess, in terms of agency for the spirit…but in a battle, that kind of distraction could killme. And the delay before they act could also kill me.” I frowned. “Not ideal.”
+
+“Then your other option would be to facilitate further communication with the weapon. Additional functions, likely using communication magic, so you can direct the weapon’s abilities more clearly. Or just tell the spirit to stop.”
+
+“That…sounds a lot better. Would it be forcing the spirit to do what I say, or just sending messages?”
+
+“Either is possible. I would advise layering a compulsion on each message. That would make your sword obey much like a summoned monster would.”
+
+“…I don’t know if I’m okay with that. I mean, as long as the sword isn’t intelligent, sure, it’s no problem. But if it wakes up…”
+
+“If your sword suddenly develops awareness, you’re not likely to miss it. But if you’re that worried about it happening in an inopportune time…there are ways we could force the spirit’s awakening. At that point, you would be able to work with the sword’s spirit more directly and determine the best course of action.”
+
+“I…uh, I’m not sure that’s a good idea either. Keras didn’t seem to like the idea.”
+
+“You talked to Keras Selyrian about this?” Vellum sighed. “Of course you did. If anyone is going to be involved with mad acts and talking swords…yes, of course. I can see why he’d oppose the idea as well. The boy has a bad history with such matters.”
+
+“You know him, then? What can you tell me about—”
+
+She waved a hand. “No, no. I want nothing to do with that man. In truth, if you wish to awaken the sword, he would be a better guide than I would. That is perhaps more his right than any other being that is still living.”
+
+“Then…what do you think I should do?”
+
+“I think you should set aside your cursed sword and worry more about important things, like reducing my headaches from patent paperwork. But since that isn’t goingto happen, I’d advise you to stop worrying about how the sword is going to feel, and worry more about utility. In that case, you have two options to choose from — safety, in the form of limiting the sword, or more potential power and control, by risking awakening the sword.”
+
+That wasn’t a simple choice, even if she presented it as one. “…I’ll think about it. For now, can you teach me some of the runes I’d use for each approach? There’s a good chance I’ll need to make use of some of them eventually regardless of how I go about it.”
+
+“Of course, I can teach you. The only question is if you can learn.” Vellum stood up and walked to a chalkboard at the back of her office. “We’ll start with function runes. Start taking notes. You’re going to need them.”
+
+***I spent the rest of the morning going over the runes for each of several possible approaches with Vellum.
+
+Function runes were first. We went over a number of ice- related functions, like generating ice armor and ice blasts. Most of that was very straightforward.
+
+Next were restriction runes to prevent the spirit from acting without my command — those were almost entirely new to me and gave me some useful insight into underlying theory for commanding spirits. Tangentially, that also gave me a bit more insight into both contract magic and disabling attunement functions under specific conditions.
+
+After that, communication runes. These essentially were designed to facilitate telepathic communication with a spirit in an object, similar to how Keras talked to Dawn…at least in theory. The versions that we went over seemed more rudimentary and limited, consuming mana for every word I tried to send. I wondered if Keras knew a more efficient means to handle it, but I wasn’t sure I wanted to ask.
+
+Beyond that, she also taught me a spirit rune designed to let me push my consciousness into the sword. Functionally, this would let me attempt to communicate more directlywith the sword’s spirit, but at the risk of incidentally awakening it.
+
+Finally, we discussed what would likely be a prerequisite for awakening the sword deliberately — a high-level spell that utilized a combination of spirit and mental mana. This wasn’t something I could cast myself, not even with a spirit mana battery. The cost was more than six thousand mana, which I couldn’t even approach. Derek or Keras, however, could manage that…if I could convince them to help.
+
+Safety or control…I didn’t make any clear decisions that day, but in my heart, I already knew the choice I was going to make.
+
+***After the meeting with Vellum, I sat down to do some actual enchanting. I’d been doing small stuff since I got back, but working on Derek’s home enchantment improvements had taken up most of my time.
+
+My next planned project had been a transcendence mana battery, but I’d abandoned that for the moment. I still didn’t have enough of a grasp on how much mana I could safely work with to make it.
+
+Soon, I told myself.
+
+Instead, I began work on a couple other requests that I needed to work on eventually. Derek had provided the raw materials for improved message necklaces, so I began the preparations for those. I laid out the materials on the floor, flipped my books open to the necessary pages for referencing Sunstone-level enchantments, and pulled out my etching rod to work.
+
+Technically, it was probably more efficient in terms of mana regeneration to carve one necklace, enchant it, then move on. But I preferred working in batches, getting the annoying etching part out of the way so that I could do the easy parts all at once later. It wasn’t any sort of trick, just a matter of how my mind liked to organize tasks. I didn’t hate etching, exactly, but it was a barrier to the more satisfyingwork. And when I had the ability to get what I called a “blocking task” out of the way, I tried to do as much of it as I could.
+
+As I gradually carved each rune, my mind wandered to ways I could do it more efficiently. My abandoned rune stamp idea came back to mind, but the inflexibility of the stamp was a problem, both in terms of melting points of the target material and the type of rune the stamp itself created.
+
+Could I make some kind of stamping rod that would produce a different result based on my mental image?I wondered about that. There were certainly enchantments that could read intentions to some degree, but something that essentially outputted a picture based on what I was thinking…I hadn’t seen anything like that.
+
+Or had I?Memory crystals stored entire scenes of memories with a high degree of fidelity. There were certainly memory-related enchantments as well, I simply hadn’t tinkered with them.
+
+The mere existence of that kind of memory storage implied that magic could store discrete bits of information. A memory of a single rune was comparatively simple.
+
+Could I figure out a way to make a rod that toggles between stored memories of specific runes, allowing me to—I etched right through a metal link.
+
+I winced, disabled the rod, and sighed. I set that necklace aside.
+
+…Keras can fix it later. For now, I’m clearly too distracted for this kind of work.
+
+I’d finished the etching for several necklaces, so I packed those up and stored them back in the Jaden Box.
+
+…Which, of course, left me staring at the Jaden Box. I reached over to the rune that stored mana for it. I was supposed to be recharging it for Keras, but…When I did it, I’d lose the box.
+
+And, in spite of his reassurances…I’d probably lose Keras, too. At least for a while. I still didn’t know exactly what his plans were, but when Wrynn arrived, I knew it was likely he’d be going off on some kind of adventure. Maybe to find his missing friends, maybe to go rescue some other continent from a threat beyond imagining. Maybe just to go punch a visage in the face.
+
+I shut my eyes.
+
+I have to do it anyway, don’t I?I packed it away.
+
+I’m…just too busy today.
+
+I couldn’t defer the problem forever, but…I wasn’t ready yet. It was disgustingly selfish, but…I wasn’t ready to lose him. Not yet.
+
+I have other things to work on. Important things.
+
+I tried to reassure myself with that, but it wasn’t very effective. Many of my other projects were important, but that wasn’t a good excuse, and I knew it.
+
+I deliberately dragged out another project — another unfinished circlet with jump bell style functionality for Sera— and drained all of my mana into working on it.
+
+If I didn’t have any mana, I couldn’t recharge the box. And items we could use to escape threats were important, right?That flimsy excuse didn’t get me out of wrestling with my own brain, so I tried to get my mind off the problem with an intellectual exercise. Something less immediately important, but more interesting in the long-run — my research on null contracts.
+
+They were one of my favorite pet projects. The basic idea was that Summoners and Soulblades gained safe mana capacity faster than most other types of attunements due to their magical contracts.
+
+I wasn’t sure what part of the contact caused that increased growth rate, though. It wasn’t just the constantmana drain — “exercise” items that just drained mana had been attempted for years without success.
+
+Was it that they simulated spellcasting in some way? Efforts to automate the spellcasting process in the body were well-documented and theoretically possible, but extremely complicated, and didn’t seem to accomplish the same kind of accelerated growth that contract-based attuned managed.
+
+Was it the flow of mana between the attuned and an external power source?That seemed more likely. A contract enabled an exchange of mana between a person and a summoned monster — this kind of circulation of mana struck me as being very similar to what I’d recently learned about star veins and Dianis Points exercises, but automated and continuous.
+
+It was possible that all I needed was to figure out how to automate a mana-circulation exercise of some kind, but I suspected that it was more likely that the flow of mana out of the body and back into it was even more effective than rotating mana inside the body would be.
+
+…Of course, groundless suspicions weren’t an effective approach for testing. I’d have to try both and compare results.
+
+The difficulty was actually doing that. Even with some concept of what might be improving through the process, I was having a tough time finding any enchantments that deliberately interacted with Dianis Points or star veins… probably because the average Enchanter had no idea they existed prior to this year.
+
+Annoying.
+
+What I did find, however, was bits of research on magical emulation of summoning and contracts. Nothing complete, unfortunately, but I studied what I could of the basic theory. There were some interesting bits I hadn’t understood in there. In particular, Practical Summoning in Practice bysomeone who just went by “Shimmer” had an interesting bit that I hadn’t known about.
+
+Where do summons go when they’re not summoned?It’s a very basic question, but one that isn’t discussed with novices. It’s particularly important for Soulblades. Frequently, we’re told that Soulblades store their summons “inside” items. This, for most, creates the image of a summoned monster being discorporated and converted into mana. This, of course, would basically mean you’re murdering and rebuilding a monster every time you unsummon and summon them. Fortunately for both our morals and the sanity of our summons, that’s not the case.
+
+Instead, both Summoners and Soulblades store their inactive summoned monsters in a form of extra dimensional space. Summoning a monster is, thus, not limited by distance – unless you’re attempting a True Summoning, which is completely different. Instead, you’re just pulling them out of a magical pocket.
+
+While in this space, the summon is in a limited state of stasis. If damaged, the functions of the space will cause the summon to gradually be healed by comparing the baseline summon to their current physical state.
+
+Soulblade “summoning spaces”, as I call them, have an additional function – one that uses the summon as power source for an item that they’re linked to. This cycles mana out of the extra dimensional space into the item, causing the item to have the intended powers. This then ceases to function when the summon is called out of the space…or doesn’t, depending on how the contract is set up. Keeping certain item functions active is possible, but diminishes the monster’s power when summoned.
+
+Now, if both Summoners and Soulblades both use similar spaces, why do Soulblade summons have a much more prohibitive mana cost?The answer is simple, and related to the above. Since a Soulblade is gradually draining their summon to power an item, the Soulblade summon will be essentially empty on mana most of the time. Summoning a Soulblade’s contracted monster requires a massive amount of mana because the Soulblade is generally using their own mana to restore the summon’s mana to full. This is not strictly required, but it is a standard function in most contracts to prevent the summon from being brought into battle in a weakened state, where they might die as a result.
+
+Since monsters often have a similar amount of mana to attuned of the same general level range — and Soulblades often stick with a couple contracts of levels near their own— it may take nearly a full Soulblade mana pool just to recharge one summon enough to get them combat capable. And since higher level attuned can take days or weeks to recover their whole mana pool, depending on the mana saturation of the area, summoning their contracted monsters can be a significant investment.
+
+That helped answer some older questions about why Derek wasn’t able to summon Tavare all the time, as well as some general questions about summoned monsters…but it wasn’t what I was looking for. Maybe some of that knowledge could be applicable to reconstructing an actual Summoner attunement, real monster summoning contracts, or even something like an extra-dimensional space to store items with an attunement…but it wasn’t what I needed for the moment.
+
+I briefly wondered if the author was the same Shimmer that Keras had mentioned, but it wasn’t an immediate concern. I kept digging. Ultimately, in terms of contract emulation…there was almost nothing useful to work with. The books were woefully incomplete.
+
+I set aside my books after a couple hours, frustrated.
+
+Why is this stuff so vague? It’s all speculation…or attemptsto construct summoning functionality from scratch, without using an existing foundation. They should just reverse engineer—Oh.
+
+The super-obvious thing hit me.
+
+The people who had written the random enchanting books I was working with were Enchanters. Just Enchanters…or maybe Enchanters with a couple random other attunements here in there.
+
+They weren’t Arbiters. They didn’t have access to sub- glyphs. They might know about their existence, but they didn’t have any way of easily cataloguing and emulating them.
+
+I dug through the books Warren Constantine had loaned me next, but I didn’t find anything on this specific subject. He almost certainly knew how to do what I was hoping to emulate, given his own apparent interest in summoned monsters, but he wasn’t around to ask. And even if he was… I wasn’t sure if he’d approve of the idea, or if he’d be lucid enough to communicate.
+
+…But I didn’t really need his help, did I?I had a Summoner. Or, better yet…I had an Invoker. And I had a Soulblade I could ask, too, if I was actually comfortable asking him to let me look at his attunement.
+
+Which I wasn’t. Derek was kind enough to provide us with housing, but…that crossed an invisible line with me. Sera was family, and I was comfortable with her, but Derek…no. Not yet.
+
+It was fine, though. An extra sample to look at from Derek would be useful, but wasn’t required. Just looking at Sera’s sub-glyphs and figuring out how they worked would probably provide enough information on the inner workings of contracts to do what I needed, at least in theory.
+
+…The problem, then, was understanding the sub-glyphs sufficiently to emulate them, then figuring out how to translate those into an item.
+
+I sighed, switching out my books, and got to studying.
+
+Asking Sera for help could come later.
+
+For the moment, I had glyphs to learn.
+
+***I set aside my enchanting books when I heard a knock at my door.
+
+“It’s Sera.”
+
+I grudgingly pushed myself off the floor — yes, I was reading on the floor, it was a more efficient way of switching between books than using my cluttered desk — and opened the door. “Need something?”
+
+She frowned, presumably at my disheveled appearance or the assortment of books strewn across the room. “Yes. I’d say it can wait if you’re busy, but it probably shouldn’t.”
+
+I nodded. “Come in, then.” I deftly dodged the debris on the floor, moving to sit on my bed and waving toward the chair at my work desk. Sera followed my gesture, nodded gratefully, and gracefully took a seat.
+
+“Have you eaten anything today?” She asked.
+
+I blinked, considering. “…Depends on what you consider food.” I raised a finger to interrupt before she could say anything further. “I’ll eat soon. That can’t be why you’re here.”
+
+“No, you’re right, and this isn’t something where I should let myself get distracted.” She gestured at the door and a gentle gust of wind pushed it shut.
+
+“Huh. That was subtle. You’re getting better at fine control.”
+
+“Practicing wordless casting was a necessity when I could barely speak. I’ve continued to work on it both due to the flexibility it provides and out of habit. That’s a good topic to discuss sometime, but for now…we need to talk about the family.”
+
+I tried to restrain myself from groaning. “…I wrote mother. I wrote Tristan. They know about the duel. What more is there to say?”
+
+“Miraculously, I’m not here about you. I know — please, withhold your skepticism. It is, on occasion, possible for events to occur independently of your schemes.”
+
+“And yet here you are.”
+
+She sighed. “A courtesy. And…while I could progress with this independently, I would appreciate your approval.”
+
+The expression on her face looked troubled and perhaps a bit more sincere than I expected. So, rather than continuing with the introductory banter, I tilted my head to the side. “I’m listening.”
+
+“Thank you.” Sera nodded gratefully. “It’s about Mara and Emery.”
+
+I blinked. “Oh. Right. Emery. I’d…sort of lost track of her.
+
+What’s going on?”
+
+“So, first, some context. My contract with Emery allows me to perform true summoning spells on her, moving her from place to place, rather than creating a copy like a traditional summoning contract. This makes her fundamentally different from, say, Vanniv. My Vanniv is different from Elora’s Vanniv, who is different from whoever she copied her Vanniv from, who is also different from the original Vanniv somewhere in a spire. Emery is more like Vanniv Prime, the Vanniv that serves as a foundation for all of our copies. Clear so far?”
+
+I nodded. “Sure. She’s still a copy of the original Emery, though, in that Emery was an actual person that lived and died decades ago.”
+
+Sera nodded. “Yes. True and relevant, but we’ll get to that. First of all, you should understand that true summoning Emery has created some logistical problems. This is similar to the situation where Researcher feels existential dread at the idea of being unsummoned, but more severe. I can unsummon Emery, but that’s…more like storing her in an extraplanar space. Other summons work kind of like that, but Emery retains a greater degree of her awareness and…it’s not comfortable for her. It would bebetter if she functions independently of me, much like a natural monster in the Unclaimed Lands might. And she can exist independently, but she isn’t currently safe that way.”
+
+“Wait. If she’s more like a spire monster, does that mean she doesn’t require mana for upkeep?”
+
+Sera nodded. “That’s correct, although there’s a minimum baseline mana cost just to maintain a contract. She’s basically only costing me one mana. Negligible.”
+
+“And you could cut her loose without her ceasing to exist?”
+
+“Correct, and you’ve properly anticipated one potential route we could move, but you’re ahead of the discussion.”
+
+“Sorry, sorry. Will let you talk.”
+
+Sera nodded. “If one ignores her origins, Emery is functionally similar to a normal person in most respects… except that she isn’t, legally, a person. She has virtually no rights, save those minimal ones that are given to summoned monsters. When we arrived back in Valia, she had none of the basic foundations of a legal identity — no paperwork for her birth, travel, or that sort of thing. For a standard summoned monster, these things are largely irrelevant, but since I can’t unsummon her without causing her distress, she needs the ability to function independently in the same fashion a human might.”
+
+“Wait, hold on. Where even is she? Is she like…living in Mara’s room, and I simply haven’t noticed?”
+
+Sera laughed. “As plausible as that is, no, she’s not at the house. She’s staying in the dorms.”
+
+“The dorms?” I raised an eyebrow. “Like, in your room, since you’re not using it? Or…” I frowned. “You didn’t enroll her, did you?”
+
+My mind flashed briefly to Satsuki, the murder serpent I’d fought in the Survival Match…and to Lute. There were clearly at least a few other non-human students, so there was precedent for Emery to be enrolled as one.
+
+“You catch on quickly.” Sera smiled. “It required pulling a few strings, but given that Meltlake went through the spire with us, she was already familiar with Emery.”
+
+“I thought you were against telling Meltlake about what you did.”
+
+Sera nodded. “Initially, I was. The scenario changed when she moved from being Professor Meltlake to being Chancellor Meltlake. Essentially, her expanded influence made it worthwhile to take the risk to talk to her. She was a bit annoyed, but sympathetic enough to file some paperwork. So, Emery is enrolled to start as a first-year student next semester. That gives her a place to live and activities to pursue independently of us, which is a good start. It is, however, a temporary measure — questions of her identity will come up as soon as she graduates. Without further action, it will be difficult for Chancellor Meltlake or I to shield her beyond that point.”
+
+I nodded. “So, you want help with getting her a more complete identity. And since the Verena family no longer exists…you want to, what, adopt her?”
+
+“In effect, yes. If we make her a retainer to House Cadence, we could solve all of the paperwork issues at that stage of the process. She becomes Emery Cadence, a Carnelian-level Acolyte. No one needs to know she’s a monster. At that point, I could release our contract if desired and she would largely retain rights comparable to an ordinary person.”
+
+“…Is that legally possible? Making a summoned monster into a retainer?”
+
+“Yes. I’ve done the research. It’s rare, but not without precedent. It’s more typical for monsters that fall into categories that are considered ‘sacred’ — essentially, any monster type descended directly from a god beast — but there’s no legal limitation that requires such. Technically, even a slime could be a retainer to House Cadence.”
+
+I snorted. “Okay, that’s sincerely funny, and a little bit tempting.”
+
+Sera rolled her eyes. “…No slime retainers, Corin. But this…it would give Emery a new start.”
+
+“Why go so far? Couldn’t you have just dropped her off with the independent monsters at Warren Constantine’s tower?”
+
+“I could have,” she acknowledged. “And that’s still a possible route for the future. I’ve talked to her about it and she’s not currently interested. She’s intellectually aware that she’s technically a monster, but you have to keep in mind that mentally, she’s still basically a teenaged girl.”
+
+“Is she, though? Some of the ‘people’ in that scenario were…off. Like, if we acted in ways that didn’t fit the script, they just repeated the same statements.”
+
+“Ah. Conditional memory alteration functions from the scenario. That sort of thing might have happened while Emery was still in the spire, but it was a function of the scenario itself. You raise a good point, however — at some point, I’ll need to investigate if there are lingering magical effects that could disrupt her mental state. Those would not detract from the foundation of her mental structure, however. She’s fundamentally near-identical to an ordinary human.”
+
+“How do you know that?”
+
+“With Emery’s consent, Researcher and I have performed a variety of tests. Without going into exhaustive detail, Emery is comparable to someone like Len or the copy of Keras that you fought.”
+
+I frowned. “But those aren’t even the same as each other. The copy of Keras was a direct copy, and thus had memories based on the original. From what Keras told us, Len is based on a combination of the original Lydia Hastings and Keras’ ideas of what Lydia is like. That’s fundamentally different — fake Keras is virtually a complete copy, save for abilities and items that couldn’t be properly emulated by thecrystal. Len may have an unknown level of real memory copies, but they’re supported by an unknown level of fake ones.”
+
+Sera winced. “I was hoping you wouldn’t notice that distinction. It does complicate things somewhat — we were able to determine that Emery does have memories for an entire human lifespan up to her age, but we cannot verify their authenticity without an original Emery to compare them to. It’s impossible to say how much of her life experience was fabricated. That being said, with my own rudimentary knowledge of memory magic and Researcher’s much greater understanding, we suspect that virtually all of her memories come from the original Emery — with perhaps the exception of the twenty-four hours prior to our test.”
+
+“That’s…not too bad, I guess. But wait. How is that possible? The real Emery Verena was murdered somewhere in Edria, wasn’t she? That means…”
+
+“That there’s some way for the spires to create near- authentic copies of people who are long dead, even if those people didn’t die inside the spire.” Sera shuddered. “It is a bit harrowing, I admit. I’m not certain I like the idea that people might be running around with a Sera Cadence summon in a hundred years…but I suppose it might be preferable to the alternative.”
+
+“Alternative?” I raised an eyebrow.
+
+“Nonexistence after death. Not to wax philosophical, but in a way, this is a potential means to continue existing in some form after a sudden and untimely demise. I knew something like this was possible prior to investigating Emery— Keras had already told us about Len, for example, and Len’s existence did not require a living Lydia — but Len was an amalgamation of real and false. The Spirit Gateway Crystal also appeared to have a small possible scope of ability for creating these entities. What we saw in the spire was much larger in scale, with no indication that the spire’s resources were strained by the effort to recreate dozens ofpeople at once. I can’t say they were all the same level of authenticity that Emery was — perhaps her level of similarity to an ordinary human was due to her role in the scenario as a ‘main character’, and others were closer to elementals — but it has significant implications for life after death regardless.”
+
+I pondered that. “…Do you think that it implies that something more akin to resurrection might be possible?”
+
+“Not necessarily. Even if we could take someone’s spiritual remains from the plane of spirits and, say, create a new body for them to inhabit…I don’t know if that would be the same person. No continuity of existence, and there are component parts to the original self that would be lost. The body itself may house something important for what it means to be the ‘original Sera’ or the ‘original Corin’ or whatnot. I don’t know. What I do know is that we’ve gotten significantly off-topic.”
+
+“…We have. It’s an interesting subject, though. I thought a lot about resurrection, back before…”
+
+“Before you knew Tristan was alive?”
+
+I nodded. “I knew that the odds were against it. If he was dead, I hoped that Selys would be able to revive Tristan as a boon. There are stories along those lines, but they’re inconsistent.”
+
+“Well, we still don’t have an answer to if that’s possible. I can see a number of options — even if resurrection is possible, Selys herself may not have the ability to do it. If she could, why not revive her lost loves?”
+
+“Something related to the circumstances of their deaths, maybe. Or ethics. Maybe they wouldn’t want to be brought back.”
+
+“Both possible, but let’s get back on topic.” “Right…what were we talking about?”
+
+Sera laughed. “Let’s see…back to the foundation of the discussion. I’d like to make Emery a retainer to House Cadence. There are a number of reasons for this, includingsimply giving her rights, but also because I would like to see her on similar social footing to Mara — and I intend to offer Mara a retainer position, too. In both cases, we’d wait until after the duel, of course — it’d be too messy to do it right now — but I want your approval before I begin putting work into the necessary preparations.”
+
+The latter suggestion didn’t surprise me in the slightest. It was obvious that one of us was going to give Mara the offer, it was just a matter of which one. And given that I already had a retainer, allowing Sera to make the offer to Mara made a degree of sense. “You have my blessing to offer Mara a retainer position. You’ll have to be the one that takes this up with…other members of the Cadence family, though.”
+
+“Of course. And again, it’ll be after the duel. I also considered if it might be better to pursue a retainership through House Lyran, rather than House Cadence, given the possible consequences of your duel…but I don’t have the same standing with House Lyran, and I don’t think we should presume that House Cadence is going to fall apart in the aftermath of your fight. If we end up disowned, we can go that angle if needed.”
+
+I’d been very deliberately avoiding thinking about all that, so it was good that she’d considered it. Especially because I still didn’t want to think about it. “…Okay. Sure, go ahead and ask Mara after the duel, assuming we’re still members of House Cadence at the time. As for Emery, I admit to a bit more skepticism…and a little amusement. There’s some irony to the idea that you’re asking to make someone a retainer so she has sufficient social standing to date someone.”
+
+Sera groaned. “I can see the parallel, but this isn’t like what you did with Patrick. Yes, improving her social standing is a part of it, but the dating thing is secondary. It’s mostly just about giving her legal rights in case something happens.”
+
+“Sure, but it does mean I get to tease you about hypocrisy.” I laughed. “Back to an earlier question. Why go to this level of trouble? Couldn’t she fend for herself at this point?”
+
+She shook her head. “I have a responsibility, Corin. I’ve had one since the moment we made that contract. I can’t just abandon her to her own devices. That might be easier, but it wouldn’t be right.”
+
+“…Okay. I get that, I guess. But it’s very likely this could cause trouble for us down the line. If anyone finds out she isn’t human…” I frowned. “Are you going to tell Father about what she is?”
+
+“Absolutely not. He’d never approve. As far as he’ll know, she’s a foreign exchange student with a useful attunement.” “That could be a problem later…but you know what? I don’t really care what he thinks.” I shook my head. “Okay. I’m fine with you giving Emery the retainership offer, too. I admit to a little more skepticism about the whole idea ofMara and Emery dating. Is that really ethical?”
+
+Sera let out an exhausted sigh. “That’s a whole other discussion. It’s generally considered unethical for a Summoner to have any sort of physical relationship with their own summoned monsters, since the monsters have difficulty saying ‘no’. I had a whole slew of limitations to keep in mind for what would be appropriate when I went with Vanniv to the ball, for example. Other people having any kind of relationship with a summoned monster gets even more complicated. Generally, a typical summoned monster doesn’t have the same filters to say ‘no’ to anyone that an original person might…but that isn’t the case with Emery. She’s effectively the same thing as a natural monster, rather than a Summoner copy, which means that she has a human-like level of autonomy. It would still be unethical for me to date her — not that I want to — because my contract gives me an unfair level of authority over her.
+
+That would be more like, say, an employer making advances on an employee.”
+
+“And that wouldn’t be the case with Mara, since she’s just…another person.”
+
+“Right. If they’re both retainers to me, they’ll be on relatively even standing. At that point, I might even end the summoning contract and just let Emery…exist. We’d have to discuss that further, but it would help wrap up any other ethical issues.”
+
+I frowned. “What about age of consent?”
+
+“Complicated. Emery has memories for a lifetime with a length comparable to our own. She has a human-like mental structure. This particular ‘Emery Verena’ appears to have actually existed for longer than her apparent age — it seems they’ve been running variations on this scenario for more than twenty years. She’s actually ‘older’ than we are in that respect, except that she’s been continuously reset to an earlier apparent age, which confuses matters. She has a convincing copy of an attunement, and attuned are considered legal adults.”
+
+“…I should look at her attunement at some point and figure out how that works. If she’s a monster, I’d be very curious if the sub-glyphs in there differ from ordinary human ones.”
+
+“She’d probably be fine with that. Anyway, as far as the age of consent goes, she’s legally old enough to do whatever she wants. Whether or not that’s ethical…” Sera shrugged. “A question for the ages. It’s complicated, and frankly, not my business. My Summoner contract doesn’t dictate anything about who she can or can’t date. That’s up to her and whoever she wants to pursue. While I have certain responsibilities due to making her contract, those don’t permit me to limit her agency.”
+
+“I guess that’s fair.” I shook my head. The idea still felt a little  weird  to  me,  but  ultimately,  it  wasn’t  really  mybusiness, either. “Okay. You’ve got my approval to approach them both about retainership. Do you need anything else?”
+
+“No,” Sera shook her head. “But you still need to eat.
+
+Want to come get a bite with me?”
+
+I looked around my room. I’d been working, but…it was hard to get back into that after I’d been interrupted, anyway.
+
+“You know what? I could eat.”
+
+***As per usual, Sera used eating as an opportunity to subtly remind me of certain basic social obligations that I had been failing to perform. In one specific case, there was a relevant task that I’d been avoiding. Understandably, I think, given how busy I was with working toward averting future disasters, but nevertheless, I needed to do it.
+
+So, with the utmost trepidation, I knocked on the door to Jin’s dorm room.
+
+There was no response.
+
+Well, I guess he isn’t here. Obligation completed, I can check back in another two or three years—“Corin.”
+
+I spun in a half-panic, finding Jin a few steps behind me. There was a brief moment where I wondered if Jin had been lying in wait outside of his dorm for days for an opportunity to ambush me, until I saw the keys in his hand. Apparently, he’d just been coming home.
+
+“Uh...yeah, that’s me. Hi.” I waved. “I was just looking for you.”
+
+Jin nodded sensibly, demonstrating his kindness by not pointing out exactly how obvious my last statement had been. “Why?”
+
+It was an extraordinarily simple question, but one with significant complexities and ramifications. “I, uh…could we maybe have the talk in private? And somewhere with security? Maybe some sound-dampening runes, and…”
+
+“Your old dorm room?” He asked.
+
+I blinked. I’d…almost forgotten it existed. And it was right beneath us, too.
+
+Admittedly, it had been compromised at least twice now— first by Orden, and second by the Blackstone Bandits — so I wasn’t exactly confident in the security level of the room. But it did still have my rune setup for basic security, which was better than standing outdoors, and presumably better than Jin’s room (which he might have protected somehow, but I wasn’t going to ask).
+
+Going to Derek’s place would have given us much more security, but it would have required a significant and awkward walk. So, ultimately, I retrieved my own dorm room keys with a whisper to the Jaden Box, then unlocked the door and ushered Jin inside.
+
+Once within, I locked the door behind us, then did a cursory check for anything out-of-place. The runes I’d etched there were still operating, and I didn’t detect any new ones placed by anyone else, or any physical signs of forced entry. Someone had cleaned the place while it had been empty during winter break, which was nice, but that was the only real sign of disruption that I could find.
+
+Satisfied, I beckoned Jin to the solitary chair at the writing desk, then sat down on my bed. Jin took the seat I’d offered. “Not going to offer to take my hat and coat?”
+
+“I, uh…sorry. Don’t exactly have a hat rack. I could…put them here?”
+
+That delightful smile spread across his face. “I’m being facetious, Corin. Now, what is it that you need?”
+
+“…What makes you think I need something?”
+
+He gave me a skeptical look. “You don’t do social visits.”
+
+…He wasn’t wrong. “Uh…yeah. Sorry.”
+
+“I’m not offended. I don’t mind a business focus. It keeps things simpler, especially with…” He shook his head. “Never mind that. What’s this about?”
+
+“Two things, actually.” I managed to regain at least a hint of my focus now that we’d gotten the introductions out of the way. “First off, technically, you’re still slated to be on our team for this year. Is that…do you still want to work with us?”
+
+A brief and intense look of surprise flashed across his face. “You’d still consider that? I assumed that, given everything, it’d be simplest for me to bow out.”
+
+“…Is that what you want?”
+
+“No, not at all.” Where he’d hesitated before, there was none of that here. He spoke with absolute certainty. “I could make other arrangements work, but we have an established team dynamic. Moreover, we both already know certain secrets related to each other. Trying to find another group and deal with either hiding those things or handling the consequences of revealing them would be complicated.”
+
+I’d considered that from my own standpoint, but I hadn’t thought a lot about how it might feel from his perspective. Between hiding his attunement level, hiding his actual attunement, his ties with House Dalen, and his recent association with the Blackstone Bandits…yeah, that would limit his options for openness with others. “What about a team consisting of other Blackstone Bandit candidates?”
+
+He shrugged. “A better option than most, but still less ideal than sticking with a group I already know I can work with. The problem, of course, is…can you trust me, Corin?”
+
+My heart suddenly seemed to slam harder as I processed that question. As I froze in response, his eyes seemed to burrow into my soul.
+
+The answer, of course, was absolutely simple.
+
+“No,” I answered finally. “Not really. Not in terms of anything truly important. But for taking school tests?” I frowned. “I think I’d rather deal with a known quantity than some random stranger. As you pointed out, I have secrets of my own to keep.”
+
+He seemed to ponder that, his lips tightening in a manner that displayed a minimalist form of displeasure, but he didn’t seem to let that impact his response. “…What of the others?”
+
+“Patrick can’t be angry at anyone for long. He’d be the most likely to support keeping you with us. Mara…I don’t really know, but I think she’d go for it. Sera is practical. She’d take you because you’re a Sunstone. I wouldn’t be surprised if she has contingency plans for killing you if you betray us somehow.”
+
+Jin nodded slowly. “Commendable. I would do the same in her place.”
+
+I wasn’t sure what to say to that, so I defaulted to absolutely nothing.
+
+“…And the other woman?”
+
+That one took me off-guard. “The other…oh. Right. Six- person teams now. Yeah, we’ve been discussing adding Cecily to the team in our last slot, but I’m not certain. We’d be doubling up on Enchanters. She does have a different focus, and I have a second attunement, so we could do different things, but…”
+
+He reacted a little when I mentioned a second attunement. Had…I not told him about that yet? I was pretty sure someone would have, but…maybe not?…Maybe he knew and just was surprised I mentioned it? I felt too awkward about it to ask.
+
+It was probably a good thing I was talking to Jin and not some other random person, given my absolutely terrible information security instincts.
+
+“…Anyway, I don’t know about Cecily yet. We’ll confirm with her later. For the moment, I think there’s a slot available for you, if you want it.”
+
+Jin took a moment, seemingly considering, then said simply, “I do.”
+
+My heart was beating faster again. I wasn’t sure why.
+
+“…Right.” I stood up suddenly. “I’ll, uh, go check with the others and get back to you or something.”
+
+“…Didn’t you have two questions?” I froze.
+
+I did, in fact, have two questions.
+
+Sitting back down felt a little awkward, given my panicked state, but I did it anyway. “…What were you up to with the Blackstone Bandits?“Hmm.” He actually seemed to consider how to respond to that. “As you are technically a candidate for the organization yourself, I could answer that to a limited degree, but I will need to talk to someone in a higher position first. I need to find out exactly how much I can tell you.”
+
+“…Understandable.” I glanced from side-to-side. “Are you…happy working with them?”
+
+The question was sudden, unplanned. He might have realized that, since one of his eyebrows went up.
+
+“An interesting question. For the moment, our interests are, as they say, aligned. I do not know if they will remain that way. As for how the previous assignment went…yes.” He smiled, looking straight at me with a meaningful look, “…I found that enjoyable.”
+
+I suppressed my recurring panic just enough to respond with, “…Good.”
+
+He nodded, then pushed himself out of his chair. “I believe that concludes our business for today, then. Do let me know what the others say.”
+
+I blinked, then realized he must have been leaving to make me feel more comfortable. “…Will do.”
+
+He dipped his hat toward me, headed to the door, then paused awkwardly. “…Do you need to disable the security?”
+
+“Oh, no, it just opens from this side.”
+
+Jin chuckled, then turned the door handle and left my dorm.
+
+That went well, I considered, taking another minute or two to panic quietly.
+
+Then, with that done, I headed home.
+
+I	didn’t	quite	make	it	there	before	the	next	threat appeared in my path.
+

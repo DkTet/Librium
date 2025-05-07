@@ -1,0 +1,332 @@
+CHAPTER XXV – GRATITUDE AND GOODBYES
+
+The next day was a somber one. Keras was still around, but largely talking to people privately for last-minute deals and instructions. I had my own talk with him, but I couldn’t force myself to say the things I wanted to say. Instead, I mostly listened to his final instructions.
+
+“Keep an eye on Lute for me. He’s powerful, but he’s not used to being alone. He grew up with a large family, and without them…well, actually, that might be for the best, but he’s probably lonely. And with his limited exposure to human society, he might make mistakes.”
+
+“I’m not exactly a paragon of human social dynamics, Keras.”
+
+He grinned. “I know. But you are human. And beyond that, I think you’d understand him better than most. Spend some time with him outside of dueling classes and I think you’ll see what I mean.”
+
+“I’ll…think about it. I’m not great with people. But…I suppose he’s on my team, and I probably should at least give it an effort.”
+
+“Good. That’s all I can ask.” He nodded. “Do you have anything you need before I go?”
+
+I considered that question. As obvious as it was, I hadn’t really considered it. “…Actually, yes. A while back, you’d mentioned asking Wrynn to teach me a bit about the box?”
+
+“Already on my list. Yes,” he smiled, “I have one, too.” I groaned. “When were you planning to do it?”
+
+“Oh, I hadn’t gotten that far. How about now?” “…Now is good.”
+
+It didn’t take us long to find her. Wrynn was chatting with Derek while eating. I wasn’t sure I’d seen her stop eating since she’d arrived. Apparently, being in stasis for a decade took a significant toll on the body…or she just liked to eat.
+
+Keras sat down next to her, then gestured for me to sit. I took a seat across from them.
+
+“So, like I mentioned, Corin here was using your box for a while. He figured out how to help recharge it. He’s been trying to figure out how to duplicate it, but he only has some basic knowledge of Artinian enchantments. I’ll let him explain in more detail how much he knows, but we were hoping you might be able to teach him how to duplicate some of the functions with Kaldwyn-style enchanting.”
+
+Wrynn set her soup spoon down. “Eh. Maybe a little? I didn’t make the thing, you know. I’ve studied it, of course, and I know bits and pieces…but I’m not an expert on item crafting. If your father was here…”
+
+Keras grimaced. “Let’s not go into that.”
+
+“Sorry, sorry.” She took another spoon of her soup, frowning. “Okay. I can go over some basics. First, tell me what you already know.”
+
+I exhaled a sigh. Her attitude didn’t inspire much confidence, but at least she was willing to help. “Okay. Let’s begin with talking about each of the runes. Can you bring out the box?”
+
+She set it down on the table. I didn’t even realize it had been on her lap. Had…she been hiding it somehow? Or had the enchantments that concealed it from people who were unaware of the box’s existence been…reset somehow?Huh.
+
+“Okay, let’s start with this rune…”
+
+I spent the next several minutes going through basic functions of each rune. Wrynn asked simple questions about my understanding. She clearly knew at least a bit about what I was taking about, but she seemed to be telling the truth — she wasn’t an item crafting expert.
+
+She did, however, have some useful insights on subjects I wasn’t aware of.
+
+“So, the storage and retrieval functions. Most people assume that when you say ‘store magic sword’ or whatever,the box retrieves the item later based on matching the sound of the words after ‘store’. That’s only partially accurate. People vary their volume and tone when saying things, and obviously, different people have wildly different ways they say any given word. So, the functions on the box aren’t relying purely on sound — the box uses what you’d call communication and spirit mana to evaluate intent.”
+
+“…You mean the box reads my mind?”
+
+Wrynn shook her head. “No, nothing that sophisticated. And before you ask, it’s not conscious or alive. It just has functions that try to…hmm, I suppose the best way to describe it might be that it tries to translate whatever you’re saying into something the box already has stored. It isn’t perfect, especially if there are multiple things stored with very similar sounding words and ideas behind them. If you have both a red sword and a…uh, bread sword, maybe?...those might be similar enough in both sound and concept that attempting to retrieve one will get you the other.”
+
+“That sounds less like the box is actually judging intent and more like it’s trying to find things that are approximately similar to the words that are being stored.”
+
+“Well, yeah, it is trying to find something similar — but the ‘intent’ part comes up through the box evaluating things on the spirit end. Before you ask, I don’t actually know how that works, but I imagine it’s similar to sakki.”
+
+“…Saki? Like, the drink?”
+
+Wrynn snorted. “That’s sake, kid. Sakki is shorthand for ‘killing intent’, but a lot of people use the term as a catch-all for any kind of spiritual projection of intent. You, uh, might have felt me using a bit of it when I first showed up.”
+
+I shivered involuntarily. “That…pressure you were exuding was sakki?”
+
+“Pressure is a good word — ‘spiritual pressure’ is often a translation used for people applying their spirit to intimidate or incapacitate others. There are some people who make adistinction between that type of pressure and sakki, which specifically relates to ‘I’m going to murder you’ kind of energy, but virtually no one bothers to make that distinction anymore.”
+
+“Okay. So, the box basically…picks up on the same kind of intent you infuse into your spirit when you’re using sakki?”
+
+Wrynn’s eyes glittered. “You’re a quick one, kid. That’s just it. Everyone is always projecting a little bit of their intent when they take any action — it’s just that only people with tightly-honed spiritual senses can pick up on it. Or, you know, magic boxes. And that’s what this guy here is doing— reading and translating that little bit of spirit you’re emitting into the world when you do anything.”
+
+“…Is it possible to hide or fake your intent with sakki?”
+
+Wrynn raised an eyebrow. “That’s a very advanced question. Why?”
+
+“I don’t like the idea of people reading my mind. Being able to read my spirit feels awfully similar.”
+
+“It’s a little less direct, but…yeah, I can see that.” Wrynn took another spoon of her soup. “Yeah, obviously there are techniques for that. Obviously, politicians and house leaders wouldn’t get anywhere unless they could lie through their teeth.” She smiled a little. “Don’t think we have time for you to learn that before I go, though. Honestly, I don’t even think I could teach it to you. You’re not a Spirit Artist. I don’t think it’s something I could teach to someone without an active dedication.”
+
+“A what?”
+
+“Dedication. They’re specializations for Spirit Arts. It’s… much more complicated, but you can think of them as being like Artinian attunements.”
+
+Keras raised an eyebrow at her. “That’s so simplified it’s misleading, Wrynn.”
+
+“Eh, fair. Fine, a little more — they’re not magic marks on the body. A dedication is more like…you’ve carved out a bitof your spirit and assigned it to a specific purpose. Like, this part of my spirit specifically is used to enhance my speed, or my strength, or that sort of thing.”
+
+“So, dedication means to dedicate a part of yourself to a specific purpose?”
+
+“That’s a good way to think of it, yeah. There are people who say the term is about dedication to the ancestor, but that’s…you don’t need to get into that religious stuff right now. Your interpretation is a good one, and even some of the locals read it that way. Now, getting back to the box…”
+
+She spent some more time going over the box with me, giving me more insights on how it functioned. After a while, I excused myself, then headed up to my room to work.
+
+I set out the Belt of Swords and my dimensional bag, sighed, and pulled out my enchanting equipment.
+
+This is going to take a lot of experimentation, but…at least I have somewhere to start.
+
+I got to work.
+
+***We had one final day with Keras — and then it was done. His decision had been made. He had more private talks with several people, and I knew that many of them would try to convince him to stay. I was no exception, but I couldn’t muster the energy to make a real effort.
+
+Not because I wanted him to leave, but because he seemed comforted to finally be acting on a plan. Sitting and playing defense simply wasn’t his style — his stories, and simply living together, had made it clear that he needed to be constantly moving to feel alive.
+
+Staying with us must have felt utterly stagnant.
+
+I could sense how much more comfortable he was with Wrynn. Their casual affection, their laughing at old jokes and private references — it was such a contrast to how he’d been behaving with us.
+
+I admit I might have felt a bit of envy, but I understood it. He’d clearly been longing for an earlier time, one where he went on adventures and the world felt a little less complicated. Wrynn clearly reminded him of that time and the innocence of his younger days.
+
+…And I’ll bet there was a degree of comfort at having a companion that could fight on a level similar to his, too.
+
+I couldn’t feel too bitter about not being able to match up to the legendary Witch of a Thousand Shadows on the battlefield, but ever since her appearance, Derek seemed to be unusually quiet. I suspect he was a little shaken by how hard Wrynn’s opening technique hit us. At some point, he’d probably accepted that Keras had been holding back in his sparring sessions — even those where Derek was involved— but it had to be a little discouraging to be reminded that there were people out there with powers that made even Emerald-level look…well, insufficient.
+
+Derek wasn’t brooding about it. Not exactly. He seemed more…introspective, maybe? I wondered if he was plotting something, but I honestly didn’t have the energy to ask him about it, either.
+
+Mara was taking Keras’ pending departure harder than anyone. She spent most of that last day alone in her room, which was…well, not Mara. We all tried to drag her out, but no one succeeded at first — not until it was time for Keras to say his goodbyes.
+
+For that purpose, we gathered on the rooftop. It seemed more appropriate for him than a simple exit through the front door.
+
+***I didn’t know how to say goodbye to Keras.
+
+In many ways, meeting him in that jail cell had been the start of my story. It was where my path diverged from a simple Judgment and turned into something very different. Something dangerous, but something that helped build me into…well, more than I would have been.
+
+Looking at the people on the roof, I could see that in many ways, he’d affected the others in the same way. We were all more than we would have been without his presence in our lives. Not in the same ways, of course.
+
+To Derek, Keras represented something I don’t think he’d ever encountered — not in the spires, not in the Unclaimed Lands, and not even from his aunt.
+
+Keras was someone he absolutely couldn’t match in a fight. Not alone, not with his Soulblade items, and not even with his summons.
+
+Sure, they were regular sparring partners. Sure, Derek had abilities that Keras didn’t. But as time went on, it grew more apparent to the rest of us what Derek must have understood from their first encounter — when Keras sparred with the rest of us, he was playing nice.
+
+For someone who truly believed they were the best possible swordsman, realizing that might have been an embarrassment. Derek was already an Emerald, after all — the pinnacle of progression for an attuned. He easily could have been embarrassed or ashamed.
+
+Instead, he took it as a personal challenge. I saw him training harder and harder, and more than that, digging deeply into research to help find ways to exceed the power his attunement offered him. I still hadn’t seen how exactly those studies would manifest in Derek’s skill set, but if Derek was a monstrously powerful fighter before, there was no telling what level he’d be pushed to now that he had a tangible goal to push himself toward.
+
+He couldn’t match Keras now…but from his expression on the roof, I could already see the wheels turning in his mind for how he’d find a way to make their next match go differently.
+
+Sera’s relationship with Keras was a strange one. They rarely talked around the rest of us, seeming on the surface to share less in common.
+
+Rare occasions challenged that view. More than once, I’d seen them playing Crowns together. Not unusual in itself, but when Sera played against him, her face showed an abnormal intensity. Like she wasn’t just playing for fun — like she had something more to prove.
+
+I didn’t watch how those matches resolved, of course, because watching Crowns was boring. Maybe there was something to it that I wasn’t seeing.
+
+But even if there wasn’t, there was absolutely something they were conspiring about behind closed doors. I’d only seen a hint of it in the first year — a talk where Keras was supposedly taking a look at Ceris, the Song of Harmony, and showing her how to use the sword. A plausible explanation, but elements of it had never made sense to me.
+
+Sera had never clarified with me what they’d talked about that day, but I hadn’t forgotten about it. And now, seeing Keras leaving, Sera’s expression was different from the rest of ours.
+
+Calm.
+
+Perhaps that could be read as her simply lacking the attachments the rest of us held, but…I thought, perhaps, there was something more to it. Perhaps she knew something the rest of us didn’t. If so…well, only Sera could decide when it would be time to share.
+
+Patrick looked at Keras with the wide eyes of someone staring at a mythological hero. The former wielder of Dawnbringer, once bonded to Diamantine, the one who had freed Soulbrand from a prison of iron—And much more that we could only infer, since the story he’d been telling us was far from finished.
+
+…Would it stay that way? Would he…come back and tell us the rest of his story?I didn’t know the answer to that.
+
+I did know, however, that Patrick wasn’t the person most affected by Keras’ departure.
+
+And, in spite of my fears, neither was I.
+
+Mara looked like she desperately wanted to punch something, but the only thing she could fight was tears.
+
+When Keras made it up to the roof, Wrynn trailing close behind him, he took a quick glance at all of us then walked to face the semi-circle we’d formed. “Well, this is more formal than I was expecting.” He reached up to scratch the back of his head. “I’m no good at this, so there won’t be a lengthy speech. I’m going now. Thank you all for giving me a home for the time I’ve been here. I don’t know when I’ll see any of you again, so, as a part of a little tradition from back home, I’ve brought some parting gifts.”
+
+Wrynn snorted. “He means I brought parting gifts.”
+
+“Eh, I brought you. It counts.” He threw a smile back at Wrynn. “The box, if you would?”
+
+“Oh, sure. But be gentle with her, she’s very sensitive.” Wrynn hurled the Jaden Box at Keras like a comet.
+
+There was a loud crack as he grabbed the box out of the air with a smirk. “Thanks.” He turned to us. “Hm, let’s see… who’s first…”
+
+“I’m first!” Wrynn skipped in front of him. “…I meant which of them.”
+
+“Right, obviously. But I have something for everyone. Don’t worry, I’ll be quick, then you can do all your sappy emotional stuff.” She spun away from Keras to face us. “You did me a favor by watching over my box, and Keras likes you, so everyone gets the same bland blessing — you’re under my protection.”
+
+Sera raised an eyebrow. “…What, like a deity? Or more in the organized crime sense?”
+
+“Oh, I like that first image more, but it’s definitely the latter. So, both? We’ll go with both.”
+
+“…I feel like I’m missing some context here,” Patrick murmured.
+
+“Oh, don’t be shy, you can speak up. Questions aren’t punished in my class. Now, to simplify — there are a lot of bad people out there. Some of them owe me favors. Youhave a run in with people you can’t handle? Maybe you give ol’ Wrynn’s name a try, see if it opens any doors. Or, at least, any exits.”
+
+“…That seems about as likely to get them into trouble as out of it,” Keras noted.
+
+“Eh, they should know not to name drop unless they really need to. And if you’re already going to get stabbie- stabbed, it’s not going to get you more stabbie-stabbed, is it? I mean, probably?”
+
+I didn’t find Wrynn’s line of logic particularly reassuring, but it wasn’t a good idea to question gifts from overwhelmingly powerful ancient sorcerers. Even the crazy ones.
+
+Especially the crazy ones.
+
+“Thank you, Miss Jaden,” Sera bowed formally, responding with more grace than I could have, “we’re very grateful for your gift. And as for Keras’ offerings…I think we can start with the home owner,” Sera pointed to Derek.
+
+Derek raised an eyebrow at Sera, as if wondering if she somehow had an angle on why she was setting up a specific gifting order, but then shrugged and turned to Keras. “Fine by me. What’d you get me?”
+
+“Something with simple utility. Retrieve: Sharpshift Scabbard.” A scabbard appeared in his hand. He tossed it to Derek, who caught it quickly, then turned it over in his hands.
+
+Even at a distance, I could see that it wasn’t in great shape. There were holes all over the scabbard, but I could still see glowing runes and…was that glowing thread? It definitely was.
+
+“This thing still work?”
+
+Keras looked a little abashed. “It does. I tried to fix it up, but, uh…”
+
+“You probably just made it worse.”
+
+“Maybe a little.” Keras shook his head. “Sorry. I’ve been meaning to get more of my old gear repaired, but the timeand costs…”
+
+“It’s fine. I know how much this means to you. I know where you got it and what you used it for. Thank you.” Derek reached out an empty hand.
+
+Keras shook it. Correctly, even.
+
+“You’ve got it. Now, next…” He turned to Sera. “Sorry.
+
+You already got yours.”
+
+“Oh, I know.” She grinned. “Believe me, I’m more than happy with it. Hug?”
+
+“I have a hard time saying ‘no’ to hugs. Come on.”
+
+Sera walked forward and opened her arms. Keras pulled her in with surprising gentleness. Sera pulled away after a moment, and something seemed to pass between them as they nodded to each other.
+
+Then, Sera simply jerked a thumb at me. “Corin might feel left out if he’s too far behind me in this, given that he’s so far behind me in everything else.”
+
+Keras rolled his eyes. “Siblings. Fine. Retrieve: Training Box.”
+
+Another box appeared in his hand.
+
+Training box? Did…he get a copy of the Jaden Box made for me? Or maybe just a high-capacity material box to use for enchantment? Or…?He reached out a hand to offer it to me. I accepted it and frowned as I realized it was heavy. I mean, not extremely heavy…but it wasn’t empty. Meaning it probably wasn’t an extra dimensional space item.
+
+“Open it.”
+
+I found a small metal latch on the box and flipped it open.
+
+Inside were a dozen glittering crystals, each of which was labeled with a number. “Wait. Are these…?”
+
+“Memory crystals.” He gestured toward the box. “There’s no substitute for direct experience when training, at least in my experience. Just reading books and listening to lectures never worked for me. These crystals are my own. Theyrepresent some of my battles against powerful opponents with skill sets similar to ones that you may face in the future. My hope is that you’ll be able to learn more from experiencing my perspective in these battles than you might have from a simple lecture.”
+
+“But…you hate having people copy your memories.”
+
+Keras shrugged. “Some things are worth a bit of discomfort. I hope they help you.”
+
+I closed the box, then my eyes along with it, and cradled the box to my chest.
+
+It seemed more real, then. That he was leaving, and that this might be the last time I’d be able to see him, to talk to him, to…“…Thanks. For everything.”
+
+“You’re welcome.” He waited for just a moment, then nodded simply and turned away.
+
+It took me a moment to realize that he’d been waiting to see if I wanted to ask for a handshake…or a hug…but that he was being respectful of my boundaries. He didn’t ask out loud because he didn’t want to pressure me.
+
+…But I’d missed the signal, so I’d…I don’t know how I would have answered. He just moved on.
+
+“Patrick.” He turned to my retainer without prompting, apparently having decided on the sequence without any further need for Sera. “This is going to be awkward, but I’m going to need your help for it.”
+
+“My help?” Patrick blinked. “I, uh, what do you need me to do?”
+
+“Toss me your sword.” I grinned.
+
+I’d actually helped with this part.
+
+Patrick blinked for a moment, then after a moment of hesitation, drew his sword…and flipped it around, then gingerly handed it to Keras.
+
+There would be no “tossing” of Bright Reflection.
+
+In spite of the earlier phrasing, Keras accepted the sword with just as much reverence as Patrick handed it to him.
+
+Then, he tucked it briefly under an arm and reached into the Jaden Box. “Retrieve: Splinter of Dawn.”
+
+Patrick’s eyes widened as a shard of metal appeared in Keras’ hand.
+
+“That…is that…”
+
+Keras hastily shook his head. “Oh, no, no. I probably shouldn’t have used such a loaded name — she’d want to murder me. No, it’s not a literal piece of Dawn. Not…not in the way you’re thinking, at least.” He seemed to struggle with words for a moment, then found himself. “I called it that because I built it — with Corin and Derek’s help — to house a copy of one of the powers Dawn and I made together. If, with your permission…”
+
+Patrick nodded eagerly with wide eyes.
+
+“…I merge this splinter into Bright Reflection, the sword will gain access to that power. When I used it, we called it ‘Body of Dawn’.”
+
+“That…that…” Patrick gawked. “In the Sacred Sword Tournament, that was one of your strongest techniques!”
+
+“It was.” He confirmed. “And a proper copy of Dawn wouldn’t be complete without some effort to match it.”
+
+“But…uh, will I even be able to use it? A body- enhancement technique that powerful…and the time dilation effect of enhancing your speed…”
+
+“We tuned it to start out much weaker than Keras’ version,” I explained, “but it’ll scale up in strength as your own attunement level increases. Of course, the stronger versions will burn through the weapon’s mana supply faster, and…even just using a Citrine-level version of it is going to burn through the mana pool shockingly fast, since it requires several different mana types in comparatively high quantities.”
+
+“…But…it’ll work?” Patrick gawked. “I’ll be able to do what you did, when you were fighting against Xaiofan, andagainst Ishyeal Dawnsglow, and—”
+
+Keras pressed the metal sliver into Bright Reflection’s blade. The metal merged together in an instant, creating a section near the center of the blade that glowed with new runes. Then, he flipped it around and offered it back to Patrick. “Find out yourself. The current activation is to say my old technique name, but Corin can change the method if you want a different one.”
+
+Patrick reached out hesitantly, then took the sword back. “Th…thank you. I don’t deserve this.”
+
+“Don’t be absurd. Dawn has three qualifications, so let’s look at them. You’re constantly insightful. You know your friends in many ways better than they know themselves. Brave? You threw yourself in the way of a lightning blast from Mizuchi and smashed it back in her face. Even Dawn herself would call that brave. And, if I’m being honest, she’d also call it ‘a rare proper use of her abilities’.”
+
+“…What about strength?” Patrick asked.
+
+“Strength is something we never stop building, Patrick. And your strength here,” he pointed at Patrick’s heart, “is something I’ve rarely seen matched.”
+
+Patrick blushed brightly, ducking away with the sword. “…I…thanks. Just…can I…”
+
+Keras opened his arms and Patrick practically flung himself into them.
+
+Wrynn gave an amused snort. “You let that one go a little long, big guy. Think we can get going before the sun goes down?”
+
+Keras sighed, eventually patting Patrick on the back and signaling for him to pull away. “You take care of the others, Patrick. They’ll need you most of all.”
+
+Patrick looked up at him, his face shifting rapidly between emotions. “…I won’t let you down.”
+
+“I know you won’t.” Patrick backed away.
+
+…And then it was just Mara’s turn.
+
+And, for the first time I could remember, Mara silently lost a fight.
+
+Tears flowed straight down her face before either of them even spoke.
+
+“Mara—”
+
+She trembled in place, staring at him. “Get out of here.” “Mara…” Keras frowned. “I’m sorry, I have to—”
+
+“I know. I just…I can’t…don’t look at me like this.” She didn’t turn away, though, and neither did he.
+
+He didn’t retrieve anything from Wrynn’s box for her. Instead, he handed the box to Wrynn, who immediately slipped it into a bag at her side.
+
+Then, he walked straight over to Mara, turning his gaze to lock straight on her. “You made me proud. When you’re ready, come and find me. In the meantime…”
+
+Then he shook the coat off his back, flipped it, and slipped it onto Mara’s shoulders.
+
+“Don’t get into too much trouble.”
+
+He leaned down, kissed her gently on the center of the forehead—And then, in a blur, he was gone.
+
+Mara collapsed to the ground immediately, sobbing. Sera and Patrick ran to hold her.
+
+I turned to find Wrynn still standing on the roof, staring off in the distance. “…Ancestors, he’s gotten dramatic, hasn’t he?”
+
+Then she turned straight back to me, winked, and vanished in a puff of rainbow smoke.
+
+I thought I heard the word, “…Amateur…” whistling on the wind as she faded away.
+

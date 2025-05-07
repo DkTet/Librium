@@ -1,0 +1,382 @@
+CHAPTER VIII – A DIFFERENT KIND OF MAGIC
+
+The next morning, I had my daily Physical Training, then moved on to Intermediate Mana Manipulation.
+
+That was…a bit of an eye-opening experience.
+
+Most of the day was review of the first year, but toward the end, we started getting into the theory behind some “advanced” activities that students would be expected to attempt during the semester.
+
+Things like…creating Class 0 mana crystals. And disenchanting existing items.
+
+At the end of the day, I made a half-dozen Class 1 crystals in front of Professor Ezran with the intent of getting transferred into an Advanced Mana Manipulation class for third-year students. Sadly, there wasn’t one. Instead, he offered me a teaching assistant position, which I immediately declined. It would have involved talking to more people, which was always a bad idea.
+
+I was given permission to skip the class as long as I attended on specific testing days. I didn’t commit to doing that one way or another, but I kept it in mind.
+
+More free time wouldn’t be bad. Why am I always so busy?With that question in mind, I headed off to the second of my three electives.
+
+***The teacher for Alternate Magic Sources drew a lot of attention. Not your typical “respectful paying attention to class” kind, either. She was in her twenties with short blonde hair and the kind of look that even I could identify as “conventionally attractive”.
+
+She wore a pure white business suit accented by a black tie, black gloves, and a matching black fencer’s belt. The belt held a sheathed rapier and main gauche, the latter of which  was  very  old-fashioned  and  rarely  seen.  She  alsowore a silvery circlet on her forehead, which I appreciated, since it almost matched the style of my own.
+
+I thought I caught the slightest hint of a smile when she noticed our similar fashion choices, but that could have been my imagination. She had a way of making it seem like she was looking at, and smiling at, every single person in the room.
+
+That kind of presence, or her preference for old-fashioned weapons, weren’t a terrible surprise. My teacher was, after all, a Haven.
+
+House Haven was one of the founding houses of Valia. While House Hartigan and House Theas were famous for their ancient magic, House Haven had a somewhat different reputation: one tied to their own legendary ancestor.
+
+Aayara, the Lady of Thieves.
+
+If the stories were true, House Haven was descended directly from one of the eldest Children of the Tyrant. Anyone else might have denied that connection, given that it implied less-than-ideal things about their loyalties to the goddess, but not House Haven. They leaned into it hard.
+
+House Haven would have never openly claimed any allegiance to the tyrant himself, of course. If pressed, most Havens would claim any variety of excuses: that the branch of the family that fled to Valia was obviously loyal to Selys, or perhaps even that Aayara was secretly working to overthrow the tyrant.
+
+Whatever the truth, House Haven remained a house synonymous with the resources of the world’s most famous thief. Havens were money and power personified. My professor, at least on the surface, seemed to be no exception. From her outfit, she seemed to be cultivating an appearance not dissimilar from one of the popular depictions of Aayara herself — the “Conductor of the Orchestra” persona, specifically.
+
+From her confident stance and her practiced movements, I could see that the weapons at her side weren’t for show —she was a fencer, and probably a good one. I was less focused on that and more focused on what I couldn’t see. Specifically, her outfit appeared to be calculated to hide every possible location on her body that could have held an attunement mark.
+
+That wasn’t all that meaningful on its own: student uniforms concealed most attunement marks, aside from the hands and forehead. It wasn’t necessarily intentional on her part.
+
+…But when I used Detect Aura, I didn’t get anything from her at all. And with that knowledge, I was curious.
+
+Was Lady Anette Haven even attuned at all?This was a class on alternate magic sources. Was she bearing crystal marks, or perhaps some even more unusual power?“Thank you all so very much for coming.” She smiled sweetly, gesturing wordlessly toward the chairs. Any students who weren’t already seated headed to take their places. “I’m humbled to see so many of you.”
+
+Humble was not how I would have described my impression of her, but she did a good job of making her tone sound sincere.
+
+“Let’s get right into it, shall we?” She walked to the chalkboard behind the lectern, producing a length of chalk with a flick of her wrist. A bit of unnecessary showmanship, perhaps, but she was leaning into character. “Sources of magic. For today, we’ll start with an overview.”
+
+She began by drawing a straight line toward the top of the board, then several downward lines to make a grid. Then, in the upper left-hand corner, she wrote a single word: Kaldwyn.
+
+“We begin with the most basic of lessons. The availability of different types of magic varies from continent to continent. In some cases, these magic types are portable — that is, some types of magic can be taken from one continent to another. In other cases, acquired magic may benon-functional outside of the area in which it was acquired, or have reduced functionality.”
+
+She wrote “attunements” just under the “Kaldwyn” line. “Attunements. You’ve all heard about these, we’re not going to discuss them in any detail here. The most important thing to understand related to attunements, for the purposes of this course, is that there are several types of magic that are related to attunements. Part of the same family of magic, one might say.”
+
+A quick, flowing script below that line. “Artificial attunements. For those of you with sufficient wealth or influence, these are perhaps the most likely method to acquiring additional magical power. As prices drop, we should anticipate that many attuned in the future will have secondary attunements that are artificial. Some may even acquire their first attunements artificially, although that is unlikely due to the social stigma behind it. We’ll discuss these in more detail later in the course, but one critical thing to understand early on is that while these are similar to standard attunements, they are generally not identical. Reverse engineering true attunements has allowed great minds to replicate very nearly every function, but not necessarily through the exact same methods. This means that there are minor functional differences even when artificial attunements attempt to replicate true attunements directly…and most artificial attunements don’t do that. Instead, it is better to think of artificial attunements as being a separate ‘set’ of attunements with distinct features.”
+
+I could already see some students growing uncomfortable, which was interesting. Our professor wasn’t wrong about the social stigma behind artificial attunements— many people from religious backgrounds considered them heretical, which I found somewhat strange, given the obvious approval that the visages gave them. Even if Anabelle  Farren  wasn’t  Ferras  —  something  I  was  stilluncertain about — it was common knowledge that Ferras was active in the scientific community in Caelford. It wasn’t like people were making artificial attunements without her knowledge and involvement.
+
+Next, the teacher wrote another phrase. One that I’d been hoping to see.
+
+Crystal marks.
+
+“Crystal marks are an ancient ancestor of our attunements. They’ve largely been abandoned in the modern era for three reasons. One, accessibility. Crystal marks are obtained through taking challenges in elemental temples and crystal shrines…all of which are located in the Unclaimed Lands. This makes both reaching the shrines and taking their challenges extremely dangerous. Next, they lack the flexibility and sophistication of attunements. Generally speaking, they only give access to a single type of magic…and using them puts strain on the body. They are more closely related to ancient foundations of pre- attunement sorcery, utilizing resources of the body to cause outside powers to create effects. This will be discussed further when we get to talking about dominion sorcery.”
+
+I’d already read a fair bit about how crystal marks worked from the books I’d skimmed or borrowed from Warren Constantine, but it was good to hear confirmation from another source that they were related to dominion sorcery. The books were probably a better resource, but I preferred to have multiple sources of reference, especially for a subject that was likely to be rife with misinformation.
+
+Keras was another source of knowledge, of course, but he was still being somewhat quiet and withdrawn. I intended to talk to him about it more soon, but I didn’t want to push him too much.
+
+Professor Haven continued, “The final reason is growth. While crystal marks do grow stronger over time, their growth is largely linear, much like the progression of dominion sorcery itself. This means that someone utilizing acrystal mark will get stronger at that particular type of magic, but there are no additional features like an attunement possesses. No shrouds, no tertiary magic types unlocking at higher levels, or that sort of thing. Due to these downsides, crystal marks are generally considered inferior to standard attunements — relics of a previous generation. That said, many of the strongest attuned on the continent still seek to acquire them as means to supplement existing attunement powers. The shrines and temples that grant crystal marks offer something Judgments do not — a choice of reward. As such, someone seeking to supplement their powers in a specific direction can seek out the appropriate shrine and acquire a mark of the type they want. This can be a significant advantage when one considers one of the main concepts we’ll discuss in this class: compounding.”
+
+She wrote the word “compounding” outside of her grid, then underlined it twice. “Compounding is the process of combining two magic sources of the same type. This can allow for added power, speed, and flexibility when using that particular type of magic. In some cases, this is largely automatic — for example, having two attunements that grant the same magic type. With other types of magic sources, there may be some degree of manual adjustment necessary, which we call cross-type mana integration.” She wrote that phrase next. “For example, if one acquires a Mender attunement and a Life Crystal Mark, these both grant access to life magic, but through dissimilar means. Thus, cross-type mana integration must be performed to combine these power sources.”
+
+I nodded at the explanation. It wasn’t an immediate concern for me, but it was something I was going to need to worry about if I acquired more crystal marks that directly corresponded to my existing mana types…or if I managed to get access to transcendence mana through my attunements, which I thought might be possible at high levels, or with some tinkering.
+
+The teacher continued. “There are two main ways to go about doing this: intermediary integration and directed integration. Intermediary integration involves the use of an intermediary, such as an item, another magical mark, or that sort of thing to automate the compounding process. For example, an artificial attunement could be designed to integrate a crystal mark and an attunement, allowing them to compound with each other. Directed integration is simpler, and more common — it involves training to deliberately combine your power sources manually. For example, you can learn to cast a spell using a crystal mark, then simply push more mana into it with your attunement. We will discuss methods of doing this later on in the course.”
+
+She turned to the class and smiled. “I can see some of you are having some difficulty with the idea of drawing magic from sources outside of our goddess’ gifts. Don’t worry! There’s precedent for all of this in the scriptures — think about the early heroes of our people who arrived just after the exodus, for example, and before the advent of attunements. Many of those founders, including some of my own ancestors, relied upon crystal marks before attunements were available. For those of you who still have concerns, please feel free to see me after class. I’ll be happy to discuss this further. But for now, moving on!”
+
+She moved back to the Kaldwyn line, then wrote, “Spirit- bonding items.”
+
+I grinned. I wasn’t sure if this class would be talking about items or not. I planned to talk to Vellum, Derek, and Keras about Selys-Lyann further, but any additional sources of insight were helpful.
+
+“Spirit-bonding items are rare objects that can be tied to the spirit of the wielder. The most famous of these, of course, are the Six Sacred Swords.”
+
+She turned to look at the class after saying that…and once again, I thought I saw her smile at me directly. Amental trick, or did she know something?I really needed to figure out if there was a way that I could sense wielders, the way Keras used to when he was looking for them. Even if I didn’t have the entirety of Flowbreaker, Selys-Lyann could be a potential target for anyone who was attempting to gather them.
+
+…I really needed to ask Keras about what he knew about the current location of the other swords. It would mean skipping ahead of his story, and I could tell he was not happy about whatever had happened to the weapons, but if it was relevant to my safety, I needed to know.
+
+“Spirit-bonding items exist in several varieties,” the teacher continued. “They have varying degrees of complexity. Some of them involve marking a wielder, similar to a crystal mark or attunement. Others simply have an invisible bond, allowing for the wielder to understand and utilize the item’s abilities more intuitively. While most spirit- bonding items are weapons, there are many of other examples. There are spirit-bonding jewels, pieces of armor, and even more innocuous items like keys and paintbrushes.”
+
+Next, she moved to the right of the word “Kaldwyn” and wrote the word “Artinia”.
+
+“As I noted, outside of Kaldwyn, there are a wide variety of other types of magical power. Next, we’ll discuss the spirit arts of the continent of Artinia…”
+
+The class continued, going over some basics for the magic types for each other continent. Spirit arts. Essence sorcery. Dominion sorcery. Blood alchemy. Shade weaves. Beast bonds. I was interested in all of them, but aside from dominion sorcery, most of them were currently out of my reach.
+
+…Or were they?I wondered how viable it might be to take a quick jaunt to another continent sometime between semesters. LeavingKaldwyn was notoriously challenging, but with the resources of an Arbiter…it was worth thinking about. Someday.
+
+For the moment, I had more pressing things to focus on.
+
+***After my Alternate Magic Sources class, I decided it was a good time to test out my own particular alternate source of magic: my new mark from the Transcendence Gateway Crystal.
+
+Eventually, I’d have to track down an entire book on the subject — maybe back at Warren Constantine’s tower, or if I could find a location that specialized in selling books on older styles of magic. For the moment, I flipped open the book I’d found with the most information on the subject: Esoteric Deep Dominions by Talia Theas. I’d already read it, but I wanted to refresh myself before starting my exercises.
+
+Even in the times before the exodus, transcendence sorcery was rarely studied. Few humans were born with enough essence of the type to make practice easy and those rethri with transcendence bonds were carefully-kept secrets. Fortunately, my famed ancestor and his cohorts made efforts at the exhaustive study of all dominions, and we retain some scant fragments of their knowledge.
+
+On the surface, transcendence magic sounds similar to enhancement, in that it is primarily utilized to provide improvements to the capabilities of the body, mind, and magic. This surface-level similarity belies the true utility of transcendence sorcery: while enhancement improves existing capabilities, transcendence is capable of granting a recipient entirely new abilities or augmenting capabilities that are generally considered “intangible”.
+
+For example, enhancement magic is generally used to improve basic capabilities like strength, speed, and durability. Transcendence magic can do these things, albeit through slightly different means than traditional enhancement, but it can also allow a human to see colorsbeyond violet in the color spectrum, withstand the extreme pressure of deep water, or recover more quickly from disease. When combined with other types of magic, transcendence grows even broader: a combined perception and transcendence spell might grant a human an echolocation sense.
+
+These new capabilities, unfortunately, do not necessarily come with the necessary reflexes to use them. A human who is simply granted echolocation abilities will be quickly overwhelmed with that sense without necessary secondary magic to be able to utilize their new capabilities. Even with supporting magic, learning how to utilize entirely new capabilities often requires extensive training, and thus, most transcendence mages begin their practice with spells that more closely resemble traditional enhancement.
+
+It is also noteworthy that transcendence is poorly suited to making external physical changes, such as transforming hands into claws or developing gills for underwater breathing. For these purposes, alteration magic is preferable, or some combination of transcendence and alteration.
+
+One notable application of transcendence mana is the augmentation of existing spells with secondary features or alterations. While adding enhancement mana might be used to make a fireball larger, transcendence mana can cause a fireball to take on unusual characteristics. For example, a transcendent fireball might explode, contract, and then explode a second time, or perhaps explode and leave a lingering burning field in the air, depending on which specific aspect of transcendence mana is applied to it. Experimenting with this element of transcendence mana can be dangerous, however, and is not recommended for use without extensive practice and research.
+
+For beginners, I recommend the Augmented Recovery and Internal Clock spells. Upon mastering one or more of these, one can move into more intermediate-grade spells,such as Augmented Reflexes, Perfect Precision, and Unchained Strength. While this book does contain a few advanced spells, such as Expanded Color Spectrum, Essence Acclimation, and Pressure Resistance, I recommend waiting until you have practiced more basic spells before making any attempt at these.
+
+I spent a bit of time reading ahead, looking specifically for any mention of spells that directly or indirectly could improve mana growth rates. Something that directly improved safe mana capacity seemed unlikely, but I wondered if I might be able to find something like a spell that worked to enhance Dianis Points or star veins somehow, or otherwise improved the body’s physical tolerance for mana.
+
+Sadly, I didn’t find anything along those lines. Perhaps if I eventually found a full book, I’d be able to find something like that, but I supposed it was also possible transcendence simply couldn’t — or hadn’t yet been — used in that way.
+
+…Of course, this book was written by a Theas. It might be that she simply had orders from the family not to talk about things like Dianis Points, or simply chose not to. I might have to find something written from a different perspective. Probably not a high priority, though. Any spell like that would probably have to last at least several hours to have any tangible effect on the body, meaning I’d likely need at least Sunstone or Citrine-level transcendence mana to actually do anything with it. That’s probably a long way off.
+
+I processed all that, crystalizing my thoughts on how to approach practice. Given my penchant for hand-exploding and the differences involved in using non-attunement magic, I decided it’d be wise to get some help before actually starting my practice session.
+
+…Really, I probably should have gone to get a healer in case something bad happened, but that sounded like toomany extra steps. I settled for something simpler.
+
+To begin with, I went to find Sera. She was reading in her room. “I’m going to try some transcendence spells. Do you want to join me?”
+
+“Actually, yes. It won’t work quite the same for me, since I’m using them through a contract, but it’s valuable. And if you’re thinking of trying your mark, I should probably get started on using mine, too.”
+
+I nodded. “Great. Do you know where Keras is?”
+
+“No, but he shouldn’t be hard to find. Do you think we need him?”
+
+“Not sure. These crystal marks are closer to dominion sorcery, so it’s possible we should have him coach us through our first spells.”
+
+“I think I could handle it, but…” She reached upward, consciously or otherwise, to rub at her neck. “…yeah, probably best to play it safe.”
+
+It didn’t take us long to find Keras, sitting downstairs at a Crowns board. Alone, again. I still didn’t ask what he was doing. “Could we get your help with trying to use our crystal marks?”
+
+He looked up suddenly, blinking, as if surprised by our presence. “Crystal…oh, sure. Yeah, I can do that. Rooftop?”
+
+“Rooftop,” Sera and I chimed in unison, then turned to each other with equally raised eyebrows. We walked in awkward silence to the roof after that.
+
+We gathered near the center of the roof to chat. I wasn’t quite sure where to start the conversation, but fortunately, Sera was better at talking to people.
+
+“So. Crystal marks. What can you tell us about how to use them?”
+
+Keras blinked, turning away from looking into the distance to refocus on Sera. “Right. Crystal marks. So…it shouldn’t be hard to utilize them. Can you sense the essence inside them?”
+
+Sera and I both nodded.
+
+“Good.” Keras took a moment to breathe, then seemed to gather his thoughts. “Okay, so it should be similar to using your attunement, but with a few distinctions. When you’re using your attunement, you have to convert your mana into the right types as a part of the casting process, right?”
+
+“Of course,” Sera replied.
+
+“Right. So, you can skip that with these. A transcendence mark only gives you transcendence mana. There’s no need to go through conversion ratios and all that.”
+
+“Thank the goddess,” Sera wiped her forehead. “The math isn’t difficult, but it is annoying to have to keep checking my grey mana composition all the time.”
+
+I blinked at that. That shouldn’t be necessary to do often…except, of course it was. She was a Summoner…or, rather, an Invoker. She was constantly making bindings and contracts, which would change her general mana structure…and thus, change her overall grey mana composition, which would change the math necessary for conversions.
+
+…Ick. That sounds exhausting.
+
+Spells could be cast without doing a bunch of recalculations, simply by manually feeling it out to try to make sure your mixture of mana types was correct for any given spell…but there was always the risk of making a mistake in that process and destabilizing a spell. Most of the time, that would just make the spell less efficient…but it some cases, it could fail outright. Or, you know, explode.
+
+So, yeah, recalculating grey mana ratios from time to time was a good idea, especially for someone with contracts.
+
+…Or someone getting a new crystal mark. I’ll have to do that for myself soon, assuming my transcendence mana starts bleeding into my general mana composition. It’s supposed to be contained in the crystal mark itself, but if Istart casting beneficial transcendence spells on myself, that mana will gradually shift my general mana structure. Ugh.
+
+Keras kept talking. “Right. So, you’ve got the mana to start with, which is an advantage. The downside is that you have a different type of conversion math to worry about, at least in theory. Dominion sorcery in general doesn’t take all the necessary mana from your body — it uses a fraction of your own mana to signal an outside source, called a dominion, to do most of the work. This means that you need to know three different numbers for casting any given spell. First, you need the total mana cost. Then, you need to figure out how efficient your use of the dominion is. From there, you can work backward to figure out how much mana you actually need to spend in order to get the intended result.”
+
+That made sense. “So, if I’m casting a twenty-mana transcendence spell, and my crystal mark has a ten to one efficiency rate, I only have to spend two mana instead of twenty?”
+
+Keras nodded. “Right. Efficiency rates also change over time, at least for traditional dominion sorcerers. The more you practice, the better your ratio…but if you overdo it, you can make your ratio worse, like tearing a muscle. Or like…” He trailed off, seeming to catch himself, but Sera knew where he was going.
+
+“Mana scarring. It’s okay, you can say it. I’m not that sensitive about it.” She reached up and rubbed at her throat. Hopefully, we’d have that issue permanently resolved soon, but for the moment, her voice was still scratchy and raw.
+
+“Sorry. Of course.” Keras refocused. “Crystal marks do improve over time, but their efficiency seems to remain more static than a traditional sorcerer’s. You can think of that as an advantage as well, since there’s less math involved. Instead of efficiency improvements, they’ll just increase in capacity over time, holding more essence. So, you can think of them as being sort of like a middle-groundbetween dominion sorcery and attunements, in that regard.”
+
+“What type of mana capacity should we expect them to start out with?” I asked.
+
+“I don’t know,” Keras admitted. “I’ve always handled my own mana more or less intuitively, rather than with hard measurements. Researcher might be able to help, though.”
+
+“She certainly could,” Sera replied, “but she’s busy tonight.”
+
+I blinked. It was strange to think of a summoned monster as having plans outside of working for their Summoner, but Researcher was a bit of an odd case.
+
+“For the moment, then, I’d advise you to assume the amount is extremely low — say, five mana — but with at least a five to one efficiency rate.”
+
+That’s not too bad. That’s still more than I was working with when I first got an attunement, assuming it translates to twenty-five usable mana for spells. Except…“What about the costs?” I asked.
+
+“Oh. Right.” Keras flinched. “The most obvious difference from your attunements, and I still failed to mention it. Costs. So, like I’ve told you before, dominion sorcery draws from specific components of the body’s essence to make effects. When I cast a flame spell, it draws from the essence that maintains my body heat, so I’ll start shivering if I do too much of it. With a crystal mark, you have a limited supply of mana within the mark that serves as a safe source to use without those costs. You can think of it as working like one of your self-recharging mana batteries. Once you’ve drained that battery, however, you’ll start to draw from your own essence — and that’s when the costs will start to hit you. This isn’t a big deal if you’ve started to build up enough essence in your body to sustain that, but as a Kaldwyn- native, you’re not going to have a lot of essence available to start with. Especially for esoteric essence types.”
+
+I winced. “Meaning that if we try to cast too many spells from our crystal marks…”
+
+“You’ll overdraw, start using your own essence, and probably drop like a rock. You can’t handle it right now. So, don’t try. Instead, cast some of the most absolute basic, low-cost spells you can find to figure out your mana ratios. Get your mana measured by Researcher tomorrow. Then, after that, you can start getting your bodies to generate that essence by casting very low-level spells, and eventually, you’ll improve the crystal mark and your body itself.”
+
+“Like how you used Body of Stone as a training technique?” Sera asked.
+
+“Precisely.” Keras smiled at that. “I did that for years before it was a viable combat technique, but crystal marks will make it much easier for you. You’ll have a degree of safety in using them — at least to a limited degree — as soon as you get your efficiency ratios and mana levels figured out. For today…stick with the basics. I don’t want to have to go get Deni if I don’t have to.”
+
+Deni?	Would	they	be	able	to	help	if	something happened?…And why is he using that nickname for Sheridan? Are they closer than I realized?Not worth worrying about. Magic time.
+
+I already knew the spell I wanted to practice. The problem was…if I didn’t know how much it was going to cost…even the approach Keras suggested wasn’t safe enough for me. What if the crystal mark didn’t have enough mana for even a single spell? The ones I’d picked out weren’t too expensive, but…no. We needed to wait until we measured our essence before trying anything in live combat.
+
+That didn’t mean we had to cancel our practice entirely, though. “I’m going to, uh, panic and cancel this.” I winced.
+
+“Sorry. I think we should wait until we get our mana measured before tinkering with anything.”
+
+“It’s good that you’ve learned to express your cowardice, brother, and I am proud of you.” Sera smiled at me as she spoke with a tone that might have sounded sincere if I didn’t recognize her teasing.
+
+“Oh, it isn’t cowardice. I’m just trading one risk for another. Let’s go a few rounds, Sera. It’s been a while.”
+
+“Well, if you don’t mind embarrassing yourself in front of Keras, I suppose I could oblige you.”
+
+I snorted. “I suppose you’ll have a chance, since I’ll have to take so many precautions to avoid hurting you.” I glanced down to Selys-Lyann on my left hip. I was comfortable using the sword against Keras, but I was still not allowed to use it in school matches, and for good reason. I didn’t have sufficient control of the weapon’s abilities to avoid hurting myself or someone else.
+
+“You think you’re going to get close enough to hit me with a sword? Please, Corin. Give me some credit. I know how to deal with a melee fighter, especially in a place like this.”
+
+“Ready?” I asked her.
+
+“Hold on. If you’re not using Selys-Lyann, you can swap your sword in advance. And can I pre-summon before we start?”
+
+“Sure,” I waved a hand. “Safer that way, since you can tell whoever you’re summoning that this is a spar.”
+
+Sera nodded in agreement. “Vanniv, I summon you.”
+
+Vanniv manifested at her side, glanced around, and then clapped his hands. “Oh, my. Am I getting in the midst of a family quarrel?”
+
+“Just a spar, Vanniv. But you do have my permission to throw my brother off the building.”
+
+I rolled my eyes, reached into the Jaden Box in my pouch, and spoke my command. “Retrieve Mr. Stabbington.”
+
+A black-edged rapier appeared at my command.
+
+“…Really? Still calling it Mr. Stabbington?” Sera folded her arms. “You’ve been spending too much time with Sheridan.”
+
+…It was possible I might have acquired a fraction of Sheridan’s naming sense. I took a few test swings in the air. I’d picked up the black-edged sword as my prize from defeating Jerome Schmidt during our duel in the spire, but I’d barely had a chance to test it. I was used to wielding single-handed swords, but a rapier was a little different from the sabers that I was used to. While a saber was designed to both cut and thrust, a rapier was more specialized in thrusting. This one did have sharpened edges, which not all rapiers did, and that made the difference less significant than it would have been otherwise…but I’d still have to get used to the differences in the weapon’s weight and profile. I was pretty familiar with weapons, but not on the same level as a specialist like Keras.
+
+I’d taken the time to identify most of the runes on the way back to Valia, but there were a few I hadn’t quite cracked yet. The general design intent was exactly what I’d expected, though — it was a weapon that harnessed void mana to neutralize nearby magic. That made it excellent for countering magical defenses and persistent spell effects.
+
+Summoned monsters were no exception. If I wasn’t mistaken, contact with the sword would unravel the magic that kept Vanniv intact. It had certainly worked against the weaker monsters in the Survival Match. All I’d need to do was land a solid hit.
+
+He must have processed that, too. I saw his eyebrows go up fractionally, then a broad smile spread across his face.
+
+“Ready?” I asked again.
+
+Sera cracked her neck. “Whenever you are.”
+
+Keras took a few steps back to give us room. “Take your positions. I’ll call the start of the match.”
+
+We walked to opposite sides of the roof. “Combatants ready?”
+
+Sera and I nodded to him. “Bow. And…begin.”
+
+***My mind was moving the moment Keras’ voice spread across the rooftop.
+
+Haste.
+
+I burst forward in an instantaneous assault, not dissimilar to the way I’d handled the duel with Jerome. I aimed straight for Sera, rushing straight past Vanniv’s blocking position while his eyes widened in surprise. Against an unprepared Summoner of a similar level to my own, a direct assault had the potential to end a match in a heartbeat.
+
+…Unfortunately, Sera was hardly unprepared.
+
+And moreover, she was no longer just a Summoner.
+
+Stone wings burst from her back the moment the match started. When I charged, she shot straight upward. My first swing caught only air.
+
+She’d expected my strategy. Fortunately, I’d expected hers, too.
+
+Jump.
+
+I launched myself straight upward, transference mana pushing me skyward faster than Sera’s wings could carry her.
+
+A blast of lightning smashed into me from behind — that’d be Vanniv — but it didn’t break through my layers of shields and shrouds. I swung straight for Sera’s left wing.
+
+My void-infused blade impacted stone. I didn’t have the kind of power Keras did to cut straight through solid marble without effort, but this wasn’t ordinary material — her wings were mana constructs. Mr. Stabbington ripped through the wing like paper.
+
+Sera immediately listed to one side, but blasted herself out of the range of my next swing with a surge of air mana.
+
+Jump.
+
+Another burst carried me in pursuit, but she shoved both hands outward and sent another blast of air mana straightat me, hurling me straight down toward the rooftop. I could have tried to use another jump to adjust, but my ring’s mana was limited and I couldn’t afford to waste it.
+
+I landed hard, but with two shrouds and my shield sigils still intact, I barely felt it. Vanniv hurled a blast of flame at me, but I cleaved straight through it.
+
+Sera awkwardly fumbled with air magic to try to stabilize herself in mid-air, then re-formed her destroyed wing.
+
+I’d expected that, too. As she’d mentioned, staying out of melee range was her obvious counter to my combat style.
+
+That was probably the right approach, but it wasn’t without flaws.
+
+As an Invoker, she was able to use Vanniv’s mana to supplement her own. That was useful, but it did have limits, especially when Vanniv was physically on the battlefield. She was probably utilizing the same mana that he was drawing from for his spells.
+
+Admittedly, I wasn’t entirely certain of that. She’d been a bit vague about how her attunement worked, but I presumed that when she said she was using Vanniv’s mana, she was talking about her version of Vanniv, as opposed to the original somewhere-in-a-spire Vanniv, who presumably had a much higher mana pool. Her Vanniv had a set amount of mana to work with based on whatever they’d agreed to in their original contract, unless she’d updated it, which was plausible. It was probably a larger mana pool than the amount that she kept permanently suppressed, since he wasn’t active all the time…but even accounting for that, Vanniv couldn’t have much more than an average Carnelian- level mana pool.
+
+And that wing-making spell?I wasn’t certain, but it looked expensive. Levitation magic was comparatively simple, but creating articulated wings powerful enough to sustain complete flight?That couldn’t be cheap.
+
+And so, when I charged straight at Vanniv and cleaved through his blast of lightning, he had precious little mana left to defend himself. Sera had already burned through most of it.
+
+He did, however, still have wings.
+
+He jumped upward, wings carrying him in a burst of momentum that made Sera’s flight look sloppy. He was an expert, after all. He was out of swinging range long before I managed to close the distance.
+
+“Hah! An excellent move, Master Cadence, but you’ll have to do better than—”
+
+My blade flashed upward, carrying a crescent of black energy along with it.
+
+Pushing the essence out of a magic sword into a long- ranged attack was one of the first techniques I’d figured out when I’d started experimenting with magical items. I was a little disappointed when I’d learned that seemingly everyone else had already figured out the same technique, but that didn’t make it any less effective.
+
+The crescent flashed straight through Vanniv’s chest.
+
+His eyes widened comically as he looked down at the black rip through his upper and lower body. “Huh.”
+
+Then he vanished, dispelled.
+
+I didn’t have much time to rejoice in the victory. As I spun toward my true opponent, I found her already finishing a larger spell.
+
+“Permafrost Cascade!”
+
+Shards of ice rained down from the sky. My blade flashed left and right to deflect them, but the glacial shards weren’t like her conjured wings — they were true ice. Spells that summoned solid materials were more expensive, but they had a significant advantage. When my void-infused blade smashed the shards, they simply splintered, rather than vanishing.
+
+A barrage of ice ripped into the twin barriers of my shield sigils, leaving dozens of cracks…and then it was over.
+
+Sera floated in mid-air, panting heavily, her right hand raised with a feeble aura of cold around it. Her expression narrowed into frustration as I raised my sword and smiled at her.
+
+“You’re out of mana, aren’t you?”
+
+“I’m not out yet. I’m…” She broke into a hacking cough, bad enough that I lowered my weapon immediately and stepped toward her.
+
+It was possible she was just lulling me into a false sense of security, but…no, she was wobbling in the air.
+
+“Match is over!” Keras called out. His legs bent into a stance that looked like he was about ready to leap off the roof to catch Sera, but she managed to stabilize herself enough to flap down to the rooftop before her wings vanished.
+
+She stumbled as she landed.
+
+Jump.
+
+I caught her before she could fall over and held her steady. “You okay?”
+
+“…Yeah. Thanks. Just…a little annoyed at myself.” She frowned.
+
+I made sure she was steady, then let her go and stepped away. “Don’t be. We both know each other’s abilities and I happen to have an unfair counter here.” I waved my sword meaningfully. “The Permafrost Cascade was a good tactic, too.”
+
+“It was. I just…couldn’t sustain it. You approached that perfectly. Running me out of mana…there was nothing I could do. I’m still too weak.” She grit her teeth.
+
+“You’re not weak in the slightest,” Keras spoke up, surprising us both. “The two of you are both more dangerous than I was at your age, and by a considerable margin. Do you have any idea how many fights I had to lose to get where I am? I don’t — I lost count ages ago. Now, rest up, get your mana back, and go again. Unless you called me up here to watch a single fight.”
+
+That seemed to snap Sera out of it, at least for the moment. “Right.”
+
+“Maybe we could do a team fight against you, Keras?” I offered.
+
+Keras smirked. “Sure. Get the rest of the household and maybe you’ll give me some exercise.”
+
+Sera looked contemplative for a moment, which was never a good sign. “You’re on. Give me a few minutes.”
+
+“Wait, hold on, I was kidding about—” Keras raised a hand to stop her, but she was already gone.
+
+And so, ten minutes later, we had the whole household lined up on the rooftop. Sera and I didn’t have all our mana back at that point, but we didn’t really need it.
+
+We formed a half-circle and huddle while Keras watched from the opposite side of the rooftop, his expression having shifted from surprised to inscrutable.
+
+We made plans, contingencies, then turned back to our opponent.
+
+“We have some terms,” Sera offered, “to keep things interesting.”
+
+“Not that I need this,” Derek quickly butted in, “but we have to keep it fun for the kids.”
+
+“Fun how?” Keras asked, quirking a brow.
+
+A truly absurd number of sticks and water balloons died in the war that broke out that night.
+
+The rooftop, and everyone upon it, was soaked. We ended up lying on the roof, panting heavily, staring upward at the night sky.
+
+In those moments of exhaustion, I looked to the left and right and saw something that Sera had tried to tell me about before, but I hadn’t understood.
+
+My friends.
+
+They were my friends.
+
+Somehow, the stars above us had never seemed more beautiful.
+

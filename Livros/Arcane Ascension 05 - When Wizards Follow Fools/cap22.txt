@@ -1,0 +1,360 @@
+CHAPTER XXI – SHADES OF THE SKY
+
+Arriving at the Shade Gateway Shrine was simple, if still a bit harrowing. It wasn’t the first time Len had teleported me across the Unclaimed Lands, and the process was familiar, but the reception at each individual checkpoint made the whole process much more involved. Even as they checked our identification papers when we arrived at each anchor, I kept waiting for something to happen — for some hidden Edrian betrayal to be revealed, or for the supposedly Edrian forces at any given location to turn out to be spies from Dalenos…but nothing like that happened.
+
+Well, at least not that I noticed. If there were Dalenos agents garrisoning any of the Edrian facilities, they didn’t show their hand by attacking us on sight.
+
+My hands were trembling by the time we arrived at our destination… and we hadn’t even started the actual challenge yet.
+
+From Mara’s expression, she seemed uncertain, but I didn’t think she was worrying about the same things that I was. That’s not to say that she wasn’t prepared to fight if we were suddenly ambushed at any of our stops, but she was much more clearly focused on the shrine itself…and whether or not she was making a mistake by challenging one in her present state.
+
+For my part, I suspected we were better prepared for this shrine than most explorers. Mara was still borrowing Bright Reflection, giving her access to a weapon that would be an extremely powerful counter to most forms of shadow monsters and magic. I wasn’t quite as specialized on the weapon side, but I had access to light mana if I was willing to activate that function on my Arbiter attunement through a custom-made level — which, of course, I was planning to do. While the “like deflects like, opposites nullify” was usually the best rule to consider in human dueling, monsters tended to have specific elemental weaknesses — and, in the case of shades,light magic was more effective than what one might expect from just “opposites nullify”.
+
+I still wasn’t sure if I bought into the whole “elemental wheel” design, but I’d seen first-hand that certain elemental attacks were better against specific monster types than others. By the time we arrived at the shrine, I felt well-prepared for what we were likely to face within.
+
+The actual entrance to the shrine was a massive black slab covering a pit in the ground. We wouldn’t be walking in a door for this one, we’d be dropping down into a cavern. One of the few advantages of the current wartime situation was that the whole area around the shrine was set up with resources for expeditions — supply depots, places to store teleportation anchors in relative safety, and healers on standby like one might find in a Soaring Wings facility.
+
+I didn’t actually see any of the signature copper-colored armor of the Soaring Wings — they tended to focus exclusively on spires — but the Edrian military seemed to be serving a similar role here.
+
+“I’ll need to wait outside. As a conjured entity from another Gateway Crystal, I’m not eligible to participate in the challenges,” Len explained with a twinge of sadness in her tone. “On the positive side, that will allow me to rest a bit, so it’ll be easier to transport us back.”
+
+I nodded in understanding. “Thanks, Len. We appreciate you being willing to help with this.”
+
+“Of course. Best of luck in the shrine.”
+
+“You up to holding onto our anchors?” Mara asked Len.
+
+“Our…” I blinked, realizing for the first time that Mara was wearing Sera’s jump bell circlet that I’d made for her. She must have borrowed that as well. “Oh. Yeah. Except, wait, hold on. Maybe we should hold onto these? They’re more like jump bells, we could use them to move around more easily inside.”
+
+“Risk versus reward.” Len nodded. “But, in this case, something we don’t need to stress over balancing. They have extra bells. You can check one out and leave that anchor with me, but keep your own circlet and anchor for the interior.”
+
+“Good call.”
+
+We checked out a pair of return bells, handing off the anchors to Len, then did a quick double-check on our gear.
+
+“What can you tell us about the interior?” I asked Len after we concluded.
+
+“This shrine adapts heavily to the challengers present, so I can’t say much with any certainty. It’s designed for paired challenges — light and dark. Once you climb down,” she gestured at the rope, “you’ll be in the first safe room. You’ll quickly find three doors: one with a white gem, one with a black gem, and a grey door in the center. Typically, you must complete the light room and dark room to unlock the grey door and advance, but there can be exceptions.”
+
+“What sort of exceptions?”
+
+“Certain people,” Len winced, “have been known to brute force their way through the grey door. Or take the door off entirely. Or break the wall next to the door.”
+
+“…You’re talking about Keras, aren’t you?”
+
+She gave a strained smile. “When certain individuals took this action, the shrine took offense, and massively scaled up the difficulty of later challenges. I would not advise taking this route.”
+
+“Noted.” I couldn’t help but smiling at the thought of Keras smashing through the shrine’s walls and walking straight to the end. “Okay. What’s the normal route through the shrine like?”
+
+“The light rooms will generally have obvious puzzles or challenges, whereas the dark rooms focus more on traps and hidden threats. All of the dark rooms are, predictably, cloaked in magical darkness. Conventional light works, and light magic works better. There’s anecdotal evidence that using extremely powerful light magic can cause the shrine to respond by adjusting the difficulty, but there isn’t enough data for anything conclusive.”
+
+“Adjust how?”
+
+“More monsters, deadlier puzzles. The problem is that the shrine already varies from person-to-person, so…” She shook her head. “It’s tough to isolate whether or not that variable is actually what is controlling the difficulty spikes.”
+
+“How bad can it get?”
+
+“The variation seems to be plus or minus about one attunement level from that of the participants, with the number of people involved also being a factor. Most believe the crystal is doing something to detect the total mana of all participants, then using that as a baseline for the monsters it creates.
+
+From there, it may scale up further based on performance in challenges or other behavior.”
+
+I took a breath. “Okay. So, we should expect roughly Sunstone-level threats?”
+
+“Plus or minus a level or two, depending on how previous challenges are handled and other possible factors.”
+
+A level or two was a potentially huge swing. I was reasonably confident we could handle a Citrine-level monster or two, but after my experiences with the Emerald Trials, I wasn’t anything close to confident against an Emerald-level monster — especially facing one after a gauntlet of other challenges.
+
+We’d be wise to take steps to try to keep our challenge difficulty low. “Do the rewards scale with difficulty?” Mara asked, surprising me.
+
+“Not that I’m aware of,” Len replied. “In most shrines, a boon is a boon. There are exceptions, like the Ruin Gateway Shrine, which offers different benefits based on how long you can protect a location in an impossible battle scenario, but it’s rarer.”
+
+I tilted my head to the side, curious. “Why would the Ruin Shrine involve defending a location? Isn’t that thematically opposed to ruin?”
+
+Len reached up and adjusted her glasses. “An excellent question. The scenarios related to the Ruin Shrine are, so far as I’m aware, always about defending against the Sun Eater. Among his many other names, the Sun Eater is called the Shade of Ruin, thus leading to the familiar ‘ruinshade’ names of his summoned minions. Ruin is one of his primary mana types, and thus, his forces represent the ‘ruin’ portion of the challenge. Since the defender always loses, the shrine is representing its concept.”
+
+“I suppose that makes sense. Seems a little…hyper-specific?”
+
+Len nodded fervently. “It is. There’s a theory that it’s an attempt at self- preservation on the part of the ruin crystal. One of the first things the Sun Eater is known to do on invading a planet is destroying or subverting the local gateway crystals. Thus, it’s possible the ruin crystal isn’t just running scenarios arbitrarily — it’s training people for how to resist the Sun Eater, with the hopes that someone will succeed. Or, perhaps, avenge them.”
+
+“Bleak.” I let out a breath.
+
+“Indeed. If history has taught us anything, defeating the Sun Eater will not be possible without an excellent plan, and significant resources to backit. But we’re digressing a bit. There’s another shrine to be dealt with, and more immediately.”
+
+I took a breath. “Right. Shade shrine. Minimal light, then?”
+
+“That’s going to limit our ability to use Bright Reflection,” Mara said with a grimace.
+
+“At least for the early rooms. We save it for the tough challenges, or for emergencies. That make sense to you?”
+
+“…I think I’ll need some other kind of magical light source, then. A weaker one, obviously, but if I’m not using Bright Reflection, I’m going to need my hand free to fight, and…” She grimaced.
+
+“Give me a few minutes.”
+
+I took her borrowed circlet, etched a few runes. I changed one of the existing ones out, too. Then, I charged the runes, which wasn’t hard with all my batteries in my bag. “Super simple light enchantment. Just say ‘lights on’ to turn it on and ‘lights off’ to turn it off. It’ll cast out a beam from the center, kind of like one of those fancy mining hats.”
+
+“I’m not sure mining hats actually work like that, but I get the idea.
+
+Thanks.” She put the circlet back on. “How long will it last?”
+
+“About an hour. I can recharge it easily if needed. I also swapped out the original teleportation rune for a dynamic one, so I can make changes between challenges if we run into teleportation restrictions or need to move in unusual ways for a specific challenge. It’s currently set to the same functionality as usual, but it should be easy to modify later. Give me a few minutes to make the same changes to my own?”
+
+She nodded. “Okay, sure.”
+
+I got to work on altering my own circlet while we kept talking.
+
+Mara turned to Len. “So, do we have to do both the light rooms and dark rooms to advance?”
+
+“You do. Well, to do it correctly. Sometimes, you need to complete them within a set time period of one another, so the conventional strategy is to split your team and have half the team handle each side simultaneously.”
+
+Mara and I glanced at each other. Mara looked more nervous than I did. “…So, we’d be on our own.”
+
+“Not necessarily. Some of the rooms merge in the middle. It’s also possible that if one of you finishes a room first, you can backtrack to the center and rush to the other room to help. Some rooms lock people out from helping mid-test, others don’t. There are also strategies built around rushingthrough both rooms as a team, rather than splitting up, but I’ve been told it leads to a lot of cases where the rooms reset and re-lock the central grey door while you’re moving between them.”
+
+“What about scouting the rooms briefly, coming back to the center right afterward?”
+
+“Inconsistent results. Sometimes the shrine allows it, sometimes it changes the configuration of the rooms on the next visit. The deeper you go, the less likely it seems to be to reset the configuration. Your final challenge will likely remain static, so scouting that may be wise…with the understanding that in some cases, the final challenge will follow you.”
+
+“…Wonderful.” I sighed. “Well, at least we have information ahead of time. Thanks, Len.”
+
+She adjusted her glasses. “You’re more than welcome. Are you certain you’re both up to this?”
+
+Len pointedly didn’t look at Mara when she asked, but the intent was obvious to all of us.
+
+“We can handle it,” I replied, turning to Mara.
+
+She clenched her one remaining fist. “We have to. I’m tired of feeling like this. Being like this. I’ll take whatever risks I need to.”
+
+“Good.” Len reached into a bag at her side, pulling out three vials of red liquid. “Take these. I wish I had more prepared, but…”
+
+I took the vials. “I’m guessing healing potions?”
+
+She nodded. “Nothing as effective as that Goddess’ Tear you’ve been working with, of course, but I do a bit of alchemy here and there. I understand that you already have regeneration items, but these should work faster. Drinking them is the best approach for anything like internal damage, but for surface wounds, pour it on directly.”
+
+“Aren’t these pretty valuable?” Mara raised an eyebrow.
+
+“Your lives are more valuable. I just wish I had more to give you.” “Thanks. It’s more than enough.” I tucked two potions away in my bag,then handed one to Mara. “I’ll store two in here, since it’s easier to avoid breaking them in a fight that way. Make sense?”
+
+“Yep. I’ll try to keep this one intact.” She slipped the potion into her belt with a nod, then took a deep, steadying breath. “You ready?”
+
+“Give me a few more moments to charge this dynamic rune…make a few tweaks…okay, now.”
+
+“Let’s go.”
+
+Together, Mara and I descended into the dark.
+
+***We found the first room to be just as Len had described, but somehow, I still found it surprising. Largely in the details that she hadn’t mentioned.
+
+For one thing, it was beautiful.
+
+The room was a rectangle of polished black stone, but each wall was etched with images, depicting strange beasts and ancient warriors. That would have been intriguing enough as it was, but the images had specific accents painted in bright and vivid colors — red eyes here, a gleaming spear there, and…was that some sort of titanic machine?I frowned as I walked closer to one of the images, blinking at what looked like a colossal suit of armor with some kind of drill for a hand. An image that must have been a thousand or more years old.
+
+Huh. Guess either the shrine has been modernizing, or the ancient gods were more savvy with golem making than I realized.
+
+I could have spent hours just studying those images, trying to figure out the story they told, but Mara stepped closer. “Don’t think we should keep Len waiting, Corin.”
+
+I blinked, remembering that she had to get back to the spire. “Right.
+
+Sorry.”
+
+We quickly located the three doors, although they might not have been obvious if we hadn’t been told about them. The three gems were obvious enough — each the size of a fist, and diamond-shaped, embedded straight into the wall at roughly chest-height. The doors were just rough outlines, though, cracks in the walls.
+
+Not dissimilar to how some of the spire rooms work, if you’re supposed to touch the gem to open it. I wonder…“How are we doing the first split?” Mara asked. “Look inside first?” I nodded. “Yeah, let’s take a quick glance, see what we can see.”
+
+We opened both of the doors. I held up an arm to shield myself from the sudden brightness when I opened mine. “Light side involves a large circular platform with rotating spheres on it. They’re color coded. Elemental, maybe. Looks like there are a bunch of switches. Think some sections of the floor are set to rotate, maybe, based on the switches? Not sure.”
+
+“Dark room is…well, it’s hard to see. There’s a central road, windy, that’s a little lighter than the surrounding darkness. Think the sides of theroad are a pit. Think I can hear monsters in the dark, too. How do you want to do this?”
+
+“I figured I’d take dark,” I told her.
+
+“Since it’s more dangerous, and I’m—”
+
+I turned, surprising myself by putting my hands on her shoulders. She startled, but didn’t pull away.
+
+“Hey. None of that, you hear me? I was going to take the dark room because I have light magic, and I can adjust the amount of it and how I use it based on the configuration of the room. Your circlet and Bright Reflection aren’t as easily adjusted.”
+
+“Oh.” She took a breath. “Thanks. That’s…yeah, okay, that makes good sense.”
+
+“If anything, the more direct challenge is going to be more directly dangerous, since it’s probably supposed to be ‘balanced’ with the hidden threats,” I told her, pulling my hands away. “So, be careful?”
+
+“Yeah, you too.” She nodded. “See you back here?”
+
+“Probably, but if one of us is waiting for more than a minute or two, we should go after the other. We’re supposed to finish the rooms roughly in sync. I don’t know how close the timing is supposed to be, but it’s probably better to go after the other person to help if one of us manages to get back here fast.”
+
+“Got it.” She took a breath, seeming to focus. “Okay. Right. We can do this.”
+
+She was clearly saying that last part to herself, but I still nodded in agreement. “Let’s line up at the doors and count it down?”
+
+“Making it a race, are we?” She gave me a tiny crack of a smile.
+
+Well, if it helps her calm down…“Not really a race when I have Haste.” I winked at her. “Ooh. You’re on, buddy. Let’s go.”
+
+We reached out and touched the two crystals. Doors opened. Light flooded Mara’s doorway. She rushed straight inside.
+
+I took another deep breath, then looked into the room ahead of me. It wasn’t pitch black like I’d expected. Rather, it looked more like nighttime outdoors without any streetlamps, but still a bit of ambient light from the moon overhead. I could make out features, but not a lot at a distance. There was a bit of a haze in the air, too. Mist, or something like it, presumably to scatter directed light spells like I’d been planning to use.
+
+The first non-visual thing that caught my attention, though, was the low growl coming from seemingly everywhere within the room.
+
+Ahh, classic.
+
+A year ago, I might have hesitated to step into a dark room with ambiguous monsters in the shadows.
+
+Now?The only question was if I was going to finish the puzzle before they learned to run from me.
+
+I didn’t step inside immediately — I was, after all, still me. Instead, I tried to look ahead into the gloom, observing what was ahead.
+
+I’m glad I did.
+
+I’d heard that people generally tended to look forward and down, but not up. I hadn’t actually read any studies on it, but I’d noticed the tendency in myself enough that, when confronted with a challenge, I tried to force myself to glance in each direction before entering into a presumably deadly situation.
+
+I wasn’t always good at remembering that sort of thing. Remembering things like sequences of numbers and rune shapes was easy. Remembering life-preserving habits? Apparently, my mind didn’t think those were a priority.
+
+But on that occasion, I had the presence of mind to tilt my head upward, searching for the source of ambient light or any other puzzle component that might be on the ceiling.
+
+I felt mildly embarrassed when I realized that, in many other circumstances, I would have missed the gigantic, subtly glowing bird of prey.
+
+The bird wasn’t what I’d heard growling. Or, at least I was pretty sure it wasn’t. I didn’t think birds, even those the size of a house, made that kind of noise.
+
+No, whatever had made that noise remained hidden while I noticed the bird. And, unfortunately, the bird noticed me noticing them.
+
+The bird took off upward, out of my line-of-sight. That seemed like it shouldn’t be logistically possible — I wasn’t that far underground, it couldn’t have really been flying overhead at all if we were constrained by ordinary space requirements. So, that implied that this shrine was playing with extra dimensional spaces, and that the rooms could be any sort of arbitrary size.
+
+Lovely. Gigantic room with a giant bird that could strike at any time. What sort of giant birds are associated with shade?I wasn’t sure I knew any, or if it even was a shade-associated bird. Giant birds could be a lot of things — a roc, a cockatrice, a barrier eagle. Maybe even a gryphon? I hadn’t studied them a lot, since they didn’t show up often in the serpent spire.
+
+Well, no time to learn like the present, I suppose.
+
+I checked the ground, too, just in case. There was what looked like an actual path in front of me, a lighter shade of grey than the surrounding darkness. I tested it with a jab of Selys-Lyann, finding it solid, and then stepped forward, one foot at a time.
+
+Nothing happened. I walked forward, keeping on the grey trail, and noticed as trees came into view around me as I advanced. More sounds emerged, too, from the evening gloom.
+
+It was a little darker, now, since the bird had fled from sight. Between that and the mist, I could only see clearly a few feet in front of me. Selys- Lyann’s glow helped a bit, but as expected, the moisture in the air seemed to disrupt the light.
+
+The air was growing colder as I advanced, but I didn’t mind. Since bonding to Selys-Lyann, mundane cold didn’t seem to bother me as much. I wasn’t sure if I’d actually acquired any resistance to ice magic or extreme temperatures — that was a test that really should have gone on my list — but either way, the mild chill in the shrine room didn’t inhibit me.
+
+The ground, however, was beginning to.
+
+As I advanced along what I’d considered to be the road, my feet began to sink in just a bit with each step. Not like I was trudging through a bog — just like mud, but my boots came out dry when I took each next step.
+
+Naturally, I bent down to see what was happening after a bit of that.
+
+And, equally predictably, that was when the first monster struck.
+
+The horse-sized wolf was near-completely silent, lunging what must have been a dozen feet from the edge of the trees with open jaws, aiming for the back of my neck while I was bent down.
+
+I didn’t hear them coming.
+
+But I did notice when its shadow passed over me, and even that mere moment was enough for me to move.
+
+I acted on instinct, calling on my bond with Selys-Lyann. Ice flashed up from the ground behind me, forming a wall, a shoddy copy of one of Sera’smost commonly used techniques.
+
+The wolf slammed into the ice hard enough to shatter it, but the impact was enough to deflect the jump. It landed with its feet steady on the road, but I was already moving.
+
+Haste.
+
+The wolf was inhaling, misty shadows gathering around their jaws. I didn’t give them a chance to finish whatever breath attack they were going for.
+
+Jump.
+
+I lunged, flicked my sword once, and cut through the wolf’s neck. Ice spread along the wound, causing the wolf to choke. I swung down a second time, and with that, the wolf vanished into nothing.
+
+My jaw tightened as I spun around, seeing more glowing eyes off in the woods. I stared them down until they retreated.
+
+Release Haste.
+
+I cracked my neck, found my way back to the direction I’d been facing, and kept walking.
+
+That wasn’t so bad.
+
+Predictably, that was when I fell into the pit.
+
+I didn’t have time to reflect on the fact that it would have been easy to continue prodding the ground in front of me, like when I’d first entered. I began to plunge down, straight toward the newest light source in the area — a series of person-height white spikes, each about as thick as my right arm.
+
+Jump.
+
+I blasted myself back upward, soaring a dozen feet above the pit, and found no visual difference between the pit area and the road ahead and behind. I briefly contemplated trying to use ice to form a road of my own, but I didn’t have confidence in my ability to control the sword’s ice powers clearly enough to do that. Instead, I simply blasted myself further up and along the road with more transference mana, then flicked a tiny ice shard down and watched it impact solid ground.
+
+Satisfied, I descended.
+
+I didn’t make it to the ground before I heard a loud “caw”. I had, somehow, forgotten to look back up.
+
+The bird didn’t do something pleasantly ordinary like descend from the sky or shoot a hail of sharpened feathers at me. No, it simply got my attention and met my gaze while I descended.
+
+At which point I realized that I was feeling oddly heavy, and that I’d made a terrible mistake.
+
+Spessartine.
+
+My Arbiter attunement flared as I changed my attunement level instantly, which was just a bit faster than my feet were being covered in stone. Then, as I tried unsuccessfully to avoid panic, I began to flood my body with light mana.
+
+Light mana was a classic counter to any type of foreign magic that was influencing the body or mind. Under ideal circumstances, one would have specific spells for whatever they were dealing with, but I was in a bit of a hurry, and petrification wasn’t exactly the type of thing I could ask to slow down for a bit of spell research time.
+
+I hit the ground a moment later, legs already wrapped in stone up to my shins. The jarring impact meant that I fell forward, but I caught myself with my sword, steadying myself just enough to push myself upright as I continued to send light mana downward.
+
+The cockatrice — at least I knew what it was now — didn’t wait to see if my spell would be enough to reverse the effects of its gaze. It descended as I fought the spell, grabbing for my shoulders with talons the size of my entire body.
+
+It was only when it got nearly close enough to grab me that I saw the chain around its neck, holding a comically large black key.
+
+I blasted myself backward with a burst of motion mana, avoiding the talon swipe, and forced myself to look away from my attacker. I knew that if I caught the cockatrice’s gaze again, the petrification spell would likely take hold a second time, and I was lucky to be fighting off the first instance of it. I probably couldn’t handle a second.
+
+Worse, if I saw it closer up, the gaze would likely be stronger. The enshrouding mist and darkness had likely weakened the gaze’s effect.
+
+Probably another factor that makes using light magic a detriment here. If I’d used a powerful light spell and gotten a clearer look at the cockatrice, that gaze might have taken me out immediately.
+
+I briefly debated trying to close my eyes and fight blind, but that was a little too extreme. I didn’t have the training for it.
+
+Instead, as I flew backward, I slashed through the air and pushed transference mana into Selys-Lyann’s blade, sending a cutting wave of ice toward one of the cockatrice’s wings. It swung around rapidly, interceptingthe ice wave with a talon and flicking my spell out of the air with a disdainful motion.
+
+Wonderful.
+
+Wing flaps carried the cockatrice back upward, and I had to be cautious to follow the creature’s movement without meeting its eyes.
+
+My light mana was working to undo the petrification spell, and I kicked my legs to try to dislodge some of the stone around them before the cockatrice could descend on me again. I’d acted quickly enough that the petrification hadn’t fully transformed any of me — it had simply saturated my body with stone mana to begin the transformation process. The result was that my body was fighting off foreign mana while a stone shell was forming around it as a secondary effect of the same spell. My light mana was handling the former part, but it wouldn’t do a thing about the latter — at least not right away.
+
+So, I tried to kill two giant birds with one stone, kicking a leg upward and using a blast of transference mana to shatter it, sending a shotgun burst of shattering rocks at the bird. I heard a satisfying cry as the stones impacted, then a whoosh as the bird descended again.
+
+I’d only freed one leg with that blast, and I didn’t have much room to maneuver from side-to-side without stepping off the clearly marked path. I didn’t know what would happen if I stepped into the dark, but I wasn’t in a good place to experiment.
+
+So, instead, I repeated my tactic from the wolf, and focused on Selys- Lyann to raise a wall of ice to stop the cockatrice’s descent.
+
+Even with hollow bones to keep itself aloft, I’d underestimated the bird’s mass. It crashed straight through the wall and slammed into me without stopping, sending me crashing down into the strange road with the force of a train car.
+
+I hit the ground hard, groaning as talons curved around my entire torso. My shield sigils and shrouds had absorbed the vast majority of the force, but the talons curving around my body were within my shrouds now, and my shield sigils were nearly spent.
+
+I’d maintained my grip on my sword, but I didn’t have a good angle to swing it. So, instead, I focused on the circlet around my head. It was in contact with my body already, so I didn’t need to do anything special with mana threads.
+
+Accelerated Computation.
+
+Analyze Attunement Composition.
+
+My circlet wasn’t an attunement, of course, but since I’d changed out the enchantment runes for compound ones, it meant that the sub-glyphs could be edited in the same fashion.
+
+I couldn’t make complex changes in a fraction of a second, but I didn’t need to. All I needed was to remove a targeting function and set a distance.
+
+“Return.”
+
+As the cockatrice’s beak descended toward my chest, I teleported straight forward. Consequently, that put me just above the creature’s back, facing upward.
+
+A disorienting burst of transference mana managed to flip me around mid-air, then I was descending from above a confused cockatrice. Its wings flapped as it sensed something wrong, but it was too late.
+
+I landed on the bird’s back and stabbed straight down.
+
+The cockatrice screeched, trying to take off, and I stabbed downward again and again, ice spreading along the wounds until the creature couldn’t bear the weight. Then, with one final stab, it vanished beneath me.
+
+The chain and key remained…and very nearly vanished as they fell from the disappearing creature’s neck into the darkness beside the road.
+
+I lunged with another burst of transference, grabbing the chain and yanking it back just before I landed on the road. I pitched over backward, unbalanced by one leg that was still covered in stone, and nearly cut myself on my own sword.
+
+Still, I laughed as I landed. I’d won.
+
+One down, I told myself as I shoved the key and chain into my bag. Two more to go.
+
+The idea that Mara would need help with her own challenge barely even occurred to me—And I was right.
+
+After I’d finished freeing my remaining leg and trudging back to the entry room, she beamed at me. “What took you so long?”
+
+For the first time in weeks, the expression on her face looked right. Thatwas the Mara that I’d missed.
+
+I found myself smiling right back.
+
+We’ve got this.
+
+Together, we pushed our keys into the door, then stepped into the next room.
+

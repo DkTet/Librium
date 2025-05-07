@@ -1,0 +1,142 @@
+CHAPTER VI – MAKING UP FOR LOST TIME
+
+Even if I wasn’t going to make changes to my attunements themselves, I’d proven that my Arbiter attunement was stable enough for use.
+
+My first enchanting project was upgrading my first Silver Phoenix Sigil’s defensive power. That was a relatively simple activity. I could upgrade each of the four capacity runes through my Sunstone-level batteries, then the recharge runes. That would, unfortunately, make it explode.
+
+Four Sunstone-level capacity runes on their own wouldn’t overload the sigil, but they would when I also had mana regeneration and health regeneration in place. I had to decide if I wanted to keep those additional functions, and also, if I wanted to consider upgrading those as well or just the shields.
+
+Ultimately, I opted to start by just upgrading a single shield capacity rune and recharge rune. That used up both of my 360-mana batteries, and they’d take a while to recharge because of how slow mana recovered on the train. I’d have to decide what I wanted to do with the remaining capacity of the sigil later — and if I wanted to duplicate the same thing on my second sigil or do something differently.
+
+Might be time to start making specialized sigils for different types of defenses. I thought about one specifically for physical attacks early on in my first year, but I didn’t have the expertise to make one. Now, though, I don’t think it’d be hard at all. In fact, if I want to build one with Enhancement mana, that’d give Mara something to help with…and she’d probably like that.
+
+Okay, plan for that a little later, but I need to figure out the runes first.
+
+In the meantime…I have some things I’ve waited on too long already.
+
+The next stage was working on more anti-interference enchantments for my sigils, batteries, circlet, necklace, and armor. Simply put, I was wearingtoo many items.
+
+Anti-interference enchantments weren’t perfect. There were a variety of different types, each designed to handle different types of possible interference. Some forms of mana interference came from the flow of mana into an item while it was recharging, especially with environment-based recharge runes like I tended to use. Other interference came from excess mana that was turned away when the item was already at capacity.
+
+Backing up a bit, since I’m not sure if I’ve explained this clearly enough before.
+
+When a recharge rune draws in mana and an item is at capacity, the capacity rune just prevents the mana from entering the item. This can create a sort of cloud of excess ambient mana around the item, similar to a shroud. It’ll disperse eventually, typically when something else draws the mana in, or when the item actually needs the mana and draws it in.
+
+The current anti-interference runes that I’d been using handled this by checking when the item was at capacity, then temporarily disabling the recharge rune. This meant my items were constantly running an extra set of functions, which took up some of the capacity, but it meant that there was no excess mana cloud from the recharge process.
+
+This did not, however, handle the flow of mana coming into the items while they were recharging. This didn’t make a cloud, but if you had several items packed super closely together that were drawing in mana simultaneously, they could interfere with each other either by robbing each other of mana (if one item’s recharge was just that much stronger than the others) or, in more dire circumstances, causing an interaction as different forms of environmental mana were drawn in simultaneously and mixed in the air.
+
+For this reason, I had historically been very cautious about wearing items of opposing types, but I was reaching the point where not only was I ignoring that limitation by constantly using things like batteries, I also just had so many items that some of them were bound to cause each other problems.
+
+So, in addition to my first type of anti-interference runes — which I’d already added previously — I had to start adding a secondary type, which was designed to narrow the way that the recharge functions worked to prevent overlap between the incoming streams of mana.
+
+Even with both anti-interference enchantments, I still needed to be cautious in how I placed my items — no sitting items with enhancement next to my transference ones — but I was a little safer.
+
+Oh, I suppose there was a third type of interference as well, which is the interference between active functions. That’d be like, for example, if I set up two shield sigils with opposing mana types that were designed to create barriers at the exact same distance from the body. That’s a bad idea. This wasn’t a matter of adding anti-interference enchantments — I handled it on the original function side by setting different distances.
+
+Anyway, I spent some time getting all that sorted out, then worked on another project I’d neglected.
+
+Building Mara a Null-Contract Gauntlet had been on my list of things to do before, well, gauntlets had become a bad idea. I’d procrastinated because she’d been wearing other magical items on her wrists — the bracelets I’d made her in the first year — but that was easy enough to solve. I just need to make something that didn’t go on her hands. And fortunately, Null- Contract items weren’t pushing the mana limits of one of my sigils. Not at the level I’d made them, anyway.
+
+So, after completing the upgrades to my shield sigil, that was my next project. I was out of sigil blanks and battery blanks, so I made the difficult decision to temporarily repurpose my weaker grey-mana battery. I kept the 360-point battery, which I could eventually use to make even larger ones if needed.
+
+Going through the process of making the Null-Contract Sigil was easy. I was already used to working with mana through my right hand, I just had to avoid instinctively using my Enchanter attunement. I actually considered using my Arbiter/Enchanter hybrid attunement to turn the Enchanter attunement off temporarily to avoid any accidents, but that seemed like an even greater risk, so I just took my time to be cautious throughout the process.
+
+Using mental mana through my hand was weird, since it was obviously still affecting my mind, even though I wasn’t using my mind as the source of the mana. I had all sorts of questions about if that was still going to end up causing me harm somehow, but I pushed that aside. Working was too important.
+
+Powering the runes was simple. I already had batteries for everything the device needed, so I barely had to touch my mana supply. The mostpainstaking part was copying sub-glyphs over, much like I’d had to do between my attunements, but it wasn’t actually difficult. I just found it annoying to do it without Accelerated Computation active.
+
+I added a couple upgrades to this version. They were fairly straightforward; more anti-tampering runes, and one basic set of runes for blocking detection magic. Neither would hold up against any serious effort to reverse-engineer the item, but I was only trying to protect them against people figuring the items out at a casual glance. For the same reason, I designed the sigil with the runes on the back face of the sigil, then simply etched a basic Valian military symbol on the front. That made it look purely decorative at a glance.
+
+It wasn’t a complex process, even with the added steps. Really, I could have made several of the items if I had the raw materials…which was going to be much harder to deal with, now that I didn’t have Keras to turn coins into sigil blanks for me.
+
+I could probably trade this for something significant, rather than giving it to Mara directly. Maybe even something like a prosthetic, or something to help Sera, like a full vial of whatever the “shal” potion is. Of course, I have to be careful about who I share this with. Even with Meltlake’s permission to trade it, it’s too valuable to share with anyone that isn’t going to give me something that could end up helping Valia as a whole.
+
+I paused, considering.
+
+I wonder what Anabelle Farren would give me for something like this. Caelford are supposed to be allies with us, right? And they might actually have the resources to produce these en-masse, which could be good for both of us, but…I still don’t know what her angle is on all this.
+
+And, with Ferras herself missing, things might be more complicated.
+
+…Hm.
+
+Maybe for the next one.
+
+…Yeah, let’s make two.
+
+After repurposing my first transference battery (and keeping my second one available), I had two Null-Contract Sigils available. Sera didn’t need one — she already had a contract-based attunement — and Patrick and I already had the gloves. So, I kept one for possible trade — either to Farren, or possibly to someone like Elora Theas for a favor — and then headed back to talk to Mara.
+
+***I found Sera and Mara together this time, chatting in their cabin. I knocked politely and they let me in.
+
+“How are you two feeling?” I asked.
+
+“Like garbage. Not feeling like giving platitudes right now.” Sera groaned and pulled her blanket tighter around her. “Did you need something?”
+
+“Yeah, sorry.” I turned to Mara. “I have something for you. Wish I’d made it sooner.”
+
+She frowned. “This isn’t a prosthetic, is it? I know you’ve been working on something, and I thought we’d agreed—”
+
+“No, something different. A sigil.” I pulled it out of my bag.
+
+“…A shield sigil? You already made me an upgraded one. And…I’m not sure how much it’d help.”
+
+“No. I mean, I can work on upgrading your shield sigil later, maybe, once my batteries recharge. I was actually just working on mine—”
+
+“You’re getting side-tracked, Corin,” Sera pointed out.
+
+“Right. This is a Null-Contract Sigil.” I’d practiced in my mind how to present this part. “It’s like the gauntlets that I made for Patrick and myself, but it’s a sigil, because you’re Heart Marked. Works best if you wear it right over your attunement.”
+
+That was all technically true. I absolutely could have made it work without direct contact with her attunement, but being closer would make it marginally more efficient. So, it was actually a better fit for her than a gauntlet would have been, even without the obvious issues with that approach.
+
+“That’s…kind of you, Corin, but you don’t need to be spending all your time on me. You…could be investing in other people, who are more…”
+
+I put up my hands in a warding gesture. “I made another one, too, for trade. And I have another one of the gauntlet model, too. It’s probably the best product I can be working on right now, because they’re incredibly useful. Sera doesn’t get one because she doesn’t need one — she already has a contract-based attunement. But for any other students in our age range, they’re super useful. I can probably make one that’d be helpful for more powerful people, too, but that’ll require more time and work.”
+
+“…I guess that makes sense. But if I can’t fight right now, maybe you should give this to Mary or something?”
+
+I shook my head. I hadn’t even really considered Mary an option, although admittedly she wasn’t a bad choice for the second sigil I’d made if I didn’t want to trade it to someone. “No, I’d rather keep these to people I trust for the moment, unless I decide to trade one to someone for something extremely valuable. I’ve touched on this before, but any kind of exercise item like this is huge, and I haven’t heard of anyone making one in exactly this style before. Vellum has made other types of exercise items, but they’re like Citrine-level stuff. This is doable — and mass-producible — at my level. That’s a big deal. Meltlake originally wanted me to keep them entirely hidden for a while, until we figured out what to do with them, but the war changes things. My next sigil will likely go toward a trade with one of our allies for some of their own enchantment designs or some kind of promise of additional military help. Whatever I can bargain for.”
+
+“And you’re sure you want to give me something that valuable?”
+
+I nodded. “Yeah. I trust you. Also, I’d like your help with something in exchange, if you don’t mind.”
+
+She raised an eyebrow at that, but at least she didn’t seem angry. That was good. My strategy seemed to be working. “What could I possibly help you with right now?”
+
+“I’m thinking about swapping out the mana type in one of my shield sigils to enhancement to make it more effective against physical attacks. I have an enhancement battery, but it isn’t big enough to handle what I want. I was thinking you could help me with both upgrading the battery and maybe charging the sigil itself.”
+
+She gave me a slow nod. “That…seems easy enough. I can do that.” “Good. We can handle that later, but I can give you your sigil rightnow.”
+
+“You’re thinking of trading Farren for attunement vials,” Sera cut in, folding her arms. “That’s why you made two of them. You’re planning to see her at the Emerald Council.”
+
+…That was quick.
+
+I turned to Sera, only mildly abashed at my motives being so transparent. “Yeah, that was my first idea. One or two vials might be enough for me to eventually reverse engineer the process of making them.”
+
+“Which she’d know.”
+
+“Sure, but she was willing to trade you vials for Ceris. She must have known some of those would end up with me to analyze, if you’d gonethrough with it. She can’t have that strong of a theoretical opposition to me learning this stuff.”
+
+“Maybe not, but Ceris is a divine artifact from a dead planet, Corin. Your Null-Contract stuff is creative, don’t get me wrong — maybe even innovative enough that she hasn’t thought of it already, I’m fifty-fifty on that one — but it’s not a god sword.”
+
+“Okay, fair. But I don’t think it’d hurt to ask. And if she’s not interested in a direct trade, I might find others who would be interested.”
+
+“It absolutely would hurt to ask, Corin. Admitting the existence of something like what you made is already half-way to allowing someone like Farren to build it. And if you trade it to someone else, they’d likely be able to reverse engineer your device themselves.”
+
+I shrugged. “Yeah, obviously. That’s going to happen the minute anyone outside of our inner circle gets one. Originally, I was planning to wait until I found the perfect time to unveil these — they’re that significant — but we’re not going to get a much better chance for trading high-value stuff than the Emerald Council. Even Meltlake seemed to agree on that. I’ve considered just trading to Elora, but she has a contract attunement herself, so it’s not as valuable to her.”
+
+“Not directly, but she has an entire household to look after. And I’m sure she has Enchanters in her employ. It would be worth a great deal if they could replicate it. Have you considered taking steps to prevent replication, like extra runes or enchantments to obfuscate how it works?”
+
+I frowned. “Actually, yes, for the current ones that I’m giving out directly to our group. Although…in the long term, I don’t know if I want to limit people from copying these. It’s helpful for people. It’s the type of thing that I’d rather everyone have, not just a few people.”
+
+“Always such an idealist.” Sera sighed. “We can discuss that more later.
+
+For the moment, we’re being rude. Mara, would you like the sigil?”
+
+Mara looked back to me, then nodded firmly and extended her hand. “I’ll put it on right after you leave. Thank you, Corin.”
+
+“After I leave? Wh— oh, right. Yep. Lemme explain a bit more about how it works…”
+
+After that, I gave her a quick tutorial, handed her the sigil, and headedoff.
+
+It felt good to help someone. And it was going to feel even better when Ifigured out how I could help everyone.
+

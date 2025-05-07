@@ -1,0 +1,264 @@
+CHAPTER XXVII – THE PROBLEMS OF PROGRESS
+
+It was with great satisfaction that I set down the last of my set of base mana batteries. With a full set, I had the foundation to build a truly great variety of enchantments. I didn’t have many for compound mana types yet, but I’d started doing the research necessary for figuring out how to mix base types into compounds to generate those as well. That would be a much more extensive project, but for now, I already had plenty to work with.
+
+It bothered me that the mana batteries weren’t all the same capacity, but that was a necessity. Derek had been able to assist me with some of them and I hadn’t been willing to pass up the opportunity to make those as large as possible. I still couldn’t manage Emerald-level containers for Derek to fill – not even close — but I had enough mana to just barely build low-end Citrine-ones. It was fortunate that a container required a lot less mana than the attunement level itself – I was still nowhere near hitting Citrine-level myself, even with both of my mana pools combined.
+
+Not yet, but with my next project, it might be a lot faster.
+
+I shoved aside my research notes on Mr. Stabbington and other void mana items. I’d done some work on them and built my first functional prototype, but I hadn’t finished it just yet, and I had something more immediate to focus on.
+
+I exhaled a deep breath, then began to carve unfamiliar runes into the metal plate set into the back of a glove. My notes were laid out on the floor nearby, but I barely needed them. As my attunement’s power had grown, my memories seemed sharper and easier to recall. That was useful for remembering the right runes for any situation, although I did still find it disconcerting that my attunements were clearly gradually altering how my mind worked.
+
+Nothing to be done about that. Just keep working.
+
+And work I did. Etching the runes didn’t take long, but that was the easy part.
+
+I charged the basic functions using mana from my battery set. The most important function was something I couldn’t have supplied the mana for with my own body, and required drawing from one of my few compound mana batteries — spirit mana.
+
+The spirit mana was required for one of the first compound runes I’d ever worked with. Rather than being a simple function rune, recharge rune, or capacity rune, this one included all of those features built into a single rune. That’s actually an over simplification — it had multiple functions, rather than just one. In order to make that work, I had to charge the rune, then write all the sub-glyph functions directly into that single rune.
+
+Why was I doing it that way, given my general preference for separate runes for each component of an enchantment?That was simple — I was matching how an attunement worked.
+
+The very idea of that was terrifying. I was, for the first time, effectively rebuilding a critical function of an attunement that wasn’t my own. And not a simple one: it was one of the most complex and dangerous attunement functions in existence. Deviating from the design of the attunement itself more than necessary was a risk I wasn’t willing to take, not until I’d at least replicated the basic design. Even tinkering with this was, in many respects, probably a terrible idea. It was far more advanced than anything our classes covered, even the third-year Enchanting class.
+
+But if it worked…I tried not to get too excited. Or terrified. I had a hard time avoiding either.
+
+To ease the process of sub-glyph writing, I cheated judiciously. I held a pile of memory crystals from Researcher, each of which contained memories of my review process foreach of the individual attunement sections I was working with. Rather than rewrite those functions manually, I simply copied them over mentally, just as I’d practiced with working on creating my internal Spessartine and Peridot functions.
+
+I worked long into the night. Copying functions was comparatively simple work, but I needed to check and recheck each element of the sub-glyphs for any errors that occurred in that process. Beyond that, I had to verify the functionality of each individual baseline function — the simple stuff like the capacity and recharge functions.
+
+I would never be satisfied that it was all correct. Not on my own. So, I invited a visitor to my room. “How does it look?” I asked.
+
+“You need to give me a few minutes, Corin.” Cecily raised a hand. She looked exhausted, but excited to help. “My specialization helps with this, but I’m still not as experienced with sub-glyphs as you are. They’re not my primary area of study. I’m casting error checking spells section-by-section, but I need to be able to identify the sections first, and you don’t use the same kind of section markers that attunements do.”
+
+Oh. Oops.
+
+I was building attunement-style functions into the enchantment, but I’d sort of…skipped writing anything into the attunement to serve as filters or organization functions. I had my own internal way of categorizing everything, but that, uh, wasn’t very useful for other people looking at my enchantments.
+
+It was good for security, I suppose? Let’s go with that. Anyway,  Cecily  was  kind  enough  to  check…and  re-check…that I hadn’t made any obvious mistakes.
+
+“It looks correct. Within the boundaries of ‘correct’ that we can establish, that is, while trying to emulate something we don’t fully understand.” She handed the glove back to me. “Are you sure this is a good idea?”
+
+“Absolutely not.” I shook my head. “Positions?” She nodded. “Science will remember you.”
+
+Then she took her position behind the blast shield and I turned my Null Contract Gauntlet on.
+
+I felt something shift inside my essence structure. I probably wouldn’t have noticed it much if I hadn’t been practicing my star vein and Dianis Point exercises, but with most of a semester worth of training, it was incredibly obvious and jarring. A section of my mana was being redirected straight into the new device, which I was wearing in direct contact with my Arbiter attunement. This probably wasn’t strictly necessary, but it did need to be in direct contact with my body in order for the functions to bypass my skin’s natural defenses to function properly.
+
+I panicked briefly at the feeling, my hand trembling as I resisted the gut urge to turn it off. Instead, I turned my mind inward, focusing on the flow of the mana as it cycled slowly into the glove, then right back out, like the newly-forged glove was an extension of my body’s own essence structure.
+
+It was, in effect, almost like I’d built a prosthetic version of an external Dianis Point, then set my essence to flow through that in addition to those in my body. This was the best way that I could accomplish my goal—I’d successfully faked having a Summoner-style contract.
+
+Or, at least the first stage of it. Right now, I had a portion of my mana flowing into the glove to represent the “cost” of a contract, then that same mana flowing right back out into my body.
+
+Over the next week, I tested if that would increase my rate of mana gains by itself. The intention was to determine if simply having mana flowing out of the body into an external source and flow back was sufficient to foster the growth that a contract did, or if I needed a different type of mana flowing back in — much like Sera got different mana types from each contract — in order to accelerate growth.
+
+A week of testing wasn’t anywhere near sufficient for a definitive answer, especially due to the sheer number of other variables in my mana growth, but…instead of my prior average of my Arbiter attunement going up in safe capacity by 11 mana per week (which already accounted for both my Arbiter attunement and training), my safe mana capacity went up by…10 points.
+
+Less than usual.
+
+I panicked, of course. Had I broken my attunement?…I hadn’t, of course. That slight deviation was within the realm of averages, and I was trying so hard to avoid skewing my experiment results that I’d probably reduced my usual exercise a little to avoid false positives from the item.
+
+But with a slightly lower value, I probably wasn’t benefiting from the item. At least, not to a significant degree.
+
+So, I did something much more dangerous.
+
+After significant consideration, I altered the item to work even more similarly to a true contract — this time, drawing heavily from the new notes that Sera had given me for my Name Day.
+
+If it worked, the glove would provide me with a new usable mana type.
+
+Choosing which one to work with was surprisingly difficult— I needed to consider what was safest, what was most useful, what was available, and what would be most likely to produce attunement growth.
+
+Ultimately, I decided on spirit mana. There were a few reasons.
+
+First, humans already had some degree of spirit mana by default, meaning it wouldn’t be entirely foreign to my body’s essence structure. Next, it was a potent utility-focused mana type — with spirit mana, I could potentially learn how to actually make contracts of my own, rather than relying on items. I’d still need to build those functions directly into my attunement to make it work, but this would be a first step.
+
+Finally, I knew that Keras had grown in power rapidly after establishing a bond with Dawnbringer…and that bond included spirit mana as a primary component. I couldn’t be certain that the spirit mana itself was the primary cause, but from what he had shared in his story, it seemed to be at least a major component.
+
+After that, I needed to figure out how much mana to “exchange” with the item. I settled on a relatively low number at first — it would convert ten of my grey mana into spirit mana (with a small mana loss involved from the conversion process), then funnel it back into my body. The mana loss would be compensated for by the glove’s own mana supply and regeneration, effectively making the transfer process net-neutral, at least in theory. It was possible that in areas where the glove couldn’t get enough mana from the environment, it would fail to transfer enough mana, but that was a problem to solve in the future and one I didn’t think would be too dangerous. I built in some safety features to turn the glove off if my own mana dipped below a safe mana level, though, just in case.
+
+With that done, I tested it for a week—And my safe mana went up by fifteen points.
+
+I checked and double-checked the numbers. I could scarcely believe it.
+
+I’d seen growth rates like that before, but generally only during spire visits. If this was something I could maintain…it was an incredible find.
+
+My “average” weeks had some variation, of course, but even accounting for that…my highest spike outside of a spire visit in my recorded data was thirteen points. That meant a roughly fifteen percent improvement over my “best” standard week…and about a thirty-six percent improvement over my average week…just for wearing an item.
+
+But I couldn’t be certain it would stay that way, of course. So, I tested it for another week…And my mana went up sixteen points.
+
+With that, I went to pay Derek a visit. “I’m going to need more blank demi-gauntlet templates for everyone.”
+
+“Sure. I can handle that. Why?”
+
+I put a hand to the Null-Contract Gauntlet now worn on my hand. “I think I just broke our civilization.”
+
+***Two hours later, I’d explained what I’d discovered to Derek and the rest of the household…and I found myself sitting in front of Chancellor Meltlake.
+
+Not for punishment, presumably. No, because apparently my find was significant enough that Derek felt it was necessary to call her over immediately.
+
+…I guess she was due to come over for dinner, anyway.
+
+While Derek scuttled around in the kitchen, somehow dual wielding pans to flip pancakes, I sat at the dinner table across from the academy’s chancellor — and arguably the single most powerful ordinary human in our nation — telling her about how I was about to make her obsolete.
+
+“So,” she concluded, “you believe that this form of enchantment will allow anyone to eventually reach Emerald- level without doing any work?”
+
+I waved a hand. “Potentially. There are clearly other factors in play, otherwise every single Summoner and Soulblade over forty would already be an Emerald. I suspect living in a mana dense location is one of the main factors involved. It’s also probable that contract-based attunements don’t get the largely automatic power growth unless the user is periodically upgrading their contracts or establishing new ones to create a sufficient mana toll on their body. In the case of enchantments, the same would be true.”
+
+I paused for breath. “At first, I considered that this would require upgrading to higher-level devices periodically, but upon further consideration that may not be necessary. It would be more complex, but if I could figure out the necessary stress thresholds for how much mana a contractneeds to use in order to cause the exercise effect, I could have the device automatically adjust the amount of mana it cycles.”
+
+Meltlake raised an eyebrow. “From a financial standpoint, selling different models makes much more sense. You are planning to sell these, aren’t you?”
+
+I hesitated. “I…considered that, of course. I’m not good with people, but even I understand the market for this type of thing. If I was to patent it — which I probably could — and announce the existence of these devices, I would have far more demand than I would ever be able to meet on my own. Regardless of what I charged. Being able to automatically improve an attunement’s mana is that valuable.”
+
+“…These may be even more valuable than that. Can you actually use the mana the device is giving you?”
+
+I blinked. “Sure. I haven’t done much with it yet, since spirit spells are kind of obscure, but I found a better version of my existing Spirit Tracking spell that uses spirit mana. It works just fine.”
+
+“Corin, that by itself is something people would kill for.”
+
+I gave her a skeptical look. “That can’t be right. People can get access to other mana types easily enough — they just need items. I already have batteries for every base type. I haven’t really done a lot with it yet, but I could pull mana out of the batteries to cast spells directly if I really had to. That’s almost the same as having access to another type of mana…and it can’t be uncommon at higher levels, right?”
+
+Chancellor Meltlake sighed. “For a high-level Enchanter, perhaps, although you might be surprised how few of them bother with the effort necessary to have that kind of flexibility. But Corin, we’re not just talking about other Enchanters here. Your average person doesn’t own that many magical items…and even if they did, they couldn’t access the mana in batteries to directly cast spells. I’m not even sure your average Sunstone-level Enchanter could pullmana out of a battery fast enough to cast a spell with it. A Citrine or Emerald might, but there aren’t that many of those that bother with direct combat. They mostly work in manufacturing.”
+
+…It was easy to forget that my compounding transference mana from two attunements made my mana transfer rates absurd. “Okay, that’s…huh. Yeah, I suppose that would be a big deal. But there are limitations. I don’t know what mana types I could provide through these devices safely. I’m testing it with spirit because I assumed my body would be able to handle it. I don’t know what would have happened if I’d tried to, say, give myself something like lightning.”
+
+Meltlake nodded. “It might be dangerous, but that’s the type of thing that could be tested. Much of this needs to be tested in general. But you must understand that being able to access mana directly as if it is your own is superior to even your set of batteries example. If your body acclimates to the device, you should be able to convert your own mana into that type, much like Sera could with a contract. That means you wouldn’t be limited to whatever the capacity of the device itself is — and you could also intermix it with your spells freely.”
+
+Chancellor Meltlake’s assumption was clearly that I couldn’t already do that from batteries…and I wasn’t actually sure about that. I thought that, with sufficient understanding of how mana conversion worked and practice, I probably could have managed to use a “sample” of mana from an external device to convert some of the mana in my body into that format. I’d probably have to tweak my attunement to add a new feature for converting to that specific mana type, but it didn’t sound impossible.
+
+…That was, admittedly, both speculative and an unusual case. One that required the ability to analyze mana structures and modify attunements in a way that your average attuned simply couldn’t do.
+
+I didn’t bother to explain that. It wasn’t important. The important part was that my invention was, in fact, even more valuable than I’d realized. “Okay…I get it. I’m basically giving people the same benefit as hitting Citrine-level, functionally, but through a device. And the possibility of choosing a mana type, assuming I had a variety of devices for sale.”
+
+“Precisely. You have the potential to make something that every attuned in the world would want. What do you intend to do with that knowledge?”
+
+That was the question, wasn’t it?“I’m still deciding, but at the moment…I’m considering explaining it publicly and distributing the plans freely.”
+
+She nodded. “And then charging a licensing fee to anyone who wants to build them?”
+
+“…No. I mean…no, just no. I could go that route, but… shouldn’t this type of thing be shared with everyone? It’s like what you did with telling everyone about house secrets. Dianis Points and star vein exercises have already transformed our academy — in a good way. If I could contribute to that, then…”
+
+“You have a good heart to be thinking in those terms, Corin, but there are a litany of issues with taking that approach. Not necessarily unsolvable ones, but you may not like the solutions.”
+
+“What do you mean? Are you talking about other people trying to patent my idea if I don’t do it myself?”
+
+“That is one issue, yes, but a solvable one — you could theoretically patent something and then make it public domain deliberately. I was speaking of issues I consider to be greater. First, you have only done the bare minimum of testing. Announcing this now creates the risk that people go off and make their own models — and people get hurt as a result of elements you have not yet tested. You explained that you have only tested this with spirit mana — what if other  types  are  more  dangerous?  You  hold  a  degree  ofresponsibility for any harm that comes if you announce this prematurely and others make devices that cause harm.”
+
+“Ah. That, uh, yes. That’s true. I just…sort of assumed that people would do their own testing, and that…ugh. Yeah, okay.” I frowned. “What else?”
+
+“Quality control. This is an even greater issue, Corin. You have to be aware that the safety of your devices is contingent on your purification function. Any random Enchanter making something analogous to this is going to poison people.”
+
+“...Sure. But there are mana purifiers. They’re expensive, but they exist. And Citrine-level Enchanters and higher can learn to purify their own mana. It’s a lot of work, but you don’t need an Arbiter attunement to make something like this.”
+
+“Do you think that would stop other Enchanters from trying to make them without meeting those requirements?”
+
+I paused. “…Yes? Maybe? I…don’t know. I know people cut corners sometimes, but…this is so basic. ‘Don’t make a product that poisons people.’ Why would anyone skip that basic of a step?”
+
+“Because the profit potential from building these types of devices vastly outstrips the potential for the costs of legal fees from disgruntled attuned who find themselves poisoned by the mana. A large enough enchanting factory will already have legal practices in place for this sort of thing. They’ll have a variety of approaches. Settling out of court for a fraction of the profit they’re making on the devices. Claiming that their devices aren’t the cause of the poisoning— it would be difficult to prove. Deflecting blame to you for the original design. It’s highly probable that you’d end up spending time in court trying to argue against misinformation and propaganda spread by companies with vast influence over the public consciousness.”
+
+“…I…” I wrung my hands in the air, then gave a defeated laugh. “…What do I even do about that?”
+
+“You need to do more testing before you make this public. Significantly more. And beyond that, you need backing — which will also help with your other major problem. If you really intend to make this public, you’re going to make yourself one of the largest targets in existence for people like the Sons of Valia that oppose the broader distribution of power.”
+
+“One of the largest targets aside from you?”
+
+Meltlake smiled. “I’d like to think I’d still be a little higher on their list, but you’d be a close contender. And more importantly, you are, unfortunately, a much easier target.”
+
+…Without Keras, I certainly am.
+
+I pushed aside the feeling of hurt that came along with that thought. “Anyone would be an easier target than you are. But I’m here, living with an Emerald. I can’t get too much safer.”
+
+“You’re thinking purely of people who can defend themselves in a physical fight. That’s not unwise, but there are other types of protection to think of — most notably politically. You may be a noble, but your position in your household is…”
+
+“I know.” I shook my head. “That’s a whole other issue, I don’t want to get into it. But if you think I need political shielding…I don’t know. Would simply publicly announcing myself as the Arbiter of Katashi be good enough?”
+
+She seemed to consider that. “No. If you were the Arbiter of Tenjin, it might help to a degree, but Katashi is a foreign visage. If you took that approach, they would simply spread propaganda that you were under the influence of a foreign power. Maybe imply that your devices are somehow involved in a conspiracy to overthrow Valia by foreigners.”
+
+“That’s ridiculous!” I rubbed my temples. “How would that even work?”
+
+“For people who don’t understand how enchantments work, it would be easy to sell them on the idea that, say, your devices have some kind of mind-control component.”
+
+“But…but…I was going make the device plans public! Anyone could make them! How would I include mind control in that?!”
+
+“You couldn’t, of course, except perhaps in the ones you built yourself. But that isn’t the point, Corin — all they have to do is raise doubt that your devices are safe, or that they’re corrupted in some way by a foreign power, or that they’re against Selys’ will. Word of mouth will do the rest, unless you have similar influence to spread the truth. And even then, you’re in for a battle.”
+
+“I…don’t know if that’s a battle I can fight.” I hung my head. “I…I just wanted to make something that helps people. Why is that so hard?”
+
+“I’m sorry, Corin.” Chancellor Meltlake looked pained. “I truly wish it was simpler, but it isn’t. This is the world we live in. We need to make what we can of it.”
+
+“…Should I just give up, then?” I gave another stressed laugh. “Just give these things to my friends? Hoard knowledge? That’s just…so pitiful.”
+
+“You should never feel bad about just doing something to help the people you can help, Corin, even if that doesn’t extend to everyone in the world. Starting with the people you trust is a good idea — you need to do data collection somehow. But if this feels like it’s too much, there are alternatives.”
+
+I felt my hands tightening. “…Yeah. Like selling to Farren Labs.”
+
+“Or any other large enchanting factory, yes. They would have the resources necessary to fight the issues of public perception you’re dealing with.”
+
+“But they might cut corners and hurt people, like you mentioned earlier.”
+
+“Absolutely. Some companies would. If you chose to take that route, you would be wise to patent the idea first, then speak to several companies to see who you believed would do the best work — and offer you the most in return. There’sno shame in benefitting from your own invention. You could use those resources to help make more discoveries.”
+
+“I guess, that just…feels dirty. I don’t know. If propaganda is the main problem, isn’t that something you and Derek could help me with?”
+
+“We would do what we can, of course, but you do realize we have other responsibilities?” She smiled.
+
+“…Of course. I didn’t mean to impose, I just…”
+
+“It’s fine. You’ve helped me, and you’re trying to do what you can to help benefit society in a way that mirrors my own action. I respect that, and of course I would do what I can to support you. You must understand, however, that I have my own enemies to deal with, my own battles to fight. And my resources are not what they once were.”
+
+I was wise enough not to say “because you’re no longer in House Hartigan”. I was curious about what happened there, but it wasn’t the right time to ask. “If I didn’t want to go through a corporation, and you don’t feel like you’d be able to give it sufficient time to handle it on your end, what other route would you suggest?”
+
+“You could consider tying yourself to a stronger house. Adoption might be an option, especially if you choose to leave House Cadence outright.”
+
+I froze. “…Adoption? Who would…I don’t…”
+
+“You live with one of the most powerful members of House Hartigan. I’m sure Derek would consider it, if you wanted to go that route.”
+
+I winced. “No, I…I don’t think…”
+
+I liked Derek, but…he wasn’t family. Was he? I didn’t think so.
+
+Tristan was family. My parents were, as much as they might have hurt me.
+
+Sera was family.
+
+More than any of the others, in that moment. Was…there anyone else?Who cared for me? Who treated me like family?My mind flashed to Patrick’s effortless laugh. Mara raising her fists and throwing me a wink to signal the start of our latest match.
+
+…And a masked swordsman who had offered to fight my father.
+
+Were they…family?I didn’t know the answer to that. But I did know that I wasn’t ready to give up my name.
+
+Not without a fight.
+
+I shook my head. “That would be very kind, but I don’t think it would be right for me.”
+
+“Very well. Then there’s another possibility — have you considered a political marriage to a powerful family?”
+
+I nearly choked on my tea. “I…uh. No. I mean, I technically have considered it, I mean, when I was a child, Cecily and I might have…”
+
+“House Lambert might not be a terrible option,” Chancellor Meltlake mused aloud. “They’re wealthy and well-connected. If not, Derek does have several unmarried cousins your age. And you do have established connections with House Theas as well.”
+
+I nearly knocked my cup over entirely as an image of Sheridan Theas in a wedding suit flashed in my mind. “Ah, I, don’t think I know Deni well enough to…”
+
+Chancellor Meltlake flashed me a mischievous smile. “I didn’t say anything about any Theas in specific.”
+
+I blushed so brightly that I looked like my skin had just hit Carnelian-level. “I, uh…I think both of the Theas siblings I know are a bit too old for me, so…”
+
+“Five years is a lot at your age,” Meltlake’s smile broadened, “but when you’re twenty-five or thirty, it might not seem like quite as big of a deal.”
+
+“Uh…let’s maybe, uh, not talk about that more. Or ever again.”
+
+“Of course. It was just an option.” She maintained her knowing smile.
+
+I just…sort of buried my head in my hands for a minute. “Dinner is served!” Derek declared, rescuing me fromfurther discussion as he slid a plate across the table to each of us.
+
+“We can take a break from this talk to eat, then. Thank you for cooking, Derek.” Chancellor Meltlake picked up her utensils and began to cut her food.
+
+“My pleasure!” Derek grinned. “Thanks for coming to visit. Of course, I could always invite the Theas family next time if you’d like to make further arrangements…”
+
+I briefly considered if it was possible to hide under my plate.
+
+Fortunately, after that bit of teasing, Derek simply summoned the rest of the household down to eat. I paid little attention to the food and excused myself for the conversation that followed. The food and company were excellent, but I had a great deal to think about.
+

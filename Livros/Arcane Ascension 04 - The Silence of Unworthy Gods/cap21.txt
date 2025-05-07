@@ -1,0 +1,506 @@
+CHAPTER XX – SCARS OF THE SONS
+
+Saffron practice went about as well as Mizuchi practice did — meaning that Keras basically just beat us all to the ground. Again, and again, and again.
+
+After one round, he offered me a hand to help me to my feet. I grunted and let him drag me upward, wobbling a little on my feet.
+
+“Sorry, might have gone a little too hard on that round. I can’t simulate his magic absorption, so I have to focus on just overwhelming you with speed and power.”
+
+I winced, stretching my back. “Meaning that the real Saffron would be even harder to deal with.”
+
+“Oh, of course. Please, don’t take any of this training as being remotely close to how dangerous a real encounter would be. If Saffron is actually serious about an encounter, he’ll be throwing around all sorts of magic that I can’t duplicate, even with borrowed toys.” He waved a black- gloved gauntlet for emphasis. It was one of Derek’s new Soulblade items, one that used shadow and void mana to nullify magic. That let Keras negate magic in a fashion similar to how a Child of the Tyrant might, but as he’d mentioned, it didn’t have any absorption powers — it was more similar to Mr. Stabbington’s void aura.
+
+Tristan could simulate it more closely, I considered. His attunement is…weirdly similar to what the Children of the Tyrant can do.
+
+I’d considered that before, of course, but I hadn’t found anything that connected the origins of the Sovereign attunement to the Children of the Tyrant. Presumably it had something to do with the “like deflects like” rule — maybe Selys wanted her strongest followers to be able to counter the Tyrant’s power theft abilities.
+
+…At least, I hoped that was the reason.
+
+Patrick groaned and lifted himself off the ground. Mara and Derek were already on their feet, but Sera remained seated on the ground, looking introspective.
+
+“…How would you handle a Child of the Tyrant, in our position?” She asked Keras.
+
+“If you mean to ask what the wisest approach would be— well, I wouldn’t. Fighting a Child of the Tyrant is a losing gambit. Even if you somehow manage to ‘win’, you’ll just earn the enmity of the others, including ones you can’t possibly hope to handle. Aayara. Jacinth. Their lieutenants.”
+
+“Obviously, yes, that part is clear. But how would youhandle it?”
+
+Keras gave her a weak smile. “I’m not known for making the best of decisions when it comes to challenging overwhelming opponents.”
+
+“But you’ve done it — and you’ve survived.”
+
+“Barely.” He folded his arms. “And I have unfair advantages.”
+
+“Would you beat one of the Children of the Tyrant without your sword?”
+
+Keras frowned, seeming to consider that. “Depends on which one. They’re not ubiquitous. Aayara or Jacinth? No. I likely couldn’t touch them, even with my sword. Not the way I am right now, at least. For weaker children? Maybe. Sterling, when I first fought him…yeah, I could probably handle that fight without my sword now, even if I was by myself. But that’s an edge case — Sterling was young and overconfident. Circumstances would matter a great deal. I’d want to act quickly, not give them a chance to adjust to my own abilities. Even then, there’s very little you can do to predict how a vae’kes will react to an attack. Their abilities can change from day to day.”
+
+“…Very little isn’t nothing,” I pointed out. “Are there any constants to their abilities, aside from their absorption powers?”
+
+“Not really. I mean, some of them have strong preferences. As far as I can tell, some of them keep some of the same abilities and build them over time. Sterling always has strong defensive powers. Saffron always has overwhelming regeneration. Aayara is known for stealth, concealment, and illusion. She toys with people. Jacinth kills people before they have a chance to respond.”
+
+Sera and I seemed to come to a thought at the same time. “…If they tend to focus on a specific suite of powers, does that mean they have difficulty absorbing the opposites?”
+
+Keras shook his head. “Maybe a bit, but it’s not impossible for them. If anything, they seem to have the most difficulty absorbing mana of types that directly opposes their fundamental power. Even that isn’t reliable, since—”
+
+“Wait, back up.” I put my hands up. “Is there actually a single mana type that they draw their power from?”
+
+“…It’s a little more complicated than that. You could call it a mana type, but it’s an extremely complicated composite. And before you ask, I don’t know the exact composition, nor how to make the opposite. People have tried to figure that out for centuries. Maybe someone has succeeded, but everyone I’m aware of that might have that information is either dead, missing, or an infuriating sage of misinformation.”
+
+“But you’ve fought a couple of them, right? You must have noticed some patterns.”
+
+“Sure. I’ve told you most of what I know already, but…” “You want us to run.” Derek finally spoke up, laughing alittle. “You don’t want to give us anything that sounds like an overwhelming advantage, because we might get too confident and try to fight when we shouldn’t.”
+
+“…I’ve seen what happens when people try to fight vae’kes. I’ve lost friends. It’s not—”
+
+“We’re not going to be like that.” Sera finally pushed herself to her feet and brushed herself off. “We’ll retreat if we can, but you know as well as anyone that a vae’kes on the hunt isn’t going to stop just because we run a block. We’re safest if you give us the tools necessary to protect ourselves — and information is a critical part of that.”
+
+Keras looked down, breathing deeply. “…I’m not trying to withhold information. But if I tell this to you, there needs to be an understanding that it’s not any kind of critical key to victory. It’s one tiny advantage that is easily accounted for, no matter how significant it seems.”
+
+Mara groaned. “We get it, just spit it out. Suspense is killin’ me faster than any child would.”
+
+“This isn’t a joke, Mara.” He gave her a stern look. She just wrinkled her nose at him. “But fine. It’s straightforward and along the lines we’ve already discussed. When I was first preparing to fight Sterling, Lydia indicated to me that most vae’kes, historically, have a difficulty dealing with light mana. It’s believed that prime dominion — or base mana type, as you’d call it — is the most directly antithetical to the primary base mana type that the vae’kes use. It’s not even a huge secret where I come from — Vae’lien himself is known to be associated with shadow, and his principal rival among the Tae’os Pantheon was known to be associated with light.”
+
+“Meaning that widespread knowledge may be erroneous, or simply a matter of propaganda?” I asked.
+
+“I don’t think so,” Keras shook his head. “Although I’d be shocked if most of the stronger vae’kes don’t have countermeasures. Sterling used void sorcery to counter any magical attack that was strong enough to threaten him, for example. I’ll bet that most children have tricks like that.”
+
+“Does that mean that other light composites are also effective?” Sera asked.
+
+“Very likely, yes. Aladir Ta’thyriel had a spirit mana sword, for example, and seemed to think it would work —but I have no idea if it actually would. I suspect that Ceris worked against Saffron because the sword’s fundamental properties are strongly associated with constellations, which is another light mana composite. Ceris also interferes with certain types of stealth and concealment magic, even things as powerful as my mask, which also makes it useful against people like vae’kes. They tend to love things like shadow and deception spells. Illusions, invisibility, that sort of thing. The problem with swinging a light sword at someone like Saffron is…” He winced. “They have a habit of responding badly to threats. And swords, no matter how precious, can be broken.”
+
+I immediately had to wonder if he was implying that a Child of the Tyrant had broken Dawnbringer. If that was what had happened, that certainly would go a long way to explaining his reticence to tell us this secret — it would be easy for us to get overconfident and watch as Selys-Lyann or Bright Reflection were broken in pieces.
+
+But that’s just weapons.
+
+I’d already made a couple items that generated light mana, but if I increased my attunement level, I could learn how to use it directly.
+
+…Or maybe I could skip that first step.
+
+“What about your personal battles? Did you ever use light against one of them?” Sera asked.
+
+That was a more political way of pursuing the issue further than I would have been able to construct.
+
+He hesitated, then finally nodded. “Sure. But it was never my primary weapon — I don’t think I’ve ever fought one of the vae’kes without having my sword, or at least my aura. I’ve seen others do it, though, and I’ve seen it both succeed and fail. My best advice? Take this knowledge and use it to enhance your tactics for ensuring a retreat. Flashes of light for disorientation, walls of light — find ways to buy yourself time. And remember — always remember — you don’t wantto back them into a corner. The only winning play is one that lets you live another day.”
+
+***Weeks passed. Classes continued, but always with an undercurrent of tension and suspicion as the Sons of Valia continued to strike. I found myself constantly wondering which of my fellow students were affiliated with them, if any— and as my gaze narrowed upon those of the oldest and most powerful families, I felt the eyes of others settling upon me as well.
+
+The eyes of nobles, sizing me up for recruitment. And the eyes of those vulnerable folks who saw me and thought they might be one of my victims.
+
+That hurt, knowing others might think that I might be affiliated with the Sons of Valia…but it absolutely made sense. House Cadence wasn’t old, but we were closely tied to Valia’s military…as well as our victory over a foreign power.
+
+There were at least two or three incidents where I suspected someone was testing me with a seemingly innocuous phrase that might have been some kind of recognition code for members of the organization, but nothing that was certain. No one reached out to recruit me during that time, at least not in any way that I noticed.
+
+Maybe whoever was pulling the strings knew that I wouldn’t be interested…or maybe I just was beneath their notice. I wasn’t sure if I should be insulted or relieved.
+
+But Sera was right — I watched and waited, and I did very little. Once, while walking with Sera on the way to class, I saw someone shoved hard into a wall, with an “oops” and a laugh from the aggressors. I…think I heard someone spit, then they laughed and walked off while the victim dusted herself off—I stepped forward, then recoiled when I realized that the victim was Satsuki.
+
+She didn’t look like a monster, then. Not a legendary serpent, descendant of a god beast. No armor, no glowing blade. Just…a girl in her school uniform, wearing an expression of confusion and hurt.
+
+But I still didn’t move to help her.
+
+Sera must have seen my hesitancy. My fear. She must have understood that just seeing Satsuki reminded me of how close Mizuchi had come to killing us both. “You can get to class. I’ll check on her.”
+
+“But—”
+
+“I’ve got this one. I’ll make sure she gets where she’s going and knows there’s someone she can talk to if she needs it. Don’t worry. I’m not a likely target, and I’ll message someone if I get into trouble.”
+
+I frowned, hesitated again…and then I nodded and kept walking and let someone else deal with the problem. I had my head held low the entire way to class that day, and I couldn’t focus on anything in the lesson.
+
+I was too disgusted with myself.
+
+I’d turned away from helping an innocent because she looked like someone I was afraid of. Sure, I’d fought with Satsuki herself in the Survival Match, but there’d been no animosity in that — she’d been giving a performance, just like I was. It was little different from sparring with a stranger for the first time in dueling class, but I was so caught up in her being a serpent — someone who wasn’t like me, someone who looked more like my enemy — that I was afraid of her. Terrified that something in her very nature made her dangerous.
+
+I loathed what the Sons of Valia were doing, but in that moment, I hadn’t been much better.
+
+Sometimes it takes a moment of shame to get someone to do the right thing.
+
+If I was considered a candidate for recruitment for the Sons of Valia, that probably ended as soon as I attended my first protest march.
+
+Yes, attended. Originally, I’d thought to offload my moral burden by making the signs and just…handing them off to other people to carry.
+
+But…if I wasn’t willing to do something a little bit uncomfortable in order to help make a difference, was I really capable of saying I was doing the right thing?So, I got help finishing the signs, distributed most of them, and then carried one myself.
+
+…I still made plans to avoid being touched by strangers. Had my friends watch out for me, planned escape routes and placed my teleportation anchor, worked on a spell for creating a gentle emanation of transference around my body to lightly push people away.
+
+In the grand scheme of things, I knew the presence of one more body at a protest wasn’t really going to make a difference — I mean, not unless it turned into a brawl and I had some kind of physical ability that helped contribute, but that was exceedingly unlikely. Really, it was more that it was just incredibly simple for everyone to say that “one more body won’t make a difference”, and if everyone said that, nothing would be accomplished.
+
+So, I resolved to help as a part of collective action. It wasn’t that I was individually swinging tides — I didn’t have to. I just had to do my part, and hopefully, everyone as a whole could make a difference.
+
+So, I went. It was hard. Scary. But…I felt good, having done it.
+
+And Derek made great sandwiches, which was a plus.
+
+I just wished it was easier to know if we were making a difference.
+
+The Sons of Valia attacks still continued. Subtler things than the attacks, too. I saw small things in classes, all the time — the glares of undisguised hatred at people who didn’t look Valian, the graffitied propaganda on building walls, the derogatory comments spoken just loud enough for vulnerable people to hear. Protests certainly weren’t goingto scare them. But the protests weren’t just to show our dissent to the Sons of Valia — they were for the people who were vulnerable to know that they weren’t alone. And, perhaps, for the people in positions of greater power to see that there was enough opposition to the Sons of Valia that it was worthwhile for them take steps themselves.
+
+Most of my classes went smoothly. I had little difficulty in most of them, with my third-year Enchanting class and dueling class proving to be the only major challenges.
+
+The third-year Enchanting students were clearly more than standard graduating students — they’d likely been hand-picked for being exceptional talents. That made me feel a little out-of-place at first, but in spite of some initial difficulty, I didn’t actually have much trouble keeping up with the discussion once I acclimated to it. The style of the class was more open-ended than most, with less lecturing and more general discussion between the students and teacher. I didn’t know if that was typical for more advanced classes or if it was just an element of this particular professor’s style. Either way, it was much more engaging than just sitting in a class and listening to chatter. The clearest tangible benefit was people to bounce ideas off of, and I got some useful ideas on how to work on void mana items, including some specific materials with compositions that would tolerate void more easily than standard metals.
+
+Dueling class was, as usual, both my favorite class and the most stressful.
+
+On the second week, we picked our team names. I was terrible at that sort of thing, but after our first set of matches involved disabling a series of magical traps around the arena and repurposing them, Patrick helpfully suggested, “Team Luting the Rune”. It was a terrible pun, but Lute thought it was absolutely hilarious for some reason, so we went with it.
+
+Sera’s team ended up as “Team Unbalanced Scales”, which was presumably a reference to her contract withSeiryu, but I didn’t actually bother asking. They were certainly unbalanced in terms of overperforming — Mara was able to handle some entire teams on her own.
+
+The two third-year teams were “Team Goddess’ Grace”, which seemed like a pretty generic and inoffensive name, and the much more concerning “Team Bloodline”, which practically advertised their likely associations. Sera actually asked Teft about that, but he claimed that nothing could be done about their potential membership in the Sons of Valia without direct evidence. Apparently he confronted them about it at some point, and they said the name was “just a joke”.
+
+Ugh.
+
+Both third-year teams had elements that I found worthy of some worry and planning.
+
+Team Goddess’ Grace’s leader, Vernon Tenson, was a rare publicly-known dual-attuned with Guardian and Legionnaire attunements. The compounding effects of two front-line combat attunements made him an absolute terror in the arena. To compound that further, he wore a suit of old- fashioned knightly plate armor and carried a tower shield, both of which were heavily enchanted. In most matches, no one could even scratch him.
+
+His team members weren’t quite as obviously absurd, but they synergized extremely well with his defensive focus. Sandra Stone was a Sunstone-level Summoner with an opposite approach to most of the ones I’d met — she had a broad variety of low-level contracts rather than focusing on powerful individual ones. This gave her access to a truly staggering variety of mana types, as well as numerous monsters to deploy based on the circumstances on the battlefield.
+
+Their third member, Micha Sawyer, was a Sunstone-level Diviner with a rare enhancement mana specialization. I strongly suspected that Roland was working toward the same thing, but he hadn’t manifested the mark change thatMicha had yet. With an enhancement-specialization and the shroud-enhancements from Vernon’s Legionnaire attunement, Micha was nearly as resilient as their team captain, but also terrifyingly good at evading attacks.
+
+Together, the three of them were extremely dangerous, but Team Bloodline was arguably even more stacked.
+
+Their leader, Jeremy Jaldin, was the older brother of Jordan Jaldin, who I’d met in the previous year. They must have been born in the same year, since Jordan was a second-year student during our final exams. While I could see the family resemblance, Jeremy had a very different demeanor. He was his family heir and he acted like it, barely seeming to tolerate the presence of non-nobles in the class.
+
+His nobility wasn’t the only source of his attitude, however. Jeremy was a Shaper with the single highest mana level I’d seen in a student. He was still a Sunstone, but when I checked his aura, it was already close enough to Citrine that it had visibly shifted most of the way to yellow. I didn’t know if that meant he’d earned his attunement early like Derek and Elora had or if he’d simply managed to advance massively quickly. Either way, a Shaper at that level was an absolute terror in a dueling environment, and he was capable of single-handedly shutting down many of the second-year teams with shaper boxes and conjured constructs.
+
+Their second member, Tyler Sanctum, was a rare case of a local who had ended up with a foreign attunement — in his case, the Spellsinger. He specialized in wide-area spells and sound-based attacks, the latter of which tended to be almost impossible to counter at our level due to their near- invisibility and the speed at which they moved.
+
+Their final member was Matthew Coin, was a Sunstone- level Elementalist with an air specialization mark. That seemed like an unintuitive choice until I watched him asphyxiate an entire team into unconsciousness without even triggering their shield sigils.
+
+…That was more than a little terrifying. I was glad we had an Elementalist of our own, but “build breathing items” was quickly added to my list of items to make.
+
+In spite of my disgust with Team Bloodline’s name, they performed toward the top of the class. I say “toward”, because the highest performer wasn’t a third-year team, but a more mysterious group of second-years—Team Skyseeker, led by Mary Hawthorne.
+
+Mary was the archer I’d seen at the Winter Ball. Through several matches, she used the same light arrows that I’d seen at the ball, and I realized they weren’t just light magic. As one of her arrows pierced through a summoned gargoyle’s arm, the gargoyle vanished instantly — something that shouldn’t have happened from a mere glancing wound.
+
+Banishment. She’s an Abjurer, like Professor Vellum — or she has a similar power from an alternate source. Maybe the bow itself?Abjurers weren’t something I had studied extensively, but I did pick up bits and pieces in both my reading and my Foreign Attunements class. They were exceptional at countering Summoners and similar contract-based attuned through banishment — which would send summoned creatures and many types of elementals — back to where they originated from. Beyond that, they also had “sealing” magic, which could reduce an opponent’s abilities or prevent them from using specific types of magic entirely, depending on the specific spell or ability used. The former ability was more dangerous to Sera’s team, whereas the latter was more worrying to my own.
+
+Mary wasn’t the only one with strange and dangerous abilities. The redhead, who went by the obviously fake name “Vermillion Rose”, was one of the fastest sword fighters I’d ever seen, and she left scarlet trails in the air every time she  swung  her  swords.  Those  trails  hovered  for  severalseconds before detonating into bursts of cutting energy in all directions.
+
+Something similar to how Keras’ Pale Crescent worked, maybe, but with some kind of delayed detonation function as well. Fascinating.
+
+Her swords didn’t have any obvious runes, but I knew enough to realize that didn’t mean anything — they could have been hidden on the inside, been made with a non- Kaldwynian style of enchanting, or she could have simply been using non-magical weapons with some kind of unusual weapon-enhancement spell.
+
+Given her style’s focus on weapon enhancements and personal combat enhancements, I suspected Vermillion was a Swordmaster, but I couldn’t be sure.
+
+The last of them, with an even faker name than Vermillion, was Kuro Nightshade. His combat style seemed to be deliberately designed to follow the classic wizard motif, meaning he had a simply implausible number of types of magic at his disposal. I was pretty sure I saw him cast spells with every single base mana type at one point or another…meaning he was probably an Enchanter with a bunch of items, or that he had multiple different attunements.
+
+It was after watching their third match that Patrick slipped something he wasn’t supposed to know—Team Skyseeker was the team that had beaten Meltlake’s simulacrum in the first year.
+
+Given Mary’s ability to use banishment magic, that made a picture click together in my mind. A simulacrum was conjured in a similar fashion to a summoned monster, meaning they could potentially be dispelled outright with banishment magic.
+
+…That was worth looking at, given my own potential for going up against simulacra in the near future.
+
+I considered asking Mary more about her attunement, but I kept getting too distracted by other things. I hoped toget to it eventually.
+
+As classes continued, so too did our other activities.
+
+I spent a bit of time each day testing transcendence variants on my existing spells, as well as some of the weakest recommended basic transcendence spells in my books. When I first started, I only had enough transcendence mana to cast two meaningful transcendence- improved versions of a spell at a time. Something like two Transcendent Detect Aura spells for a few seconds each, or a couple cast-and-forget Transcendent Regeneration spells with enough transcendence mana to keep them stable. After a couple weeks of practice, I’d worked my way up to three spells per session. I was frustrated by how slowly the improvement was going, but I didn’t have any good ways to accelerate it.
+
+I tried using my Arbiter mark to infuse my crystal mark, but as I expected, nothing happened. They simply weren’t compatible. The same was true with Sera’s density mark, and she had the same difficulties with gradually building mana. From what Keras told us, slow growth for dominion sorcery was expected, but I still found it irritating — especially since the risks of overuse were so high.
+
+I continued my usual training, including doing a bit of team practice with Patrick and Lute for dueling class. I asked Lute for some advice on transcendence spells, and he was happy to explain some spells to me — but all his spells seemed to require dozens of times more mana than I currently had available. Still, I wrote down what I could for future use, and took notes on the general theory he was able to teach me. Much of his own understanding seemed more intuitive than taught, which made it difficult to translate some of the ideas into lessons, but I felt like his ideas still helped me improve my general grasp on the magic as a whole.
+
+Leisure was more difficult to find outside the house, but that was rarely my preference in any regard. It did meanthat I wouldn’t be participating in any further Survival Matches until the Sons of Valia situation was handled — it would be too easy for an “accident” to happen if one of them rigged a match in some way — but beyond that, I didn’t have to do things very differently.
+
+It was harder on the others. Not everyone had my level of contentedness with just staying at home to read and study. The reduction in social opportunities was particularly hard on Sera — she’d always enjoyed going to school parties and similar events. On occasion, she still attended them with friends to back her up, but such gatherings were rarer and harder to enjoy.
+
+I continued working on my items and mana exercises, as well as getting in every bit of training that I could with Keras while he was around. He was spending less time moping in his room, but that wasn’t entirely an improvement — there was an undercurrent of anger to his demeanor since the Sons of Valia had struck. More and more, I felt that strange sensation of blades pressed close against my skin when he was near, often without Keras being aware that he was exuding that aura. He could push it down when he was alerted to it, but it seemed to be harder for him to keep himself calm whenever he returned from one of his late- night adventures with Derek.
+
+They were clearly working with the Blackstone Bandits on some kind of project, but whatever it was seemed to involve more patience and subterfuge than Keras was suited for. After all, if it was just about going and punching someone, the problem would have been solved overnight.
+
+I couldn’t blame him for being stressed. I wasn’t doing well, either. It was during one of our typical training sessions that I asked him for something that I hoped might help us both.
+
+***Mara, Keras, and I were on the roof to set up for another session when I decided it was time for a simple question.
+
+“Keras, you’ve always been a swordsman first and foremost, right? Why aren’t you teaching us swordplay?”
+
+Keras raised an eyebrow at the question. “I am teaching you swordplay.”
+
+I folded my arms. “The majority of what you’ve been teaching us is magic. I mean, you’ve given us a few melee combat pointers here and there, but very little of your personal sword style.”
+
+“Ah.” He shook his head. “There’s no point to that.” I blinked. “What? Why?”
+
+“Pretty simple, really. Mara has virtually no interest in learning to use swords — I’ve taught her a smattering, but only the very basics. And in your case, you’re already a fine swordsman. You don’t need me drilling you on footwork and maneuvers. You’ve been doing that since you were a child. Most of what I could teach you in that regard would just be more review.”
+
+Did…Keras think I was a competent sword fighter already? That was…I felt flattered, but as confident as I was in my dueling abilities, I had no illusions that I could match someone like Keras or Derek in terms of pure mechanical skill. “…I know a traditional Valian house dueling style, sure, but isn’t your Selyrian Cutting Style fundamentally different?”
+
+Keras actually laughed at that. “Selyrian Cutting Style. Ugh. That’s literally just a name I came up with on the spot, Corin. It’s not a real style. It’s just an assortment of techniques I cobbled together from several martial arts forms I learned back home — and a few of my own tricks. Sure, I could teach you some of the theory behind why I use specific moves, but most of it wouldn’t be applicable to you. The core elements of my fighting style involve using long weapons and metal manipulation, neither of which is applicable to how you fight.”
+
+Mara took that moment to interject. “Still got a few other tricks I’ve seen you pull off that don’t require a specificweapon or magic, though. You like your speed techniques and head games.”
+
+Keras frowned at that. “You’re not wrong, but…I’m not sure I can teach that. I’m…not actually much of a teacher in general, really. Much of what I do is instinctive. Corin’s style is more methodical and requires more pre-planning.”
+
+Mara scoffed. “Humor us. Think we could all use a change of flavor.”
+
+Keras seemed to consider that, then nodded. “Suppose I’ll grab us all some training swords, then. Be back in a moment.” He headed back downstairs.
+
+I gave Mara a grateful look. “Thanks.”
+
+“Don’t thank me yet. I have a feeling this is going to be brutal.”
+
+I laughed. “We’ll see.” After a beat, I considered another question. “Is it true that you aren’t interested in learning swordplay?”
+
+“Eh, not really. Always felt better just using my hands. They talk about how with a great swordsman, the sword is like an extension of their body. I’ve never felt anything like that. Using a weapon feels…clunky, like I can never quite move it at the right speed to match what I’m thinkin’.” She shook her head.
+
+“I mean, that’s probably a matter of practice.”
+
+Mara shrugged. “Maybe, but it doesn’t feel natural. Not like movin’ my hands does. And Keras…well, he’s right about one thing. Teachin’ swordplay isn’t natural for ‘im. If a master might treat a sword like their body, Keras…he’s somethin’ else entirely. He doesn’t need a sword at all. It’s more like…for him, havin’ a sword drawn is just warnin’ the universe that something is about to be cut.”
+
+…I could see what she meant.
+
+I still was pretty sure he’d once disarmed me with a chicken leg, after all. And that sensation of being “about to be cut” when he was nearby…it was like he was having a harder and harder time hiding who he was.
+
+Or what he was.
+
+It was possible that asking Keras to teach us swordplay when he was this tense was a terrible idea, or even a dangerous one—But it was a little late to back out. He returned to the roof with practice blades a few moments later, each with a scabbard and sword belt. “Put these on. I’ve got a few things I can try to teach you.”
+
+Mara and I nodded and belted our swords on. “What are we startin’ with?” Mara asked.
+
+“Quick draw techniques. Let’s get into drawing reach.” We both came closer as instructed.
+
+Keras nodded to each of us. “We’re going to start with something basic. You both ready?”
+
+Mara and I nodded in unison.
+
+I didn’t see what happened next. No blur, no afterimage, nothing.
+
+Then Keras had two swords in his hands— And our scabbards were empty.
+
+Mara took a step back in alarm, raising her fists. I just blinked.
+
+“That was…”
+
+Keras flipped around both swords, offering them back to us. “A quick draw technique. Just not the type you were expecting.”
+
+“Drawing your opponent’s sword?” Mara rolled her eyes and snatched her sword back. “That’s a bit of a stretch, isn’t it?”
+
+“Not really. I’ve done it on a number of occasions in real conflicts — enough that I would consider it one of my personal techniques.”
+
+I frowned, taking my own sword back. “Is that really practical for the average person, though? I mean, you managed that with us because you have a massive speed advantage when you want to.”
+
+“Sure. I can do it again without a speed technique, if you’d like, and show it to you slower…but there are a few reasons why I think it’s worth teaching to you. First, you both do have speed techniques, and ones that can be activated before your opponent is necessarily aware of them. When you start a fight in close proximity, your opponent may be expecting a more standard quick draw attack and have counters prepared — very few people are prepared for this style of move.”
+
+“Probably because it’s much harder to execute and it’s less safe. You have to move in close and sacrifice your own sword reach,” Mara pointed out.
+
+“Sure. Which is perfect for you, Mara, because you don’t actually like using swords.”
+
+“Can’t argue with that.” Mara nodded. “Even if it doesn’t work, I’d rather be in close to interfere with their own draw. I like it.”
+
+“Not sure I do. Even with Haste…maybe I could do it, but I’m not sure how practical it would be.”
+
+“Don’t discount the idea too quickly. Speed isn’t all there is to it — it’s also about acting outside of your opponent’s expectations. Every enemy is going to have an idea of how you should act based on their preconceived notions — your attunement, your demonstrated skills, your body and verbal language…this type of technique deliberately subverts that. Even if the sword draw itself isn’t useful to you, consider that.”
+
+I nodded. The idea of subverting an opponent’s expectations was, of course, a very basic one. I still didn’t think this particular move would ever be of much use to me, given my own style, but I could see the lesson he was trying to impart. “I will. Was there another reason you wanted to show us?”
+
+“Yeah. It’s another philosophical element, really. You wanted to learn something about my own style. Well, if there’s anything that defines my way of fighting…it’s aboutending a fight instantaneously. Ideally, before it even starts. That isn’t my only fighting style, mind you — I have different ways of fighting different styles of opponents, and in different circumstances. But I’ve come to understand that, at this point in my life, my primary focus is on fight-ending techniques. And there’s rarely a better way to end a fight instantly than to turn your opponent’s weapon against them.”
+
+“Or to break it,” Mara grinned. “Seen you do plenty of that, too.”
+
+“True.” Keras nodded. “Cutting through weapons is something I specialize in, but that’s not something I can teach effectively. The main mana types I have for that purpose aren’t ones you can use.”
+
+“…Not yet.” I mumbled.
+
+Keras gave me a quizzical look. “You planning to pick up another attunement?”
+
+“Not necessarily. Just…thinking about how to expand my options in a fight. You break weapons using metal mana, right?”
+
+“That’s one of my options. It’s the one that would be most easily emulated, at least. My more esoteric essence,” a silvery cutting aura briefly appeared around his right hand, “isn’t something that can be so easily copied. Nor would I ever want you to try. Powerful as it is, this type of essence isn’t something you should ever want. Both the risks and costs of using it are too extreme.”
+
+That’s the type of statement that usually would just cause me to be tempted to do more research, but…I’d heard enough about Keras’ annihilating aura to know it was absolutely not something I wanted to tinker with. Destroying his own equipment was bad enough. The risk of causing some kind of catastrophic explosion with a theoretically infinite area of effect…I never wanted to mess with that.
+
+I had enough chances to blow myself up without the kind of magic that worldmakers feared.
+
+“Okay, enough philosophizin’.” Mara sheathed her sword. “Show us a little slo—”
+
+Keras lunged. Mara took a step back, startled, but Keras still managed to wrest the sword right out of her scabbard before she had a chance to get out of his reach.
+
+…Then her sword was at her neck and Keras had that infuriatingly cocky grin on his face.
+
+He hadn’t moved at absurd speed that time. In fact, if I had to guess, I suspected he’d moved at exactly Mara’s own speed.
+
+Mara groaned. “Asked for that, didn’t I?”
+
+“You certainly did.” He flipped her sword back around. “Try to take better care of this next time.”
+
+Mara rolled her eyes and sheathed her sword, then cautiously took a few steps back and began to circle around Keras.
+
+His smile only spread. “Now, are you actually r—” I charged him.
+
+It almost worked. I felt my fingers close around the grip of Keras’ sword—Only to find his fingers and a cutting aura at my throat. “Second lesson. Always have a counter for your owntechniques.”
+
+***We only spent a little while actually trying to do Keras’ trick for drawing an opponent’s weapon. He wasn’t really trying to teach us that in specific, after all — his intent was more about teaching us the underlying philosophy behind his combat style. Disarming and disabling techniques were commonplace, but less effective against attuned than conventional martial artists. After all, an attuned’s primary weapon was their attunement, at least in most cases. Dealing with that was much trickier.
+
+For that reason, serious battles between attuned often continued until one party was completely incapacitated or killed. It was difficult to enforce an earlier surrender, outsideof things like tournaments and other regulated battle. You could theoretically force someone that surrendered to cast non-combat spells until they ran out of mana, but even that wasn’t a perfect solution, since people could still cast spells after dipping below their safe mana limit…and not everyone had the ability to measure mana capacities, anyway.
+
+Specialized spells existed for incapacitating attuned, but I hadn’t picked any up for my own use yet. That was something I could consider adding to my ever-growing list.
+
+And I’m back to thinking about making some kind of void mana item. I should sit down and look at Mr. Stabbington and see if I can do anything with those enchantments. Teft was right that trying to deploy a void field in the middle of a fight might be self-sabotaging, but if I could make one and deploy it in other circumstances…“What’s distracting you?” Keras asked. I flinched. “Sorry. Was it that obvious?”
+
+“You get a kind of distant and vacant expression sometimes when you’re lost in thought. Nothing wrong with it as long as it doesn’t, you know, get you killed.” His hand blurred and something flew toward me.
+
+I reacted without thinking, catching it. If it had been dangerous, that might have been a terrible mistake, but it was just a flask of water.
+
+“Drink break,” he instructed.
+
+He was right — I was getting dehydrated. I took a draw, then tossed it to Mara. Wasn’t exactly sanitary to pass the same flask around, but I tended to obsess about that type of thing less in a context like this than at the dinner table.
+
+After we drank a bit of water, Keras rephrased the question. “Anything interesting on your mind?”
+
+“Oh, sorry. I was just thinking about disabling techniques. Maybe learning to make something like the suppression field used on the Sacred Sword arenas?”
+
+“Not a bad thought. That’ll hit you just as hard as your opponent,  though,  unless  you  have  a  way  to  exemptyourself. And your allies, if you’re planning to fight as a team.”
+
+I nodded. “Yeah, Teft told me the same thing. But exempting people might be a good idea…there may be a way to do that, either through exempting areas from the field and controlling where we stand or maybe some kind of void-resistance items.”
+
+Keras raised an eyebrow at that. “Can you make items that resist void magic? That seems pretty advanced. Isn’t void mana tricky to work with?”
+
+I shrugged. “Haven’t looked into it, but I imagine it has to be possible. Maybe something that projects something like a void shroud around you, deflecting other instances of void? Or something like that ring you used to have that reshaped fire — that could theoretically work, too.”
+
+“Hm. Yeah, that does sound possible, actually. Might be how Taer’vys functioned as easily as he did in void mana areas — seems like the type of thing he’d come up with.”
+
+I wasn’t sure that I liked my ideas being compared to someone who was, in my mind, at least villain adjacent…but it was probably a compliment in Keras’ mind. Keras’ relationship with Taer’vys was complicated, given that they were sort of on opposite sides, and that Taer’vys had hurt someone Keras cared about accidentally…but they were still friends, or something like it. That was strange to me. I wasn’t sure if I could have respected someone after they’d hurt someone I cared for.
+
+…Then again, I was still talking to Jin, so maybe I was a hypocrite.
+
+Mara chimed in, turning to Keras. “Probably easier to just do what you did and blast through it with light mana.”
+
+“Mmm. As much as I’d like to take credit for having the best strategy possible, no, something like void shaping would have been much more efficient. Using my aura worked just fine, but it was a huge persistent mana cost. Shaping is generally much more mana efficient. It’s justmuch harder to find items that can do that kind of thing… and void shaping? Who even knows where to find an item like that.” He shook his head. “Might be worth looking into if you two ever go to the tournament, or anything like it.”
+
+Mara grinned. “Couldn’t ask for a better place to test myself.” She punched her fists together. “And I wouldn’t mind taking a shot at an emperor or two when the time comes.”
+
+I frowned at that. It wasn’t that I disliked the idea of entering the Tournament of the Sacred Sword or something similar. It was that…Mara didn’t sound quite like herself when she said things like that. It was more like she was just mimicking Keras, which is an awkward turn of phrase, given how much Keras hates mimics.
+
+“Not sure if she’d be in play. And if she hears you’re my apprentice, the emperor…” Keras shook his head. “Well, you might get some unwelcome attention.”
+
+“Suppose I might be needin’ a mask, then.” Mara grinned. “But we’ve got a couple years yet before we need to worry about that sort of thing, yeah?”
+
+“Around two years, assuming it’s scheduled for the same time of year as I remember. I didn’t attend the last one…and I don’t intend to go to the next, given how things went. It would take a lot more than a mask in my case.” Keras smiled sadly.
+
+“Maybe another tournament, then?” I offered.
+
+“Not a lot of the ones around here can give me a challenge these days. Maybe if I headed over to Artinia or Tyrenia, but—”
+
+A different voice cut over Keras’ — one that simultaneously emanated from the necklaces that we wore. A familiar voice, filled with panic and urgency that I’d never heard before.
+
+“Help! Ambush. I’m—” Patrick’s voice.
+
+It cut off with the sound of a thump.
+
+I froze, just for an instant.
+
+Keras didn’t. There was a shift in his expression that went so quicky I barely noted it, his sorrow washed away by something like a deadly calm. I felt the sharpness of blades against my skin as he closed his eyes, just for a moment, his hand on his necklace, his grip tightening enough that I worried that he’d snap it.
+
+As his eyes fluttered open, I saw flecks of silver in them. “I’m going.”
+
+There was a blur of silver, then Keras was gone, a trail of deep furrows in the rooftop left in his wake.
+
+Mara turned in the direction he’d vanished. “He…how does he know where to go?”
+
+I blinked. “He’s probably tracking the connection between the necklaces. Keras likes to play the brute, but he’s no stranger to magic theory. He probably has some kind of variant on Sense Sacred Sword that—”
+
+“Can you do it?”
+
+“Not the same, exactly, but…” I nodded. “Follow me.” I grabbed my necklace.
+
+Spirit Tracking Analytical Arrow.
+
+Several lines appeared in my vision, each of which directed me toward another of the items that matched the same signature as my necklace. They’d be pointing toward a number of different items, basically including anything I’d made for my group.
+
+…None of them matched Keras path.
+
+I cursed. Either he was going the wrong way, or…Advanced Spirit Tracking Analytical Arrow.
+
+I cast a Sunstone-level version, feeling a momentary surge of pain in my forehead as I burned through over a hundred mana in a single spell.
+
+…But as my vision reddened, a new line emerged.
+
+There.
+
+The	“Analytical”	portion	of	the	spell	showed	me	a distance value to the destination — over two miles. Myinitial spell simply didn’t have the range to find anything that far.
+
+…I had to hope it was the right trail. If I ran off that way and Patrick wasn’t there, I wouldn’t get to him in time to do anything. Even if I did go that way, two miles…I shook my head.
+
+It was possible Keras had run off toward someone like Sera or Derek who also had a necklace, but he probably had his own way of narrowing things down. At least…I had to hope he did.
+
+Without another glance at Mara, I narrowed my eyes on the trail and rushed to the edge of the roof.
+
+Haste. Accelerated Computation. Detect Aura. Jump.
+
+I launched myself toward the next roof.
+
+We’re coming, Patrick. Please be okay.
+
+***Mara and I raced from rooftop to rooftop, only jumping to the ground when there were no convenient buildings to land on.
+
+Following Keras would have been easy enough at that point even without my spell — all we had to do was follow the collateral damage.
+
+It had to say something about his level of alarm that he was willing to obliterate a section of the city street just to rush toward his destination. Fortunately, his acceleration wasn’t like mine — he seemed to retain full control while he was moving, and I didn’t see any signs that he’d run into any people. He was avoiding anything with enchantments, too, presumably to prevent them from exploding.
+
+I didn’t let my Spirit Tracking spell drop even as we followed the trail — if Patrick moved, I wanted to be able to adjust immediately. The trail led us away from Lorian Heights toward Hightown, a district known for their tall buildings that attempted to emulate the architectural style of the spire. I rushed past several familiar homes and shops,ignoring them in favor of focusing on the diminishing distance.
+
+My heart pounded as we ran, but not due to exertion.
+
+Not fast enough. We’re not fast enough.
+
+Two miles didn’t take long to cover at the speed that Mara and I could manage — most of the time was due to the fact that we couldn’t just travel in a straight line once we reached a populated area.
+
+And even a minute was more than enough time for someone to die.
+
+If it had just been Mara with me on that rooftop, if we hadn’t had a trail to follow—We turned a corner into an isolated alley between two older buildings, then turned another corner, and…We found Patrick sitting on the ground, curled into a ball, his right arm — his attuned arm — bleeding profusely. He was trembling, his necklace torn in half and his sword lying on the ground a dozen feet away. He was surrounded by a whirling cage of phantasmal blades. I only realized belatedly that they weren’t keeping him trapped inside, but rather, that the blades were facing outward to protect him.
+
+The source was clear enough.
+
+Six people in black garb were pinned to the stone wall by floating blades. Half of them were limp, likely unconscious. Several of them were bleeding. Most of them had simple Carnelian and Sunstone-level auras. At a glance, I assumed those were probably students or recent graduates, but…I heard a thunderous crack as Keras’ fist slammed into the face of a seventh figure still standing in the alley — and watched as their Emerald-green aura winked out when they hit the ground.
+
+Keras snarled, his right-hand ripping cleaving downward and carving a hovering gouge in the air, not dissimilar from the bladed cage around Patrick. With another gesture, he swept his hand down, straight at the unmoving figure on the floor.
+
+I barely processed what was happening, but Mara moved faster than I’d seen her, rushing to close the distance with a burst of enhancement mana.
+
+She wasn’t fast enough, either.
+
+The newly-forged wound in space shot forward and split apart in mid-air, a dozen flat planes of cutting force jamming straight into the street.
+
+They formed an outline around the fallen figure’s entire body. Keras shuddered for a moment, seemingly involuntarily, then spun around with his hand up, surrounded by a cutting aura—And stopped himself a heartbeat before slamming it into Mara.
+
+“M—Mara. I didn’t…” Keras’ hand clenched and unclenched. “You caught up faster than I expected. See to Patrick. I still have work to do.”
+
+He waved a hand. The blades around Patrick shifted, moving to hover ominously in the air above Keras, fanning outward in a pattern that threatened to strike in all directions at once.
+
+I rushed toward my fallen retainer immediately.
+
+Mara didn’t. She continued standing near Keras, her eyes narrowing. “Think I’ll be stayin’ right here, if you don’t mind. Catch me up?”
+
+“Sons of Valia.” Keras walked up to the six pinned figures. “Pitiful cowards, bringing seven people to ambush a single student. They’re going to pay for—”
+
+Mara’s hand found Keras’ sleeve. Her fingers bled as she reached through Keras’ aura.
+
+Keras startled at her touch, then he trembled again, grimaced, and pulled his aura inward. The silver flecks in his eyes began to flicker and fade. He took her bleeding hand, turning it over in his. “You didn’t have to…”
+
+“Shut it. Work to do, but you’ve gotta do it as yourself, yeah?”
+
+Keras gave her a silent nod and released Mara’s hand.
+
+They turned to the six people still pinned to the wall.
+
+I ignored them, kneeling down next to Patrick. “Patrick, it’s Corin. It’s okay. You’re safe now.”
+
+Patrick didn’t look up. He was still curled up, shuddering violently, tears streaming from his eyes and blood flowing from his arm. Smaller wounds were on his ribs, sword hand, and the back of his head. That last one was the most worrying, but I didn’t have the proper expertise to treat a head wound directly.
+
+“I’m going to reach out and touch you, Patrick, for a regeneration spell. Is that okay?”
+
+A barely discernable nod.
+
+I put my hand on Patrick’s arm, not directly on the wound, but near enough to help the regeneration spell take effect.
+
+I took a deep breath. Healing Patrick gave me flashbacks of the time I’d nearly killed him with my foolish attempts to restore his broken bones, but in this case, I was doing something much more basic and less likely to cause harm.
+
+Regeneration.
+
+I pulled from both of my remaining mana pools to cast a Sunstone-level Regeneration spell. I couldn’t use too many of them, but the combat side of things was…well, it was taken care of. Healing was the best I could do.
+
+That and…I took a breath, steadying myself. Physical contact was… still not comfortable for me, but Patrick was hurt, and…I knew he needed different things than I did.
+
+“It’s okay, Patrick. I’m here now. You’re safe.” As he turned his head upward, I sat down, opened my arms, and let my retainer bury his head in my chest.
+
+“You’re okay now. I’m here.”
+

@@ -1,0 +1,426 @@
+CHAPTER XXII – A GEM OF A DIFFERENT COLOR
+
+Peridot.
+
+It was the foundation of many of the secrets that Warren Constantine had shared with me. A testament to his ingenuity — as well as his own particular flavor of paranoia.
+
+The Peridot attunement level wasn’t designed to be a replacement for the missing Sapphire level. It wasn’t the pinnacle of power.
+
+No, Peridot was a way to remain hidden in plain sight. An intermediary stage between Citrine and Emerald, named for the yellow-green color that apparently some stones of that kind exhibited. I wasn’t a master of gemstones, but I understood the concept well enough. Shrouds naturally shifted colors incrementally as someone came closer to the next stage. I’d seen lime-green auras before, simply as a consequence of the normal growth after Citrine.
+
+People could suppress their auras. That was well-known. But what about hiding an entirely new attunement level in between the ones that were known about?The concept was remarkably simple, but nevertheless, it was incredibly dangerous. To create a new attunement level, one would need to modify their attunement in ways that could potentially cause permanent harm. Presumably, the visages had much better grasps on how much mana a person could handle than I did, as well as spells or other tools for monitoring unbalances in the body that could create negative effects.
+
+Warren had studied all this, however, and taken copious notes. I’d read those notes, benefiting from his years of study, both independently and while he’d worked at Farren Labs.
+
+Without those notes, I don’t know if I would have risked experimenting with anything beyond temporarily increasing my own level to one of the known ones. Creating entirelynew functions was…ambitious. Too ambitious for me to do as my first experiment.
+
+So, I didn’t.
+
+Instead, while I sat with my legs folded on the ground and under the attentive gaze of one Sheridan Theas, I tried a slightly smaller leap.
+
+Spessartine.
+
+I	consulted	Constantine’s	notes	before	I	began	the process.
+
+Spessartine is an orange gemstone, one that was once used as the name for the rank in between Carnelian and Citrine. Eventually, it was replaced with the far better-known name Sunstone, presumably because Spessartine is too hard of a name to remember.
+
+But I remember. This, at least, I remember.
+
+I’ve chosen to use this level as a demonstration for incremental attunement changes. As an ancient level title, it seems appropriate to use as a term for a testing phase for attunement features.
+
+The sub-glyphs contained in the next section are used to define a new attunement level threshold, which are added to the existing safe mana threshold section of glyphs.
+
+Next, the first feature — a timer function. This measures the amount of time the Spessartine level has been active.
+
+The following feature is a function that reverts your attunement level as soon as a set time has passed. These two features are intended to be paired to reduce the risks of testing a new attunement level. By default, the glyphs in this setting are set to last for sixty seconds. If you implement these changes on their own, you will be able to reach Spessartine for sixty seconds after reaching the appropriate mana threshold, after which you will revert to your previous level.
+
+Of course, then you’d just be stuck at the previous level unless you make further changes. This isn’t desirable. Thus,there are a set of functions available for toggling Spessartine level to activate under specific circumstances. By default, I recommend voice activation, but other options are also described here.
+
+Finally, I’ve also documented a number of other possible attunement features that can safely be activated at this mana threshold. My recommendation is to begin by testing one of the simplest, such as changing your shroud to a color outside of the standard colors available. This will simply allow you to know visibly that your changes are working.
+
+I exhaled. I’d read all this before, but I wanted to make sure I wasn’t misunderstanding anything or making any mistakes.
+
+I could have tried to do the whole process through creating a dynamic rune altering item, rather than altering my own attunement directly. In theory, that sounded safer, given that any errors would be less likely to break my attunements permanently.
+
+Unfortunately, there was a critical problem — copying just the currently visible Arbiter functions into an item didn’t produce a working result.
+
+The functions I needed to make a working Arbiter-style item were hidden…and to access them, I needed to be at a higher attunement level.
+
+In other words, in order to make myself an item to safely alter my attunement level, I first had to increase my attunement level.
+
+…The simple course to that was just hitting Citrine, but doing that organically was probably years off.
+
+So, of course, the solution was to skip ahead. I was pretty sure I could make the changes directly to my attunement without making myself explode.
+
+…Probably.
+
+Spessartine	was	built	for	someone	who	was	already Sunstone-level, which I wasn’t — but I understood enough torealize that the body’s total mana safe capacity and the strength of my star veins was more important than the exact level of any given attunement. My two attunements were both individually nearing Sunstone-level, which put my body as a whole at above Sunstone-level mana capacity. Moreover, I was performing the exercises to strengthen my star veins and Dianis points, which hopefully would make my internal structures even more tolerant of mana flowing through them.
+
+Beyond that, if the core problem of activating more functions was strain…I could also turn some extraneous functions off. I didn’t necessarily need all the baseline functions of my attunement to be active at any given time— and some functions, like those that were designed to help with shroud manipulation at Sunstone-level, were redundant with things I’d already learned to do manually. I could turn those off to reduce my mana strain and make room for additional functions.
+
+I didn’t have to make new functions up myself — Constantine had already done the hardest part. All I had to do was transcribe the text from the pages into my attunement.
+
+Fortunately, I didn’t have to do that completely manually. I technically could have, but that would have been a laborious and error-prone process.
+
+I planned to cheat judiciously.
+
+Sheridan smiled at me from just out of reach. They were currently sitting cross-legged across from me, but on a cloth that they’d laid down on the floor. I wasn’t clear on if that cloth had some special significance and didn’t feel like asking. “Don’t be nervous, pet. I won’t let anything too terrible happen to you.”
+
+Strangely, I was actually comforted by that. “Thanks. Youready on your end?” “Perfectly.”
+
+I nodded. “Then let’s begin.”
+
+I exhaled a deep breath and closed my eyes.
+
+Accelerated Computation. Analyze Attunement Composition.
+
+Enchanter glyphs swam in my mind’s eye, overwhelming in the first instant, then folding themselves into neat stacks of parchment in my mental landscape.
+
+I’d sorted through the papers many times now, reading through the letters cautiously.
+
+I found the attunement-levels section of the glyphs, then, without opening my eyes, grasped the first memory crystal in my hand.
+
+“View.”
+
+Ordinarily, viewing a memory crystal overwrote a person’s consciousness as their senses were overwhelmed by the memory. While using Analyze Attunement Composition, however, I was already overwriting my senses through different means.
+
+So, what happens when someone tries to access a memory crystal while already viewing their own mental landscape?I’d wondered that. And, because I’m extremely risk averse, I’d asked Researcher. Then, I’d tested it with the smallest possible memory crystal — a second of looking at a piece of paper.
+
+And, as with that previous test, I got exactly what I was hoping for:A gleaming view of that memory appeared as a floating piece of paper in my mental landscape, viewable from within without replacing my senses.
+
+This particular memory showed the first page of sub- glyphs I had to add in order to create a new attunement level. I didn’t bother transcribing it — the memory was essentially being presented to me in the same format as the attunement’s construction. All I had to do was picture myself grabbing the letters from the memory crystal page —a bit strange — and moving them to the attunement level function page.
+
+I didn’t explode.
+
+That, at least, was a good start.
+
+I felt something change when that process was completed. A subtle tingling in my forehead.
+
+Predictably, I panicked at that, given the possibility of making my mind explode or whatnot…but I didn’t stop. I double checked the glyphs to make sure they’d been copied over from the memory properly, and indeed, they seemed to be correct.
+
+…But I couldn’t test them on their own. I essentially just had a “blank” attunement level now — one that did absolutely nothing.
+
+And so, with a breath, I opened my eyes and ended the active spells. “Step one completed.”
+
+Sheridan clapped. “Wonderful work! Still, not even a bit of implosion? At this rate, you won’t even need me.”
+
+“I’ll try to make sure it’s entertaining.”
+
+“Oh, don’t worry. You’re always entertaining, Corin.”
+
+I gave a mock bow, then switched to the next memory crystal.
+
+Accelerated Computation. Analyze Attunement Composition.
+
+“View.”
+
+I repeated the process, next adding the timer function based on a memory of that page.
+
+Then another function. Then another. And finally…it happened.
+
+I opened my eyes…and my aura flashed outward in vibrant purple.
+
+“Ooh. Ambitious. Sapphire wasn’t good enough for you? Are you an Amethyst now?” Sheridan shifted closer. “Should I lower my head to kiss your feet, majesty?”
+
+“I think I’ll pass for now.” I snapped my fingers. The shroud shifted back to a very standard aura. “I was a fakeking, after all. It wouldn’t seem right to take advantage of that.”
+
+“Let me tell you a little secret, Corin Cadence. A bit of forbidden knowledge.” Sheridan leaned in very close. I bristled, but didn’t pull away. Then they whispered, “All royalty is fake.”
+
+I laughed, then reached up and brushed the hair out of Sheridan’s eyes — it had fallen down as they’d leaned in close, and…I’d reached out without even thinking.
+
+They	winked	at	me,	then	pulled	back.	My	heart hammered in my chest.
+
+“So,”	Sheridan	shifted	to	lean	back	on	an	elbow, “diagnostic spells?”
+
+“Right. Diag…nostics. Good idea.” I exhaled a breath, then reached out a hand.
+
+Trembling.
+
+“Do you need a minute?”
+
+I shook my head. “No, it’s…I touched you without asking, and…is that okay?”
+
+“Oh, sweetheart. You’re kind to ask, but you touched my hair. You’re fine. I’m not opposed to bodily contact the way you are. And I was teasing you a little bit there. Too hard, perhaps. Forgive me?”
+
+“Nothing needs to be forgiven.” I sighed. “I’m just…never mind. Diagnostics for now?”
+
+“Your wish is my command, your fake majesty.”
+
+The tests were simple enough. No damage. I’d been careful. I hadn’t broken my mind or destroyed my hand. But as Sheridan left the room with a final bow and a smile, somehow I wondered if I’d taken a very different risk than the ones I’d imagined.
+
+***As tempted as I was to get right to working with my altered attunement, I had another project to help out with — and this one wasn’t one of my own.
+
+I took a few breaths to steady myself, then followed Sheridan to the back yard of the house. After following a mist-lined path and taking a few turns, I reached one of the few structures outside of the mansion proper — the Emerald House. Which was, of course, just Derek’s fancy way of saying “greenhouse, but I’m rich and overpowered”.
+
+The Emerald House was built from some sort of green- tinted glass or crystal, as befitting the name. I wondered a bit if that altered the way that sunlight impacted the plants within, but I was no expert on alchemy. Maybe it was useful, but I suspected it was merely an aesthetic choice on Derek’s part.
+
+Within were a mind-boggling variety of plants that had been cultivated carefully for the construction of various potions, elixirs, and rituals. I wasn’t familiar with the overwhelming majority of them, although I recognized a few from the alchemy test in the tower, as well as my discussions with Cecily.
+
+I walked down the narrow path in the center of the building, ignoring the feeling that some of the larger vines might reach out and grab me at any time, and made my way to an isolated section toward the back — the cold room. The cold room was exactly what it sounded like — a small chamber with dedicated enchantments to maintain a low temperature. It was effectively the same type of thing as a walk-in freezer, but with a fully crystal exterior to allow forsunlight to filter in.
+
+I could already see Sera, Cecily, and Sheridan inside the cold room —all wearing cold-weather gear.
+
+I didn’t bother with any of that. When I ran my finger across a small section on the crystal — an identity recognition enchantment that Cecily had made — the door slid open to allow me inside. I felt the cold immediately, but my discomfort was mild.
+
+The longer I wore Selys-Lyann, the less that cold seemed to affect me. I wondered if that was a function of the sworditself getting stronger, or if I was accumulating a fraction of ice mana in my body through our bond — I hadn’t tried to measure that yet.
+
+Either way, it meant no bulky winter wear, so I was grateful.
+
+The door slid shut behind me.
+
+“Thank you for coming,” Sera said sincerely. “We’ve completed the final preparations for attempting to preserve the flower. Do you have any questions before we begin?”
+
+“Just about the sequence. Are we trying to just use the cold room first, or are we going straight to using Selys-Lyann or Seiryu’s help?”
+
+Cecily adjusted her glasses and spoke. “I, uh, don’t think the room itself will be enough…but my enchantments should be able to maintain a stable environment for the flower if we can find a type of ice that actually works. They’re a combination of enhancement and ice enchantments, designed to mimic a form of stasis — but we’ll need the foundation to be set with a spell effect before they work.”
+
+I nodded in understanding. Basically, if we could find the right magic, her enchantments would hold those spells stable and keep the flower steady from that point on…at least in theory.
+
+“What are we trying first, then?” I asked.
+
+“Seiryu,” Sera said simply. “I have reason to believe I know which spell will work. Your sword isn’t stable enough to start there, but we’ll keep it as a fallback option.”
+
+“Did you manage to ask Seiryu directly for information?” I asked.
+
+“Your request for assistance was granted.” Sera grinned. “Unfortunately, due to the sensitive nature of the request, I am unable to speak at this time about the details of the knowledge that has been granted to me.”
+
+That technical language told me that she probably couldn’t talk to me about it in the presence of other people— most likely Cecily, but possibly Sheridan as well. I wished I could ask her about it, but violating the terms of any agreement with Seiryu was a horrible idea. Hopefully she’d be able to speak about it some other time — perhaps privately later in the evening.
+
+“Understood.” I nodded. “Please express my gratitude to Seiryu for granting my request.”
+
+“Of course. And…I owe you one. Especially if this works.” She took a nervous breath. “Everyone ready?”
+
+A series of nods. “Retrieve: Goddess’ Tear.”
+
+Gingerly, I retrieved the flower and handed it to Cecily. Reverently, she whispered something to the plant — a prayer, maybe? — then planted it in a pre-set area in the nearby planter. After covering it, she reached for her belt and began to retrieve several vials of liquid, pouring them on the flower one at a time.
+
+“Stability check?” She asked Sheridan.
+
+Sheridan walked forward and placed a single finger on the flower. “As expected. You may continue.”
+
+“Test 1, then.” Sera stepped forward, taking a deep breath. “Seiryu, be with me. Let us preserve this fraction of the goddess’ love.”
+
+Her hand glowed with blue light — and the tests began.
+
+***I can’t tell you more about what happened with those tests. The secrets of that process are not mine to share.
+
+I can say, however, that when the process ended…Sera had a bright grin on her face.
+
+I felt great relief for her — but that was dampened by the terror and excitement that I felt for my own series of tests, which were just about to begin.
+
+***Testing	changes	to	my	attunement	was	absolutely terrifying. There was no way around it — I was tinkering withsomething that mere mortals like myself were never intended to fully understand.
+
+In this one instance, however, I was too excited to stop. Once I’d fiddled with the first pieces of power, I couldn’t help but be enthralled by the idea of learning more. Testing more. Building more.
+
+This is probably a personality flaw. Really, it’s probably several.
+
+Even knowing that, I found myself digging deeper and deeper into sub-glyphs and potential functions as each day passed. I read through Constantine’s notes, as well as the copied books that Researcher had managed to transcribe, and those few books I’d picked up in Caelford as well.
+
+And then I read the attunements themselves. Glyphs that described the functions that made each and every ability granted to us work.
+
+And as I researched, slowly, but with ever more ambition, I began to make changes.
+
+I’d tested the very basics with Sheridan, but simply making my attunement glow differently wasn’t anywhere near enough to satisfy me. I’d gotten a look at the underpinnings of how magic itself worked, at least for those of us given it through the marks of our goddess —And I saw plenty of room for improvement.
+
+Heretical? Maybe a bit, but I think Selys would approve. After all, Ferras herself has been improving attunements for hundreds of years, making revisions and improvements as her knowledge grows.
+
+But while a deity may work in broad strokes, and while a visage may know more than I could ever hope to, even Ferras couldn’t make every possible attunement optimization to every single attunement at once. She had priorities. And I had very different, much more personal ones.
+
+The first step was creating shortcuts to change my own attunement level at will. I’d already figured out how toadjust my safe mana thresholds and thus shift my apparent level — I’d done it in the fight with the copy of Keras in the Transcendence Gateway Shrine. Rather than tinkering with safe mana levels, though, it was safer and easier to just skip them entirely.
+
+Basically, I built a function that was just an “attunement level override”, with a simple toggle to change to activate it for any given level.
+
+I could be an Emerald with a push of a metaphorical button.
+
+I mean, I’d obviously explode or something. But I coulddo it.
+
+More importantly for my present needs, I made additional entries beyond the “standard” attunement levels — Spessartine and Peridot.
+
+I’d already “built” both those levels into my Enchanter attunement. (I could have done the same with my Arbiter attunement, but since my Arbiter attunement was absolutely necessary for making attunement changes, I couldn’t risk disabling it. Even if I ruined my Enchanter attunement, that was potentially salvageable, unless it destroyed my mind or killed me — ruining my Arbiter attunement would prevent me from being able to fix any less critical problems I encountered.)At present, Spessartine and Peridot did absolutely nothing beyond the standard powers of Sunstone and Citrine levels, respectively. (I’d disabled the function that turned my aura purple with Spessartine level — it was purely for testing purposes and I didn’t want it to be active all the time.)The next experiment was a much more dangerous one.
+
+My first taste of real power through the process.
+
+I carefully looked at the sub-glyphs for Citrine-level, found a section, and mentally copied it over to Spessartine. It  was  the  most  famous  function  granted  by  reachingCitrine-level — access to an additional type of mana. In the case of both of my attunements, this was light mana.
+
+I’d pored over Constantine’s notes carefully, then consulted with everyone I trusted to know anything relevant. Researcher confirmed my reading of the notes — adding a new mana type before Citrine-level was theoretically safe as long as the particular mana type was one that your body could handle. The threshold for that was dependent on complex formulae that I won’t get into here, but the simple summary is that if my math held up, my body’s mana tolerance was already high enough to handle another mana type, as long as that mana type wasn’t one that was too dissimilar from the ones I already had.
+
+For reasons I didn’t quite understand, light and transference were “similar”, pairing easily in magic and creating minimal conflict. Keras had told me that light also helped improve mental speed and clarity, implying some overlap with mental mana as well.
+
+So, with reasonable confidence that I wouldn’t explode, I sat in my room and just…did it.
+
+Activate Spessartine.
+
+I exhaled a breath. There was no visible change as I flipped a sub-glyph to active.
+
+The real test came a moment later. I flipped open a book in front of me, read over the page, and went through the formula for the simplest possible spell I could find. I converted my mana as per the instructions, much as I’d done hundreds of times before, but reaching into a different part of my attunement for the conversion process. I shifted that mana from my forehead to my right hand, retaining the mana’s form, then held it tightly there.
+
+And then, I spoke words that weren’t strictly necessary, but felt right.
+
+“Lesser Light.”
+
+A sphere of light flashed over my right hand.
+
+And, for the first time, I felt like I’d made magic of my very own.
+
+***I wasn’t going to win any fights with a Lesser Light spell. Well, probably not. There were creatures out there that were extremely vulnerable to light, and I’d even run into one in our mid-terms the previous year. Still, I wasn’t going to let my unchecked ambitions stop at producing the world’s simplest illumination effect.
+
+There were a wide variety of light mana spells that I thought would be potentially useful. Some were combat focused, others were purely for utility. For the moment, my focus was on preparing for any number of physical threats— Saffron, Mizuchi, my father, various final exams, and others — and thus I focused primarily on the combat ones.
+
+Valia didn’t have any combat-focused light attunements, but there were still books on light magic in combat available, and I’d picked up a few. I skimmed through what I could, but I didn’t find a lot of particularly insightful information. I read through the basic spells, but I had something specific in mind, and they weren’t quite what I was looking for.
+
+If I wanted to be able to use light magic in combat, I needed to be able to use it for a longer duration. For that, the first step was to make some changes to my Spessartine level.
+
+As I’d considered earlier, I didn’t strictly need all of the functions that Sunstone-level provided — so, when looking at the sub-glyphs for Sunstone, I turned off the ones designed to assist with shroud shaping. After some consideration, I also disabled the Detect Aura function of the attunement, since I knew how to cast the spell manually.
+
+Then, I extended the timer on Spessartine from one minute to five. I’d test that, then extend it further as I continued my tests.
+
+Then, after a brief chat, I found myself on the rooftop with an unusual training team.
+
+“Radiance is pleased to teach you, friend-of-Master.” Tavare inclined their head toward me. “Your mana structure now supports much of what Radiance uses. With time and practice, your illumination will grow.”
+
+Derek leaned against the side of the roof, a precarious position for many, but I supposed that an Emerald didn’t have much to risk from falling. “So, you wanted to learn something a little more esoteric? I shouldn’t be surprised. What are you thinking?”
+
+“I was hoping that you might be able to teach me how to reflect magic. Keras has mentioned being able to do it with Dawnbringer, and I know he had a ring that could do it with a lower degree of efficacy.”
+
+“Radiance would indeed be pleased to teach this! The reflection of hostile magic away is a noble application of the luminous arts. Radiance is saddened to inform you that the specific form of spell reflection that the Former Wielder of Dawnbringer utilized was a distasteful combination of light and enhancement mana, rather than a proper application of light and transference, but Radiance will teach you to combine your mana correctly.”
+
+“…Provided you’ve got enough mana for it,” Derek interjected. “Spell reflection isn’t cheap or easy. Don’t get it in your head that you’re going to be bouncing spells all over the place like Keras was doing in his stories. Dawnbringer is a legendary sword for a reason.”
+
+“He had a ring that could reflect spells at one point.” “Sure. A Citrine-level item and it probably had enoughpower to reflect one decent spell, if that. The cost of reflecting a spell varies based on the power of the spell itself. Other factors are relevant, like the mana type…but basically, don’t expect to be mimicking what Patrick did with Bright Reflection against Mizuchi on your own. I don’t think he could have done that twice — and that was with Mizuchiobviously holding back on her attack to avoid obliterating the room. Lightning is one of the easiest magic types to reflect, too…but if she’d attacked seriously, she would have blown right through the reflection effect. It’s not foolproof.”
+
+I nodded. That made sense — Bright Reflection was presently somewhere in between a Sunstone and Citrine- level item. Maybe a bit higher, given whatever nebulous level of power it had from a fraction of Keras’ spirit. I didn’t know how to evaluate that, since it wasn’t traditional mana. We were working on upgrading the sword, and I expected it might be better at handling Mizuchi if we fought her again, but…Derek’s point held. The sword had more mana than I did and it still wasn’t enough to reflect more than a few Sunstone or Citrine attacks before running out of mana, depending on the properties of the attacks themselves. I wasn’t going to be able to do much with spell reflection at this stage in my career.
+
+…But as far as last words go, I didn’t want, “I decided learning how to reflect magic wasn’t a priority” to be my own.
+
+Tavare gave Derek a firm look. “Is Radiance teaching this young friend, or is Master?”
+
+“…Right. Sorry. Go ahead.”
+
+Tavare turned back to me. “You may rest assured that your weakness is temporary and that this technique’s utility will grow along with your power. Moreover, your comprehension of this ability may assist you in other applications. Always embrace the light within you, for it will guide you to the correct path.”
+
+That sounded a little…religiony for my tastes, but I appreciated the intention behind it. “Understood, thank you. You mentioned combining light and transference — is that a necessary part of the process?”
+
+“It is not. Pure light mana is capable of reflecting attacks. It is, however, less efficient than a mixture of light and transference. It is of great importance that you learn thisproperly, rather than taking the improper path of using light on its own.”
+
+I frowned. “That…does sound considerably more complicated. I know it’s physically possible for attuned to learn how to make compound mana types manually, but I haven’t learned how to do that yet.”
+
+“And now you will. Radiance will ensure it is so.” Tavare raised a finger, conjuring a tiny glow of light around it. “Now, let us begin. First, you must experience what a proper application of radiant magic feels like.”
+
+“Feel what—” I tensed. Oh no.
+
+“Let us begin.” Tavare pointed their finger at me. “Don’t bother trying to dodge.”
+
+*** Training with Tavare was awful.
+
+You’d think that an entity referring to themselves as “Radiance” would have been bright, cheerful, and fun, but nope — Tavare was brutal.
+
+…And after hours of training, I wasn’t any closer to managing any form of spell reflection. Not in any tangible sense, anyway.
+
+I wasn’t able to manage to maintain Spessartine-level safely for the entire training session, but it didn’t need to. Tavare’s blasts of light weren’t attacks, exactly — they were manually flooding my body with a mixture of mana, not unlike how my own Arbiter attunement worked. As the foreign mana flooded through me, I tried to identify the composition and match it with my own attunements, but I struggled to be able to match it.
+
+This must be how Tavare restored mana to Sera during her first Survival Match, I realized. Or something similar, but less horribly uncomfortable, maybe. They probably just gave her grey mana to work with.
+
+As time passed, I was getting a feeling for what the required style of essence flooding through my body felt like,which probably counted as progress, but I had to sincerely wonder if that method was the best available.
+
+…Still, if I had to keep doing it to manage something as effective as being able to reflect spells, I’d do it. Not happily— I wasn’t as much of a glutton for punishment as Keras seemed to be at times — but I couldn’t resist the allure of that kind of power.
+
+Over the next few days, I did a bit more of that training. Derek was kind enough to keep Tavare out for that entire time, rather than returning them to their Soulblade weapon form. I also took some time to train my light mana in a somewhat friendlier fashion.
+
+I knocked on Patrick’s door.
+
+“…Who’s there?” His voice was sharper than usual, as if I’d startled him. Instantly, I felt guilty about not checking in on him more frequently after the attack.
+
+“It’s just Corin.”
+
+“…Oh. Corin, oh, uh…okay. One second.” He pulled open the door, looking mildly embarrassed.
+
+Patrick looked…rough. Physically, his arm had healed just fine, but his hair was a mess, and he looked like he hadn’t shaved in the last couple days. That wasn’t great, given that our academy had certain uniform standards, but I had to assume that he’d be given a bit of leniency after the attack. It was possible he was excused from classes for a while…I hadn’t asked.
+
+“Hey. I was going to ask you to help me with something, but…are you okay?”
+
+“I…” Patrick winced slightly, then gave me a smile. “I’m trying. I…I don’t really want to talk about it. How are you?”
+
+I didn’t know what to say to that. I wasn’t doing great myself, but I hadn’t been ambushed in a dark alley, so I didn’t really have anything to complain about by comparison. “Mostly busy. I was actually hoping you could help me with something, but if you’re not up for it—”
+
+“No, no. What is it? I…I could use something to do.”
+
+“Well…how do you feel like giving Bright Reflection some practice?”
+
+Patrick gave me a complicated expression. “I’m…I don’t think I’m ready for sparring practice just yet. I’m sorry, I just…”
+
+I put up my hands. “Not for traditional sparring. Just a quick experiment or two. Remember the ball bouncing test in Teft’s class last year?”
+
+Patrick laughed. “You nearly killed Mara. How could I forget?”
+
+“…Right. Uh, probably a bad example to lead with, in retrospect. But…I’ve been practicing something similar, and in terms of reflecting attacks…”
+
+“Well, if you just want to play ball, you should have said so.” Patrick walked to pick up his sword. “I’m your man. Just give me a few minutes to clean up.”
+
+We met on the roof shortly after that, taking places on opposite sides.
+
+“You ready?” I asked.
+
+Patrick still looked hesitant, but he raised Bright Reflection. “As ready as I’m going to be.”
+
+I raised two fingers and pointed them straight at him, then focused on trying to produce a similar compound mana type to what Tavare had shown me. I had difficulty matching the exact composition purely by recalling how it had felt. Manually mixing mana types simply wasn’t something I had any real experience with either — attunements generally handled their own supported compound mana types automatically, but I was doing something that wasn’t quite intended by my standard attunement functions.
+
+Still, even if I couldn’t quite manage a perfect match, I did manage to make something — a swirling mixture of light and transference that formed at my fingertips and launched at my command. When I released the burst, it looked wrong— not a clean beam of light wrapped in pressure, but rather a twisting, corkscrew-like burst.
+
+Honestly, I thought it looked kind of awesome, even if it wasn’t quite what I’d been going for.
+
+The resulting unstable burst flew at Patrick with such speed that I could barely follow it, but somehow, Patrick managed to time his response perfectly.
+
+“Bright Reflection!” His sword flashed as he batted the corkscrew-blast right back at me.
+
+I responded just as planned — by flooding light and transference mana into my shroud, hoping to bounce it right back into him.
+
+…I failed miserably.
+
+My own blast slammed right into me, burning straight through my shroud, then impacting my first shield sigil’s barrier hard enough to leave broad cracks and send me staggering back from the force of the transference mana’s impact.
+
+I staggered backward, then examined my shroud and shield thoughtfully.
+
+My shroud was glowing with light and transference mana…just not much of it.
+
+Saturating a shroud with mana of a specific type was a classic Sunstone-level shroud manipulation technique called “Shroud Saturation”. Like many techniques, it could be learned early if someone had the proper specialized training— like Patrick did, for example. Chancellor Meltlake had taught him the basics last year, and he’d been practicing it ever since. Saturating her own aura with fire was one of her signature moves, so teaching it to her apprentice early made sense. Patrick specialized in lightning saturation, but he could do it with any of his mana types now.
+
+And now, he was passing it on to me — with limited success.
+
+I’d managed to push mana of the right types into my shroud, but most of it was still grey. I needed more practice to figure out how to distribute it properly and keep it stable.
+
+“…Are you okay?” Patrick asked. “I thought — I didn’t think…”
+
+“I’m fine.” I dusted myself off. “Just checking my defenses. You did great.”
+
+“Th…thanks.” Patrick exhaled a deep breath. “Let’s try a shroud burst next. Might be easier for you,” Patrick suggested.
+
+I nodded in agreement. A shroud burst was essentially the same concept, but rather than a long-term effect, a shroud burst involved pushing a bunch of mana of a specific type into a shroud all at once for a powerful instantaneous effect. This was often used to defend against a single attack that was too strong for a regular saturation to deal with, although it could also be used as a form of attack with things like a fire mana shroud burst.
+
+I flooded a bit of mana into my shield sigil, watching with pleasure as my shield repaired itself. That was always fun to watch.
+
+Then, I lifted my hand again. “Ready?”
+
+Patrick lifted his sword and took his position. “Ready!”
+
+…I managed to blast myself again and again that day without a single reflected attack, but by the end of it, I’d managed to get a shroud burst to at least deflect an attack to the side.
+
+And after a few successful reflections on his end, Patrick was smiling again. He loved that sword, and I think that getting to use it helped him feel just a little bit better.
+
+…The chimney repairs for the house next door would be expensive, but ultimately, I thought the progress for both of us was worth the cost.
+
+And through our experimentation, I’d learned something else—I might not have managed much with a light or transference aura, but there was something else that worked much more easily, almost like an external force was guiding me.
+
+As I hurled my last blast of light and Patrick reflected it, I didn’t use light to counter.
+
+Instead, I reached for the mana in the sword at my side, then mixed it with the light and transference that I was already using.
+
+A wave of glittering ice enveloped me instantly — and the beam of light fragmented as it impacted, weaker bolts of light scattering in several directions.
+
+Patrick gasped. “What was that?”
+
+I grinned. “A technique that might be worth further practice.”
+
+My first true technique that incorporated Selys-Lyann with my own powers.
+
+I called it “Shivering Shroud”.
+

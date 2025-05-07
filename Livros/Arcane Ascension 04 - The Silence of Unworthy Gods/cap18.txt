@@ -1,0 +1,226 @@
+CHAPTER XVII – SONS OF VALIA
+
+With my first week completed, I fell into a routine more easily than I’d expected. The duel with my father was still looming in my mind, but I couldn’t let that dominate everything I was doing.
+
+The next two weeks went smoothly… At least for me.
+
+I went to class each day, then spent some time in each evening working on enchanting, training, or both.
+
+In terms of enchanting projects, I split my efforts between three main tasks.
+
+First, I coordinated with Derek on adding additional emergency enchantments to the house. Given my continued paranoia about Saffron and Mizuchi holding a vendetta and coming after us, it was something I would have done without any extra motivation…but he insisted on compensating me anyway.
+
+While he would have paid with money — and it would have been a lot of money by my standards — I chose to ask Derek to help with my second project instead of giving me cash.
+
+That second project was simple: more mana batteries.
+
+My goal was to get a mana battery of every single base mana type before our first semester was over.
+
+The process was simple: Derek gave me some silver coins, I convinced Keras to merge the coins into a larger and purer silver disc, then I made runes and containers for Derek to fill with mana. It was the same thing I’d done on the train with help from the others, but Derek had no shortage of mana to work with.
+
+Utilizing his help, I was able to get a larger air mana battery than Sera had been able to make, as well as large- size batteries for fire and light mana. He had access to other mana types, but our agreement was that he’d help me withone per week, so those three covered the first three-week period. We were behind on the fourth one, since things had gotten so busy.
+
+My third enchanting project was making some new weaponry that could actually be used in dueling class. I still had a standard dueling cane, but that simply wasn’t going to cut it against the opponents I was up against.
+
+I spent some time debating what exactly I wanted to build. An improved dueling cane would be the best fit for my early-life training, but I’d stumbled into using swords as my primary weapons, and I didn’t expect anything other than Selys-Lyann to be my main weapon for real combat in the immediate future.
+
+Thus, I approached Keras with a simple request. “Can you make me a saber with the same general weight and style as Selys-Lyann?”
+
+He was still isolating himself for the most part, but making a weapon seemed to help take his mind off it. When he’d finished the physical weapon, he handed it off to me, along with an unexpected gift — a matching dagger for my off-hand.
+
+“I appreciate the gift, but I’m not really used to using an off-hand weapon. I know it’s common in some dueling styles, but most Valian house dueling involves an empty off- hand.”
+
+“That’s what practice is for. And if you don’t end up liking it, you can repurpose it or just get rid of it. I think you’ll benefit from trying a few different styles, though, until you find what suits you best.
+
+I couldn’t argue with that. So, we did some training with that style while I worked on figuring out what enchantments I wanted on the weapons.
+
+For the sword, I settled on a design that would fill a useful niche in real combat, while being safer to use in dueling classes. I started with a classic flaming sword design,  giving  me  the  option  to  swap  to  the  oppositeelement of Selys-Lyann whenever I was in need of an extra element. I started by creating shells to be filled with fire mana, then Patrick helped fill those for me. After that, I added a few additional features for anti-tampering, general physical resilience, sharpness, and balance. When that was done, I added spirit runes, just in case I wanted to try experimenting with bonding with the weapon somehow later.
+
+I named the sword Scald, mostly to annoy Keras by using a name that started with “ess”, and because it was a good “fire sword” name.
+
+…Then I got bored of that sword immediately and tried to work on something that suited me better.
+
+After a bit of bemusement, Keras made me another blank sword to use, and I got to work on something that felt more like an appropriate Corin Cadence weapon. Something that would suit my needs — both for dueling and for fighting real opponents who were too deadly for me to face with my current power.
+
+Grey mana, mental mana, transference mana, spirit mana…and just a hint of transcendence.
+
+I worked for days on it, researching both standard and obscure functions and repurposing them for my needs.
+
+On a basic level, the new sword’s abilities weren’t all that different from virtually every item I worked on. Fundamentally, the enchantments were built around capacity and recharge runes for each mana type.
+
+The critical part was that while most weapons contained recharge runes to support the functions of the weapon, my recharge runes were the main functions. Well, a critical component of them, at least — there were several related function and activation runes that tied into them.
+
+The result was a startlingly simple design that was, under the right circumstances, absolutely terrifying.
+
+Upon finishing the sword, my first test was putting a standard school shield sigil on a test dummy — somethingDerek had several of, but that I almost never used. There was rarely a point, since we generally just, well, used each other.
+
+But for an enchantment set like this…a bit of testing without other people first was wise.
+
+I lifted my new sword cautiously, watching the shimmering of mana already dancing across the surface like the reflection of light across a lake. Then, cautiously, I poked at the training dummy.
+
+I met resistance from the shield sigil, of course—For about a fraction of a second, before my blade slipped right through, glowing brighter than before as it jammed into the dummy’s chest.
+
+I exhaled a deep breath.
+
+That…was even faster than I’d expected.
+
+I sheathed the weapon, then checked the shield sigil.
+
+As expected, the grey mana within had been completely drained.
+
+I recharged the sigil, slapped my own higher-capacity one on top of the dummy, and drew my sword.
+
+Transcendent Detect Aura.
+
+I prodded at the dummy again.
+
+This time, the shields lasted just about a second — long enough for me to watch the sword work.
+
+As the tip of the sword made contact with the shield, the barrier rippled and tore, pulling toward the flashing gleaming runes on the weapon’s surface. My shield sigil dimmed, the sword’s blade brightened — until the barrier was gone and my sword blazed bright with stolen power.
+
+I sheathed the weapon again.
+
+…Perfect.
+
+My new weapon was dangerously simple.
+
+The recharge runes that I personally tended to use relied on drawing in ambient mana from the air. There were other kinds, but I’d found those to be the best for my uses, at least when we weren’t on a cross-continental train ride.
+
+Typically, those runes only worked with ambient mana — not mana that had already been used in a spell effect. Spells generally served a purpose that was completed too quickly for any recharge rune to make an impact.
+
+But I’d seen Ceris, the Song of Harmony, absorb and repurpose a Sapphire-level spell.
+
+Now, actually emulating Ceris was far beyond my abilities…and I hadn’t even been able to analyze how the sword itself worked. I’d tried, with Sera’s permission, but it just absorbed any magic I used to try to understand it.
+
+That was frustrating, but since I knew it was possible to make spell-absorbing weapons, I’d gotten to thinking about how I could reverse engineer the concept.
+
+The area I’d landed wasn’t anything like Ceris — I couldn’t cut most spells out of the air and slam them back into my enemies.
+
+Instead, my new sword functioned by having a constant mental mana effect that detected how much mana the sword was in contact with and what type of mana it was. When the sword came into contact with enough mana of a compatible type, it would activate a transference mana function to supplement the pre-existing mana recharge runes. This enabled the sword to rapidly absorb mana in large bursts, so long as that mana was one of the types the sword was capable of storing.
+
+There were some problems.
+
+Upon testing, I found that it wasn’t fast enough to absorb much of an incoming attack spell with any meaningful amount of power. I could syphon off power from something like a standard dueling cane bolt, but those were so weak as to be a non-threat, anyway.
+
+In order to work, I needed a target that I could hold the sword against — or inside — for at least a few moments. And for that reason, the sword excelled in a few different situations — against barriers, in blade presses, and most notably, against shrouds.
+
+No matter how many shrouds an opponent had, if they were a type my sword was compatible with, I just needed to push my sword into them—And all that exuded power would soon belong to my blade.
+
+I only had a handful of types of mana the sword could work with at first, but over time, I planned to upgrade it. I’d need to find ways to prevent conflicting mana types from exploding in the weapon first, but I was on my way toward a whole new way to fight, especially when I thought about how I could tie the weapon to my mana threads.
+
+Mizuchi. Satsuki.
+
+Finally, I have something that might help against opponents like them.
+
+And so, with memories of lost battles flashing in my mind, I named my sword Shroudstealer.
+
+For the dagger, I primarily focused on light mana, then supplemented that with enhancement mana for more general resilience and sharpness. For the moment, the only function of the dagger was projecting a light aura that could grow suddenly brighter, similar to a much weaker version of Dawnbringer’s blinding light. Initially, I was planning on trying to build a spell reflection function as well, but when Cecily was double checking the enchantments, she stopped me.
+
+“You’re too close to the enchanting capacity to add more functions, Corin. It’s not a sword — it doesn’t have the surface area necessary to hold all the same enchantments as Bright Reflection. You need to be more careful.”
+
+That gave me an idea.
+
+“Okay, okay. I’ll stop adding more enchantments.”
+
+“You might even want to take some off — otherwise, it might explode if it gets overcharged somehow.”
+
+I nodded in understanding. “…I’ll make some minor tweaks.”
+
+She gave me a dubious look, like she understood that I hadn’t actually committed to making the weapon safer to use, but she didn’t make any further objections. She did offer the dagger a worthy name, though: Sir Shinyshiv. It was perfect.
+
+My fourth enchanting project was recharging the Jaden Box.
+
+I was…more than a little conflicted about doing it, but I’d promised Keras I’d make the effort. While he’d been convinced that Wrynn would help me make a replacement, I wasn’t sure that we could make one. I spent a little time studying Patrick’s dimensional bag to use as a foundation and…well, it just wasn’t anywhere near as impressive as the box. I’d have to figure out how to reproduce most of the major functions from scratch, unless Wrynn was very well- versed in the theory behind how her box worked, and I wasn’t sure how likely that would be.
+
+Training consisted of a mixture of new exercises that I learned in Attunement Optimization class, traditional sparring with Mara, some lessons from Keras, and taking some time each week to boost everyone’s mana with my Arbiter attunement.
+
+After the first three weeks of the semester were up, Cecily checked all of our mana levels again. It had been a total of four weeks since we’d last checked our mana levels, and the results were more or less in-line with what I expected.
+
+My Enchanter attunement had improved from 137 mana to 173. That was a vastly greater improvement per week than I’d been getting during the vacation, but only marginally better than my improvements toward the end of the previous year.
+
+My Arbiter attunement improved at a noticeably faster rate, going from 182 to 226. 44 mana in 24 days was almost two mana per day, which was pretty close to the most I’dever managed, and I’d sustained it for a much longer period of time.
+
+In both cases, the rates of progression were extremely impressive by ordinary student standards…but not enough for my own.
+
+From what Researcher had first told me about the Arbiter attunement’s boosts, I’d expected the benefits of using it to scale up over time. She’d told me two percent per week… but, in retrospect, that guess had never been completely accurate. It’d been higher at first, then lower later on.
+
+Over time, I’d come to suspect that the Arbiter attunement’s benefits were more complicated than just a percentage-based boost.
+
+People seem to retain larger bonuses when I boost them above a specific attunement-level threshold. Given all the function changes that occur when someone’s attunement level increases, that makes a degree of sense. It also somewhat mirrors what happened when Katashi first boosted Mara’s attunement level and she gradually adapted to it.
+
+That means people probably are going to get inconsistent benefits from it if I just boost them all the time…And rather than increasing benefits as someone’s mana pool goes up, I think I may be getting diminishing returns from boosting people regularly. Or maybe just providing a flat mana boost, rather than a percent? It could be both. There could be more factors, like the mana saturation in the area where I do the boost…I need to start paying more attention to that.
+
+I wasn’t sure about any of that. I still didn’t have enough data to come to any solid conclusions, but I started tracking more factors when I was performing each boost.
+
+Beyond realizing that my Arbiter boosts weren’t improving  things  as  much  as  I  wanted,  I  had  anotherrealization: those new, fancy exercises for Dianis Points and Star Veins were barely doing anything for me at all.
+
+It wasn’t that the exercises were useless. Not by any stretch of the imagination. I’d noticed more Carnelian-level students in my classes by the day. It’s just that the exercises were more useful for people who weren’t already pushing themselves to the extremes that I had been.
+
+There had to be more advanced tricks that would still work even with my existing exercise framework, but we hadn’t learned any yet. And that left me feeling…strange.
+
+Over the winter break, I’d finally started feeling like I was getting ahead of the average students. I was proving that, in spite of being an Enchanter, I could be useful. Powerful. Competitive.
+
+Important people wanted my help with things. I didn’t have to be ashamed of being an Enchanter…or a Cadence who wasn’t a Shaper.
+
+One of the most important things I’d done during that vacation was helping to give Professor Meltlake…er, Chancellor Meltlake…some encouragement.
+
+And the result? She’d broken from years of tradition to start raising the education standards for the bottom-tier and average-tier students.
+
+…And by doing that without lifting the top by an equivalent margin, that meant she was closing the gaps between those groups.
+
+In theory, that was exactly the thing I wanted to be happening. Raising the standards for everyone would help Valia as a whole. It would help humanity as a whole. And, through added competition, it would probably even drive the top-tier students to excel more…or allow new people to rise to the top that should have already been there. Numerous talented students had been held back by the unfair disparity of knowledge and resources.
+
+I knew all that. Intellectually, I wanted more of it. Rationally, I should have felt great about any part I’d playedin encouraging Meltlake to make that choice.
+
+…But when you’re toward the top, and you feel like you’ve gotten there the hard way, it’s difficult to remain objective.
+
+Each day, there was a part of me that saw other people catching up and thought, that isn’t fair. They’re just doing simple exercises. I had to fight for that.
+
+And I felt growing dread that maybe, when others were allowed similar advantages to what I was given, I wouldn’t be as competitive as I’d started to think I could be. Maybe if everyone was given an equal playing field, I’d just be back to being just that unfortunate Cadence that got handed a sub-par attunement.
+
+Was that irrational? Absolutely. Undeniably.
+
+I had two attunements, one of which was restricted. I was Carnelian in both. I was still advancing relatively rapidly — enough that I could hit Sunstone by the end of the year with ease. I had a crystal mark, something only a tiny fraction of the students could claim.
+
+And, most importantly, other people being powerful didn’t make me less powerful. Other people being successful didn’t make me less successful, either.
+
+Sure, there was competition in terms of grades and such, but objectively, the other students weren’t actually my enemies. Well, except for Spider Division, maybe, but that seemed to be less of a focus due to the short length of the semester…and even those students weren’t really enemies. They were just people going through a different kind of training designed to make us all better at subterfuge, much like how sparring improved my combat skills.
+
+If every other student miraculously hit Emerald and I was stuck as Carnelian, I could still be useful. I was building a broad variety of rare skills and I had a near-unique combination of attunements with a high degree of utility. That wouldn’t change no matter what happened with other students.
+
+I told myself all that constantly, but father’s challenge had left me in a more vulnerable place than I was used to.
+
+I struggled with it.
+
+No, I didn’t tell anyone. That might have been logical, but I was ashamed that I was even thinking in those terms, and shame has never been easy for me to share.
+
+I know other people were feeling it, too. Sera already had felt like she’d fallen behind due to her injuries, and I suspected she was having similar thoughts to my own.
+
+…But more than either of us, I knew the wealthiest, top- tier noble students were feeling pressured by the sudden influx of new potential rivals. I could see it in their faces in every Attunement Optimization class. Disdain. Frustration. Envy.
+
+Hate.
+
+And so, with that knowledge, I wasn’t surprised to hear about the first major incident of the school year.
+
+It wasn’t a monster invasion from the spire. It wasn’t Katashi appearing and giving a proclamation. It wasn’t Mizuchi bearing her fangs at a ball.
+
+It was something that was, in some respects, far uglier. The kind of ugliness that could only be perpetrated by a species as vindictive as humanity.
+
+On the dawning of the fourth week of the semester, six students were found brutally mauled in different parts of the campus.
+
+Each of them had been common-born with strong potential, hitting Carnelian-level early in the semester, just after we’d learned the new exercises.
+
+They’d all been maimed in the same fashion:The body part carrying their attunement had been removed.
+
+The victims had all been hand marked. There were no fatalities. But the attacks had come with a message of the literal variety. A note was found fastened to each injured body.
+
+You have stolen that which is ours by right of birth.
+
+Since ancient times, there has been a proper punishment for a thief: the taking of a hand.
+
+Consider it a mercy that we have done so little. It is a mercy that will not last if you continue to provoke us.
+
+This will be your first and only warning. Persist in this path and the consequences will be on your heads.
+
+We are the Sons of Valia. Our blood is power. This is only the beginning.
+

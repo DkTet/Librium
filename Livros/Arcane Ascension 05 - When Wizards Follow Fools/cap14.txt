@@ -1,0 +1,214 @@
+CHAPTER XIII – EMERALD EMULATION
+
+“Dodge!” Patrick shouted as he hurled a lightning bolt across the dueling arena.
+
+Haste.
+
+I threw myself to the side, but the bolt curved in the air and followed my movements. I sent a burst of transference out of my right hand toward it, but Patrick simply twitched a finger and the bolt curved again, avoiding my counter. I ran backward, then jumped straight at one of the arena walls, running briefly along the wall before finally spinning around and flaring my aura.
+
+Shivering Shroud.
+
+The lightning blast rebounded away from me as it struck, but that didn’t send it back at the caster. Patrick had moved the bolt around so much that it blasted off in a direction that was nowhere near him.
+
+I did very nearly manage to catch Mara with it, though.
+
+As the bolt neared her, she slammed a foot into the ground, a burst of enhancement mana carrying her straight over the reflected bolt. Then she crossed her arms as I hurled a blast of transference at her, her own enhancement mana-hardened shroud negating much of the blast. In moments, she covered the distance between us, swinging a hastily formed mana blade before I’d even landed from my most recent wall-jump.
+
+I formed a mana blade of my own, parrying her swing, then hit the ground just in time for veins of ice to form beneath me. I kicked at the ice, ducked a swing from Mara, then swung my own mana blade at her, stretching it mid-swing like I’d seen Keras doing—And I’d almost clipped her when a blast of light slammed straight into my back.
+
+I grunted.
+
+“Reset!” Sera called, dismissing the ice from around my legs.
+
+I groaned, dismissing my Haste technique and mana blade. Mara raised her good hand and I gave it an affectionate punch. “Almost gutted me there.”
+
+“Same. Shame about your back. I liked it when it wasn’t on fire.” “When it wasn’t what?” I turned my head and…yep, my back wassmoking.
+
+I let out a yelp and tossed my burning overcoat on the dueling floor. Sera lazily raised a hand and doused it in water, sending up another plume of smoke.
+
+I backed off, coughing, then frowned and turned to Patrick. “What was that?”
+
+“Intense light igniting cloth is expected behavior, Corin,” Sera called out at me.
+
+“I had shields and shrouds up!” I turned to Patrick, who was whistling innocently. “Wait, light? You don’t have Bright Reflection drawn, and even if you did—”
+
+“I might have figured out a trick to that.”
+
+“A trick to completely ignoring how defensive magic works?” I folded my arms.
+
+“Not so much. More like you’ve got a gap in your shrouds right after you do your reflection technique. It forms right at your back — you know, the place I just hit. I think it’s where you pull most of the mana from.”
+
+I frowned. That was…plausible, I guess. If I was using any sort of shroud burst, I’d be converting mana and using some of it up, and it took time to normalize, just like how Mizuchi’s shrouds were used up when she took a breath, but… “That doesn’t explain how you got an attack through the shields…or how you used Bright Reflection without drawing it.”
+
+“I didn’t.” Patrick patted the sword on his hip. “I did it myself.” I blinked at him. “How?”
+
+“Well, to the first part, it’s a common gap. If your shields permit light to go through — which they have to, for you to be able to see — that means there’s a type of light that can get through. Now, I can’t actually conjure natural light, but there are specific compositions of magical light that are close enough to get through most shield sigil types. It depends on the composition of mana in your own sigil.”
+
+I blinked. I knew most of that from a theory standpoint, but…it raised other questions. “…How’d you figure out the right light to use?”
+
+“Easy.” He pulled off his own borrowed shield sigil. “I figured your shield will be identical to the one you let me borrow. I’ve been practicing on it. Besides that, your Arbiter sigil erases your mana signature, which means the grey mana composition is the most basic one possible.”
+
+“Huh.” I took a breath. “That’s an oversight. But that’s…a pretty niche tactic.”
+
+“It’s exactly the type of thing we should be expecting your opponents to try to figure out,” Sera explained, “and the same thing you should be studying, if you figure out any of your own opponents in advance.”
+
+I nodded. “Lesson learned. But…that still doesn’t explain how you managed to cast light magic at all.”
+
+Patrick grinned, then pulled off a glove. Not the one covering his attunement — his other glove. And I saw a symbol there that I’d heard described, but never actually seen.
+
+I blinked. “Is…that Dawnbringer’s symbol?”
+
+Patrick grinned. “Sure is! Well, technically,” he patted Bright Reflection, “it’s a very good knockoff.”
+
+I processed that. “You spirit bonded with Bright Reflection, like I did with Therin Thorn.”
+
+“Sure did. Surprise!” He slipped his glove back on. “Still getting the hang of it, but now I’ve got a new mana type to play with. Well, a few of them, actually. And some compounding for things like fire.”
+
+“That’s…pretty impressive, actually. But wait. How and when did you do it?”
+
+“Just a few days ago. Studied up on the train, learned the spirit bonding spell. I was planning to wait a while before attempting it, but after whathappened with the train being attacked…well, I felt like I needed all the power I could get.”
+
+“I don’t blame you. But, uh…the spirit for that thing. That’s a part of Keras, right? Is that safe? Would he be okay with it?”
+
+“He gave me the okay before he left. I just didn’t have the ability to cast the spell at that point. I needed to build up enough spirit mana acclimation for the spell — which I have now, thanks to your glove.” He patted the Null-Contract Gauntlet. “Sera helped me cast it, but I needed to make sure I actually could handle the spirit mana before I did it.”
+
+I gave him a nod. “But…what about that weird annihilating mana Keras uses? Is that an issue?”
+
+“There’s no trace of that kind of mana that we could find in the sword,” Sera explained. “We checked. So did Researcher. Best bet is those weird seals he talked about gave him enough control to enchant the sword without leaving any of that annihilation mana behind.”
+
+“That’s great.” I took a breath. “Except for my sigils. I’m…going to need to make some adjustments.”
+
+“Better to learn the weakness now than during the trials,” Sera told me. I nodded. “Let me get to work.”
+
+***I made a few adjustments to the sigils, adding a tiny secondary shield function and the requisite supporting enchantments to allow for blocking certain light attacks. And then, upon further consideration, I tried to work in a few other ideas—But I was out of capacity. If I wanted even stronger sigils, I’d need better materials.
+
+After that, I talked strategy with my friends a bit more, then got back to training. We’d been practicing for three weeks, working on getting me as ready as possible for the Emerald Trials.
+
+Patrick was in much better shape in general after three weeks of recovery. It was possible his new spirit bond helped with that, too, given that spirit mana tended to be useful for recovery in general.
+
+Mara was in better spirits now that she had something to focus on, too— especially since it involved punching me.
+
+Sera…Sera was still in bad shape. She wasn’t participating in all of our training sessions. She helped out when she could, but most her help came inanother form — going out and talking to people, figuring out who I was likely to face in the arena.
+
+We had a list of candidates now, as well as monster lists. I was about as ready as I was going to be.
+
+I still didn’t have my full strength recovered. My Enchanter attunement wasn’t going to be usable yet, not unless I ran into a true emergency, and I was still a long way from using any transcendence mana. But three weeks of practice had helped me feel more comfortable throwing around Accelerated Computation in a fight if I really needed to, as long as I was powering it through my Arbiter attunement, rather than my Enchanter one.
+
+And more importantly than that, I’d made quite a bit of progress with my mana growth during that time. It had been less than five weeks in total since I’d gotten on the train and my safe mana capacity had jumped up from 366 to 452 — almost a hundred full points.
+
+My Enchanter attunement had barely made any progress, sitting at 279. Only two points per week, but that was better than nothing. It gave me a total mana value of 732, meaning twice the requirement for Sunstone…but not all of it was available. Similarly, I probably had nearly Sunstone-level of power out of my crystal mark, but it was unusable.
+
+I couldn’t hope to keep up with Emeralds with that kind of power alone. Fortunately, three weeks of practice had made me even better at cheating uproariously.
+
+We finished up that sparring session, rested, and exchanged a few more words.
+
+“Give me a couple more hours to do last checks,” Sera said.
+
+I gave her those couple hours. Then, together, we went to talk to Len.
+
+***“We’re ready for Corin to enter the trials,” Sera told Len. “Are you, now?” Len asked, sounding dubious.
+
+“Mostly?” I asked. “I mean, yes, obviously we are very definitely ready.
+
+For the, uh, first part, at least?”
+
+“You are prepared to demonstrate your Emerald-level shroud?” Len asked cautiously.
+
+She knew, of course. She’d seen me only months before, been present for many of my conversations with Warren. She knew exactly what level I was.
+
+“Absolutely.”
+
+This was true.
+
+It had taken less than a minute to make a new Spessartine-level function that I could turn on briefly to give myself a green aura. It wouldn’t do anything else, it was just…green.
+
+While I’d been doing my training over the last few weeks, I’d also built two more functions, just in case. One would change my shroud into an actual Emerald-level shroud in terms of mana density. I’d run several tests with it and apparently it looked convincing, even to Elora’s eyes.
+
+There was a problem with using that, of course. A novice Emerald had about 12,960 mana to work with. An Emerald-level shroud was a small fraction of that, based on the amount of mana they regenerated that they couldn’t actually use, as well as a few other complicated factors. For an actual Emerald, an Emerald-level shroud effectively had no cost, because it was only using a fraction of the mana they could draw in from the environment. For me, if I activated it, I’d have to pay for the cost difference between my what I could regenerate and the cost of generating the shroud.
+
+A starting Emerald’s mana regeneration was their full mana in one hour under ideal conditions, or 216 mana per minute. The shroud was only a fraction of that, which I estimated to be about a quarter. This was probably a high estimate, but I wanted to play it safe.
+
+That translated to about 54 mana per minute.
+
+I hadn’t checked my mana values since right around the final exams, but I was probably just at the very edge of Sunstone with my Arbiter attunement…and that was my only usable mana at the moment, unless I wanted to risk using my Enchanter attunement and setting back my healing progress.
+
+A baseline Sunstone-level attuned with 360 mana could maintain an Emerald-level shroud for just under seven minutes, doing nothing else, before running out of mana. I could last a little longer than that with my mana pool alone, now that I had a bit more than the necessary amount for Sunstone, but not much. Nine minutes, maybe, and that was pushing it.
+
+I couldn’t imagine they were just going to take one look at my shroud and let me go — there would probably be discussion. How long would that conversation last? Did I want to risk demonstrating a real Emerald shroud and running out of mana mid-conversation?Fortunately, with weeks to think about it, I’d found a solution to that as well — but I wouldn’t use it unless I needed to.
+
+Next, I created one last attunement function — one that would temporarily give me access to Emerald-level ambient mana manipulation. That was a low-cost function to upkeep, so I just turned it on and played with it whenever I felt like it.
+
+It felt very much like the shroud manipulation that Keras had taught us, but rather than using the mana inside my body as a source, it let me extend my senses into touching the mana in the air around me. That felt a little strange at first, and I was only able to manipulate the mana in rudimentary ways, even after a few weeks of tinkering. I could tug a bit of the nearest ambient mana toward me, or push a bit away, but not much else. Hopefully, if they asked for a demonstration of that ability, it would be enough.
+
+When it came time for the tests, I asked Len a few more questions while we were in private, then followed her to another room. Not a dueling chamber, this time.
+
+The Emerald Audience Chamber, where the council met to vote.
+
+***The audience chamber was a lavishly adorned hexagonal chamber about sixty meters across. In the midst of it was a massive twenty-meter cylindrical platform wrought from glittering crystal with a waist-height pillar in the center. It took me a moment to realize that pillar was just a fancy podium, and that the whole platform was basically a speaker’s stage.
+
+The stage was surrounded by seating in several different zones. Only a handful of people were currently seated, making the entire place feel too large.
+
+The walls were plain white stone, but draped with massive and elaborate tapestries — one for each of the god beasts, which was an interesting choice, since visages would have been a much more conventional option.
+
+There were six areas of seating around the central platform. Five of them held national flags. Edria’s flag was present in two areas, corresponding to the zones shown with the God Hydra and God Phoenix, likely a way of acknowledging their control over those specific spires.
+
+The flag for the Spider Spire was blank. No nation controlled the Spider Spire. Supposedly, no one even knew where it was. That was why it was so surprising that someone was sitting in that area — but, I supposed, there wasn’t anywhere better for the lord of the Sorcerer’s Spire to situate himself.
+
+Warren Constantine stood up as we entered, his gaze narrowing as he saw me. “Emerald now, is it?”
+
+“The tests will certainly show that,” I said, giving him a weak hint of a smile.
+
+His response was strained. “I’m sure they will. Come, Corin Cadence.
+
+The World Stage awaits you.”
+
+***I’ll admit, standing on that stage in front of a bunch of unfamiliar Emeralds was terrifying.
+
+Len took the stage along with me, as Master of Ceremonies. That was a bit of a comfort, since she’d been nothing but helpful to me, but…I still wanted to be anywhere else.
+
+“Members of the Emerald Council, honorable lord of the Sorcerer’s Spire, distant observers, thank you for your participation on such short notice. Today, and in the following days, we will be evaluating several new applicants for Emerald Council membership. This will be the first test to determine if someone is ready to participate in the Emerald Trials.”
+
+Distant observers? I tried not to overthink that one.
+
+“We all know the deal,” someone called from the crowd. An unusually tall woman sitting in the Edrian wing, heavily armored. I didn’t recognize her. “You can dispense with the formalities, we’re all tired.”
+
+“Understood, Executioner.” Len tipped her head downward.
+
+Exe…I blinked at Len, then at the tall woman, taking a closer look at her. Beyond her significant height — she was probably six feet tall or taller— the woman was built like a tower, with her dark plate mail encasing solid muscle. Rings of tiny glowing runes were visible around the armor’s neck and joints, indicating sophisticated enchantments that I couldn’t make out at a distance. She wore a curved single-handed sword at her hip and a crimson cloak. It was that last detail that brought the image together, completing the picture of someone I’d only heard about during a train ride months earlier.
+
+That’s…Hannah Meiyer, isn’t it? A former wielder of Diamantine, one of the Six Sacred Swords. Or…a part of Diamantine, at least, before she lost her right hand…She probably won’t want it coming out that I know that. Diamantine being split into pieces — and some of those pieces being stolen — isn’tsomething the public knew about in Keras’ story. It’s been years since then, but I have no reason to believe the situation has changed that much.
+
+I let my eyes shift slightly, scanning for a particularly important detail. She visibly appeared to have two hands, now, but with her gauntlets, it was hard to tell if one of them was a prosthetic.
+
+“Applicant, please identify yourself.” Len’s tone was even.
+
+This wasn’t rehearsed, so I just said the first thing to come to my mind. “I’m Corin Cadence.”
+
+“We knew that!” someone yelled from the Valian section. “Come on, kid, show some of that father-beating spine!”
+
+I bristled at the strange remark that wasn’t quite an insult, but didn’t turn to see the speaker. Instead, I walked deliberately to the center of the platform, leaning on the crystalline podium.
+
+“Very well, then.” I took a breath.
+
+The council wasn’t even started yet and I was already tired of people.
+
+Tired of politics. Tired of feeling weak.
+
+So, I wouldn’t be. I’d prepared to make sure of that.
+
+Spessartine-Emerald On.
+
+My Emerald aura — a true Emerald-level potency — flared with sudden light.
+
+“Hello, everyone. I’m Corin Cadence. Enchanter. Crystal-Marked. I am the second disciple of Keras Selyrian, Wielder of Dawnbringer. And I am Wielder of Selys-Lyann,” I looked very deliberately at Hannah Meiyer, “a sword forged from Flowbreaker, one of the Six Sacred Swords.”
+
+Hannah eyes widened briefly with recognition, then she opened her mouth—But I wasn’t done.
+
+“I am the inheritor to the legacy of Alaric Cadence, the duelist who ended the Six Years War. In my first year at my academy, I survived three battles against the Hero’s End — twice fighting her personally, sword-to- claw. In my second, I defeated a Child of the Tyrant in Gold. I studied under Anabelle Farren, and under her rival, the lord of this tower. But before that and after, I learned from a different Enchanter, Professor Blanche Vellum, who banished Mizuchi from Valia with her own power.”
+
+I wasn’t sure how Warren would respond to that — if he’d be hostile to what I suspected about his heritage — but it went about as well as I could have hoped.
+
+He burst into laughter. “…Banishing Mizuchi. She never changes, does she?” He shook his head. “Go on, lad. Unless that was the end of it.”
+
+“Oh, almost done.” I nodded, then pulled off the glove on my right hand. “I’m also the Arbiter of Katashi. And, funny thing — I haven’t heard a word from him authorizing any sort of invasion of Valia.”
+

@@ -1,0 +1,746 @@
+CHAPTER XXIX – GRADES ABOVE “A”
+
+The rest of the week went more or less smoothly. I finished building a second Null Contract Gauntlet to start using myself immediately, as well as a third one that I didn’t hand out immediately.
+
+Sera was the obvious choice, but she didn’t actually need one, since she already had a contract attunement.
+
+Derek was another option, given that he’d been paying for my work, but he also had a contract attunement…and as an Emerald, the mana tax from my gauntlets wouldn’t even be noticeable for him. Still, I could have handed it to him for symbolic reasons.
+
+Mara was a good choice. She was in a position to benefit from using it, as well as my usual training partner. And in Keras’ absence, I felt like doing something to help reinforce our bond was a good idea. Unfortunately, she already wore enchanted bracers, which complicated the idea of handing her a gauntlet. It would have been better to make her a custom model that incorporated the Null Contract and additional punching functionality…or maybe just something other than a glove, especially given that her attunement was located on her chest. A piece of armor, maybe, or just a sigil to be worn on her undershirt.
+
+Cecily was probably the best choice, given that she was physically helping me with the work. Giving her a glove might have come across as a proposal, however, and in spite of it being comparatively simple to explain that it was just a gift for helping with the work, I wasn’t quite ready to handle it.
+
+So, while in the grips of brief decision paralysis, I held onto that third glove, debated, and worked on a lower priority project — an automatic mana crystal generation device.
+
+The concept was extremely simple — it was functionally similar to a mana battery, but designed to use the mana it was pulling in to generate mana crystals.
+
+Of course, if it was that simple, every Enchanter out there would have an infinite money device.
+
+Generating mana crystals was a mana manipulation exercise — or what Keras would call “shaping”. In concept, it was simple enough. Mentally, I knew how to compress mana gradually until it held a solid state.
+
+But while I was able to perform that process manually, that didn’t mean that I could translate it into a device easily. It wasn’t as simple as “apply ‘x’ units of pressure to ‘y’ mana for ‘z’ duration”. The exact amount of mana mattered. The composition of the mana mattered. The amount and composition of the ambient mana in the area mattered.
+
+When I was doing it as an exercise, I didn’t have to think about all the math behind it that heavily — I was able to physically watch and sense the state of the mana while I compressed it into the right shape.
+
+With an automated device, I had to account for all sorts of variables ahead of time.
+
+You’d think that someone would have already done that work — and you’d be right. Sadly, the documentation for it was considered a “trade secret”, and thus not publicly available. Existing models of crystal-generation devices were used for fabrication by large corporations (or the military) and not for sale in the open market.
+
+I probably could have used my connections to get a look at a military-owned one in a facility somewhere, but that would have meant talking to lots of people, and I didn’t want to do that.
+
+So, instead, I began to work on trying to build one from scratch.
+
+By the end of the week, I had a device that spat out something that looked like a mana crystal every hour,except that the crystal was completely unstable and vanished after about three minutes.
+
+…Progress was progress, at least. But I was out of time.
+
+It was the end of the semester and that meant something I’d been dreading — final exams. Every individual class had some kind of exam, plus we had the added bonus of a “general” final exam, similar to the one where we’d been sent off to the Vanreach Mountains for a scenario in the first year. Fortunately, the general final this semester was much smaller in scale and wouldn’t be in as remote of a location. Less fortunately, that was simply because it was an assessment for our capability and roles for the between- semester war games, which I expected to be a significant challenge.
+
+The first exam up was Physical Training.
+
+***Our Physical Training class was split up into several locations, which made a degree of sense once I saw the exam itself — obstacle courses. The course was too long for every student to run it individually, but didn’t have enough space for the entire class to run it at the same time…thus, we were split into six groups, each overseen by a third-year student.
+
+I was lucky enough to be assigned to the same grouping that Patrick was, but the rest of my teammates were stuck with other groups.
+
+“Study the course. You have twelve minutes.”
+
+“Can we go on the track?” An unfamiliar student asked. “Yes, but I advise you to go around.”
+
+I considered, then asked, “I’m an enchanter. Can I make changes on the track during the prep time?”
+
+The third-year gave me a quizzical look. “Sure, if you think you can enchant something in twelve minutes. Well, less than six now.”
+
+Most of the students heard that and sprinted off in a panic.
+
+I simply paused and considered my options, at least at first.
+
+Okay, if I’m allowed to prep the field, then I could etch something into…“C’mon!” Patrick gestured. “Let’s get a look!”
+
+I blinked. I’d half-forgotten he was there. “…Right, of course.”
+
+The course was huge — and it split into two main branches at the end of a straightforward race track style section at the start. I couldn’t see the end of either branch from the starting point.
+
+“You go left, I go right?” I asked. “Good call!”
+
+We split off at a jogging pace. I was tempted to sprint in parallel with my branch to make sure I could reach the end and back before the time limit, but I had to balance that with not wasting too much of my energy. We didn’t know how much downtime we’d have before the actual test started after our twelve minutes of observation time.
+
+Race track first, that’s simple enough. Can Haste throughit.
+
+After that, I reached the area where the track branchedoff. I ran to the right side as planned.
+
+The next section has gaps in the ground…looks like they fall into some kind of tar pit. Patrick can levitate over it. I can use jump spells or improve my reflexes with light magic.
+
+After that, a section of the track was covered by a sheet of impenetrable darkness. A couple other students frowned at it, then ran past me to inspect the next section.
+
+I hurled a globe of light into the darkness. We weren’t told that we couldn’t use spells to observe the track, after all.
+
+Bees. The next section of the track was filled with giant bees.
+
+Oh, that’s just mean.
+
+It wasn’t just bees, though — several parts of the floor of the dark section were drenched with something sticky. I frowned, considering leaning down to poke an item into it to see what the texture was like, but the smell hit me as I approached.
+
+Honey? Is that real honey?Someone was certainly going for a theme, at least. I laughed and kept going. Both Patrick and I had access to light magic — in my case, through temporarily activating the Citrine-level attunement function that granted the mana type, and in his case through using Bright Reflection. Those would make the chief part of the challenge trivial. The honey pits could be as easily avoided as the gaps in the previous section. The giant bees couldn’t be particularly powerful if people were expected to be able to handle them in the dark — they were probably intended to be more of a nuisance. We could fight them, but we’d probably just end up repelling them with air or transference mana instead.
+
+With that in mind, I rushed to the next section. Another track, but this one had a massive stone wall in the center. There were some handholds in the side.
+
+…And a handful of runes etched into the stone.
+
+Earth reinforcement. Automatic repair. And…some kind of earthquake variant? Oh, the wall shakes when you climb it.
+
+Hilarious. I’ll jump over. Patrick will fly.
+
+I frowned. This was almost too simple. Where were the real challenges?I kept going. The next section of the track was slick with oil. Patrick could fly over that, too. I’d have to be more careful.
+
+It’s only a hundred meters or so…I could probably bounce myself across it with jump spells and my ring without ever hitting the ground. Not quite as good as levitation, but it would probably work. I could also probably clear a space with transference mana or try to improve my reflexes enough to run through the oil without slipping.
+
+Next, there was a long stretch of seemingly normal ground. I ran alongside it, worried that I was running short on time, but paused briefly for one check.
+
+Detect Aura.
+
+Several parts of the seemingly standard track glowed.
+
+Traps, then…or illusions of normal ground. I’ll have to warn Patrick, then dodge these.
+
+Finally, my track converged with Patrick’s. At the very end of the track was a massive stone golem, twenty feet tall, which stood just in front of the end of the now- converging courses.
+
+I found Patrick at the end of the track.
+
+“We’re almost out of time,” Patrick said, “let’s talk while we run back.”
+
+“Wait.” I’d had a chance to do some thinking on the way there. I stepped onto the very end of the track, behind the golem.
+
+The golem slowly turned toward me, apparently activated by my presence on the track.
+
+I had a brief moment of panic, but I didn’t need to be on the track long. I reached into my bag, ducked down to drop something, then dodged as the golem swung massive fists toward the ground.
+
+After that, I rushed right back off the track. The golem stood, then turned back into the default position and went inactive.
+
+“Wait.” Patrick blinked. “Are you sure that’s…?” “Probably,” I grinned. “He said I could make changes.”
+
+I paused for another second to talk to a third-year Diviner who was monitoring the end of the track. I explained what I’d done. She laughed, then gave me a hand-sign for “affirmative”.
+
+Patrick and I ran to the start of the course, explaining our observations along the way (just in case Plan A didn’t work), and made it back with about thirty seconds to spare. Then,we took our positions at the starting line with the other students.
+
+“Prepare yourselves,” the third-year instructed. “You’ll all be running it together. Interfering with others is permitted, but not in ways that cause direct harm. This isn’t that sort of competition.”
+
+“So, things like debilitating spells are allowed?” One of the students asked.
+
+“Yes, but no direct attack magic or striking with weapons to cause harm to each other. You can fight the monsters, however, and you’re encouraged to.”
+
+“Can we help each other?” I asked.
+
+The third-year shrugged. “If you want to. You won’t get a better grade for helping people on this one, though, even if you’re stuck with a support attunement.”
+
+That didn’t sound like he was trying to be deliberately offensive about my Enchanter status — it was just the kind of general dismissiveness most people had about Enchanters. The only surprising part was how infrequently I’d been hearing it recently — I’d mostly kept to my own social circle, so aside from some early snide remarks I’d gotten in the dueling class from people who didn’t know me, I’d been mostly isolated from the attitude most Valians held about support attunements.
+
+At one point, it might have bothered me. Now? I just had to suppress a laugh.
+
+We were going to destroy this test.
+
+“Contestants ready…” The third-year started… “Go!” Most of the students took off at a run.
+
+Patrick and I stepped onto the track next to each other. I reached out with a hand and put it on Patrick’s shoulder.
+
+“Return.”
+
+We appeared on the other side of the course next to the teleportation anchor I’d placed behind the golem and stepped across the finish line.
+
+The third-year Diviner on the other side burst out laughing again as soon as she saw us. “Your time is…one point eight seconds. That’s probably a school record. Names?”
+
+We gave our names, then chatted with the third year for the next ten minutes before the first of the other students finished the race.
+
+“We don’t usually give out grades for this in advance,” the third year told us after the race was concluded, “but in this case, I can’t hold back. Congratulations, Patrick Wayland-Cadence and Corin Cadence. You’ve hit Grade ‘S’.”
+
+***Much like attunements had a near-mythical Sapphire- level, class grades typically ended at “A”, but there were occasional cases where someone performed above the standards of a class to such a degree that a higher grade was warranted. In those rare cases, an “S” was issued.
+
+I had no idea how that would impact our overall scores for the year, but honestly, just having one on my record felt great.
+
+Patrick and I took a few minutes to celebrate together, but that was all we could afford — our finals were far from over.
+
+***After the rush of exertion from Physical Training, most of my finals were simple and anticlimactic.
+
+Attunement Optimization? A written exam.
+
+Alternate Mana Sources? A written exam, but with a little more snark from the teacher.
+
+Foreign Attunements and You? A written exam, but with an artistic flair, since it had a section where we had to design and draw a hypothetical new attunement. I didn’t have the heart to tell the teacher that I’d already been working on exactly that for weeks — and that I probably could have demonstrated a functioning prototype if I truly wanted to.
+
+I mean, it might have exploded, but that was always a risk with prototypes.
+
+Anyway, those were easy.
+
+Intermediate Mana Manipulation was…well, actually even easier.
+
+“Today, we’ll be testing mana transfer rates,” Professor Ezran explained. “On the desk in front are several pre- etched items with simple grey mana capacity runes of varying sizes — Quartz, Carnelian, and Sunstone. You may take one or more items and charge the capacity runes as much as possible before the end of class. I will measure the amount of mana in each item you’ve worked on when you’ve reached the time limit. Be warned that incompletely charged items will result in a much lower score than completely charged ones, even if the incomplete item has more mana. For example, a fully-charged Carnelian capacity rune with 60 mana will result in a higher score than a partially-charged Sunstone rune with eighty. A single fully- charged Carnelian rune will, however, also award more points than ten 6-mana capacity Quartz items, and so on. Thus, you will be graded on both your transfer rate and a proper self-evaluation of your capabilities.”
+
+“Can we use other items to help us?” One of the students asked.
+
+“Yes. You’re Enchanters. If you’ve prepared, you’re doing it right. Now, prepare yourselves. You have one hour.”
+
+Most of the students began to take off simple items like their shield sigils with the intent of pulling mana out of them. That wasn’t a bad idea.
+
+“Begin.”
+
+The students rushed the table to take empty items. Most people went straight for Carnelian ones, which made sense— the majority of the students were a little way into Carnelian-level at this point themselves. They’d probably get one capacity rune done before the end of the class, maybe two.
+
+Some went for the safer approach of taking a massive pile of blank Quartz-level items that could be charged quickly. That wasn’t a terrible idea, either, since it meant they were less likely to be caught in the middle of a charging process.
+
+I went straight to the Sunstone-level items, then frowned. “There are only three of them?”
+
+Professor Ezran blinked at me. “…There isn’t enough time to charge more than one per student, and we don’t even have anyone at Sunstone-level here. I know you have more mana than the other students, but…”
+
+“Never mind, I’ll just make more.”
+
+I swept up the three Sunstone-level items, went back to my desk, and pulled out my tools.
+
+Etching rod. Stamping rod. Mana batteries. Mana- regeneration sigil. Mana-regeneration bracers.
+
+Time to work.
+
+An hour later, I dropped the three Sunstone-level items I’d started with on the table in front of the teacher.
+
+Then three more. Then three more.
+
+The hardest part of the process had been pulling the mana out of the non-grey mana batteries and then converting it back into grey mana in my body. That wasn’t a typical exercise, but I’d run out of grey mana batteries and other grey mana supplies before I’d managed to finish the whole set, so I’d had to get creative. I’d considered pulling the mana out of my circlet and message necklace as well, but I’d run out of time before that point.
+
+Professor Ezran stared at the item pile in disbelief. “I watched you do it and I still don’t believe it.”
+
+It was probably the nicest thing another Enchanter had ever said to me, but I didn’t know how to reply. “Thanks?”
+
+“I don’t suppose you want to reevaluate that offer to be a teaching assistant for next semester?”
+
+I shook my head. “No, thank you.”
+
+“Then you’re done here.” The teacher scribbled something on a note. “Turn this in at the front office. You’ve passed the class.”
+
+“For the semester?”
+
+“No,” he shook his head, “for the year.”
+
+***I turned in my note later, barely processing the congratulations I received at the front office, and stumbled back home.
+
+I was thrilled to be doing so well, but I couldn’t relax. The next day was the final for my dueling class.
+
+***I stepped into the arena feeling pretty confident. That was getting to be less and less of a novelty as the year continued — beating Jerome in the spire had shown how much I’d grown in single combat, and my team…Well, frankly my team wasn’t very fair.
+
+Patrick and I were probably two of the best individual fighters in our grade. Beyond that, we lived together and trained together constantly. We developed strategies for utilizing our abilities collaboratively and practiced them regularly.
+
+Lute was the weak link in terms of teamwork — but in terms of overall fighting ability…I’d practiced with him enough to know that he had us outclassed. His presence in the class itself was completely unbalancing, at least when he was putting in any serious effort toward winning. He seemed to be deliberately limiting his abilities, much like Derek had in that first Survival Match that I’d watched, but I had little doubt that Lute could defeat any ordinary student in a serious fight.
+
+Naturally, that meant I was mostly concerned about people who weren’t ordinary students.
+
+Third-year-students were the most obvious. Not only did they have an additional year of training — which was nothing to scoff at — the third-years were elites. They’dbeen hand-picked to remain on campus in a support and protection role. Throughout the year, I’d seen most of the third-years in action and I knew that many of them had unusual advantages — rare items, foreign attunements, and even a Crystal Mark or two.
+
+In other words, they were the most like us.
+
+Team Goddess’ Grace had performed well throughout the year, but it was Team Bloodline that was truly dominant. They’d been high-ranking and consistent, with their team entirely consisting of Sunstones, and their captain was nearing Citrine-level. I didn’t see Team Bloodline around before the matches started, which was a little odd, but I wasn’t looking closely.
+
+The third-years weren’t the most dangerous people around, though, at least in my own estimation.
+
+Satsuki was sitting in the audience.
+
+I hadn’t seen her during my earlier dueling classes, but she was a student, and Teft had dueling classes during other times in the day. Maybe she was in a different class and had joined one of the teams for this one due to a schedule conflict or someone dropping out mid-year?…Or maybe she was just there to watch me.
+
+She waved directly at me when I saw her there, looking so bright and cheerful that I might have mistaken her for something other than, you know, a literal murder serpent. The way her fangs peeked out when she grinned was a reminder of her true nature, one I couldn’t forget in spite of her apparent friendly demeanor.
+
+…I waved back and forced a smile. I certainly wasn’t going to be rude to a murder serpent, after all. There were much more comfortable ways to ensure my early demise if I wanted to do that.
+
+And I still felt terrible about my earlier failure, when I’d seen her being mistreated.
+
+She looks better today, at least. I…hope Sera helped her feel better after what happened. I never asked Sera aboutwhat happened after I walked away that day, did I? I should…do that sometime.
+
+Talking to Satsuki directly was, it seemed, still too much for me to even consider. I did, however, worry about my odds if she ended up in the arena. I’d managed a double ring-out with trickery when I’d fought her in the Survival Match, but she wasn’t likely to fall for the same technique twice. She might have even picked up direct countermeasures for it.
+
+Troubling.
+
+Even if Satsuki was an obvious threat, though, my mind was more focused on one that wasn’t visible — Team Skyseeker.
+
+Throughout the semester, Team Skyseeker had absolutely dominated my dueling class. As the year had progressed, I grew more and more convinced that they weren’t just using attunements, but some kind of foreign sorcery. I wished I’d asked Keras more about them before he’d left.
+
+I did ask Lute about my suspicions, but he simply said, “Oh, that’s forbidden knowledge, sorry!”
+
+And that was that.
+
+I was getting very tired of forbidden knowledge.
+
+I probably should have done some independent research on them, or maybe tapped Researcher for help, but my focus during the semester had been on a particular duel that was coming up after the semester, not anything as trivial as opponents for a classroom brawl.
+
+Oddly, I didn’t see them around before the matches for the day began, either — and it wasn’t like Mary’s team to run late. Her whole team loved dueling class.
+
+Must be doing some last-second prep. That’s a little scary.
+
+And as intimidating as the members of Team Skyseeker were, they weren’t the ones I was most worried about. Themost unusual students, after all, were the ones I knew the best.
+
+Roland clearly had something mysterious going on, but I’d figured out that he (probably) wasn’t a member of Spider Division and just sort of….never bothered to ask what his actual deal was. As a Diviner, he wasn’t traditionally considered a massive one-on-one threat, but he had a variety of information gathering spells that could be extremely useful for support. And I strongly suspected he had something else giving him abilities, even though I’d never seen him directly demonstrate anything outside of a standard Diviner’s magic. He just seemed…a hint too strong, a smidgen too fast, that sort of thing. Maybe he was just using Enhancement mana regularly and training, but my gut told me that wasn’t it.
+
+I probably just could have asked at any time, but I was bad at that, so I didn’t.
+
+And then, of course, there were Mara and Sera.
+
+Mara was my usual training partner, so I didn’t expect a lot of surprises there. She probably beat me six out of ten times in our matches, but that was hardly an insurmountable margin…and I had no intention of squaring off against her directly. No, we’d throw Lute’s overwhelming power at her if we could. She had enough sparring experience against Keras that she wouldn’t be totally overwhelmed fighting a sword fighter, but if I was right about Lute’s real power, she simply wouldn’t have the mana to keep up with him if he took the fight seriously.
+
+As for Sera…Well, she was the biggest problem, wasn’t she?I had plenty of plans for her. Contingencies for all of her known capabilities.
+
+She can’t enter the arena with her monsters already summoned, so she’ll be limited by both her summoning speed and her mana, unless she decides to lean into herInvoker abilities…which she probably won’t. She doesn’t want people to know about her attunement.
+
+If she summons Vanniv, Patrick has counters to all of Vanniv’s spells, and I can handle him in close range if needed.
+
+Researcher doesn’t have strong enough combat capabilities to be a major threat. Her abilities overlap with Roland’s, too. I suppose there could be some synergies there that I’m not aware of, but she seems like an unlikely pick, especially since she doesn’t like being summoned and unsummoned. Sera probably won’t summon her.
+
+Emery…if Sera even still can summon her, she’s of minimal use. She’s not a fighter. Some extra healing in a pinch, maybe, but no, Sera wouldn’t risk bringing her out here.
+
+Susan the Spectre is tricky, given her selective incorporeality, but my new sword should be able to hit her. If she flies, Patrick might be a better counter. Bright Reflection has spirit mana. We’re probably one of the only teams in here that has such simple countermeasures to spirit magic, so it’s unlikely Sera will pick her.
+
+That covers most of the obvious options.
+
+She might have a couple more contracts and bindings I’m not as familiar with. I don’t know for certain she actually broke her binding with the wyvern, for example…and even if she did, she might have re-established it simply by asking Elora to summon the wyvern for a little while at some point. If she does summon the wyvern, that’ll be a challenge, but we’ll set Lute on it. I can keep Mara busy while Lute handles the wyvern and returns.
+
+She also had to make a contract with something during last year’s final exams. I don’t think I ever asked what that was, but they can’t be much higher than Carnelian-level or she wouldn’t have managed it at that time frame, unless there’s something strange going on.
+
+Any utilization of Seiryu would obviously change the whole match, but she’s not going to do that. She can’t reveal Seiryu’s contract publicly.
+
+So…I’ll need to account for the possibility of an unknown Carnelian-level contract, and possibly the wyvern. That’s fine. Nothing to worry about…right?…From the crooked smile she made when she glanced at me before stepping into her first match, I had the sinking feeling that I’d missed something.
+
+***Sera’s first matchup was completely one-sided. There was just no other way to describe it — she got matched against a standard team of students our age. All Carnelians, but pushing Sunstone. That would have been a huge accomplishment before Chancellor Meltlake implemented the new training practices, but now…approaching Sunstone at this point in the year was shockingly common. Maybe a quarter of the class had already hit Sunstone.
+
+…And then there was Mara, leagues ahead of the rest of us. I hadn’t looked at her exact mana value in a couple weeks, but from the brightness of her aura as it shifted ever- closer to yellow, I suspected she was already half-way to Citrine.
+
+Terrifying.
+
+Lute reached up and adjusted his glasses as Mara’s last opponent vanished, his expression inscrutable. “Fascinating.”
+
+“She’s great, isn’t she?” Patrick leaned closer to Lute. “She could be.” His lips shifted downward slightly. “Shecould be something…wonderful.”
+
+That was an unusual expression from the probably-a- living-sword, enough so that I found it slightly alarming. “What do you mean?”
+
+Lute blinked, as if noticing me for the first time. “Hm? Oh, merely reflecting on the degree to which her capabilities would be improved if she had a proper weapon. While herability to emulate brother’s cutting aura is admirable, it is inefficient. She burns through her own mana to generate improvised weaponry. A proper weapon would supplement her existing abilities, rather than draining valuable mana she could be using on her other abilities.”
+
+“She doesn’t like using weapons. She’s more comfortable simply using her bare hands — and it’s more traditional for Guardians, too.”
+
+Lute turned to Patrick. “Traditional training has uses, of course, and unarmed combat is valuable to learn. Humans can rarely ensure that they have a weapon with them at all times, after all. But humans are best when using tools. Simply using her hands…” He shook his head. “I’m surprised brother didn’t train her out of such recklessness.”
+
+I shrugged. “She’s tried using weapons, of course, but she didn’t like the feel of it. Keras respected her preference and trained her the way she wanted to be trained.”
+
+“Hm.” Lute shook his head. “He’s still too soft.”
+
+I didn’t know what to say to that, so I shifted the subject just slightly. “You’ve been holding back during all of the matches thus far. Are you planning to go harder against Mara’s team?”
+
+Lute gave me a quizzical look. “Why would that be necessary?”
+
+“…They’re some of the best fighters here. I don’t think you should underestimate them.”
+
+“Oh, they are some of the best fighters in the class, certainly.” Lute turned back toward the arena as the clapping for Mara’s team ended. “But they aren’t me.”
+
+Patrick failed to stifle a snort. I didn’t blame him.
+
+Maybe Lute is related to Keras after all.
+
+***Our own first match of the finals was tougher. Still just second-years, but a tougher team composition, including two Sunstones and one Carnelian who was close to reaching it.
+
+I came out of the arena with my mana drained and a few bruises, but victory was never really in question. I used Scald as my primary weapon, keeping my dagger and my other new sword as backups stored inside the Belt of Swords that Keras had given me. I’d been avoiding using them in dueling class to make sure that I had a couple of new surprises.
+
+I still wore Selys-Lyann on my other hip, since I didn’t know if keeping it in an extra dimensional space was a good idea. I’d considered asking if I could use Selys-Lyann’s magic if I didn’t draw the sword directly — I was pretty sure I could manage to make ice armor via a mana thread — but I decided that pushing on the rules wasn’t a good idea.
+
+Sera’s next match was a team with a single third-year. They struggled with that one, with Roland eliminated half- way through it.
+
+Our second match was similar…but I was the one who got eliminated. Kyra Dyson managed to slip behind me and hit my primary shield sigil with a void mana spell, turning it off outright and triggering the teleportation effect that took me out of the ring.
+
+…Stealth was one thing I still didn’t have any solid counters to. She hadn’t even been invisible, just concealed in a shroud of darkness that camouflaged her while her teammates kept us distracted. Fortunately, after I was eliminated, Patrick bathed the arena with illumination from Bright Reflection and Lute quickly eliminated Kyra, then the rest of her team.
+
+I grumbled a little in the aftermath of that match, adding counters to stealth and invisibility to my ever-growing list of things to work on.
+
+We barely had any chance to recover before our next match.
+
+…Against Sera’s team.
+
+Somehow, I’d just expected that we’d face them in the very  last  match  of  the  tournament.  It  just  felt  moreappropriate that way, on a personal level.
+
+I met up with Sera just before our match. “I’m sorry we’re going to eliminate you so early.”
+
+“Feeling confident, are we? That’s good, you always let your guard down when you feel that way.”
+
+“Do I? I was confident when I fought Jerome.”
+
+She nodded. “You were very impressive in your fight against a fake copy of a long-dead man at a party.”
+
+I rolled my eyes. “Thank you. It was much more challenging than anything I expected to deal with on winter break. Really changed the feeling of the whole experience. This should help make up for it — after all, fighting you is like taking a vacation.”
+
+“Oh, I agree. You’ll have plenty of time to relax after you’re immediately eliminated, after all.”
+
+“C’mon, Sera,” Mara tugged at Sera’s arm. “You can banter with Corin any time. Let’s go finish prep.” Mara gave me a brief grin as she dragged Sera away.
+
+Prep?My mind raced through what that could mean. What sort of preparations could they do? They didn’t have an Enchanter to impact the ring…did they? Was Roland hiding a second attunement?It’s probably more conventional planning…strategy discussions, that sort of thing. Maybe swapping equipment to throw us off, or using items to recharge their mana, or…I shook my head. I’d already accounted for their abilities that I knew about. Unless I wanted to spy on them — which didn’t feel right — I didn’t have much else I could do but return to my own team and finish our own planning.
+
+A few minutes later, we finally stepped into the arena, and I couldn’t shake the feeling that I’d missed something that would lead to a terrible mistake.
+
+***The arena for this match was a conventional one, at least on the surface.
+
+It was a rectangular outdoor stadium, three hundred- sixty yards across and sixty yards wide. The arena was surrounded by a seating area, which was shielded by a series of permanent barrier enchantments. Our teams entered from opposite sides.
+
+Mara and I dipped down at the entrances simultaneously, dropping off our teleportation anchors. I’d considered leaving my anchor outside the arena, but the other team knew that trick. I didn’t see Sera drop her anchor off, but that wasn’t unusual. Patrick didn’t drop his, either — he was planning to drop it mid-match.
+
+I scanned upward as we approached the center of the arena. The barrier was eighteen yards above us, giving people with flight or levitation some room to maneuver upward, but not so much that they’d be outside of traditional offensive spell range. That limited the amount that Sera — or Vanniv, if she summoned him — could fly in circles around us.
+
+When our teams reached the center of the arena, we paused six yards apart, as per the rules for this particular match. Other matches would have different starting conditions — starting only six paces apart was more common, and some matches started in melee range right after a handshake. A few even started at opposite ends of an arena. This particular starting position gave a little bit more room for ranged attackers to work when the match started, preventing faster fighters like Mara and myself from immediately rushing them when the match started, which often led to accidents in high-stakes matches.
+
+Everyone was nervous during final exams, after all, and mistakes in a dueling class could be deadly.
+
+“Teams, bow,” Teft announced.
+
+We bowed to each other. Sera gave me a wink. I rolled my eyes in response. It was obvious she was planning something — who wouldn’t be? — but I couldn’t let that distract me.
+
+“Begin!”
+
+The first couple moments went exactly as expected. “Vanniv, I summon—”
+
+Sera cursed as Patrick snapped his fingers in Sera’s direction, producing a burst of air mana that both interrupted her phrase and dispersed some of the mana she’d been distributing.
+
+Mara charged. I stepped in to meet her, drawing Scald and swinging at her in a single motion. She was more than familiar with my style, and she knew to get out of the way before I sent a pulse of transference into my sword’s blade, creating a fan of flames that enveloped the air in front of me.
+
+…I hadn’t been expecting her to go up, though.
+
+Mara launched herself over the wave of fire. I jumped back to brace for a classic “Star Descends from Sky”, but it didn’t come — she landed in mid-air and ran straight past me.
+
+I cursed, spinning around as she hurled something at Patrick. He blasted the object to the side with a wave of air, then countered with a blast of lightning, which Mara slapped aside with the back of a hand.
+
+Jump. I launched myself upward, swinging at Mara’s back. Not exactly the most honorable move, I know, but turning your back on an opponent had consequences.
+
+She punched her fists together as my sword approached— and my arm rattled as it hit something as hard as a brick wall.
+
+I pulled my arm back as I processed the fact that she’d used some kind of new shroud-hardening technique, then blasted myself to the side to avoid a hail of dueling cane bolts from Roland.
+
+The flurry of bolts didn’t last long — Lute had closed the distance to Roland and pushed the latter into a rapid retreat. Sera called up a wall of ice between them, but Lute simply tapped the wall with the tip of his sword and itshattered immediately. A burst of transference into some kind of weak point, maybe? I wasn’t sure and didn’t have time to watch.
+
+Mara shot back down to the ground, charging at me and producing two blades of essence from her hands. We fell into a comfortable dance as I parried each swing of her essence blades, then unsuccessfully riposted, my blade glancing across a hardened shroud around her elbow.
+
+I frowned. I’d seen her harden her shroud repeatedly in the past — she did it nearly every time we fought — but even a higher-density shroud generally felt more like air resistance than a solid stop. This was more like I was hitting an invisible wall.
+
+My first thought was that she’d saturated her shroud with enhancement mana, similar to my own Shivering Shroud technique, but with a different mana type. But when I hurled a wide blast of transference at her with my free hand to try to nullify it with the opposite mana type, she charged right through my attack.
+
+What?I barely had a moment to brace myself before she closed the distance and slammed a blade into my barrier, forming a wide crack. Then she hopped back rapidly, dodging and weaving around a series of blasts of lightning from Patrick.
+
+“Refocus!” Patrick called. “I’ll hold her down!”
+
+He was right — we couldn’t let Mara lock down two of us on her own. That put Lute in a mirrored position of having to deal with both Roland and Sera.
+
+Lute could handle two opponents. But we’d given a Summoner an instant to breathe, and he wasn’t fighting just two — he was already fighting four.
+
+As Sera froze the ground beneath Lute with a gesture, he jumped, cutting a pair of lightning bolts from Vanniv out of the air. When he landed, he spun to cut down a series of dueling cane blasts from Roland. That was when Susan the Spectre emerged from the ground behind him.
+
+Susan lunged at Lute with a ghostly knife, semi-corporeal and only partially visible. I tried to shout a warning, but I wasn’t fast enough.
+
+Lute casually kicked backward, sending Susan flying half- way across the arena. She vanished into the ground as she slammed into it, but I wasn’t sure if that meant she was unsummoned or simply not corporeal enough for the ground to stop her movement.
+
+As impressive as Lute’s reaction was, it cost him. Sera clapped her hands and green stone shackles appeared around Lute’s legs, binding them together.
+
+He flicked his sword downward at the chains connecting the shackles, causing a loud crack as his weapon connected, but the chains held.
+
+His expression dipped into a frown as he awkwardly dispatched another handful of attacks from Roland and Vanniv — and Sera began another spell.
+
+I tried to stop her with a blast of transference, but Sera shot upward, flying out of the way. “Globbulon, I summon you!”
+
+…What?A slime the size of a train car appeared in mid-air above Lute.
+
+He only had a moment to tip his head upward with an expression of disbelief before it landed on top of him.
+
+…I’ll admit I wasn’t expecting that. I stared blankly at what had just happened for a heartbeat, then snapped out of it just in time to dodge a series of dueling cane bolts from Roland.
+
+Sera flew higher, which was obviously a problem. She coughed once, then tried to speak again before I managed to slash in her direction, sending a compressed wave of fire at her.
+
+She shot to the side, but lost her concentration on the spell, at least for the moment. With a glare, she gestured in my direction, conjuring a series of green stone darts. Ideflected those with ease, then backed up to avoid a burst of flame from Vanniv.
+
+I didn’t notice Susan the Spectre until she had her hands around my ankles.
+
+Cold shot through my legs. I yelped as numbness spread through me, my feet no longer capable of supporting my weight. Her incorporeal form must have bypassed my shield sigils entirely. I immediately had ideas for how I could have prepared for that, but they seemed a little late, given that I was in the process of face-planting toward the ground.
+
+I turned my forward-fall into a surge upward with a burst of transference, awkwardly carrying myself airborne at an angle.
+
+Susan didn’t let go. She was nearly weightless, so I simply ended up flying upward with a ghost pulling on my legs.
+
+I jabbed downward with my sword. She didn’t try to dodge.
+
+That was a mistake.
+
+Scald might have been a boring weapon, but it did have spirit mana runes. I hadn’t intended them to be there for the purpose of hitting incorporeal opponents, but just having a supply of spirit mana was enough to make the weapon somewhat “solid” to a spiritual entity — and, as it turns out, a bladed weapon with spirit mana works just as well on someone like Susan as it does on anyone else.
+
+My sword bit into her shoulder. She let out a silent scream and let go of my legs, allowing me to tumble back to the ground gracelessly and try to steady myself with my sword tip planted into the arena floor.
+
+I still nearly flopped to the ground, my legs tingling from the aftermath of the contact. I was forced to punch Roland’s next few bolts out of the air with my off-hand wrapped in transference while I used my sword to steady myself.
+
+On the opposite side of the arena, Patrick was airborne and hurling spells at Mara rapidly, but his advantage wasn’tas much as it should have been. Mara was running on the air, her own levitation boots giving her less flexibility in movement than true flight, but enough that she was forcing Patrick into a constant retreat. And as he burned rapidly through his mana pool on attacks, she showed no signs of slowing down.
+
+The longer the match lasted, the more of an advantage Sera’s team would hold, both in terms of superior mana and Sera’s ability to continuously add more combatants. I didn’t think she had too many more contracts available, but we were already being overwhelmed by the few she had on the field—At least until the slime exploded, sending chunks of goo across the arena. I barely had a chance to harden my own barrier before the splatter hit me and slid to the ground.
+
+Lute stood in the center of where the slime had been… not a drop of gunk visible on his body. “That was an unusual experience.” Then he tapped the chains between his legs again, causing them to fall apart. He turned to Sera. “Do you have more?”
+
+“Slimes? No. Summons?” She smiled. “You’re about to find out. Roland?”
+
+“Twelve seconds to optimal timing,” he replied. “Good luck.”
+
+I blinked.
+
+Lute casually sliced the air in Roland’s direction. I didn’t see a projectile — I just saw Roland’s shield shatter and his body vanish.
+
+I should have felt relieved by the loss of an opponent, but from their last exchange…had he known that was about to happen?Diviners were specialized in seeing the past, not the future. But maybe, with items, or a specialization mark, or a sufficiently powerful general mental mana spell for a brief burst of precognition—I felt a sinking feeling.
+
+Twelve seconds…eleven…I couldn’t give Sera the time she needed. “Lute, stop Sera!”
+
+I tried to step forward and nearly fell on my face.
+
+Sera flew straight upward as Lute swung his sword again, his near-invisible attack clipping her shield and tearing cracks across the left side near her shoulder. Then Vanniv flew between them, showering Lute with a burst of bolts of fire.
+
+Lute deflected the attacks easily, countering with another swing that cut straight into the stone of Vanniv’s chest.
+
+“…Youch! That one is going to leave a mark…or, it would if that was really possible, given my temporary nature. Take it easy!”
+
+“I am taking it easy.” Lute frowned. “This is incredibly easy.”
+
+Susan reappeared at Lute’s side. He smacked her in the forehead with the flat of his blade, sending her stumbling backward—But with a smile on her face. “Got…you…”
+
+She whispered.
+
+A second Susan appeared right behind Lute, wrapping her arms around him as the first one vanished.
+
+…An illusion? Or a second copy of the same summon?I didn’t know, but from the way Lute shivered as her arms entwined him, he seemingly wasn’t immune to her touch. He slammed his head backward into Susan’s nose, snapping her head back and causing her to fall to — and through — the ground…but the contact left him wobbling on his feet, much as I was.
+
+I grimaced and steadied myself as best I could.
+
+Accelerated Computation.
+
+Seven point four eight seconds remaining.
+
+I	made	a	few	more	rapid	calculations,	then	swung upward, sending a crescent of fire in Sera’s direction. Vannivmoved to intercept, but I’d expected that — my attack carried a charge of transference mana that burst a quarter- second after the attack began, adjusting the crescent’s trajectory in mid-air and carrying it around Vanniv and toward Sera’s back.
+
+“Wall.” A wall of ice appeared in mid-air. My flame crescent was dense enough to cut through it, but it lost enough power that it barely scratched Sera's shields before it dissipated.
+
+Six point nine four seconds remaining. Falling trajectory— Jump.
+
+I sent myself flying upward again, swinging rapidly, but Vanniv was ready this time. My flaming crescents barely left my sword before they veered off harmlessly, reshaped by Vanniv’s elemental control. I’d rarely seen him use flame shaping, but it wasn’t a terrible surprise, and I still had time before Sera—“It’s go time, Satsuki. Now.”
+
+Sera clapped her hands — and Satsuki, Scale of the Serpent, appeared in the center of the arena. She was only a few steps from where we’d started.
+
+The glaive-wielding serpent turned her head upward toward me as she appeared. “Hihi!”
+
+Then a dozen gleaming spears of red energy appeared around me in mid-air.
+
+I abandoned any hope of calculating seconds, my mind shifting to rapidly compute the trajectories of projectiles surging inward. I tried to find a path to escape them all—But there was none. They were moving too close, too rapidly.
+
+It’s through them or nothing. Jump.
+
+A surge from my ring sent me crashing straight through two spears of energy. I hardened my shields as I moved, feeling them crack on impact as the remaining ten flashed harmlessly through the air above me.
+
+I scowled, trying to recharge my shield sigils with a mana thread, but Satsuki had closed in on me in a moment. “It’s been too long!”
+
+Her glaive shot outward as I landed. I hastily parried her swing on instinct, the sheer force of the impact sending a wave of numbness through my right arm. I nearly dropped my sword, and my still-frozen legs threatened to buckle beneath me as they settled on the ground. My sigil’s regeneration function was gradually eliminating the numbness in my legs, but I still was nowhere near steady on my feet.
+
+I stumbled backward, nearly falling, and mentally cast a Regeneration spell to accelerate my recovery. Stacking Regeneration effects had gotten me into trouble before, but if a day or two of pain was the price I had to pay for surviving this match, it was worth the cost.
+
+Lute was there before Satsuki had a chance to attack me again, flanking her and opening with a probing jab that she deflected easily with the shaft of her glaive.
+
+“Get lost.” She whipped a hand at Lute— And nothing visible happened.
+
+Satsuki blinked.
+
+Lute punched the air. Satsuki’s head snapped back in place. Her eyes widened, then she growled. “Oh, that hurt.” A smile slid across her features. “Never mind, you can stay.” I tried a swing of my own, but Satsuki flicked her wrist in my direction, causing a series of crimson spikes to shoot up from the ground between us. I jumped backward to avoid them, only to slip on a patch of ice that I hadn’t seenappear.
+
+Impact with ground in—I ignored my Accelerated Computation, shifting a mana thread to Scald and creating an omnidirectional burst of flame, melting the ice patch before I landed on it.
+
+Then, I rolled to avoid a series of icy javelins that Sera was calling from the sky — presumably a weaker variant ofPermafrost Cascade, or a soundless casting of the same spell — and barely managed to pull my head back as a spectral hand reached out of the ground.
+
+I sent myself tumbling with another burst of transference mana, then used another quick burst to send myself to my feet.
+
+That was a major mistake — not due to anything critical in a tactical sense, but due to something far more mundane.
+
+I pulled my neck.
+
+Any kind of rapid and jerky bodily motion always had the risk of pulling something. Magical movement was no exception. My body was significantly acclimated to transference mana, which increased my tolerance to rapid movements, but it didn’t completely eliminate the chances of pulling a muscle.
+
+A brief surge of agony nearly ended my match right there. Rather than putting me back on my feet like I’d hoped, the blast of transference carried me upward and straight back downward as the pain briefly overwhelmed me. I caught myself on my sword, but then Susan was behind me, lunging, and I was still in too much pain to properly react.
+
+So, Lute did it for me.
+
+His sword came upward with a gleaming cut, cleaving through the air. Susan recoiled — then tore apart like paper.
+
+But even as the ghost silently screamed and vanished, Satsuki was taking the opening in Lute’s defenses.
+
+No ordinary summon from Sera had a chance at beating Lute in a fight. Lute must have had the same evaluation, at least at first — he’d turned to save me from Susan, after all, while leaving an opponent within reach. He’d probably made the same assumption that I had. Sera must have made a contract with Satsuki, then burned nearly all of her mana from her attunement and bracers to summon something like a near-Sunstone version of the serpent.
+
+We’d miscalculated.
+
+When Satsuki lunged at Lute, she did so with the kind of speed that no Carnelian-level summon could match.
+
+Lute slapped the glaive aside, just barely, and stepped backward just as twenty-four crimson knives appeared behind him.
+
+His expression showed just a moment of surprise, then he moved in a blur—None of the knives hit him, but Satsuki did.
+
+Her glaive whipped around, the shaft swiping through the air at his chest. Lute still managed to dance out of reach of the glaive itself, but the weapon’s aura exploded outward when it was right in front of his chest.
+
+It wouldn’t have been enough to stop Lute, but it didn’t need to—It just needed to brush up against his shields, which shattered in an instant of contact.
+
+And then he was gone — and I faced Satsuki alone. The real Satsuki.
+
+My Accelerated Computation wasn’t only useful for direct combat computations. That was my typical usage, but occasionally, it helped me with general problem solving. In this case, in the course of a couple moments, it let me put together what had just happened:Roland had called out specific timing.
+
+Sera had acted faster than that timing, but almost exactly at half of the specified number of seconds, potentially indicating that they had pre-planned for her to act at exactly half of whatever he shouted.
+
+At some point, Sera must have contracted Satsuki, but she lacks the mana for a true summon for someone of Satsuki’s level—Which is why she didn’t summon Satsuki. Not in the traditional sense, at least.
+
+The rules only say that a Summoner can’t bring their summoned monsters into the arena in advance…They say nothing about how the summon makes it into the arena.
+
+My mind flashed to Mara throwing something at the start of the match.
+
+It wasn’t a weapon.
+
+It was a return bell anchor, which Satsuki had used to teleport into the arena at Sera’s signal.
+
+If this had been a mystery, I’d have congratulated myself on solving it so quickly — but unfortunately, it wasn’t, and knowing that I was facing a horrifyingly overpowered serpent wasn’t actually the same thing as giving me a counter to it.
+
+Worse still, as I stumbled backward to avoid a casual rain of crimson knives that Satsuki produced with a gesture, I saw Vanniv still circling in the air above — but he wasn’t focused on me. He was hurling his own spells at Patrick, which Patrick was struggling to reshape while he continued to retreat from Mara’s inexorable advance.
+
+This is bad, I considered with my infinite insight.
+
+Then,	with	my	patented	Corin	Cadence	sense	of impeccable strategy, I threw my sword at Satsuki’s face.
+
+She slapped the sword out of the air with a blink of surprise, but that was all it took to pause her onslaught.
+
+This is bad, I repeated in my mind, but I did prepare forit.
+
+For certain values of “prepare”, anyway.
+
+I hadn’t anticipated the exact sequence of events thatled to this exact scenario, of course. I wasn’t throwing around precognition spells — not yet, at least — and I wasn’t the type of person who could perfectly model the actions of every person I might encounter in the arena. As well as I knew Sera, she knew me equally well, and she was better at understanding people.
+
+I was, however, much better at making items for absolutely any opponent that I might happen to come across.
+
+My hands flashed to my belt.
+
+Improved Haste. Detect Aura.
+
+I side-stepped a quick thrust of Satsuki’s glaive, then pushed mana into the two symbols I’d touched on my Belt of Swords. Two weapons appeared in the air as Satsuki swung again.
+
+I deflected her crimson glaive with Sir Shinyshiv, then lunged forward with Shroudstealer—And  watched  as  Satsuki’s  multi-layer  shroud  rippedtoward my extended blade.
+
+My sword only made a heartbeat of contact before Satsuki retreated…but that was more than enough to make my blade glimmer with stolen power. A thin thread of my concentration attached a mana thread to the sword, then began to siphon and convert the mana from the sword directly into power for my shields.
+
+The cracks in my barriers began to close. Satsuki’s eyes widened. “What…is that?”
+
+I rested the sword against my shoulder and took a step back, beginning to circle around Satsuki to look for a better angle of attack. “A new weapon. One designed for a serpent with multiple shrouds.”
+
+Satsuki took a step back of her own, releasing a hand from her glaive to put it on her chest. “You…you made an enchanted sword…just to fight me?”
+
+Satsuki wasn’t the only person I’d made it for — obviously, Mizuchi had been on my mind as well, and I’d also considered the possibility that it might be effective against multi-attuned.
+
+But fighting Satsuki with it had been within my calculations. “After our last match, I had to do some thinking about how best to beat you outright. And without a shroud— well, I’m sure you’re incredibly resilient, but you aren’t unbeatable.”
+
+“You…you’ve been thinking about our last fight, too?” She glanced away. “I, uh, I’ve been thinking about that a lot,and—”
+
+“Going to need you to focus, Satsuki!” Sera yelled. “Get him out of there before he shows off any more clever ideas!”
+
+Satsuki frowned, glancing upward at Sera. “As you command, Summoner.” Her tone was professional, with a hint of disappointment.
+
+…And I was growing increasingly concerned that I had made a terrible mistake, but not of my usual variety.
+
+When Satsuki turned her eyes back to me, even I, with my infinite inability to read people, realized that she was blushing—And that perhaps at some point I might have missed something integral about serpent courtship rituals.
+
+Unfortunately, if Satsuki found my new sword…let’s call it “flattering”…that didn’t discourage her from attacking me again immediately with overwhelming force.
+
+If anything, it probably encouraged her.
+
+Her next swing was one-handed, a quick thrust of her glaive right at my face. I batted it aside, barely, then jumped to the left to dodge a punch from her other hand that sent a blast of crimson mana through where I’d been standing, then stepped to the right to avoid a series of spikes that shot up from the ground.
+
+I jumped forward to swing my sword again, but she deflected it easily with a spin of her glaive, driving Shroudstealer toward the ground. When I tried to stand up straight, the pain in my neck surged again, and she flicked a finger at me, a burst of invisible force carrying me backward toward a fast-appearing wall of crimson spikes.
+
+Up!I blasted myself upward, flipped over the wall, then slammed Sir Shinyshiv into the back of one of the spikes. A hint of transference mana carried her own spike back toward her, but she simply ignored it entirely, allowing the spike to glance off her remaining shroud.
+
+Then she opened her jaws — and I was rapidly reminded what a serpent was capable of.
+
+I didn’t even try to dodge or deflect it. When I saw red gathering around her fangs, I took a breath, shifted a mana thread, then—Satsuki screamed.
+
+I’d never seen a breath weapon used in such a fashion, but when her voice scattered across the arena, the entire world around us seemed to ripple and tear—But I’d timed my move just right. My circlet flashed and I vanished, teleporting across the arena to my anchor. Satsuki’s breath still clipped me, the sound itself throwing off my balance and whatever strange mana she used causing cracks to spread across the entire surface of my shields, but the main body of the attack missed me entirely—But only me.
+
+From my vantage point near the arena entrance, I watched Patrick drop from the sky.
+
+He hit the ground hard. I rushed toward him, but stumbled, my legs still not fully recovered and my neck still swimming with agony.
+
+Mara landed first.
+
+Patrick’s hand shifted rapidly on the ground, going for Bright Reflection with surprising quickness, perhaps representing a speed technique—But it didn’t matter. He was entirely at the wrong angle to draw.
+
+“S’game over now.” Mara’s boot came down on his chest.
+
+A crack, a flash, then Patrick was gone—And I was in the arena alone, save for my opponents.
+
+Mara turned toward me, raising her fists in a defensive stance.
+
+I glanced away from her to see Satsuki skipping across the arena, cradling her glaive in her arms.
+
+And Sera and Vanniv still flew overhead, although Sera was wobbling in place. Either she was precipitously low on mana, or Satsuki’s attack had hit her — or possibly both.
+
+I grimaced, stored Sir Shinyshiv in my belt, and reached into my dimensional bag.
+
+One last trick to try.
+
+I’d wanted to save my last resort for a true emergency, but there was one thing that was true for the Cadence family in general—We really didn’t like to lose.
+
+And so, my free hand wrapped around a black cylinder and pulled it out of the bag—Just as a knife jammed into my back.
+
+Or, less dramatically, into the barriers generated by my shield sigils.
+
+I turned around in disbelief as cracks spread rapidly, only to see Susan the Spectre floating behind me. She gave a little wave with her off-hand, then plunged straight back into the ground before I could manage a counter-swing.
+
+I’d seen her vanish when Lute had cut her—But then again, she was a ghost. And even if she’d been eliminated, nothing would have stopped Sera from summoning her again.
+
+When I turned back around, Mara was almost on top of me. She lunged in with her blades, and I barely deflected them, then pulled back my arm to throw the cylinder—The ground beneath me froze.
+
+Mara’s blade glanced against my shields, driving me back. I slipped.
+
+Satsuki’s conjured blades caught my fall.
+
+My shields held, just barely, as I hit the ground facing upward.
+
+That let me survive the match just long enough for me to see Mara and Satsuki looming over me, blades raised.
+
+Positioning wise, that wasn’t perfect— But it was good enough.
+
+“Bye.”
+
+My cylinder flashed ominously just once. Then void exploded in my hand.
+
+***I groaned as I pushed myself up in my recovery room bed.
+
+I felt awful.
+
+Being chilled by a ghost, pulling my neck, and having my ears nearly shattered by a supersonic serpent scream — none of those were pleasant.
+
+But in the end, I’d managed a classic Corin Cadence move.
+
+I’d eliminated myself, but I’d taken Mara along with me.
+
+Hardened shroud or not, void mana had torn through her defenses just as easily as they’d broken my own. She’d been teleported out of the arena when her sigil had failed at the same time as my own.
+
+…But we’d still lost the match.
+
+Sera had been on the opposite side of the arena and airborne when it happened. If the void had reached her at all, it had been so weakened by distance that it hadn’t been enough to disable her shields.
+
+That was mildly disappointing. I never liked to lose.
+
+But I had to admit…I’d underestimated them. I’d known Sera would have a trick, but bringing Satsuki into the arena…She’d stolen my own move against Satsuki from the end of the Survival Match and reversed it, hadn’t she?Maybe I should have hated that, but when I thought about it, I couldn’t keep myself from smiling. I’d made a good move — and she’d turned it into a better one.
+
+When I finished recovering, I congratulated the other team…Then got to thinking about how I was going to beat them in the following year.
+
+They’d earned it.
+
+***Sera teased me incessantly about Satsuki wanting to have a “private chat” at some point in the days that followed, but I managed to deflect that with my usual awkwardness. I’d probably have to talk to the murder serpent at some point, but I had other things to prepare for, and so did her team.
+
+…Or so we thought.
+
+By beating my team, Sera made it to the finals.
+
+They were up against whoever won between Team Bloodline and Team Skyseeker, the two top teams throughout the entire year…Or, at least, they should have been.
+
+Team Bloodline never showed up for their match.
+
+And when Mary Hawthorne stumbled her way to the arena grounds, she was alone, her face covered in dirt, tears, and half-healed wounds.
+
+There would be no match that day—Not when one of her team members was dead. The Sons of Valia had struck again.
+
