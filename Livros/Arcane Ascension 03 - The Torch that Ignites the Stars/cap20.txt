@@ -1,0 +1,624 @@
+CHAPTER XIX – DUNGEON DESIGN
+
+I blinked as my vision cleared and I processed my new surroundings.
+
+I stood near the sole door of an all-white cube, roughly twenty feet in any given direction. The strange, bleach-white color of the material gave it a sterile feeling, like I was inside some kind of medical facility. Maybe that feeling was less from the color and more from the aura in the air itself; I could sense mental mana and life mana around me, permeating everything.
+
+The source of the overwhelming supply of mana was obvious enough. The only other occupant of the otherwise empty room was a tremendous white crystal, taller than I was and floating in mid-air.
+
+I stared blankly at the sight. I’d walked into this place knowing that there would probably be a gigantic crystal, similar to the one that Keras had described in one of his first adventures on Kaldwyn. Seeing it in person was different for a number of reasons.
+
+First, in spite of my exposure to mana crystals, I’d never seen anything like this. The crystal was so overwhelmingly radiant that I shouldn’t have been able to look at it directly, but when I did, I wasn’t blinded — I felt like I could see perfectly. Better than perfectly, in fact. A strange musical hum in the air felt loud enough that it should have been deafening, but I could hear perfectly.
+
+Everything felt clearer in the crystal’s presence. Better. Even me.
+
+Simply being in the presence of the crystal was momentarily overwhelming, and I felt the urge to fall to my knees and…think?Maybe contemplate is a better word.
+
+…It	was	a	strange	feeling.	Not	peaceful,	not	tranquil,	but	an overwhelming urge to consider new ideas.
+
+Beyond the sight and feeling, there was something obviously amiss: the crystal was supposed to be at the end of the temple. Hadn’t I just entered?Maybe my memories of the place were erased, like after a Judgment. If that’s the case, did I already succeed?Or could this be a fake crystal, as a part of the test?Or maybe it’s a real crystal, but there’s something wrong with the temple?Or maybe the challenges in this place are simply different from standard temples? I’ve presumed a great deal based on what Keras experienced with the Spirit Gateway Crystal, but they’re not all necessarily structured the same way. Maybe I need to go in a loop, both starting and ending at the crystal? Or maybe I start at the crystal and end elsewhere?Or…[Excellent speculation. Ordinarily, I would not interrupt such a fascinating thought process, but I feel obligated to provide you with relevant data that you are lacking.]The voice was loud, like an explosion of thunder, but the feeling of a melodic chime. It felt almost like listening to music, but with the instrument right next to my ear, blaring at such volume that it was impossible to properly appreciate. It was also directly inside my mind, rather than an audible voice. I stumbled backward, instinctively flooding my mind with mental mana in response to the obvious mental intrusion.
+
+The voice spoke again, but it was quieter this time. Less overwhelming. [Ordinarily,	visitors	either	need	a	lengthy	acclimation	period	or instructions to raise their mental defenses. You did so without prompting. Ararity.]“Let’s just say I’ve had some bad experiences with people forcing themselves into my mind before.” My head was clearing, both in terms of tolerance for the voice and for my surroundings in general. My mind still felt sharper than before, but as I converted more mana into mental mana, I regained control. “You’re the crystal, aren’t you?”
+
+[That is correct.]“And I take it that even though I just flooded my mind with mental mana, you’re still reading my thoughts, and speaking aloud is unnecessary?”
+
+[That is also correct.]My hand slipped into my bag, feeling for the Jaden Box. I didn’t retrieve anything immediately, but if things got worse, I could retrieve the Ring of Derek Controlling and slip it on my finger, attempting to counter the mental effects of the crystal with mind control of my own.
+
+[Fascinating. You would use a mind-control object on yourself to deliberately counter an external compulsion technique? I have rarely seensuch strategies, and more rarely from one so young. I am eager to see how you handle the tests.]“Tests?” I spoke out loud out of instinct, even knowing the crystal could hear me thinking. “So, this is the entrance to the temple?”
+
+[The term ‘temple’ is something of a misnomer in this case, and calling this the entrance would also be somewhat reductive. It would be more accurate to say that you are presently in the starting position for one who intends to undergo the current iteration of my trials. Your memories have not been altered and you have not begun your testing yet.]“Not yet been altered?” I glowered at the crystal. “Meaning they will be later? I’m not pleased about that.”
+
+[I understand your reticence. Any memory alterations that occur would simply be to preserve the nature of the trials for future test-goers. Depending on your performance and my assessment of your motives, I may be able to permit you to opt out of that process.]“I’d…definitely prefer that, thanks.” I exhaled a breath. “Okay. I take it that this test design is not a typical ‘progress through challenges to reach the crystal’, then, given that I’m already near you? Assuming that is your true body, of course.”
+
+[You are correct. You already stand within my home. I find there is a minimal benefit in sending a human challenger through the same sorts of test they can no doubt face throughout numerous sword shrines, elemental temples, crystal homes, and other similar locales. While at times I run more ‘ordinary’ tests to challenge myself, I tend to find tests of a completely dissimilar style more stimulating.]“Then…this is an intellectual test, rather than a traditional physical one?”
+
+[Intellect will be a component, although your physical abilities may be relevant if you choose to make use of them. Your challenge is thus: when your test is initiated, you will design new challenges for my home. Periodically, creatures will enter from a front entrance and attempt to reach my crystal chamber. You must stop them.]The idea was both simple and revolutionary. “You mean…I’m defending this place, rather than attacking it?”
+
+[Yes, that is an accurate summation. I will provide you with a small fraction of my power to be used to construct defenses. Once the timerbegins, I will respond to your requests to construct specific things. We will begin with only this room: anything else will require a cost in my mana to construct.]My mind raced. “Would walls be on that list? Could I just…make a bunch of walls to stop anyone from getting through the door?”
+
+[You may not completely obstruct the pathway into this chamber. In addition, you have multiple goals in this test. You must not allow anyone to reach me, however, you must also construct the area in a way that improves visitors and encourages them to return — or to send others.”
+
+I blinked. “Why…? And wait, which crystal are you, exactly?”
+
+[Both excellent questions, and the former is surprisingly rarely asked. The latter will likely illuminate the former. I am the local Transcendence Gateway Crystal. And my role…”
+
+“Is to improve things?”
+
+[Reductive, but accurate. In specific, my purpose is largely dedicated to improving the efficiency, lifespan, and health of living entities. I may also improve non-living objects for the purposes of assisting the living.]I gaped briefly at the ramifications of that. “…So, following that, I would ideally need to design this place to be challenging enough to prevent the entrants from reaching you, but…where do you stand on the philosophy of allowing challenges to be fatal to some members of a population in order to provide encouragement to others?”
+
+It was a loaded question, but given my thoughts on spires, I had to ask. [I am aware of the strategy you speak of. I will state this unequivocally:such methodology is unacceptable. Such wanton waste of life is anathema to my purpose.]I breathed an immediate sigh of relief. “Then the tests should not involve combat, I suppose.”
+
+[That is not accurate. Combat tests can still be excellent teachers, provided they do not cause permanent harm or death.]I pondered that for a moment. “Okay, I can work with that. Can you tell me all the things you can build, as well as our available resource pool?”
+
+[Yes, but once I progress to that portion of the explanation, I will initiate the first timer. Do you have further questions before we move to that stage of the trial?]“Hundreds.”
+
+I thought I felt something like laughter inside my mind.
+
+[That is wonderful. I am hopeful that you succeed. However, given the way your mind is drifting to unrelated subjects of inquiry, I believe it is time to begin. I will be pleased to speak to you about these unrelated issues at a later time if you succeed.]“And if I fail?”
+
+[Then you will not be worthy of my time.]I let out a deep breath. “Okay. Let’s do this.” [Excellent.][The test begins.]***There was no dramatic flash of light or musical tone to signal the start of the test. Frankly, it was a little disappointing.
+
+“Okay, so…what are the rules? What are my resources?”
+
+[The first incursion will occur in fifteen minutes. During that time, you may use my mana to build additional rooms that the entrants must progress through. You will earn mana each time an entrant exits the area safely. The amount of mana you earn will be based on the progress the entrant makes, as well as my own evaluation of how much the entrant was improved by their visit.]I pondered that.
+
+Hm. Okay, so the incentive structure is for me to create challenges that are appropriate for the challengers. Easier stuff near the front, then something near the end that gets them to leave. Interesting.
+
+I frowned. “How much mana do we have to work with?”
+
+[I will provide you with 1000 mana to work with for your initial construction.]“Is that in the same standardized units we use in Valia?”
+
+[Yes, however, I have artificially augmented my mana costs for the purposes of this test to simplify the allocation of resources.]“Is it all gray mana?”
+
+[I have access to what you would consider to be several different mana types. You would refer to them as gray, life, mental, light, transference, spirit, density, and transcendence. I am allowing you to use up to a total 1000 mana of any of those types.]I whistled in appreciation. That was a large number of mana options. “With no conversion cost?”
+
+[Correct.]I nodded. “Okay. So, what can you do with the mana?”
+
+[A brief overview: I can create rooms, walls, traps, puzzle pieces, monsters, and items. I can also upgrade any of these things. You may also ‘unlock’ more powerful things for each category, such as higher-level monsters by meeting prerequisites, such as using a certain number of things of that type, or certain challenges being completed.]“That’s…complicated. How long does this test last?” [Up to thirty hours.]I felt my shoulders tense. “That’s…wow. Okay. I can see why there’s a lot of options, then. Is there a way that I can get a message to my friend outside that I’m safe and that I may be in here for a while?”
+
+[You may spend 50 mana to send a message outside. Would you like to do so?]“Let’s wait a bit, we need to get rolling on this first challenge. Okay.
+
+Tell me the mana costs for the things you currently can build for me.”
+
+[I will begin with structures. One wall: 50 mana. One entire square room: 200 mana. One door: 50 mana. One window: 50 mana. One item of furniture: variable.]“How large are the walls and rooms? What are they made of?”
+
+[Walls are up to twenty feet by twenty feet and one foot thick. Rooms are twenty-foot cubes. By default, they will have entrance and exit doors on opposite sides. They are made of stone.]“And these rooms – do they come with a floor and ceiling?” [Yes.]I frowned. “That means that a room is more mana-efficient than building walls.”
+
+[That is correct and intentional.] I nodded. “Okay. Traps?”
+
+[I currently can create the following traps: Pit trap: 25 mana. Arrow trap: 50 mana. Snare trap: 50 mana. Collapsing ceiling trap: 50 mana. Flood trap: 100 mana.]“Hm. And I can get better ones by using them. Like, using enough arrow traps would get me, what, poison arrow traps?”
+
+[Your concept of how things work is correct, but you must discover what is unlocked and how to unlock it on your own.]I paused. “...Why?”
+
+[It is to simulate research and development. Also, it is more fun for me that way.]I snorted. “Fair. Okay. Puzzle pieces?”
+
+[Small stone block: 25 mana. Wall switch: 25 mana. Floor panel switch: 25 mana. Lever: 25 mana. Gear-based switch: 25 mana. Torch: 25 mana. Rod: 25 mana. Lock: 25 mana. Key: 25 mana. Large stone block: 50 mana. Musical chime trigger: 50 mana. Rotating Platform: 50 mana. Crowns board: 100 mana.]“How do I designate what happens when a specific action is taken with a puzzle piece? Say someone steps on a floor switch. How do I make that do something elsewhere? Do I need to build some kind of connector part?”
+
+[Connector parts are generally unnecessary. You may instruct me on the intent of your puzzle and I will construct it to function in a specific way. If you do not have the pieces available, I may construct certain other basic puzzle pieces based on the general guidelines above.]“Like a sphere rather than a block?” [Yes, that’s possible.]I took a moment to breathe. This was a lot to take in, and I already had several different ideas running through my head, but I needed to get started soon. “Monsters?”
+
+[Goblin: 50 mana. Dire wolf: 50 mana. Lesser wood golem: 50 mana. Lesser skeleton: 50 mana. Lesser fire elemental: 100 mana. Dire spider: 100 mana.]Lots of options there to think about. And a large number of categories, too.
+
+Thinking about it, I could see logical lines of progression for each of them. Presumably, making enough lesser wood golems would let me get wood golems, then stone golems, iron golems, all that stuff. It seemed fairly intuitive.
+
+“Okay. Items?”
+
+[Healing potion: 25 mana. Treasure box: 50 mana. Bag of Crystals: 50 mana. Bag of Coins: 100 mana. Weapon: 100 mana. Leather armor: 100 mana.]“Hm. Okay. Could you create a sign? Or, better yet, can I make something and put it out there myself to save mana?”
+
+[Yes and yes.]My eyes widened. If I could physically interact with things out there… “Can I actually go out there while there are intruders and talk to them or fight them or whatever?”
+
+[Yes, you are allowed to interact with the challenge, at your own risk. Typically, in the past, many challengers such as yourself have taken on a ‘crystal guardian’ role to stand right in front of my door. Be advised that this is dangerous and potentially fatal.]I exhaled a breath at that. “Okay. Good to know.”
+
+I took a moment to think. “If I’m allowed to interact with things…does that include you?”
+
+The crystal went silent for a moment. [Within certain limits. What did you have in mind?]A grin crossed my face. This was going to be much, much more fun than I’d originally expected.
+
+***[This is highly unusual.]“Yep.” I pulled away a solid silvery disc, now gleaming with two new Sunstone-level runes. Remember that one last disc I was saving for a rainy day? I’d used it for something special, just like I’d hoped. “Believe me, I’m just getting started.”
+
+[After expending 720 mana to charge those unusual runes, I have 280 mana remaining to spend. Is your intent to construct a single chamber, then guard it yourself until the runes on that…what did you call it again?]“Recharging spirit mana battery.” I opened my bag, pulling out the Jaden Box. “Batteries are a type of object that stores energy. I’ve built several recharging batteries of other types, but until now, I haven’t had access to anyone that was willing to give me spirit mana to charge the runes to build a spirit version.”
+
+Keras could have done it, of course, but he’d already been clear he wasn’t willing to leave random traces of his spirit lying around. This crystal, however, had no such reservations. “Retrieve gray mana battery.”
+
+A similar disc appeared in my hand. “For my next trick, I’ll need to touch you. Would that be okay?”
+
+[Yes, provided you do not mean any harm. Ah. I understand your intention now. Intriguing. We will have to see if it works.]I put my Arbiter-attuned hand on the crystal, then concentrated on the battery.
+
+Transfer.
+
+It was an easy process. I felt no resistance. Gray mana flowed from the battery into me and then into the gigantic crystal. When the battery was drained, I stuck it back in my bag to recharge. In an hour, I could use it again.
+
+[Your mana recharging effort was successful. I now can offer you 450 mana to work with.]I grinned. “Perfect. Let’s do some more.”
+
+That first battery had been our initial project: a gray mana battery with a capacity of 180 mana. My ability to transfer mana wasn’t 100% efficient, so apparently about 10 mana had been lost in the transfer process. That was fine. I had more batteries. I had better batteries.
+
+After building that first battery, Cecily and I had used it in addition to our own mana to power a second. That one held a maximum of 360 gray mana.
+
+Then from there, Cecily and I had done the same thing for transference mana: 180 in the first, 360 in the second. And fortunately, this particular crystal was capable of using both gray and transference mana.
+
+So, long story short, I drained all my remaining batteries into the crystal. I had to hurry the process a bit, since I was running out of time, and I lost a little more efficiency that way.
+
+[You now have 1200 mana to work with.]I grinned. It wasn’t a lot more mana than what I’d started with, and I’d spent nearly all my time on it, but the important part wasn’t my current available mana. Every battery, including the newly-made spirit mana battery, was recharging. In an hour, I could use them again. And then in the next hour. Then the next.
+
+Presuming, of course, I lasted that long.
+
+Just to be safe, I transferred 50 of my own mana into the crystal, bringing my total available up to 1250. I didn’t want to spend too much of that when I might need it for unexpected combat, but 50 was something I could spare.
+
+…What a strange thought.
+
+At the start of the year, 50 mana was far more than my attunement total.
+
+I’ve gotten much stronger, haven’t I?I shook my head, dismissing the errant thought.
+
+My Cadence-brand prep work was done. It was time to build a dungeon.
+
+***“Okay. Let’s start with a simple room right outside this one.” [That will be 200 mana. Would you like to proceed?]“Yep. Go ahead.” There was a brief pause. “Whenever you’re ready.” [The room is already completed. You have 1050 mana remaining.]I blinked. “Wait. Really? That fast?” I walked over to the sole chamber door. “Is it just through here?”
+
+[Yes.]I opened the door. As described, it led into a single cube-shaped stone chamber about the same size as the crystal’s room. “Huh.” Notably, there was a door on the opposite side of the room already — one I didn’t think I’d paid for. I pointed at it. “Is that door where people will enter the dungeon now?”
+
+[Yes. If you continue building rooms in a straight line, the most recently constructed room will always have the entrance.]I nodded. “What would I see if I walked over there and opened it?Would it take me outside?”
+
+[No. You would see a vast and terrifying featureless void.]“…Oh. Okay.” I was both glad and sorry that I’d asked. “How can I leave this place when I’m done?”
+
+[I will transport you outside if you are alive when your business here has concluded.]“Okay. Got it. Sorry, getting side-tracked again. Back to work. Let’s build a second room right after this one. Just another generic one.”
+
+[Give me a moment…completed.] “That’s…incredibly fast. Are these rooms real?” [That depends on your definition of real.]I pondered that. “I’m guessing we’re in some kind of space between the planes, and that you are constructing the rooms from some kind of combination of…what, spirit and density mana?”
+
+[That is remarkably close to correct.]“Are all the things made out of…right. Limited time. Questions later. Okay. If I walk into the far room, will you be able to hear me and put things where I ask you to?”
+
+[Yes.]“Will monsters that I ask you to create attack me?”
+
+[No, they will see you as the lord and master of this place and serve you willingly.]“That’s…a little bit creepy, but practical, I guess. Okay.” I walked to the far room. “Let’s build some things. We have 850 mana left, right?”
+
+[Correct.]“Okay. What can you tell me about the first competitors that will be coming through?” It’s probably something I should have asked much earlier, but if I’m being honest, I tend to get sidetracked by magic stuff. Yes, yes, I know you’ve already noticed.
+
+[Some entrants will be simulated monsters; however, the majority of the competitors are based on previous entrants to this dungeon.]“Based on…they’re simulacra?” [Similar in concept, yes.]My mind flashed to the copies of Keras’ friends he’d run into during one of his own challenges. “Wait. Will they know they’re copies?”
+
+[No. They will be under the impression they are here for treasure or to seek the crystal.]“…Are you going to make a copy of me when this is done?”
+
+[Only if you grant your permission. I was…convinced by a previous person that it is unethical to copy people without their consent.]I snorted. Right. Obviously Keras had already been through here and argued simulacra ethics with the crystal. I wasn’t quite as worried about that sort of thing as he was, but I did feel a little better knowing there wouldn’t be unauthorized Cadences running around.
+
+At least not here. I still wasn’t sure about the spires.
+
+Focus, Corin. I exhaled a breath. “How do you determine which copies of people to use in what order?”
+
+[That is a complex process, and I would advise you to focus on construction. You have five minutes remaining.]“Right, right. Okay. Can you give me any hints on the number of people coming through at a time, or how powerful they’ll be?”
+
+[We will begin with one competitor at a low level. As the test progresses, there will be larger groups and higher-level competitors.]“Okay. Designing tests for just one person to start with should be easier, but I need a long-term plan as well. Make me one more room right in front of this one, we need some variety. Most adventurers aren’t going to turn around after clearing a single room and butting their heads against a second.”
+
+[Done. You have 650 mana remaining.]I walked to the entrance room. “Okay. Fundamentals. They’re not going to believe they’re dungeon crawling without any threats.”
+
+I quickly ran through my plan, revising slightly based on the knowledge that it would only be a single person.
+
+“Okay. How large are the pit traps?”
+
+[A five-foot square or five-foot diameter circle.]“Okay. Let’s start with this. Please place torches in the corners back here,” I pointed to the wall on the left side of the door to the next room, “and here.” I pointed to the opposite side. Torches appeared, already burning.
+
+[You have 600 mana remaining.]“Uh. Hm. Can you have them start unlit?” The torches went out.
+
+“Nice. Okay. So, those are going to unlock the door when they’re lit.
+
+Which means we also need a lock.” [Shall I create that now?] “Yep.”
+
+A comically large padlock appeared on the door. I grinned. “Great. Now, make pit traps surrounding each of them. Can you do…like, a line across the floor in front of each, rather than a full five-foot square?”
+
+[No, that would not be large enough to make a functional pit. To surround the torches, you need two pits for each.]I exhaled a breath. “Okay. Fine. Place those.”
+
+Nothing visibly changed. I had to tap on one to realize that the floor was hollow. “…What happens if someone actually falls in one of these? Endless void?”
+
+[No. There is a newly-constructed ten-foot-deep pit below each.]“Oh.” I was…almost disappointed. I didn’t actually want any of these conjured spirit simulacra things to have to fall through an endless void, but that would have been way more dramatic. “Okay. Great. Does the floor just…fall away as soon as they step on it?”
+
+[Correct.]“And they can climb back out?” [Yes.]I nodded. “Okay, good. Let’s continue.”
+
+[You now have 525 mana remaining. You have two minutes remaining.]I let out a curse. I’d taken far too long on prep. “Okay. Quick. Lesser fire elemental in the middle of the room.”
+
+[Done. You now have 425 mana remaining.]A blazing sphere of fire manifested in the center of the chamber. After a moment, two burning arms poked out from the sides of the sphere, and something resembling a single gleaming eye appeared right in the center. Itmade some kind of strange, cooing noise when it rotated in place when it saw me.
+
+It was…kind of cute, honestly.
+
+“Uh…hi there, buddy. You’re going to have to fight some adventurers soon, okay?”
+
+The elemental rotated in a circle in mid-air, which I took as a nod. “Don’t kill anyone. Just…throw some fireballs at them. And if they runover here,” I gestured toward the torches, “they’re trying to get you to throw fireballs at the torches to light them. Go ahead and do that if they try to get you to. You’re part of a puzzle.”
+
+The sphere rotated again, then let out some kind of musical sound. [It says ‘yes, great and wondrous master’.]“…Really?”
+
+[No, but it did confirm your orders. You have one minute.]This room is good enough. I need to get out of here.
+
+I rushed back toward the room’s exit door. Then I remembered it was locked. “Can you…”
+
+The door lock clicked off. I passed into the next room, then closed the door behind me. “Relock?”
+
+I heard a click.
+
+[You have thirty seconds.]“Can I keep working while the adventurer deals with the first room?” [Yes. You may also return to my room if you wish to observe theadventurer’s progress through a projection.] “Wonderful. Now, should I keep working…?”
+
+[I will be interested to see if the first adventurer uses the fire elemental to light the torches. It is an unusual style of puzzle.]“Thanks. Gonna be honest, I think they will probably just use their own fire source, but I like the idea of providing one within the room itself.”
+
+[That is generally wise. Dungeons are often disappointing when they are not fully self-contained. The first adventurer is entering now.]I briefly hesitated, then said, “Drop two more lesser fire elementals toward the center of this room to guard. I need to buy some time so I can watch what they’re going to do.”
+
+Two more adorable flaming spheres appeared. [You have 225 mana left.]I turned to the elementals. “Guard this room. If anyone enters, attack them, but do not kill them.”
+
+The spheres rotated in what I presumed to be confirmation.
+
+“Thank you.” I turned and ran back to the crystal room as fast as I could. I was way behind my intended building schedule, but I wanted to see what the first adventurer did before I made too many more choices.
+
+I’ve only spent 50 of my personal mana. If I burned through more of it, I could recharge the crystal a bit more…or I could guard the final room myself.
+
+I froze when I was nearing the crystal room’s door. Rewards. I forgot rewards.
+
+In a surge of panic, I rushed back to the room with two fire elementals. “Treasure box. Lock. Bag of crystals inside.”
+
+A treasure box appeared as requested, presumably with the bag in there. [You have spent 50 mana on the treasure box, 50 mana on the bag, and25 mana on the lock. You have 100 mana remaining.]“Hello? Is someone in the next room?” Came a voice. “Ack! Fire! Hot!”
+
+I winced. I hadn’t realized the door was thin enough for someone to hear me talking.
+
+…I decided to cut my losses and just quiet down. “Make a key corresponding to this lock. Hide it in one of the pit traps for the previous room.”
+
+me.
+
+[Amusing. Done. You have 75 mana remaining.]Good enough.
+
+With that, I rushed back to the crystal room and shut the door behindThings are…not going as planned. But it’s okay. It’s fine. Everything’sfine. I can always stand in the last room and scare the adventurer off if I need to.
+
+When I got back to the crystal chamber, I saw what it had been talking about: the entire back wall had been replaced by an image showing the entrance room, along with the adventure inside it. I briefly gawked at the scale of the projection, and my jaw nearly dropped when I heard sound coming from the image.
+
+“Hello? Someone else here?”
+
+I winced. Social contact was not something I wanted to deal with here.
+
+Should I talk to him? Maybe I should get a better look first.
+
+The image showed the adventurer swiftly dodging a blast of fire from the elemental, then warily watching it and raising his sword. He was a tall guy with short brown hair and a thin, well-styled beard. Aside from his weapon, an arming sword, he carried a kite shield and wore heavy chain armor.
+
+Chain armor was generally pretty antiquated, but I couldn’t exactly throw stones. My own armor was scale, which was generally considered similarly antiquated. I wouldn’t have been wearing it if not for the Citrine- level enchantments on it.
+
+In his case, though…The adventurer side-stepped another fireball, then charged the elemental and swung his sword clean through it.
+
+The sword’s blade immediately turned red with heat, but not quite to the point of melting. The adventurer yelped, dropped his sword, and jumped backward. He barely managed to raise his shield in time to block another half-hearted fireball from the tiny creature, but then the shield lit on fire. Like most old-fashioned shields, it was made of wood.
+
+He hurled the shield off his arm then backed away. “Um…if anyone is in there…help, maybe?”
+
+I blinked. “Why isn’t he using magic?” [This adventurer is not attuned.]I frowned at the image of the adventurer dodging around the elemental, then rolling and picking his sword back up, tossing it between hands as the heat gradually dispersed. He was wearing heavy gloves, otherwise he probably would have burned himself badly.
+
+“Why would he come in here without an attunement?”
+
+[This shrine predates the existence of attunements. I have chosen an adventurer from an earlier point in history to test the earliest phase of your dungeon. Thus far, your dungeon appears to be successful at repelling non- magical combatants.]“Uh, no kidding. Is he going to be—”
+
+The adventurer took a fireball to the chest, screaming as the heat spread across him. It wasn’t a particularly powerful spell, but chain armor wasn’t going to do much against a sphere of heat, and if he didn’t have a shroud…I bolted out the door of the crystal’s home, through the remaining rooms, and then into the entrance. I found the adventurer rolling on the floor, trying desperately to put the fire out.
+
+I drew Selys-Lyann.
+
+Can you command the fire elemental to play dead? I thought, knowing the crystal was reading my mind.
+
+[I can.]I swung my icy sword at the elemental and deliberately missed. The elemental did a dramatic twirl in mid-air and then landed on the ground.
+
+I rushed to the downed adventurer, then used transference mana to push a smidgen of the ice from Selys-Lyann onto him, extinguishing the flames on his chest.
+
+He coughed and shuddered, clutching at his skin. “Th…thanks…ahha..”
+
+I reached into my pouch, whispered “retrieve water” and pulled out a flask. “Here, drink.” I shoved it at him. “Sorry I took so long.”
+
+“It’s fine.” He accepted the flask, lifting it to drink, then winced again. “I’m Roy. You?”
+
+“Corin. Looks like you took a serious hit there. You okay?”
+
+He grunted. “Think so. That thing got me pretty bad, but I think you put it out fast enough to prevent any serious damage. Thank you again. Is it dead?”
+
+“It’s down, at least.” I sheathed my sword. “Magic weapon. You probably shouldn’t come in here without one.”
+
+Roy grimaced. “Getting some magic is the whole reason I came in the first place. Wasn’t expecting to get stopped right at the front door.”
+
+“Yeah, I hear you. These things are dangerous. You might want to head back out and get your chest looked at.”
+
+“I don’t know if I could go home empty-handed. Mother would…” Roy shuddered, and not from his injury. “It might not be worth going back.”
+
+“Wait there.” I headed into the next room, closing the door behind me. Then, I reached into my bag and whispered. “Retrieve transference sword.”
+
+My old transference sword appeared. It was one of the first magical items I’d ever made, and it had proved incredibly necessary on a number of occasions.
+
+It was, however, largely obsolete now.
+
+I could easily make something better, by myself or with others. I also was getting better at using Selys-Lyann, which was far superior, and I had the sword I’d taken from Jerome, too. I still had to do some research to figure out how that one worked, but…Long story short, I had an extra sword I didn’t really need.
+
+I walked back to the entrance. Hopefully, he’d assume that I’d found the sword in the shrine somewhere.
+
+He was back on his feet by the time I got there, but leaning against the back wall heavily. I approached, then offered the still-sheathed transference sword to him.
+
+Roy blinked. “What is…?” “Draw it.”
+
+He drew the sword slowly, reverently, and gasped when he saw the humming energy around the blade. “You…what do I owe you for this?”
+
+“Nothing.”
+
+Roy stared at me strangely. “You’re…just giving this to me? Why?”
+
+“I think you’ll need it more than I will. But there is something small you can do, if you really want to repay me.”
+
+Roy’s look turned serious, then he nodded firmly. “Name it.”
+
+I smiled softly. “When you’re a hero with a more legendary sword to use, pass that sword on to someone else who needs it more than you.”
+
+“I will.” He clutched the sword tightly to his chest. “I swear it. And if you ever need anything at all…you’ll find me at Ravenslake, not far south from here.”
+
+“Maybe I’ll come visit sometime.”
+
+He reached out and offered a hand covered with a still-singed glove. I accepted it, trying to ignore my distaste for touch. He shook my hand in an old-fashioned style, but not quite like Keras. Foreign in a different way.
+
+“I won’t forget you, Corin. Not ever.” He nodded to me one last time, then turned, opened the door, and stepped into the endless void.
+
+…And with that, he ceased to exist.
+
+[Your defenses have successfully defeated your first attacker. The next round begins in 30 minutes.][Mana earned from defense: 100.][Mana earned from the attacker learning a valuable lesson: 200.] [Mana earned from the attacker successfully gaining a reward: 300.] [Total mana available: 675.]I felt strangely numb as I walked back to the crystal chamber to contemplate my next move.
+
+*** “Are they all going to be like that?” [Please be more specific.]I sat down on the floor. “…Vulnerable?” [Mortals generally are.]I winced. “How…do you deal with it? Seeing them hurt? I know they’re not real, exactly…or, well, they’re temporary, at least. But it still doesn’t feel right to see them suffer.”
+
+[Harm can cause behavioral changes that can increase future security. As long as they are improved by the process of coming here, suffering temporary harm is acceptable.]I grimaced. “…And what of the scars that sort of ‘teaching’ leaves?What about the lasting consequences, mental and physical?”
+
+[If those consequences are lesser than the benefits gained, it is a net improvement, and thus the trials are beneficial.]My hands tightened as I recalled someone who had used a similar line of logic while he “trained” me. “How can you accurately measure the benefits and detriments against each other? How can you know where the training crosses the line into harmful?”
+
+[That is, at present, your responsibility to determine.]I winced. “Every individual person is going to have different strengths, weaknesses, tolerances…how can a shrine with traps and monsters account for that? Maybe a fire elemental will give valuable ideas to one person, kill another, and prove pointless against a skilled warrior who can defeat it in an instant. That whole style of design seems inherently flawed.”
+
+[And yet it is exactly the sort of structure that you defaulted to, without any prompting on my part.]I looked down, trembling. The Transcendence Gateway Crystal was right.
+
+I had, instinctively, set up the shrine to mirror a structure near-identical to a Judgment. It was what I was familiar with, so it was natural to assume that was the right way to do things.
+
+…And, in a small way, I’d seen the failures of that approach right away. I’d presumed a specific type of participant, and I’d been wrong. If I hadn’t intervened, that first entrant — Roy — might have been killed in the very first room. Not only would that have likely failed the shrine’s challenge, the idea of killing someone like Roy, even if he was simply a copy of a previous shrine entrant, didn’t sit well with me.
+
+I had no way of knowing how complete his memories were, or how real his experiences were. What I did know was that he was virtually the same category of entity that Len was — a spiritual being that was capable of living, breathing, and thinking.
+
+I couldn’t simply let beings like that die meaninglessly for some sort of test.
+
+“Roy…did you destroy him when he walked out that door?”
+
+[No, all of the entrants you will be facing are placed in stasis when not in use. Their memories are recalibrated for the next person taking the test.]That disturbed me in entirely different ways, but at least I didn’t have to worry about surviving challengers being killed outright as a reward for their success.
+
+I exhaled a deep breath. “I’ve been going about this all wrong, haven’tI?”
+
+[Explain.]I sat down on the floor. “I set this place up with the same principles asthe spires. Those aren’t my principles. They never have been. Why am I emulating them?”
+
+[Your task is to encourage growth. Thus far, I judge that your response has been successful. This does not indicate any failure on your part.]I shook my head. “Maybe, but if Roy was actually going back to his family, would he feel like he’d succeeded?”
+
+[That would largely depend on whether or not he retained his memories of the experience. Given that you rewarded him with a valuable item, a version of Roy that survived with an injury and a new magical weapon without any recollection of the events that led to that point would likely expect that he performed well and return home with a feeling of success.]And suddenly the idea behind wiping memories after a Judgment had an entire layer that I hadn’t really considered. I’d always considered that memory wiping to be a form of security measure to preserve the integrity of the tests, allowing future Judgments to retain a higher degree of challenge. After all, if everyone remembered their tests and recorded them, Judgments would grow progressively easier as they were studied.
+
+But what if Selys — or whoever had first implemented that memory wiping mechanism — had another motivation? A kinder one? A mechanism for erasing any inadequacy that might have come from failing specific challenges, and leaving the successful applicant with nothing more than an attunement and the knowledge that they had succeeded at the Judgment as a whole?[I cannot comment on the motivations of the goddess you are thinking about, but I can confirm that the concept you have just considered is consistent with one of the reasons why I offer to perform my own memory alterations for test-takers.]“I’m…going to need to think about that for a while.” I pushed myself back to my feet. “But later. For the moment, I have some redesigning to do.”
+
+[What sort of redesigning?]“I’m going to see if I can find a different way to help people. One that doesn’t require fighting monsters and risking death.”
+
+[Then let us begin.]***Minutes passed as I went through a flurry of instructions on modifying the existing rooms. After my thirty minutes were elapsed, it was time to see how my redesign fared.
+
+I watched from the wall of the crystal’s room as the next entrant walked into the dungeon: a young woman in long black robes carrying a staff. Given the stereotypical wizard’s outfit, I judged that she might have fared better against the fire elemental from my original entrance, but that wasn’t what she faced.
+
+Instead, she glanced from side-to-side after entering, then approached the most prominent feature of the new entrance: a sign a few steps ahead of the doorway.
+
+She tapped the floor with her staff as she approached, presumably testing for traps, then read the sign aloud. “In order to better serve your needs, please state your name, home, and magical abilities, then wait here for…what the resh?”
+
+She glanced around, searching. “Is this some kind of prank? Someone else there?”
+
+She removed one hand from her staff, snapping her fingers. Light washed over the room. “Hm. No illusions?”
+
+She grimaced, then looked back to the sign. “Ugh. Fine. I’m Elina Maryn, and I’m from Valia. Purifier, first-class.”
+
+I blinked. First-class? That’s an older designation, before the color system for identifying attunements. She must have visited here hundreds of years ago.
+
+And that isn’t a Valian attunement…or, at least, it isn’t now. Maybe it was back then?Either way, she’d met the first requirement on the sign, so I spoke aloud to the crystal. “Left room.”
+
+The new entrance chamber had three exit doors: left, right, and center. All of them were locked. The center path led to the original entrance, complete with all the same challenges as before.
+
+The left and right paths were new.
+
+When I said “left room”, the lock on the door clicked open at my command. Or, really, at the crystal’s command. The crystal knew to open the doors based on my mental instructions.
+
+Elina noted the audible click of the door lock opening. “Is that it…?Can I go to the next room?”
+
+She took another minute to circle around the room, tapping floors and walls and inspecting the other doors.
+
+During that time, I conversed with the crystal. “Mana check.”
+
+[You had 675 mana after the last test. You recharged me from your batteries, including the new spirit battery, for an additional 525 mana, for 1150 total. After that, you constructed three additional rooms for 600 mana, three doors with locks for 225 mana. The contents of your new rooms cost 350 mana. You have 25 mana remaining.]I nodded nervously. Keeping track of the numbers wasn’t exactly difficult for me, but it was good to have someone else check my math. My mind did have a tendency to wander.
+
+Elina finished checking the entrance room, grumbled a little, then moved to the left room that had been unlocked. She prodded it with her staff, then after a moment of hesitation, turned the knob and entered.
+
+She blinked at the sight of the interior of the room. I didn’t blame her — it wasn’t exactly a conventional challenge.
+
+Instead, the room simply housed a table with chairs on both sides. There were also pens and a couple pieces of parchment.
+
+Cautiously, Elina approached the table, then took a look at the piece of paper nearest her. “Please have a seat and wait for your interviewer to arrive…? What the resh is this?”
+
+“Guess that’s my cue.” I mumbled, then left the crystal’s chamber. I headed through each of the rooms, unlocking and relocking them behind me, until I reached the entrance. Then, I headed through the same door that Elina had.
+
+I walked in to find Elina sitting at the table. She shot to her feet as soon as I walked in and raised her staff. “Don’t move.”
+
+I raised empty hands. “Easy, there. No need for that. I’m just here for your interview.”
+
+“Interview.” She spoke the word slowly, turning it over in her mouth experimentally. “What do you mean by ‘interview’?”
+
+“I’ll be asking you a series of questions. You’ll provide me with answers, and from those, I’ll evaluate—”
+
+“I know what an interview is!” She huffed. “Why is there an interview?There are supposed to be traps and monsters and all that!”
+
+“That’s a very interesting perspective, I’ll have to take a note of that.” I nodded seriously, then walked a long way around her to sit down at the opposite side of the table, picked up a pen, and wrote a note.
+
+“What are you doing?”
+
+“Notes, like I said.” I lifted the paper to show her the words “expected monsters and traps” written on it. “Now, Miss Maryn, please have a seat so we can get this started.”
+
+She glowered at me, then hesitantly slid back into her chair.
+
+Please shut the door, I said mentally. The door closed behind us and locked.
+
+That was a good effect, it seemed to rattle Elina a bit. I forced myself not to smile, instead focusing on the interviewer persona I was playing. “Thank you. Now, Miss Maryn, can I ask why you’re here?”
+
+She turned toward me, looking awkward. “I’m here to explore the shrine? Obviously?”
+
+I scribbled something on the page. “Mmhmm. But why are you here to do that? What is your goal?”
+
+“I…I’m here to ask the crystal for a boon. That’s something that happens here, right?” She glanced from side-to-side.
+
+I nodded. “If you successfully complete your application here, we’ll review it and evaluate your potential for a meeting with the crystal. I can’t make any promises about whether or not the crystal will give you anything, I don’t have that kind of authority. I’m sure you understand.”
+
+“I…uh…right. This isn’t what I expected.”
+
+“Care to elaborate on that?” I made a “go on” gesture.
+
+“Well, like I said, I thought there would be more…um, fighting things?Danger, you know?”
+
+I nodded sagely. “Yes, I’ve heard that before. Why did you have that expectation?”
+
+“Well…really, I guess it seemed like this was sort of like a Judgment, but older fashioned?”
+
+“Ah, yes. A number of people — especially Valians — come in here with the expectation that this will basically be another Judgment for them. There are some similarities, of course, given that Selys based her tests on the elemental temples, but this isn’t quite one of those. You’ll find that while we do have strict requirements for meeting with the crystal, no violence or danger is necessary here.”
+
+“That’s…not what I’d heard.” Elina looked at me suspiciously. “Is this some sort of trick? Are you just playing with me here, buying time forsomething?”
+
+I shook my head. “I assure you that I’m not. Of course, you’re free to leave at any time if you feel threatened.”
+
+Unlock the door.
+
+There	was	a	click	as	the	door	behind	us	unlocked.	I	gestured magnanimously toward it.
+
+“I…no, that’s okay. You’re really just going to ask me questions? That’sit?’I  nodded.  “Sometimes  there  are  other  forms  of  tests,  but  we’reevaluating a new minimalist testing routine right now. I don’t believe anything beyond the interview will be necessary in this case.”
+
+“…Really?” Elina looked understandably nervous. I nodded. “Yes. How does that make you feel?”
+
+She frowned. “…A little conflicted, if I’m being honest. Like, even if I succeed, I wouldn’t have earned it properly?”
+
+I nodded, making a note. “And that’s in contrast to the Judgment you took, which felt more significant?”
+
+“I mean, yeah, obviously. Those things are dangerous!”
+
+“Right.” I scribbled another note. “What exactly did your Judgment entail?”
+
+Elina scowled. “I don’t remember that, obviously. No one does.” “Then how do you know it was dangerous?”
+
+…There was a moment of silence.
+
+To her credit, Elina formulated a response faster than some would have. “Some people don’t come back.”
+
+“Hypothetically, couldn’t they simply stay behind in the tower?”
+
+“Well, yeah, but that’s not…” She wrinkled her nose. “Is this some sort of test of faith? Are you trying to get me to sell out my goddess?”
+
+“Goodness, no. Please recall that these shrines pre-date Selys. We have nothing to do with her, and these questions are not religious in nature. I’m merely trying to dig into your expectations of what you feel might be a reasonable form of testing in order to ask for a boon. Your ideas seem to have been filtered through the lens of your Judgment and the risks involved in that process. Would you say that is accurate?”
+
+“Sure, I guess?” She blinked. “Who even are you, by the way?”
+
+I waved a hand dismissively. “That’s not important. I’m just here to interview you.”
+
+“How do I know you’re actually a part of this shrine, and not just…I don’t know, some other adventurer playing a prank?”
+
+She had a good point.
+
+I raised a finger, then said, “Shrine, lock the door.”
+
+The door clicked behind us again. “Shrine, unlock the door.” It unlocked.
+
+I smiled at her. “Is that sufficient for you?”
+
+“I mean…you clearly have some influence over a door, but that doesn’t mean you run the place.”
+
+“An excellent point, allow me to take a note. One moment.” Scribble, scribble. “What sort of demonstration would you require for me to prove my connection with the shrine?”
+
+“I…don’t know. You could, uh, show me the crystal?”
+
+“I’m afraid that won’t be possible until we’ve had a chance to determine if you’ve met our qualifications. However…”
+
+You can communicate with me telepathically and read my mind. You can also give orders to the elementals. Presumably, that means you can communicate with her as well, correct?[That is correct.] At no mana cost? [Correct.]Okay, please send her a message that says, “This is the Transcendence Gateway Crystal. Please continue your interview process.”
+
+[Very amusing. One moment.]Elina shot to her feet. “What was that?”
+
+I tapped my pen on the page. “The crystal sent you a message, did they not?”
+
+“I…uh, well, someone claiming to the crystal did, but it could be…” “Continued skepticism.” I wrote another note. “Understood. Now, canyou please give me an idea of what sort of boon you were looking for here?”
+
+Elina scanned the room again, then slowly sat back down, looking even more nervous. “I...uh, heard there are things that are similar to attunements here, but older?”
+
+I wrote another note. “Yes, that’s correct. Not everyone who comes through here qualifies for one, but spirit bonds are indeed technically possible here. Are you familiar with the concept?”
+
+“Spirit bond. Is that like one of those old-fashioned dominion bonds from back at home?”
+
+I nodded, mentally noting that she must have been from a time period where dominion sorcery was still relatively commonly known about. “More like a complex dominion mark, if you’re familiar with those.”
+
+“Oh, sure, I’ve heard of them. I thought only the gods were supposed to…” She paused, blinked, and then continued, “Wait. Are attunements the same thing as dominion marks?”
+
+“I’m sorry, that’s not something I can answer for you at this time. If you reach the crystal, however, asking a question is a possible use of a boon.”
+
+“Huh.” Elina nodded, pondering. “Okay. Uh, what else did you need to know?”
+
+“Let’s go over a bit about your personal history and magical capabilities.”
+
+“…Sure.”
+
+***I went through a series of more interview questions with her, taking up another fifteen or twenty minutes. That level of social contact was exhausting, but I think I played the role well enough.
+
+There were a couple advantages to the exhaustive process.
+
+One, in spite of what I’d told her, I was buying time. Not for anything nefarious, though: I was waiting for my mana batteries to recharge further. Every minute I kept her busy was another minute of time for me to get more mana that would be useable for the next round.
+
+If the time between rounds wasn’t affected by the time I spent during a round, I benefitted from dragging out each step as much as possible. Of course, there was a possibility that my time during the round was going to affect subsequent rounds, but I couldn’t know without trying it.
+
+Even if the timing of future rounds didn’t change, there were potential downsides to dragging things out. For example, if I hit the maximum of thirty hours without going though every possible dungeon entrant, maybe that would be a failure of some kind. It was also possible there were othertime limits, or that the crystal would get bored and send in a second person early, but the crystal refused to answer any of my questions on the subject.
+
+Without any definitive knowledge on how things would work later on, I thought the advantages of playing it safe and stalling outweighed the potential downsides.
+
+Beyond that, the interview was giving me valuable information. I learned a bit more about what ancient attuned believed about the shrines, and even a few bits about older attunements. Elina was apparently from just over a hundred years after the Exodus, and she had a very different perspective on things than modern attuned do.
+
+Finally, I was able to teach her some things about magic and attunements, simply through the interview process. And by doing that, I was meeting the requirements of my own test.
+
+When I concluded the interview, I stood up, said, “Thank you, please wait here for a moment,” and headed out of the room.
+
+Breathing heavily, I headed back to the main crystal chamber, trembled a little bit as I recovered from the extended social experience, and then prepared for the next part.
+
+“Okay. Please open the door to the path on the right. Tell her she’s been cleared to leave the room and cross the hall.”
+
+[I will do so right now.]From the crystal’s chamber, I was able to see Elina startle from the sudden telepathy, stand, and then head out of the interview room. From there, she headed across the entrance to the door on the right side, which opened for her.
+
+Inside, she stared at a beautiful sight: a tremendous crystal in the center of the chamber.
+
+A tremendous crystal that was, of course, completely fake.
+
+I was fortunate that the Transcendence Gateway Crystal had been willing to consider “a fake version of you” to be a valid form of “furniture”, albeit an expensive one. The two chairs had cost a total of fifty mana. The table had been another fifty mana. The fake crystal had cost me two hundred, but the sight of it was absolutely worth the cost.
+
+“Okay, now, I’d like you to telepathically tell her that she’s completed her test and can ask for a boon.”
+
+[I will do so now.]Elina stepped into the chamber, presumably following instructions, and gawked silently for a moment, then she said, “…Could you give me one of those blessing marks? The one that’s like an attunement?”
+
+I nodded, having expected that. “Tell her to please wait a moment while you consider her request.”
+
+[Done. What is the plan?]“Okay. I assume you’re actually capable of giving something like that to people, correct?”
+
+[Yes.]“How much mana would it cost for you to give her one?” [Twelve thousand.]I whistled. That was even more than I’d expected, but I had known it probably wouldn’t work, and I had other ideas. “What would the bond do if you gave it to her?”
+
+[The bond would create a permanent connection between us, giving her access to a fraction of my mana. You may consider it analogous to a Summoner contract.]“Would that bond grow stronger with use, like an attunement?”
+
+[It can grow stronger, but not in the same fashion as an attunement.]“Is that twelve-thousand mana cost static, or does it vary based on the person you’d be marking?”
+
+[Static.]I pondered that. “…Okay. I presume that the cost is related to specific effects the mark grants?”
+
+[That is correct.]I grinned. “Perfect. How much would it cost for you to give her a mark on her body that kind of glows a bit, but doesn’t do anything else?”
+
+[Hm. That’s a bit devious. She would feel cheated when she leaves.] “And that would be a valuable lesson, wouldn’t it?”
+
+I heard something like laughter from the crystal. [A bit of a stretch, there.]“Her ability to tell people she has an extra mark from a crystal is still a tangible benefit, albeit a smaller one. She could learn to use it to heradvantage.”
+
+[Perhaps. It is not a significant benefit compared to what she requests… but yes, it counts for something. One thousand mana to do as you ask.]I drained all my batteries back into the crystal, but it hadn’t even been a half hour, so there wasn’t nearly enough. I drank some mana water, too, and gave the crystal some more of my own mana, but that only got us back to five hundred available.
+
+It did, however, give me time to think.
+
+I still had a little bit of attunement primer. I had a fair bit of knowledge about how artificial attunements worked.
+
+…Did I know enough of fabricate one? This would probably be the lowest risk situation possible for me to try experimenting with making an artificial attunement on my own, at least for the immediate future.
+
+…Nope. Still way too risky. Not going to blow up my hands again.
+
+Instead, I took a different, slightly smaller risk, and drained all the mana out of my shield sigils and circlet into the crystal. Both of them primarily contained mana types the crystal could handle, so it worked out okay…it just meant that I was at a much, much higher risk of dying if I got into an actual fight.
+
+I’d have to be extremely cautious while I waited for them to recharge.
+
+The transfer still wasn’t perfectly efficient, but my shield sigil and circlet both had substantial mana supplies. Draining them got me more than enough.
+
+[You now have 1180 mana available.] “Go ahead and give her the glowy mark.”
+
+There was a bright flash of light in the fake crystal room, then a glowing symbol appeared on her forehead. She reached up absently, feeling at it, then removed a pocket mirror from her bag and examined it. “Th…thank you, great crystal.”
+
+More words may have been exchanged, but I didn’t hear them. After a couple more minutes, Elina turned, then exited the shrine.
+
+After a moment of quiet, I heard a voice. [Mana earned from defense: 100.][Mana earned from the attacker learning a valuable lesson: 200.] [Mana earned from the attacker successfully gaining a reward: 300.] [Mana earned from amusing me: 500.][Total mana available: 1280.][You have one minute to prepare for the next stage.]…Wait, what?It seemed like stalling for time may have had some downsides after all.
+

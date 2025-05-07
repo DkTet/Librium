@@ -1,0 +1,744 @@
+CHAPTER II – EARLIER AND LATER
+
+Keras continued telling his story for much of the remainder of the trip.
+
+Between his story and mine, we had several hours each day when most of us were in one place. That was good for security, getting everyone properly informed about the situation, and for keeping the ever-social types like Sera and Patrick sane.
+
+I wanted to hide in a cave well before the end of it. As much as I’d acclimated to being around people again, weeks of near-continuous social contact just isn’t my ideal.
+
+Fortunately, I had some time in relative isolation at night, after we’d stopped storytelling for each day. And during each evening, I got to work, or talk to people in smaller group settings. Most of my chatting was with Patrick, since we shared a cabin on the train, but I spent a fair bit of time wandering around the train cars with the others and working on enchantments.
+
+And I suppose that last part is the most important thing I should talk about.
+
+I’m going to jump back a bit and talk about some of the things I worked on during the train ride.
+
+***Day one of the train ride.
+
+When we first got on the train, one of my major goals was to figure out my priorities.
+
+Don’t laugh, yes, I actually made a physical list of things to work on this time. I won’t pretend it was exhaustive, but it gave me a starting point.
+
+After that, I discussed some options with Sera.
+
+“Message necklaces.” She pointed at the one I was wearing. “We need them for everyone.”
+
+I winced. “The materials for those were expensive. I can make some with just your mana and mine, but they’ll be a lot shorter range.”
+
+“Better than nothing. You’re also going to have to fix the one you gave Keras.”
+
+I blinked. “Why?”
+
+“You didn’t notice?” She shook her head. “He’s been eying it sadly all day. I think his aura broke it.”
+
+I frowned. He’d mentioned that his aura degraded items, but I’d hoped that something enchanted would have held up a little longer.
+
+“...I’ll take a look at it and see which runes are damaged. If the communication ones are still intact, the rest are easy to replace. If not, I’ll have to replace his with a short-ranged version, at least for now.”
+
+“You may want to put some sort of resilience or shielding enchantment on it to prevent his aura from breaking it again.”
+
+I nodded at her logic. “Makes sense. I should be preparing for that with anything I make him in the future in general. It still won’t last forever, given how powerful his aura is, but putting shields on things isn’t hard for me at this point.”
+
+“Speaking of which, you need to replace the shield sigil you gave Tristan right away. And then give the rest of us the upgrades?”
+
+I nodded. “Yeah. I’ll get to those, and probably before the message stuff. I’d like to prioritize things that will help us more in the long term, though, now that we have a bit of a breather.”
+
+“I think surviving is pretty important for the long term, but what were you thinking?”
+
+I rolled my eyes. “Obviously I’m still going to make defensive equipment. I know Mizuchi and Saffron are still a threat, too, and I’ve got some items on the list to help with that in specific.”
+
+“Such as?”
+
+I pointed at my circlet. “Teleportation items, like this one. Right now, the range isn’t great, but evacuating is still our best option if we run into one of them again.”
+
+“Unless it’s in a place with anti-teleportation runes like, you know, both the places we fought Mizuchi.”
+
+“And in both of those cases, someone broke the runes eventually. That’s solvable.”
+
+“I’d rather find a way to eliminate the problem, not just keep running.” Sera folded her arms.
+
+“We’re not Keras. We’re not going to be able to fight people like Mizuchi or Saffron seriously for years, if ever. The only reason I survived my first meetings with them is that I didn’t register as a threat.”
+
+“Sure, that was your situation. But I fought Mizuchi directly in the spire. She’s beatable.”
+
+I wrinkled my nose. “That was while she was recovering from being banished, Sera. She’s going to be much stronger when we fight her again.”
+
+“I will be, too.”
+
+I was going to say something about how unrealistic that was, but I stopped myself.
+
+Of course she wanted to fight Mizuchi. She’d been kidnapped and used as a tool to find Tristan — if I was in her position, I’d be pretty irate, too.
+
+I had my own reasons for wanting to defeat Mizuchi permanently. She’d murdered people at the winter ball, and she’d probably permanently blinded one of Tristan’s eyes. But even that wasn’t as personal as what Sera had been through.
+
+I nodded to her. “Okay. I’m still planning to make teleportation items, but I’m going to help prepare for fighting, too. I have some ideas I think you’ll like, but they’re mostly long-term, not quick fixes.”
+
+That seemed to get Sera’s attention. “Such as?”
+
+“Items that increase our long-term efficiency. Things like items that help me make other items more easily, or maybe eventually items that even make other items. That’s mostly for me, but I’ve also been thinking about things that can increase the rates of mana gain for everyone.”
+
+Sera nodded. “I wouldn’t mind a pair of those mana regeneration bracers. I could probably train more efficiently with them.”
+
+“Yeah, that’s part of what I’m going to put into the shield sigil upgrades. Mana regeneration for everyone. But I don’t think it’ll actually improve our mana gains that much. If you go through your whole mana pool too many times in rapid succession, you’ll hurt yourself, even if you stick within the ‘safe’ values.”
+
+“Like how you lost the feeling in your right hand for a while after you first made the bracers.”
+
+I winced at the memory. “Yeah. Don’t...do that.”
+
+“I’d never think of repeating your mistakes. I’m perfectly capable of coming up with new ones on my own.”
+
+I laughed. “That was more self-deprecating than you usually get.” “Well, these last few months,” she gestured to her throat, “have put a lotof things in perspective.”
+
+“Oh? Are you finally going to stop teasing me, then?”
+
+“Don’t be absurd. You’re my brother, that’s an important part of my job. So, mana regeneration might help us do more exercise back-to-back, but we still shouldn’t increase our daily maximum too much. That’s fine, even if it’s a small efficiency increase. The bracers will be great if we actually get into a situation when we need all of our mana, too.”
+
+I nodded. “I was also thinking that if I put some on Vanniv, you could keep him out all the time without having to pay the mana cost yourself. Sort of like how Researcher used to be entirely powered by the platform in the library.”
+
+“Might be useful at times, but that doesn’t actually help increase my mana pool. In fact, the gradual strain from my attunement helps build mana, so taking that away would be counterproductive. I’m actually paying mana for Researcher’s upkeep now, too. Not a lot, but some.”
+
+That’s right, Researcher mentioned that her new contract works differently than the one that she had with Mizuchi. Okay.
+
+I pondered that for a moment. “...You know, you’re right. That’s actually one of the most useful parts of your attunement, if it helps increase your mana growth rate.”
+
+“You’ve got that look like you’re plotting something, Corin. Please don’t tell me you want me to make more contracts right now, I can barely afford what I’m working with.”
+
+I shook my head. “No, no. That’s not it. I was thinking about how absurdly powerful Derek and Elora are for their age. They both have contract-based attunements like you do. I should have thought about this before.”
+
+Sera gave me a quizzical look. “What, that Summoners build mana faster, but have to sacrifice some of it to maintain contracts? We knew that.”
+
+“No. Faking contracts with other attunements.” Sera blinked. “What?”
+
+“You know more about contracts than I do — could you make a null contract? Like, a contract with no one, that just takes up some of your mana until you get rid of it?”
+
+She shook her head. “Doesn’t work like that. I need a creature I can initiate a contract with. The spell doesn’t complete until they accept.”
+
+“Could you teach me the spell to make a contract at some point?”
+
+“Sure, but you’re not going to be able to cast it. It requires a Summoner attunement.”
+
+“Except that Soulblades can do it, too. Which means it’s not completely unique, even if their contracts are somewhat different. And I don’t need to make a real contract. I just need to understand the way contracts work, and why they increase your mana rapidly.”
+
+“I get the idea. You’re trying to make an exercise item.” Sera furrowed her brow. “Is that really the highest priority right now?”
+
+“In terms of immediate results? No. But I’ve been purely reactive to things for too long.” I shook my head. “I’m tired of feeling like I’m always one step behind. This is the type of thing that could be a long-term game changer for us. The type of thing that could help us get to Sapphire.”
+
+“Sapphire? Is that your goal?” She raised an eyebrow.
+
+I nodded. “It’s one of them. One of the most important, really. If we’re going to be able to compete with the types of enemies we’ve been encountering…Sapphire might be a low bar, honestly. We might need to aim higher.”
+
+Sera laughed. “Well, I can’t fault you for a lack of ambition, at least.
+
+Okay. Let’s work this out. Why not make an item that just uses up some of your mana constantly?”
+
+“Looked into that. They don’t really help.” I shook my head. “An item that just drains your mana isn’t exercising your attunement in the same way that casting spells does. If you think of casting a spell as cardiovascular exercise, holding onto an item that gradually drains your mana would be more like something syphoning out your blood through a needle.”
+
+“Eew.”
+
+I snorted. “Yeah. Sorry for the imagery.”
+
+“It’s fine. Hm. I guess there’s a functional difference — when casting a spell, you’re converting the gray mana in your body to the right types, then shaping it into the exact form you want and releasing it. There are more steps.”
+
+I nodded. “Right. An item that just drains your mana doesn’t push your body in the same way.”
+
+“Could you make an item that forces the body to cast spells?”
+
+I considered that. “...Maybe? That sounds kind of horrifyingly dangerous, honestly. Maybe that is what your Summoner attunement isdoing, though. I don’t know.”
+
+“The distinction could be the two-way connection, too. When I’m sending mana to a summon — say, Vanniv — I’m also getting mana in return.”
+
+I pondered that as well. “Do Summoners still get mana faster if their contracted monsters are supplying the same types of mana that the Summoner already has? Or is it only if they get a different mana type?”
+
+Sera shrugged. “No idea. Maybe there have been studies on that, but I haven’t read them.”
+
+“Maybe it’s the act of trading out some of your mana for a different mana type that helps the body build mana...?” I shook my head. “I guess we can’t know that for sure without data.”
+
+“We can ask Derek and Elora if they know more about this when we get back.”
+
+“Yeah, but I’d like to get working on something sooner than that if it’s plausible. Building our mana pools as quickly as possible is one of my highest priorities.”
+
+“No disagreement there, although if all you’re doing is mimicking an advantage I already have, I guess it won’t do much for me.”
+
+“No, but I think I have other ways of helping you. The Arbiter attunement will help once you’re feeling safe to try it, and I have some other ideas as well. Derek and Elora can’t have gotten where they are just based on contracts.”
+
+“Sure. They’re climbers. They probably get some mana growth just from fighting and recovering in the spires. The higher mana concentration in the spires helps their growth rate, too.”
+
+“That’s true, but that should mostly help overcome the Sunstone Wall.
+
+There has to be something else actively driving their growth.”
+
+“Maybe, but keep in mind they got their attunements at a young age. It’s not like they’re only five years ahead of us.”
+
+“Both of them?” I raised an eyebrow. “Elora is a Summoner, though.
+
+That’s local.”
+
+“She took her test at the same time Derek did, but in the Phoenix Spire in Edria. She walked out with a Summoner attunement and a God Phoenix contract. The God Phoenix is the reason why she ended up with aSummoner attunement, they made a deal of some kind while she was taking her Judgment.”
+
+“How’d you know that?”
+
+Sera snorted. “I asked her when we were at her house. It’s not often that I run into another Summoner with a god beast contract, you know. We had a lot to talk about.”
+
+“Oh.” I did have a habit of forgetting other people could talk to each other without me being aware of it. “Okay. Good to know. So, they’ve had their attunements for around nine years.”
+
+“Close to ten now, depending on when they got it in the year.”
+
+That was a little disappointing. I’d been hoping Elora had some sort of crazy secret to getting to Emerald in five years I could try to figure out or improve on. Nine or ten years to Emerald was still absurdly impressive, but I wanted to get myself and my friends to that level as quickly as physically possible.
+
+“What other ideas did you have for speeding up our growth?” Sera asked.
+
+“I have a few, but you’re not going to like the first one.” She frowned. “Drinking more attunement primer?”
+
+“...You’re close. Enhancement elixirs. Now that I can purify my mana without a still, I think I can figure out how to make them.”
+
+“With due respect, Corin, I think I’ll wait a while before drinking any other mana-increasing compounds you offer me.”
+
+I winced. “I’m really sorry about that.”
+
+“I know. And it’s a good idea. You should make the elixirs if you can, I’m just going to show a bit of due caution this time.”
+
+I nodded.
+
+“Also, will those even help?” She asked. “You’re already using your Arbiter attunement on everyone other than me. Didn’t Sheridan say that elixirs were functionally the same?”
+
+“They’re similar,” I admitted, “But I don’t think they work identically. Someone might be able to benefit from both at the same time, but I don’t know. Sheridan told me a little, but not a lot. They also mentioned that things like lavris fruit work differently from elixirs; maybe I could make a more powerful version of something that works like the fruit, rather than a conventional elixir. I need to study them more.”
+
+“Maybe ask Cecily? I think she took the potions class.”
+
+“Good idea.” I didn’t actually want to ask Cecily about it, but it was a good idea. I briefly considered asking Sera to summon Researcher so I could ask her instead, but I decided against it. I didn’t want to talk to either of them right away. I’d been talking to people too much as it was.
+
+Fortunately, Sera was much easier for me to tolerate than most, since I was so used to her. “There’s also whatever Katashi did to Mara’s attunement. It was an immediate boost of a much higher magnitude than my Arbiter attunement can handle. And, beyond that, I’d like to figure out how ascended attunements work.”
+
+“I’m certainly not going to complain if you figure out how to upgrade people’s attunements directly, but do keep in mind that Mara was sick for weeks after Katashi upgraded her attunement. And my ascended attunement...I wouldn’t recommend going through all that to anyone.”
+
+I nodded at both points. “Marissa’s sickness would be bad in a dangerous environment, but imagine if we could get something like that just before the train ride home. We’d be pretty much recovered by the time we got back, and maybe a full attunement level higher.”
+
+“I do like the sound of that.” She sighed. “I’m still so far behind.”
+
+I tapped my hand. “I could go ahead and start using this to boost your mana. It might be safe at this point.”
+
+She shook her head. “No, I’m not risking it. We can do it after I hit 112, where I was just before the whole potion incident. Maybe sooner if Ferras actually heals me entirely.”
+
+I nodded slowly. “That’s your decision.” I left it unsaid that I disagreed, and I changed the subject. “I’ve been thinking about how you got the ascended attunement out of drinking the primer, and it still doesn’t make sense to me. Even if that mana somehow fed into a contract function, why would that make your attunement change into something else?”
+
+“I’ve been thinking about it, too. I can see two explanations.” She raised a finger. “One. All attunements are already set up to ascend under certain conditions. I think this is eminently plausible, given that they change at specific mana levels. It’s possible that there’s a condition on the attunement that says, ‘if you get this much mana at once, ascend’, or something similar. Or perhaps the mana just fed into a specific latent function, like a rune that wasn’t charged.”
+
+I was surprised at how similar that sounded to my own thought process on the subject. The latent rune hypothesis was what I’d been leaning toward. I was beginning to think of attunements as being more like a collection of enchantments in general, based on how many different conditional functions they seemed to have. “And the second?”
+
+“Seiryu.” That was all she said, but I nodded regardless.
+
+“She was your first contract, and we were in the Serpent Spire when it happened. You think she might have been watching us and done something to your attunement to help you?”
+
+Sera nodded. “Might have been watching, or she might have just sensed the influx of mana through our connection and reacted to that.”
+
+“Well, I suppose that would be much more difficult to replicate than simply activating an inactive rune...”
+
+“Corin.”
+
+“Hm?”
+
+Sera leaned closer. “Are you trying to force your attunement to ascend?You saw what happened to me.”
+
+“I think that was more about the method than the process of ascending itself. It can’t be that bad in every case.”
+
+Sera’s expression shifted. Not to angry, like I might have expected, but to show something very different — worry. “Please, don’t tinker with trying to ascend your attunement until you have a better idea of what you’re doing. As bad as what I went through was, I got lucky. And we don’t even know what an ascended Enchanter attunement would do. It might not even be useful.”
+
+“I wasn’t necessarily thinking of ascending my Enchanter attunement.
+
+And if I break my other one, I might be able to...”
+
+“Corin. Don’t be reckless. Please.” She was pleading now, so I nodded in acquiescence.
+
+“Okay. I’ll be careful, I promise. Just research for now.” I was mostly telling the truth.
+
+***I worked on exactly what I’d discussed with Sera for the first few days of the train ride.
+
+I replaced the shield sigil I’d given Tristan. I upgraded the ones everyone else was carrying to the same standard as my own.
+
+That meant heavier shielding, health regeneration, and mana regeneration functions for all of us. They took considerable work, but we had plenty of time during the train ride.
+
+There was one major factor that made working on the items more frustrating than it should have been — my rate of mana regeneration.
+
+While we were on the train, I was recovering mana much more slowly than usual. I’d known this would happen, but it was more extreme than I’d expected.
+
+The reason was simple — attunements drew mana from the environment to recharge mana, just like most of my items did. In areas with lower mana saturation, my mana would recover more slowly.
+
+In Valia, recovering my mana had taken about an hour if I drained it completely. On the train, it took me close to ten hours to recover my entire mana pool on my own.
+
+Once I had a mana regeneration item again, that helped — but not as much as it should have. The mana regeneration item also drew mana from the environment, and it had the exact same problem. The mana regeneration items generally recovered one mana per minute — instead, on the train, they were getting about one mana back every ten minutes.
+
+That meant that I was limited to working on a project or two each day, rather than several. I cheated a little by using multiple mana regeneration sigils once I’d built them, but even with that advantage, I was working much more slowly than usual.
+
+After I’d finished the mana regeneration items, I replaced the broken runes on Keras’ necklace and added some shield functions to it, like Sera had recommended. Keras looked mildly embarrassed, but he was thankful.
+
+I didn’t quite get to researching enhancement elixirs or making necklaces for everyone else at that point, though, because I got distracted.
+
+I had another idea.
+
+***On the evening of day five of the train ride, I visited Keras in his cabin. “Keras, I’d like for you to help me make infinite money.”
+
+The swordsman laughed. “What’s your latest scheme, Corin?”
+
+I both looked and felt mildly offended. “It’s not a scheme, exactly. I don’t scheme...wait, do I? Is that how I come across?”
+
+“Maybe a little.” He shrugged a shoulder. “But I say that with all affection. I’ve been known to have a few schemes for getting powerful in a hurry, too. Maybe not quite as many when I was your age.”
+
+I wasn’t sure what to say to that, so I just kind of skipped past it. “...Anyway, idea. So, you can modify the properties of metal, yes?”
+
+“Sure.” He shrugged a shoulder.
+
+“And that doesn’t count as an enchantment? I mean, it doesn’t use up some of your spirit, like what you were doing with Bright Reflection?”
+
+“Nope. I can do that without a problem.”
+
+“Okay, good.” I nodded. “When I had you separate some of the metal from coins before, we talked about having you turn the coins into a different material. You said you didn’t know what it would do to the mana capacity of the material. Do you think you could improve the mana capacity of a metal deliberately?”
+
+He pondered that for a moment. “Tricky. I don’t know. I can’t actually sense mana enchantment capacity. My magic works completely differently. Changing shape, or mass, or color — those I can sense, and I can make the alteration intuitively.”
+
+“What if you tried to make some changes, and then I used a device or spell to test the mana capacity of the resulting material?”
+
+He considered that, then shook his head. “That’s a good way to see if I did something right, but it doesn’t help me initiate the process. At the moment, it’s like you’re asking me to cast a spell I don’t have the mana type for. Or, at least, a mana type I’ve never used, and can’t sense.”
+
+That was a pretty big problem. I thought about it for a mute. “What if I cast a spell on you that allowed you to sense mana the way I do?”
+
+He blinked. “Can you do that?”
+
+“No. I mean, not now. My current version of the Detect Aura spell is designed to be self-only, and it doesn’t determine material capacity on its own, anyway. I was speaking more hypothetically: I could research a spell for that purpose. I’m sure they exist. Even if one doesn’t, I could probably make one.”
+
+Keras pondered that. “I can’t make any promises that it would work.” “That’s fine. It’ll be a useful spell for me to learn even if we can’t getthe capacity increases to function.”
+
+“Good.” Keras hesitated, then spoke again. “Another thing, before you go.”
+
+“Hm?”
+
+“You’re going to want to start working on a replacement for that box.” I took a deep breath. “You’re taking it when we get off the train?”
+
+If he wanted to, it wasn’t like there was anything I could do to stop him.
+
+I doubted the entire nation of Valia could keep the box from him if he decided he wanted it.
+
+“Not that soon. But when it’s fully recharged, I’m going to need to use that charge. And then you’re probably going to have to give up the box.”
+
+I understood what he meant. “You’re going to use the box to summon Wrynn Jaden and give it back to her.”
+
+“Got it in one.”
+
+I nodded slowly. That wasn’t ideal, but it wasn’t actually the worst thing in the world, either. Now that I knew Tristan’s situation, summoning him with the box was no longer a good idea. I was grateful that I’d found him and talked to him before trying it, given that summoning him out of the spire with the box might have inadvertently killed him.
+
+I still wanted to have the box to summon him eventually, or summon someone else in an emergency...and honestly, just to store my stuff.
+
+But it wasn’t mine. It never had been.
+
+It belonged to Wrynn Jaden, and in truth, I was interested to meet her. I couldn’t rely solely on Keras forever, and if I was lucky, maybe helping to summon Wrynn from wherever she was located would earn me the gratitude of someone else on Keras’ level.
+
+She also was known to be a pre-attunement era sorcerer, so maybe she could teach us other magic...that’d be an exciting prospect.
+
+“Okay. I’ll get to work on another box soon.”
+
+I added it to my list. I had some other projects that I needed to work on first, but making a reasonable copy would be an interesting challenge for the future.
+
+***Day seven of the train ride.
+
+After Keras finished telling us his story for the day, I went and found Cecily in the room she was sharing with Sera. Sera was still spending time with the others, so Cecily was alone in there at the time.
+
+“Oh, uh, Corin. Hey.” She waved for me to come in, so I did. She shut the door behind me. “Please, sit. I’m sorry I don’t have any tea or anything to offer you.”
+
+I laughed. “We’re on a train, Cecily. I don’t expect you to play host.” “Sorry. It’s just what I’m used to.” She sat across from me andstraightened her skirt. “Is there something, ah, you wanted to talk about?” I nodded. “Batteries.”
+
+She blinked. “...Batteries?”
+
+“They’re devices for mana storage. I think Caelford is working on some non-magical variants for electrical devices, too, but I’m not as familiar with that variety.”
+
+Cecily snorted. “I know what batteries are, Corin. But mana batteries aren’t usually very useful at our attunement level. There’s too much mana lost when you try to take it out and move it somewhere else. They’re inefficient. And you can’t give them to someone else to recharge their mana, because of the impurity...oh. You can purify mana. You want to make purified mana batteries, so people can recharge their mana faster?”
+
+“Actually, no. That is a good idea, though, and maybe I should...” I shook my head. “Let’s put that on the list. You were right about one thing— my Arbiter attunement changes everything in regard to batteries.”
+
+She seemed to follow my line of thinking. “You can move mana very rapidly, too. Have you tried measuring your efficiency percentages?”
+
+I shook my head. “No. But I’d imagine it has to be pretty high.”
+
+“I concur.” Cecily reached up and adjusted her glasses. “We’ll get some actual measurements later. In the meantime, however, I believe I understand the core concept of your project. With batteries, built-in purification, and rapid mana movement, you could store enough mana to potentially charge larger runes than you could ordinarily charge with your mana pool alone. Is that the intent?”
+
+I was surprised and a little delighted that she could follow my logic so easily. “Right.”
+
+“And why would you need my help? You’re capable of making capacity runes on your own, and we have all the same mana types.”
+
+“A few things. My books are missing some smaller capacity rune increments, and I figured you might have copies of some other ones.”
+
+“Potentially...go on.”
+
+I nodded. “Ordinarily, two Enchanters at our level can’t work together to fill a rune because of a combination of control and speed problems, but in our case...”
+
+“Ah. You want me to fill a rune part way, consuming most of my mana pool, and then you will fill the rest. Effectively, we could fill up a capacity rune that contains both of our mana totals, rather than just yours. Understood.” She nodded agreeably.
+
+“R—right.” I paused, taking a breath. She was almost too fast at catching what I meant. “Beyond that, just having another Enchanter to check my work would be helpful. And if we can succeed with a basic battery, I have some ideas on how we could work together on some even larger projects.”
+
+“Such as?” She tilted her head, looking curious.
+
+“Using several small batteries to make larger batteries.”
+
+Her eyes widened for a moment. “That’s...possible, I think. We wouldn’t be able to go too large, though. If, for example, you wanted to make a Citrine-level battery, we’d have to be able to make a Citrine-level shell for the two of us to move the mana into. Then, we’d have to be able to move all the mana from the small batteries into the large one before the shell destabilized in order to properly complete the rune. Hold on, let me do some math.”
+
+We did some math.
+
+And then, with more than a little excitement, we got to work.
+
+***Our first mana battery was an easy enough project. From there, we made three more.
+
+After that? Bandits found the train on day nine.
+
+I already told you all about my side of the Blackstone Bandits attack.
+
+Now, let’s talk about what happened after that.
+
+***Day ten of the train ride.
+
+I decided that I’d underestimated how horrifically dangerous everyday life was going to be, and that I needed to pause my work on batteries in favor of something more immediately practical.
+
+Given that we seemed to have a pattern of running into threats that were well beyond what we could handle in a direct fight, I chose to focus on atime-honored tradition — running away.
+
+“Sera, can I get you to help me with a few enchantments?” She smirked. “Sure, but it’ll cost you.”
+
+I rolled my eyes. “Yeah, sure. You can have all my remaining silver.” I opened my coin purse and tipped it over. “All zero of it.”
+
+“Pfft. You’ll get more eventually.” Then she paused, raising an eyebrow at me. “Wait, how are you that broke? You definitely had more than that when we came on the train. Did those bandits shake you down or something?”
+
+I waved a hand. “No, nothing like that. I gave it all to Keras.” “Why?”
+
+“I guess ‘gave’ is kind of a misleading term.” I reached into my larger bag and pulled out the Jaden Box. “Retrieve blank sigil 1.”
+
+A silvery disc appeared in my hand. I handed it to Sera.
+
+“Oh! You had him do the silver purifying thing to make more sigils.” “Yep. Only had enough coins for ten of those and four of them arebatteries now.”
+
+Sera nodded, then slipped the silver disc into her pocket. “Okay, what did you need?”
+
+I folded my arms. “Hey, I wasn’t giving—”
+
+“Fine, fine.” She pulled the disc back out. “Gotta compensate me for my labor somehow, though.”
+
+“I make you things! Constantly!”
+
+Sera gave a slow nod. “Admittedly, yes. Very well, you drive a hard bargain, Corin. I will help you in exchange for you making me something at my request.”
+
+I rolled my eyes. “That’s what you wanted from the beginning, isn’t it?You have an enchantment you want in mind.”
+
+“Maybe, maybe not. You first — what are we working on?”
+
+I unpinned my shield sigil, then showed her a set of new engravings onit.
+
+“Am I supposed to recognize those?”
+
+“Sorry. They’re the same ones on my circlet. And, more frequentlyfound on—”
+
+“Jump bells. You want to upgrade our shield sigils with teleportation functions.”
+
+I nodded. “Very, very basic jump bells. From a practical standpoint, we’re better off using them as escape bells for the moment — the range is too short to be practical for anything else, and they won’t function outside of high mana density areas. I plan to upgrade them to full jump bell status later, but we don’t have the crystals or the mana to manage that for six sigils before we get to Caelford. And they’re still going to require setting up an anchor in advance, so the utility won’t be fantastic...but I think they’re a good precaution.”
+
+“Won’t adding a function like that exceed the capacity of these disc things? Don’t they already have three functions?”
+
+“They’re fine. Pure silver can handle a lot, and all of our current enchantments are low level. Eventually, if we want things like Sunstone or Citrine level versions of the sigils, I’m going to need to split the enchantments into multiple items or get something with an even higher capacity than silver...but for now, we’re okay.”
+
+Sera nodded. “Okay. I’ll help.” “What did you want in exchange?”
+
+She shrugged. “I’ll figure it out eventually.”
+
+“You want an open-ended favor? That’s kind of dubious, Sera.”
+
+She fluttered her eyelashes at me. “Don’t you trust your dear, sweet sister, Corin?”
+
+“You’re obnoxious.”
+
+She snorted. “Fine. You win. I want you to try to build something that lets me connect to Ceris.”
+
+“Connect?” I blinked. “You mean like my mana strings?” She shook her head. “No, more like one of my contracts.” “That’s...I don’t even know if that’s possible.”
+
+“I think it is. You actually gave me the idea when we were talking about null contracts earlier. I was thinking about how in Keras’ story, he made a bond with a weapon — I think that’s probably very similar to how Summoner contracts work. But Keras isn’t a Summoner. The sword initiated the contract, not him.”
+
+I pondered that. “Hm. Dawnbringer is an intelligent weapon, that’s a little different from just an ordinary magical item.”
+
+“Sure, but she’d still have to have a spell or function of some kind for initiating a bond, right?”
+
+“I see where you’re going with that, but even if I figured out how to emulate that function on a separate item, I don’t know how it would actually work.”
+
+She patted me on the arm. “I’m sure you’ll figure it out. Is it a deal or not?”
+
+“Fine, fine. It’s a deal.”
+
+There’d never really been any question about if I’d accept. Sera was mostly teasing me with the whole thing...and more importantly, she’d given me an idea for a line of research that I wanted to do anyway.
+
+After all, she wasn’t the only one with a powerful magical sword that might be able to form a bond with a wielder.
+
+***I visited Keras after that. “Hey. Question for you.”
+
+He narrowed his eyes. “Please don’t tell me it’s another money-making scheme.”
+
+“It’s not this time. Probably. I mean, if I could get it to work, there’s definitely potential for...”
+
+Keras sighed. “What’s the question?”
+
+“Bonding items.” I gestured at the sword at his hip. I was curious if that was the Dominion Breaker, one of the swords he’d mentioned in his story. It didn’t look fancy, but I also knew he deliberately shapeshifted his weapons to keep their identities hidden. “Sera wanted me to figure out if there’s a way she could make a contract with an item, similar to what you did with Bright Reflection.”
+
+“Mm. Not in the same way. I wouldn’t have been able to learn how to create those bonds without certain abilities I was born with. I think it’d be possible to make a spell that does the same, but I don’t know how to construct it.” He paused, thinking. “The foundation of the connections I make is spirit sorcery. I can’t be certain, but I suspect Summoners making contracts work the same way, just for creatures rather than objects.”
+
+“I’ve never heard of Summoners using spirit magic...but you may be right. I’ve been thinking about this for a while. Attunements seem to have some functions that aren’t related to the magic types that they give us access to. I guess it’s possible that things like contracts don’t actually relate to air and transference mana.”
+
+“Right.” Keras nodded. “There are those tertiary dominions that only high level attuned get access to, shrouds, and all sorts of other functions that aren’t immediately available to you. Your attunements are pretty complicated. I suppose if you knew more about how the attunements themselves worked, you might be able to do more with that.”
+
+That line of thinking opened up a lot of options in my mind.
+
+I’d already been thinking of attunements as potentially being constructed from a bunch of different enchantments, some of which were activated at specific power thresholds.
+
+Enchantments could be changed. And, even without changing an enchantment, things like my mana threads could interact with existing enchantments by feeding them mana or drawing mana out of them.
+
+Could I do that with an attunement?The idea sounded colossally dangerous, but if I could make it work...could I unlock features of an attunement early?Was that similar to what Katashi had done to Mara’s attunement? The possibilities were extremely exciting.
+
+...But also off-topic.
+
+I took a moment to shake my head and re-focus. I definitely wanted to get into reverse engineering how attunements actually worked, but that wasn’t what Sera had asked for. “Okay. Let’s say, somehow, we got access to spirit magic. What would we need to do from there?”
+
+“I don’t have a full understanding of the process, sorry.” Keras looked a little embarrassed at that. “I use a lot of my abilities intuitively, rather than learning the theory behind them. In this case, the basics are that I create a connection by offering a piece of my spirit to the object, which then gives me a piece of its spirit in return if it chooses to accept. If the object doesn’t have a spirit, I’m basically just sticking a piece of my spirit in it instead. In either case, if that process works, we’re sharing spirit-bits and using those as a medium by which to send mana to each other. By gradually transferring mana back and forth over time, we gradually acquire abilities from each other.”
+
+In spite of Keras’ apologetic tone, that was a pretty good explanation. It was lacking some important details, however, like how to utilize the spirit- bits to actually form the connection. I didn’t think just jamming a piece of spirit into something by itself would serve that function.
+
+Basically, there had to be some kind of enchantment or spell effect that served to allow the spirit pieces to work as a medium for transferring mana. “That’s enough for me to do some research, at least. Maybe I can do some digging on how Summoner and Soulblade contracts work and go from there.”
+
+He nodded hesitantly. “Yeah, maybe that’ll work. Just...be careful about what you try to connect with. You were thinking about Selys-Lyann, I take it?”
+
+“Sort of. Sera mentioned something about bonding Ceris. I’m certainly interested in learning more about bonding with Selys-Lyann, though. If the bond would improve my control over the sword and feed me new types of mana, I think that would be a great way to improve my skills.”
+
+“Maybe. But that sword...it’s unique. Don’t try to bond with it without having me or Derek around. There are risks.”
+
+I raised an eyebrow. “Did you figure something out?”
+
+“I’m not certain. But keep in mind that Lars told you that it’s cursed, and Professor Vellum couldn’t identify one of the runes on it.”
+
+I blinked. “I’m surprised you remember that.”
+
+“I keep good track of swords.” He grinned. “And I have pretty good instincts for them. That sword isn’t complete. That story about how it was broken? I think someone put it back together without all the pieces.”
+
+That explained some things, actually. “I think you’re right. You mentioned that rune that Vellum couldn’t identify — it’s not actually that weird or rare at all. It’s just a standard weapon durability rune.”
+
+Keras frowned. “Seems odd that she wouldn’t recognize that.”
+
+“I think I know why.” I drew the sword out just a little, gesturing to the rune in question. “It only shows up in the latest edition of my weapon enchanting books. I think it was discovered just recently, and Vellum doesn’t pay a lot of attention to weapon enchanting. She’s more interested in miscellaneous items and alchemy.”
+
+“...Which means that enchantment might not be a part of the original item. Either that, or it’s an older rune that just wasn’t in your books until recently. Can I see the sword for a moment?”
+
+I nodded. It wasn’t like Keras was going to steal it from me. I drew Selys-Lyann the rest of the way, then handed it to him.
+
+He accepted the sword with a look of reverence, then turned it over in his hands. “Thought so.” He nodded to the sword. “This isn’t the sword’s original blade at all. I can feel where the new blade was connected to the hilt.”
+
+“What would be the point of that?” I asked. “Is the hilt even enchanted?”
+
+“No,” he shook his head. “But the runes on the blade are drawing from the weapon’s power source, which is in the pommel. It’s designed almost identically to many of the Sacred Swords, in fact. Most of them have crystals in the hilt and pommel that supply mana for their abilities.”
+
+That answered a lot of questions, but raised more of them. “Vellum mentioned that sword having a spirit rune. Is that part of the new portion?”
+
+“The rune is, but the spirit itself isn’t. I can feel it in there — it resides in the pommel jewel.” He carefully pressed a finger against the blue gemstone that served as a pommel for the saber. “I think Vellum was right— it’s not actually sapient. It’s...something, but I don’t feel any conscious thought.”
+
+“Could you make it sapient?”
+
+Keras froze. “...Why would you want that?”
+
+“I mean, couldn’t you make it more like Dawnbringer? That would facilitate—”
+
+He flipped the sword over, handing it back to me. “No. Absolutely not.” “Meaning you can’t, or...?”
+
+“Meaning I won’t. Please don’t ask again.” There was a firmness in his tone that made it clear he would not tolerate any argument on the subject.
+
+“Oh...okay. Uh, so, spirit. Does that make it easier to establish a bond?” “No. Or, well, maybe.” He took a deep breath, seemingly trying to calmhimself down in the aftermath to my last question. “I could manage it either way, but for something resembling a Summoner contract it would probably be easier if it already has a spirit. I might be able to help you with it at some point, but…not today. And Derek might be a better choice. He’ll be more familiar with Kaldwyn-style spirit bonding.”
+
+From his tone, I could sense that I’d soured the mood significantly. “I don’t think I’ll be seeing Derek for a while.” I re-sheathed the sword. “If it’s an attunement thing, maybe Anabelle Farren could help.”
+
+His expression darkened further. “She probably could.”
+
+“You’ve met her, then? You mentioned you were on your way to meet her at one point in your story, but you haven’t gotten to meeting her yet.”
+
+“Sorry, I won’t get to that part before we get to Caelford. I was hoping to tell you about it. It’s relevant for this trip.” He took another deep breath. “I won’t be going with you when you go to meet her. If I did, there would be consequences.”
+
+“Why?”
+
+“You remember that artificial attunement that Echion had?”
+
+I nodded. “Of course. It’s based on god beasts, rather than people.” “That…might only be part of the picture.” Keras winced. “I never got tosee him use his abilities, but I could sense it. I think a part of his power is based on me.”
+
+There was a brief pause. “...What?”
+
+“When I met with Farren, she asked to run some tests...tests on both Reika and me. I thought she was trying to help me at the time. I was still getting a grasp on what exactly my abilities were, and trying to figure out what would be safe. Like, for example, if I’d be compatible with human attunements.” Keras drew in a breath. “She gave me some useful information. Some help with other personal matters, too.”
+
+“Like Dawnbringer?”
+
+He winced. “We’ll get back to that. I...don’t want to talk about her right now. The important part is I gave Farren time to study me...and I think she used that knowledge for something awful.”
+
+“That’s...” I took a breath. “Are you sure?”
+
+“No. I can’t be. And I don’t want to be. If I find out that she actually used me as a foundation for experiments on children...well, let’s just say that I’d probably be unwelcome in another country in the aftermath.”
+
+“And...why is that stopping you? I mean, not to be rude, but from your stories, it seems like you’d be the type to charge in there and start swinging if you thought someone was hurting kids in general, regardless of any involvement on your part.”
+
+“Oh, there will come a time for that reckoning.” Flecks of silver shined in Keras’ eyes for just an instant, then they were gone. “But right now, I have another goal. One I’ve put off for far too long. There’s someone who has been hurting children a lot longer, and on a much larger scale. And she and I are long overdue for a talk.”
+
+“You’re...going to try to reach Selys, then? From the Tiger Spire?”
+
+“I’m intending to get as high as I can. And if and when the visages get in my way this time.” Keras smiled, folding his hands together. “I don’t intend to play nice.”
+
+That was...a little terrifying, actually, and I really hoped that he wouldn’t end up leveling the entire spire if he decided to start a fight.
+
+I could worry about that another time, though. I needed to focus on the main topic. “So, Farren...you think she’s doing unethical experiments?”
+
+“Her lab certainly is, even if she isn’t personally. The most important thing for you to know in advance is that she’ll come across as friendly, but eccentric. I suspect she uses that as a mask to keep you from guessing at what she’s really thinking. You absolutely cannot trust her.”
+
+I gave him a slow nod.
+
+Oh, good, another powerful figure I have to immediately distrust. Such an excellent start to my vacation.
+
+I didn’t say that aloud, of course. Keras looked like he had enough on his mind without dealing with my complaints. “Any specific reasons I can’t trust her?”
+
+“Beyond the experiments, it’s mostly a feeling. I only met her briefly, but when I did...she seemed off, somehow. Like I was talking to someone who wasn’t really there.”
+
+As someone who has been accused of not listening to conversations on a number of occasions, I tried not to be too offended by that. I assumed Keras meant it in a more magical sense. “Meaning you might have met a projection, or an illusion?”
+
+Keras frowned. “Maybe. Something like that. I don’t know. I didn’t meet her for long, and...my memories of our conversations are vague. Vaguer than they should be. Almost like what your Judgments are supposed to do to the mind, or the thing your stalker friend does to avoid detection.”
+
+“Stalker...friend.” I sighed. “Jin is not a Stalker, Keras. That’s an entirely different attunement.”
+
+“That’s not the way I meant that term.”
+
+I was afraid he’d say that. “...He’s...just.  ”
+
+“Definitely stalking you. Or, at a minimum, just obsessed with you. I’ve had pretty unhealthy relationships over the years. I won’t tell you to stopbeing friends with him, but if your stories about him are accurate, his behavior isn’t healthy.”
+
+I stood. “I’m going to go ahead and flee from this conversation now.
+
+Have a good day, Keras.”
+
+Keras laughed. “That’s fine. It’s okay to run. Just don’t forget what I said.”
+
+I did a little bit of reading about Summoner and Soulblade contracts after escaping the conversation, but I didn’t discover enough to figure out a way to create one with items. Some bits and pieces of theory might have been useful, but Keras was right — I needed to talk to an expert.
+
+Annabelle Farren would count as an expert, of course. She seemed to be at the center of all of the things I was looking for. That said, if Keras was right, I was going to have to be very careful about what I offered her in exchange for all the knowledge I so desperately desired.
+
+***Over the next few days, we listened to more of Keras’ story. During the evenings, I continued to work on my projects.
+
+Sera helped me set up the teleportation functions for our shield sigils, as requested. Both Sera and Cecily helped me make the anchors, which sped up the process.
+
+It only took a few days to get the whole set of them upgraded. I went through the whole process of making one for Cecily as well, since she didn’t have one of mine to start with.
+
+I spent a little more time studying the Jaden Box and trying to figure out how to reverse engineer it, but I just didn’t have the right resources on- hand. I hoped that I could discover more about it in Caelford, or just more about items with extra dimensional storage functions in general.
+
+We all spent a little bit of time each day exercising.
+
+As I’d expected, the mana regeneration functions helped with our downtime a little bit, but not much. Draining the stored mana out of the bracers and exercising again immediately was an awful strain on the body, so the only real benefit was the gradual mana regeneration function.
+
+That let us take shorter breaks between exercise sessions, but since our bodies couldn’t actually handle any extra strain, it basically just meant we could get our daily exercise done in a slightly shorter period of time. That probably improved our average exercise amounts a bit, but I wasn’t exactlyrecording how much we exercised each day before and after, so I have no idea how much.
+
+And, since I wasn’t wearing the mana watch anymore, I didn’t have an easy way of checking how fast we were improving.
+
+I had...mixed feelings about that.
+
+The mana watch was undoubtedly useful, but my obsession with it was problematic. I restrained my instinct to ask Cecily to check my mana throughout the trip, although it got progressively harder as time went on.
+
+Throughout the trip, people asked me various questions about the story that I was telling them. Most of them were small clarifications, nothing particularly important. But toward the end of the journey, Patrick asked one that was valuable enough that I think I should mention it.
+
+***“Hey, Corin. During that story you were telling — which was super exciting, by the way — you mentioned that you healed some of the bones in my chest after the winter ball?”
+
+I winced. That had...not been a great idea. “Uh, yeah. Sorry about that. I really shouldn’t have been trying to use healing magic that I didn’t understand properly. I could have hurt you very badly.”
+
+I could have killed him, in fact, but I didn’t want to reiterate that more than I needed to.
+
+“No, no, don’t worry! I wasn’t complaining. You were trying to save my life. In fact, you still might have, with just the regeneration spells. I don’t know if I would have pulled through without them.”
+
+That was a generous interpretation, but I’d take what I could get. “Maybe, but I won’t be playing with direct healing again until I get some real lessons or at least study some more. Sorry.”
+
+“It’s okay, that’s not why I was bringing it up. It was just that you said you were replacing some of my cartilage with bone by accident...but shouldn’t that be impossible? I thought only Menders could heal bones?”
+
+“Ah.” I nodded, understanding where he was going with that line of thought. “Yeah, that’s what they told us in class. It’s not accurate. It’s an oversimplification.”
+
+Patrick frowned. “What do you mean?”
+
+“So, in class, they told us that there are unique functions for each attunement, right?” Patrick nodded, and I kept talking. “That’s pretty muchcompletely false.” “What? Seriously?”
+
+“Yeah.” I pointed at his hand. “Your Elementalist mark, for example. They told us the unique function of it is to make lightning, right? But a Summoner with a contract with a lightning monster could also make lightning. Or a Soulblade with a similar contract. There are work arounds.”
+
+“I guess that’s fair, but contracts with monsters are kind of an exception, aren’t they? They’re drawing their power from someone else.”
+
+I shrugged a shoulder. “Maybe, but I’m willing to bet that someone with two attunements — like say, an Edrian Pyromancer attunement for fire and something else with air magic, could probably make lightning. It’d just take more effort, since they’d have to figure out how to intermix the mana types manually. I don’t actually know how hard that would be, but I think it would be doable.”
+
+Patrick slumped his shoulders. “Oh. I guess my attunement isn’t as good as I thought, then.”
+
+I waved my hands quickly in alarm. “No, no. Not what I meant. It’s not an Elementalist issue. As far as I can tell, all of the unique functions of attunements can be duplicated through other means.”
+
+“I can see how mixing air and fire might be able to let someone use lightning, but what about something like your Enchanter attunement? Isn’t that more, well, actually unique?”
+
+I shook my head. “Not really. I don’t exactly know how enchanting without my attunement would work — I guess I should look into that — but it’s clear that some people from Keras’ homeland can enchant items, and they don’t have any attunements at all. And Soulblades are basically doing something comparable to enchanting, too, just through slightly different means. They’re basically like a mix between an Enchanter and a Summoner.”
+
+“Hm.” Patrick scratched at his chin. He must have picked up that unfortunate habit from me. “Okay, I can understand all that. But doesn’t replacing bone require stone mana?”
+
+“Creating bones outright does. That’s probably how Sheridan makes those giant bone spears, for example. But that’s a good example — I think they could make those even without their Mender attunement. Whatever their Necromancer attunement does seems to be even better at interactingwith bone than a Mender.” I paused, then realized I hadn’t actually answered the initial question. “I wasn’t making bone. I was using life mana to stimulate your body to grow bone. That’s much slower than the traditional Mender route, which is probably why they call Menders ‘unique’ for their ability to conjure bone outright. The human body is capable of making any kind of material that it already contains, and life magic can be used to give it instructions. I learned the basics of that while studying my books on healing magic, but I did it wrong.”
+
+“Got it. But that means that if you studied properly, you could learn to mend bones correctly?”
+
+I shrugged a shoulder. “Yeah. But learning all the ins and outs of that would take years. I’d have to have a much better understanding of human physiology, otherwise I’m just going to end up hurting someone again. The regeneration spells are safer, since they just accelerate existing healing. I’m going to start practicing stronger regeneration magic, rather than experimenting with direct healing again.”
+
+“But what if one of us is too badly injured for regeneration to work?”
+
+I grimaced, thinking of Tristan’s eye. I’d given him my phoenix sigil in hopes that the regeneration might help him, but I didn’t think it would completely fix the damage. It took exceptionally powerful magic to heal things that wouldn’t heal naturally over time, and severe eye damage was generally on that list. “We do need better emergency measures,” I admitted. “The healing potions I purchased were good for that. They’re much stronger than my regeneration spells. But now I’m out.” I frowned. “I’ll see if I can figure out how to make some.”
+
+“Cecily might know. I think she took the alchemy elective.”
+
+That was good to know. “Okay. I’ll see about asking her, then.” I looked away for a moment, feeling a pang of shame for my failure to heal him properly. “...Thanks for dealing with me, Patrick.”
+
+“You’re my friend, Corin. It’s not a chore. Are you forgetting that you helped make me an awesome magic sword?”
+
+I felt a hint of a smile. “I guess. I just don’t think that’s a fair trade for putting you in harm’s way all the time. You never would have gotten injured if you weren’t with me at the ball.”
+
+“If you’re feeling bad about putting me into a position where I could help people, you need to wake up, Corin. Reflecting that blast from Mizuchiwith the sword you and Keras made? That was the best thing I’ve done in my entire life. I helped save one of our friends, Corin. It doesn’t matter if I got hurt in the process. For just one moment, I got to feel like an actual hero.” He leaned a little closer, then paused. “I was going to hug you, but I remembered that you’re not big on that.”
+
+I smiled. “Thanks for remembering. I’d still rather not have a hug right now, but I’ll take the sentiment into consideration.” I took a breath. “I’m glad you got to be a hero, Patrick.”
+
+“Me too. And given the kind of trouble we tend to get into? I think I’m just getting started.”
+
+I had a feeling he was right, but the tone of my thoughts were a little different.
+
+We’d have more chances at heroism to be certain, but I wasn’t the least bit confident we’d be lucky enough to survive all of them in the future.
+
+If I wanted to make sure that my friends were safe, I had to work harder, study harder, and learn more.
+
+I couldn’t let myself make a mistake like I’d made with healing Patrick again.
+
+***After that chat, I spent a little bit of time researching healing magic. I only had one book on the subject, though, and it was super dry. Most of it focused on things like human anatomy, and while I was pretty good at memorizing the terminology in there, I found it excruciatingly boring.
+
+Still, if a bit of reading made it more likely I could save lives in the future, I’d stomach it to the best of my ability.
+
+I spent the last days of the trip reading that book and working on one final set of enchanted items. I wanted to get more batteries made, but I’d run out of materials for them — the last remaining silver discs that Keras had made had served as anchors for our upgraded shield sigil teleportation functions.
+
+I borrowed the rest of Patrick’s money to get two more silver discs made. I planned to save one of the two for any rare needs for on-the-spot enchanting. The last went to one of my patented (although not yet literally patented) Cadence-brand special enchanting projects.
+
+There were a number of existing tools that were used for creating enchanted items, and most of them could be improved further. I used anetching rod to make runes, for example. That required manually cutting each rune, which was both error prone and time consuming.
+
+I likened that process to writing with a pen — it was reliable and easy to learn, but imperfect.
+
+After seeing a typewriter in the restricted section of the Divinatory, I’d realized that the technology wasn’t just usable for the written word. Something analogous could be used to make runes more quickly and without error.
+
+I was willing to bet that Caelford had already invented a rune typewriter (or at least a rune printing press), but it was worth looking into whether or not I could make one myself. Or, at the very least, obtain an existing one.
+
+I decided to start with something simpler; a rune stamp that always made the same mark. After a few false starts, I managed to make a stamp that used fire mana to melt a rune shape into a metal object. Unfortunately, due to variable melting points, it wasn’t going to work on every type of metal we used, and if I pressed the stamp against the item for too long, it would melt too much and make the rune unrecognizable.
+
+...There was clearly some room for improvement, but I enjoyed the experiment, and it gave me some ideas for the future.
+
+There were tons of other projects I wanted to work on. Improving my enchanting efficiency was important, and the stamp concept was just a first step.
+
+I also considered making more devices that expelled additional mana into the air, similar to the bracer I’d made Sera for improving her summons, but ultimately, I decided those served the same function as the batteries but with less efficiency.
+
+I still needed to make more message items, like Sera had asked for, but I hadn’t gotten around to that. There were too many things that felt like higher long-term priorities.
+
+My biggest goals involved finding ways to increase my mana more quickly. Emulating Summoner contracts like I’d discussed with Sera and making enhancement elixirs were the two most likely candidates for that.
+
+My third was figuring out a way to use my mana repeatedly without the risk of scarring so I’d be able to both build items faster and train more rapidly. I spent some time trying to study more about how mana scarring worked, and I got a little bit better at understanding how mana flowedthrough the body in general, but I didn’t make any breakthroughs. I wished Sheridan was around so I could ask them about it, but I didn’t expect to see them until I got back to Valia.
+
+And with that, I’d run out of time.
+
+Two weeks after our journey had started, our train pulled into the city of Westbridge.
+
+We’d arrived in Caelford.
+

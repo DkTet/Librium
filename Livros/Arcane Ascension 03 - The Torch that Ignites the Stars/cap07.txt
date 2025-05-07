@@ -1,0 +1,566 @@
+CHAPTER VI – ABOUT ARBITERS
+
+Since I have a mental attunement, you might think that I’d be naturally disposed toward investigation. In some respects, that’s true. I love reading books, learning new spells, and experimenting with enchantments.
+
+My trouble begins as soon as other people are involved.
+
+If I was Sera, maybe I could have subtly manipulated people, teasing secrets out of them gradually over time. If I was Keras, I probably would have just walked up to Farren directly and demanded answers. Maybe punched a wall or something, too. If I was Jin, I probably could have just walked straight in and taken relevant documents without any of them noticing.
+
+But I wasn’t any of those people. And while I was pretty good at pretending to be the noble heir to a house when dealing with specific social circles, playing that particular role wasn’t of any use in this situation.
+
+So, I fell back on doing what I did best: avoiding people entirely.
+
+Kahi was still responsible for my tour, but over the last few days, she’d given me more latitude to wander about the facility as long as I didn’t interfere with anyone’s work. As I mentioned, most of that time was spent studying sub-glyphs, which seemed perfectly fine — it was reasonable preparation work for a future career at Farren Labs.
+
+When I felt sufficiently clear from direct observation, I turned my research toward a different subject that still was easily justified — tools used in the process of creating artificial attunements. There weren’t any full books on the subject, but they had plenty of documents for me to read through, including some that were primers intended for new Enchanters.
+
+I took a stack of them and sat down in the cafeteria to read. Most of them contained information I was already familiar with, but occasionally, I’d come across something interesting. For example, I found one on the subject of mana purification that was potentially relevant.
+
+When creating artificial attunement vials, we must first ensure that both the mana in the primer solution and applicator are properly purified. There are three authorized procedures for this process.
+
+The most common procedure, which is employed by most of our Enchanters, is the process of purifying the mana through the use of a distillery. This can be done with the primer solution, but not the applicator, since the applicator’s mana is never in a liquid state. (Liquefying the mana and then moving it to the primer afterward will add a mana signature, invalidating the process.)For this reason, low-level Enchanters can handle the primer process, but not the applicator.
+
+Purifying an applicator requires a second process, referred to in this document as Mana Signature Erasure. This process utilizes light mana, which is available at Citrine-level in the Enchanter attunement, to purify the mana in the Enchanter’s body before transferring it into the applicator. This process is not discussed in this document; see the Mana Signature Erasure document for more details on this subject.
+
+Finally, the Arbiter attunement is known for automatically purifying the mana in the Arbiter’s body. For this reason, Arbiters who also possess an Enchanter attunement are able to create primers and applicators without any additional steps being needed, provided they have sufficient understanding of the process and enough mana. Unfortunately, Arbiters are rare, and Arbiters paired with Enchanter attunements are even harder to find.
+
+Due to early incidents of mana poisoning occurring from improperly purified primers and applicators, an early member of the project developed a process — known as the Constantine Process — for verifying the purity of mana.
+
+The Constantine Process requires a three-stage check of mana purity for the primer and applicator before distribution. The first step is to use a Seal Verifier to determine that the bottle and applicator are both properly sealed, preventing any mana from leaking into the primer or applicator from the environment.
+
+The second step is to manually use a Mana Structure Comparison spell to compare the primer and applicator’s mana signature to a stored, Arbiter- purified sample. If this is conducted properly, the mana signatures of the two should match, since they should both be pure.
+
+The third step is a final check with a Signature Verifier to test the mana signature of the primer and applicator. This is a redundant procedure withthe second step due to the possibility that the Arbiter-purified sample could have been contaminated at some point in time.
+
+Each step is capable of detecting distinct forms of impurities, and thus, they are all necessary for safety. We are gradually working toward eliminating the first two steps, but currently, the Signature Verifier tool is not sensitive enough to detect some of the differences a Mana Comparison spell can.
+
+I set the primer down. I’d found what I was looking for, or at least a lead. Several, really.
+
+If the Constantine Process was named after Warren Constantine, it was very likely that he had designed — and possibly personally Enchanted — some of the tools that were being used.
+
+Perhaps more importantly, they had Arbiter-purified samples in storage somewhere. Those samples could have come from a different Arbiter in theory, but given how rare the Enchanter and Arbiter combination was, I thought there were good odds that at least some of the samples were from Constantine himself.
+
+I scanned through the remaining documents for anything relevant, but I didn’t find any leads that were as solid as that one. I returned the documents. The next step of the process, unfortunately, would require talking to people.
+
+I debated who to talk to. Kahi was ostensibly responsible for me and the obvious option, but she reported directly to Farren and seemed like the type to be paying close attention to everything I was doing. If I behaved suspiciously in the slightest, she’d probably notice. And, frankly speaking, I’ve never been great at being sneaky or subtle.
+
+It was very plausible she was monitoring me regardless of where I was or what I was doing, but I didn’t want to be hyper-paranoid about that. I didn’t really have any way to work around it without behaving more suspiciously. And if I was already being watched, going straight to her still didn’t feel advantageous.
+
+My options weren’t particularly appealing, either.
+
+Nakht was around, but terrifying, so I avoided even considering him as an option.
+
+I could have just gone and asked Farren for information directly, but I’d discounted that at the start of the process. I knew she’d had a fight with Constantine before he vanished. I still intended to ask her for teaching (whatever that meant), since she’d offered it, but I wasn’t going to involve her in my Constantine investigation when she was likely directly involved in his disappearance.
+
+That left Ashon. He was, at once, both the best and the worst option.
+
+I’d been given instructions to go to him about Enchanting-related matters, but he also was way too interested in my Arbiter attunement. If he somehow got a chance to analyze it without my noticing, which wouldn’t be difficult, I had to hope my pending patent would be enough to keep me valuable to Farren Labs.
+
+So, with that in mind, I went to find him.
+
+***“Ah. Arbiter. Hand?” He gestured at my glove. “No, Ashon. I haven’t accepted a job offer yet.” His expression sunk. “But…but why?”
+
+“I haven’t even finished my second year at school yet, you know. And I don’t live here.”
+
+He scoffed. “School? What’s that going to do for you? And I’m sure Farren would buy you a place here if you need one. You’re an Arbiter, you know.”
+
+“I had noticed that last part, thank you.” I sighed. “You have a point about school having minimal value in terms of my Enchanting career, but I have other reasons to be there. Friends…family.”
+
+“Oh. I…see.” He looked noticeably disappointed. I tried not let his feelings on the matter sway me too much. “Fine, then. Did you need something?”
+
+“Actually, yes. I was hoping you could quickly show me the whole process of making an attunement primer, applicator, and all that. I might be doing it someday, even if I decide not to take the job right now, and I’d like get a visual look at what it entails.”
+
+“Hm.” He frowned. “Sounds boring, but I guess I’ll do it if it’ll make you stay.”
+
+“It…won’t necessarily make me stay. But it might help the odds a little?”
+
+He seemed to consider that, then dropped the tool he was holding unceremoniously and stood up from his chair. The tool slid precariously toward the edge of the table, but stopped before falling this time. “Okay. Let’s make an attunement.”
+
+***Ashon led me to a room that looked like an alchemical laboratory. This was because it was, in fact, an alchemical laboratory — just a very specialized one.
+
+“The purification room.” Ashon waved a hand at the room from the entrance. I saw about a dozen people sitting at stations with what I recognized to be mana distilleries. “You know how it works?”
+
+“Yeah, sure, the mana has to be purified before it—”
+
+“Great, we’re skipping this room, then.” He shut the door. “It’s boring and you don’t need to do it.”
+
+I frowned. It might have been nice to look at the tools there to see if any of them could be traced to Constantine, but admittedly, his equipment was more likely to be at later stages in the process.
+
+“This way.” Ashon led me back to a hall, around a corner, and to another room. “The applicator foundry. More interesting.” He opened the door.
+
+Inside, I saw a bunch of people sitting at desks with what looked like fairly standard enchanting equipment, with a couple exceptions.
+
+“Here, come on. We’ll grab a blank.” Ashon led me through the room, ignored everyone present, and opened a cabinet labeled “Do Not Open Without Express Permission from Management”.
+
+Once it was open, I could see the contents. Empty glass vials, rune- etched tools, and the most important part — thin, silvery metal discs.
+
+Blank applicators.
+
+Ashon grabbed one of those, as well as handful of tools. He didn’t bother explaining any of them, but a glance at the runes on each told me that one of them was the Signature Verifier device I was looking for.
+
+I knew the chances that Constantine had made this specific device personally were slim, but if I had access to the cabinet, maybe one of them…“Sit.” Ashon pointed me toward a nearby chair, dropping the tools unceremoniously on the table.
+
+I sat down as instructed. “Don’t we need purified liquid mana first?”
+
+Ashon blinked at me. “What, did you literally want to make a whole attunement right now? Hah. Not even I’m going to get away with doing that unauthorized. I’m going to show you the good parts, but you don’t get a real attunement. Respect the attempt, though.”
+
+I sighed. “Okay. That’s fine. So, if we actually had the fluid, then next…”
+
+Ashon slid the metal disc in front of me, then nudged a specific tool my way. It looked like an etching rod, but more complicated — it had a dozen runes on each side.
+
+“Know how to use this?” He asked. “Uh, no, not this one.”
+
+“Ugh. I guess I need to explain.” Ashon groaned. “Okay. This is, like, how you make attunements. It’s an attunement making thingy.”
+
+“Is…that the technical name?”
+
+“I don’t know. It probably doesn’t have one. If it does, I’m sure it’s terrible. Anyway, the attunement making thingy is how you make runes with embedded sub-glyphs, but you need to set it up — oh. I forgot a thing. Hold on.”
+
+He walked back to the cabinet, frowning.
+
+In that moment of distraction, I cast my newest spell — Spirit Tracking Analytical Arrow.
+
+A gleaming arrow appeared in my vision with a number below it: 0.1. A distance, in miles, from the target.
+
+Too close. It’s probably someone working here.
+
+I dismissed the spell, then quickly picked up the Signature Verifier and repeated the process.
+
+Another arrow appeared, with a 0.2 below it. The same problem. Unless Warren Constantine was still working for Farren Labs — a possibility, but an unlikely one — this wasn’t him, either.
+
+I suppose he could be…hiding in their basement, or something. Or here in disguise? Both unlikely.
+
+I set the device down just before Ashon returned with a small crystal. “What’s that?” I asked.
+
+“Sub-glyph instruction crystal. You insert it into the attunement making thingy. Here, press this rune.”
+
+He pushed the rune for me. There was a ‘click’ and a compartment opened in the device, which he slipped the crystal into.
+
+“So, wait. This crystal has all the instructions for the attunement? The actual functions of the attunement are…imbued in this crystal somehow, then, what, moved into the applicator through this device?”
+
+Ashon shrugged. “Something like that.”
+
+“How do the appropriate sub-glyphs get into the crystal?”
+
+“Oh, for that, you—” Ashon stopped as someone put a hand on his shoulder.
+
+Nakht.
+
+Ashon turned slowly. As he processed who was touching him, his expression dropped. “Uh, hi Nakht. I was just…”
+
+“Master Cadence is not authorized to have this much detail on the attunement making process just yet, Ashon. You can stop right there.” Nakht’s hand tightened around Ashon’s shoulder.
+
+Ashon winced, but didn’t recoil. “U—understood. I’ll just, uh, go put these things back.”
+
+“Do that. Promptly. And do not make me remind you about our policies again.”
+
+“Right, right. Thanks.”
+
+Nakht released his hand. Ashon shuddered as Nakht turned away.
+
+“Well, that was, uh, terrifying. You can put the things back. I need to, uh, go use the bathroom.”
+
+Ashon fled the area.
+
+I briefly stared at the items left on the table.
+
+There were workers around, and Nakht was probably still observing me, otherwise I would have been sorely tempted to pocket one.
+
+Instead, I simply picked up the items and put them back in the cabinet… But not before running my hand over several other items and doing afew quick tests.
+
+Spirit Tracking Analytical Arrow.
+
+As a Mind-Marked attuned, I could cast spells on myself silently and near-instantly. It wasn’t my usual strategy, but in this case, it proved very useful.
+
+It would have been more useful if I’d actually found anything leading to Constantine.
+
+Several spirit trails existed, but all within the building. I did find a couple older-looking items that didn’t link to anyone nearby, but those were, frustratingly enough, outside of my spell’s range.
+
+A dead-end, at least for now.
+
+I’d known that was likely, since my range with the spell was so short, but I had to try.
+
+That led to a somewhat more desperate measure.
+
+With Ashon gone, I was alone to my own devices, at least for the moment.
+
+So, I headed straight to Annabelle Farren’s office. It was time for a few questions.
+
+***The door was already open when I approached. “Hello, Corin.”
+
+It took me a moment to find the source of the voice. Annabelle Farren was sitting on top of a bookshelf nearby on the right side of the room, drinking some kind of pale green liquid from a wine glass.
+
+She set the glass down, and it floated seemingly on its own to sit down on top of her desk near her documents. I would have been impressed if it hadn’t pitched over, spilling a few remaining drops of fluid, on the nearby papers.
+
+Farren didn’t seem to notice.
+
+She hopped down from the bookshelf, smiling, and clapped her hands together. “Here for your lessons?”
+
+“Uh, sort of? I was never really clear on what you were offering to teach me.”
+
+“Oh.” She blinked. “Did I not explain that yet? Hm. Unusual. Well, attunements. Yours, specifically, and maybe others. Probably others, but mostly yours. The Arbiter one, I mean.”
+
+I gave her a surprised look. “Are you an Arbiter yourself, then?”
+
+“Oh, praise me, no. Not technically? Anyway, mostly no. But I know a lot about them. Much more than you do. I’m going to teach you a few things. Then you’re going to work for me.”
+
+“I’m…not so sure about that last part.”
+
+She narrowed her eyes at me. “Have you…not agreed yet? Strange. Very well, then. We’ll get to that. Problems can be resolved. Everything isstill in order.”
+
+“Right. Should I sit, maybe?”
+
+“I suppose.” She gestured at a chair, which was pitched over. I picked it up and sat down.
+
+There was a chair on the other side of the table, but she didn’t bother to walk over to it. She stood near the bookshelf, looking momentarily absent, then shook her head. “Right. Arbiter attunement. You know some things. You need to know other things.” She nodded to herself. “Important things.”
+
+“Such as…?”
+
+“Why we need you here.” She looked away for a moment, looking momentarily saddened.
+
+“I assumed that had something to do with automatic purification? I could either help make primer without a distillery, or maybe learn to apply attunements to people directly?”
+
+She snorted. “You don’t have enough mana to apply an attunement to someone with your own power, nor the knowledge, nor the control. Maybe at Sunstone you could try. More likely Citrine, if you want a fully functional attunement and not just a proto-attunement.”
+
+“Proto-attunement?”
+
+“Ignore that. Not important right now. Oh, you have suspicions. I see.
+
+No, we’re not planning to steal your hand.” “That…wasn’t exactly what—”
+
+“Oh! Metaphor. Right, I see. No, no, copying the sub-glyphs…well, yes, that would be useful. Much faster for mass production. I could see that being useful…”
+
+Wait, is she reading my mind?I pulled extra mana out of my hand, converting it to mental and sending it to my mind.
+
+Nothing of note seemed to happen, at least to me. “Hm?” Farren blinked. “Where was I?”
+
+“You don’t want to copy my sub-glyphs.”
+
+“Right! I mean, well, I do now. But that’s not the main reason you’re here, is it? No, no. You have a couple more important things you can help with.”
+
+“Such as?”
+
+Farren smiled. “You’ve surely noticed how good you are at moving mana from place to place, yes?”
+
+I nodded.
+
+“How would you like to move attunements, Corin?” I gawked at her. “Wait, what?”
+
+“It’s very simple. You’ve already moved enchantments before, right? A powerful enough Arbiter can move an attunement from place to place, generally within the same person’s body. If a person is willing, you can even move an attunement from one person to another.”
+
+I was momentarily awestruck. It was so simple, and yet, so absurdly powerful. “Wait. Couldn’t someone use that to just take someone’s attunements away?”
+
+“Oh, no. That’s Sovereign you’re thinking of. You’re no thief, Corin. Sovereigns can take away power from the unwilling. Your power is to give. An attunement will not allow an Arbiter to move it without the active mental consent of the attunement-holder. It’s a security feature, similar to anti-tampering runes. Attunements have a number of those.”
+
+My mind raced.
+
+Anti-tampering runes could be defeated. I could learn sub-glyphs.
+
+Could I learn how to disable the security sub-glyphs from attunements and just move them around however I pleased?“Don’t try.” Farren shook her head. “It’s not the right route for you.”
+
+I stared at her. I didn’t know what to say to that, but I needed to keep my thoughts more carefully guarded if she was reading them. “Of course. Now, you want me to move attunements…why?”
+
+“We have clients that would pay a tremendous amount to have their attunement moved to a more advantageous body location. As a mind- marked, I’m sure you understand the difficulties involved in having your attunement be in a part of your body that isn’t perfectly suited to your attunement.”
+
+She was absolutely right. “And what about moving attunements to others? I assume that’s an even more valuable service. Maybe moving a powerful attunement from a dying family member to an heir?”
+
+“Yes, good. You’re thinking the right way, except wrong.” I blinked. “How so?”
+
+“Moving a high-level attunement to someone who is not acclimated to it has side effects. There’s a technical term for what happens to a person when that happens — we call it ‘exploding’.”
+
+In spite of the joke, she wasn’t smiling or laughing.
+
+I didn’t, either. “Right. Ah, sure. So, then…moving low-level attunements from people who don’t need them?”
+
+“Good. Closer. With your assistance, we could allow services for people to sell their attunements to people who are capable of handling them. A dying Citrine sells their mark to another Citrine. Or, sure, we could pass on an inheritance, like you said. Or two attuned could trade their attunements with each other directly — while we extract a fee, of course.”
+
+“And…I could do all this?”
+
+“Eventually, yes. You’d need a much firmer understanding of the principles behind the process. And I would be prepared to offer you a small cut of the profits from any such transactions. You should know that is not a standard part of our business – your average Enchanter is simply paid a salary. But you are no ordinary Enchanter. You have capabilities no one, aside from other Arbiters, can match.”
+
+“About other Arbiters, I’d like to ask—”
+
+“No.” Her expression turned grim. “No, you will not.”
+
+“Ah. Right.” I frowned, then changed the topic. I really didn’t want to antagonize her. Farren still didn’t show up on my Detect Aura as being overtly powerful, but that was in some ways scarier than if she had a glimmering green aura. “Okay. Foolish question, then. Why not just copy the sub-glyphs from my attunement that allow attunements to be copied?”
+
+“Can’t. It’s a function of being a real Arbiter. It’s not a standard sub- glyph function.”
+
+I frowned. “What does that mean?”
+
+“It means,” Farren smiled again, seeming to have regained her composure, “some of your powers are the will of the visages. They cannot be so easily copied.”
+
+“You said easily, but…”
+
+She shook her head. “We won’t try. We have an understanding with certain visages, you see.”
+
+“Ah.” I nodded. It made sense that the visages would at least be aware of this whole project, and that if certain boundaries were crossed, thevisages might take drastic action. Like, say, wiping Farren Labs — or all of Caelford — off the map.
+
+It seemed almost unthinkable, but then again, it must have seemed that way to the kingdom of Feria before Kerivas had obliterated it.
+
+“So, you see, there are precious few people who can do that for us. And, perhaps more importantly, you have one final gift from the visages that cannot be copied. A place only you can go.”
+
+“A place?” I asked.
+
+“The Arbiter’s Gate.” She left the words hang in the air while I processed.
+
+“The Arbiter’s…you mean there’s another entrance to the spires that only Arbiters can use?”
+
+“Precisely.” She nodded once. “What’s it for?”
+
+She gestured toward me. “The primary thing your attunement was made for. Deals with the visages. Your attunement isn’t just a source of magical power. It’s a symbol. It says, ‘this person can be trusted by the visages’. It is a rare honor — and one we would like to make use of.”
+
+“You…want me to make deals with the visages on behalf of Farren Labs?”
+
+“Very right, Corin. Very right. We had someone—no. Never mind.”
+
+I nodded. The reason why they’d given me so much access to the facility made a bit more sense now.
+
+It wasn’t that they just wanted me as some kind of Enchanting intern or an easy source of mana purification.
+
+In those moments, for the first time, I understood a bit of my own value. Moving attunements? Speaking directly to the visages?These weren’t the kinds of things that ordinary attuned could ever hope to accomplish.
+
+I was more than just an Enchanter with a strange second attunement. In that moment, I realized I could be something else—Someone, something, that could change the fate of entire nations, if I played my cards right.
+
+“And this gate…what are the limitations on it? It can’t be that I can just walk in and start talking to a visage directly.”
+
+“Oh, goodness me, no. To enter the Arbiter’s Gate, you will require a token called a Petitioner’s Coin. It’s inserted into a slot next to the gate. No, I won’t give you one to try it. The traditional method of obtaining one is as a possible reward for completing one of the spire guardian rooms on a floor divisible by five within any of the spires.”
+
+Huh. A little weird that it’s five rather than six. I’ve seen a few older things related to spires that are multiples of five, too. Wonder if those things might have been set up prior to the whole sacred six falling into Kaldwyn’s culture. Might even predate the existence of one of the visages.
+
+I pondered for a moment. “You won’t give me one to try it…but that implies you do have them. And you’d probably give me them to use the gate on your behalf?”
+
+“Precisely.”
+
+“And if I worked for you, could I, perhaps, get some as a part of my payment?”
+
+“That’s certainly something we could negotiate.”
+
+A free pass to talk to one of the visages? It was almost too good to be true.
+
+No, it was too good to be true. There would have to be catches.
+
+Restrictions. I’d have to do more reading.
+
+But if there was any chance of getting the ability to talk to one of the visages without having to climb through several floors of a spire…well, that was something I couldn’t possibly afford to ignore.
+
+Whether I decided to work for the visages or against them, access would be critical to my future plans.
+
+Farren saw my expression and smiled. “Good, good. I see it — a spark. Candlelight. Take tonight to think about my offer. And say hello to Miss Lambert. It’s almost time for me to see her.”
+
+“Cecily? Is she…?”
+
+“She should be back soon. Most of her, anyway.” Farren smiled. “If you hurry, you might be able to catch her right when she arrives.”
+
+I took one more moment to look at Farren, evaluating. Then, I turned and ran out of the room.
+
+***I stopped only briefly to cast a Measuring Arrow of Direction, which pointed me straight to Sera’s location. I rushed through the halls to find her.
+
+She blinked at me as I burst into the mess hall. “We need to go. Now,” I told her.
+
+She blinked at me. To her credit, she stood up immediately, setting aside her half-eaten food without a second thought. “Where?”
+
+“Tiger Spire. I’ll explain on the way.”
+
+It took us another half hour to get to the train station, even using some basic spells — Haste in my case, Levitation in Sera’s — to speed up our movement.
+
+Then we had a half-hour wait for a train to actually arrive, rendering our rush almost meaningless. It did, however, give me a brief interlude to explain.
+
+“You think Farren actually knows when someone is going to come out of a Judgment?”
+
+“Maybe not all the time, but she’s done a lot of implying future knowledge. Either she actually has it, which is plausible — Keras fought some people like that in his story, after all — or she’s just got a really solid information network. Maybe she’s got a Whisper friend inside the tower, watching Judgments and sending her messages. It wouldn’t be difficult to fake future knowledge with enough connections.”
+
+“Fair.” Sera’s hand tightened into a fist. “Either way, we’re obviously being played. I don’t like it.”
+
+“Agreed, but I like the idea of Cecily showing up outside of the spire alone and…missing things…even less.”
+
+When the train finally arrived, we spent some time catching up on what we’d learned. Sera had gotten into more files via Researcher and smooth- talked some other information out of workers at the facility. “Looks like Echion is at another facility further south, if we want to visit at some point. Access is heavily restricted for that project, so I’m not even supposed to know about it existing, but since I already knew, I was able to pry a bit of gossip out of people.”
+
+“Good to know.”
+
+“You want to visit him, don’t you?” Sera asked. “Not particularly.”
+
+Sera sighed. “You know, seeing a friendly face could be good for a kid in his situation. He probably considers you a hero.”
+
+“We all make mistakes when we’re young.”
+
+She snorted at that. “While I’m normally more than happy to add to any self-deprecation you’re committing, in this case, I think you deserve a little more credit. You did actually rescue that kid from a spire. He might have starved or worse if you didn’t.”
+
+“Only because Tristan manipulated me into going to that room, and because the other guy who was guided in there died before he got a chance.”
+
+Sera shrugged. “Suppose you get some credit for not stepping on the same trap, then.”
+
+I shot her a hard look. “Sera. Someone died in that room. That could have been me.”
+
+“And it wasn’t. I, for one, happen to be grateful for that — at least most of the time, when you’re not being particularly difficult.”
+
+I rubbed my temples. “Fine, fine. Maybe I deserve a little credit. Maybe he likes me. That doesn’t mean I should visit. I’m not good with kids, Sera. Or, well, people in general. You may have noticed.”
+
+“Doesn’t mean you shouldn’t try.”
+
+“You know, I think it might, in this case? Besides, there are pretty significant risks with trying to get into a government-run facility of that type.”
+
+“Ordinarily, sure. But if you take the job, you’ll probably get access.”
+
+I narrowed my eyes at her. “You don’t actually think I should take the job, do you? I thought you were suspicious of Farren’s motives.”
+
+“Oh, I am suspicious of her, and I don’t necessarily think you should work for her. I’m just trying to analyze every angle on this. Farren does have a point – several, actually. Lorian Heights isn’t exactly proving to be useful to you. And she might not have mentioned this explicitly, but it would also keep you further away from certain threats. Like Mizuchi. And Saffron. And frankly, even Katashi.”
+
+I folded my arms. “And it would leave you unopposed to take over House Cadence, if I stayed here.”
+
+Sera’s jaw dropped for a moment, no sound emerging. Not because of her throat, but because of the sheer audacity of my statement. Then she punched me in the arm. Lightly, of course, but to prove a point. “You’re a jerk sometimes.”
+
+I winced. Not just because of the sudden physical contact. “I…”
+
+She pulled her hand back, apparently noticing something wrong in my expression. “Sorry! I shouldn’t have hit you like that, I mean—”
+
+“It’s…” I shuddered. “No, it’s fine. I know you didn’t mean anything by it.” I took a steadying breath. “I’m…sorry, too. I shouldn’t have implied what I was implying there. You’ve never given me any reason to believe you’re trying to steal our inheritance. It’s just…with all this cloak and dagger stuff, I don’t know what I can trust.”
+
+“The answer is obviously me, Corin.” Sera folded her arms. “Have I ever given you any reason to doubt that?”
+
+I paused, considering the question as I looked back up at her. “No.” I exhaled deeply. “No, you haven’t.”
+
+“Good.” She sighed. “This whole situation is getting to us both. Can we just…start over for a bit? Maybe relax and pretend this is still a vacation?”
+
+I let out a weak chuckle. “No, I don’t think I can do that. I’m not good at vacation. And with Cecily being in an unknown condition…”
+
+Sera reached down for her backpack, shifting through supplies, and pulled out a Crowns board. “Settle for a momentary distraction, at least?”
+
+“You always beat me at Crowns. And Valor. And basically every other board game.”
+
+“Right.” Sera gave me a weak smile. “What else do you think I’d want to do on a vacation?”
+
+***We reached the spire without incident. Figuring out exactly where to go next was somewhat more challenging, however. The Tiger Spire was gigantic, with dozens of potential exit doors along the sides. While there were some exits that were traditionally used for second Judgments, we didn’t know exactly where she’d emerge from. And that was assuming Farren’s words were even accurate.
+
+“We have another problem, Corin, but I didn’t want to say anything until we got here.” Sera looked conflicted.
+
+I drew in a breath. “What is it?”
+
+“What if she doesn’t come out one of the Judgment exits?”
+
+I frowned. “I suppose that’s possible. I came out a strange exit. But where else would she—oh.” I winced. “I suppose Farren didn’t expressly say that Cecily succeeded.”
+
+“Why don’t you go check with the Soaring Wings and wait at the anchor room, and I’ll spread out outside with my summons? We can cover more ground that way.”
+
+I gave her a curt nod, then headed to the Soaring Wings headquarters. It took me a couple minutes to explain why I was there, but apparently, “Annabelle Farren says someone is coming out soon” was an explanation they’d heard before.
+
+I didn’t know if I should feel comforted by that or more disturbed.
+
+One of the garrison’s officers — a shorter guy named Keji with a mind- mark that indicated he was a Wayfarer — escorted me to the anchor room. “Farren say when your friend is coming out?”
+
+I shook my head. “No, she was pretty vague.”
+
+“Typical.” Keji sighed, leaning up against the wall. “You want anything to drink? We might be waiting a while.”
+
+“I’m fine.” I wasn’t fine. But a drink wasn’t going to help with the hollow feeling in my chest.
+
+How I could I have let her go in there? After what happened to Tristan, how could I have let someone else that dear to me walk into a death trap like that with hardly any preparation?How was I going to tell Yunika if something happened?I was neck-deep in panic when someone appeared in the anchor room— Someone else entirely.
+
+Just a climber, who grunted and dropped his return bell. Keji rushed over, catching the climber before they collapsed to the ground.
+
+“Need help?” I asked.
+
+“I’ve got him.” The pair vanished a moment later.
+
+Oh. Wayfarer, right.
+
+I stood there awkwardly, hoping that climber was okay. Keji had taken them straight to a medical area. That was a pretty useful application of teleportation.
+
+He didn’t return immediately, though, which meant that I was standing there alone when the next person appeared in the anchor room.
+
+A bell slipped from Cecily’s remaining fingers the moment she appeared. The long gash from her ear down to her cheek was worrying, but nowhere near as much as three ragged claw marks on her abdomen. She slumped forward, her eyes closing.
+
+Jump.
+
+I shot forward, catching her as she fell. She wasn’t particularly heavy, but the blood on her arm made it slick, and I nearly dropped her.
+
+“Cecily, stay awake. It’s Corin, I’m here.” I tried my best to hold her up.
+
+Her eyes remained closed. “Lesser Regeneration.”
+
+Mana poured from my hand into her body. It wasn’t much, but hopefully it would help stabilize her. I didn’t have time to think about whether or not closing the wounds on her hands would make it harder to restore her lost fingers later.
+
+“Healer!” I yelled down the hall. “I need a healer!’I bombarded Cecily with more regeneration spells as I waited, not willing to risk trying to repair her damage manually. I was panicked, but I remembered what had happened with Patrick. If I tried to heal her with anything other than regeneration, I risked causing her more damage.
+
+It was only a matter of moments before I heard the clanking sound of armor signaling a member of the Soaring Wings rushing down the hall.
+
+The moment she reached me, the armored figure shifted to stretch out her arms. “Let me take her, I’ll carry her to the healers.”
+
+I nodded, awkwardly shifting Cecily over to her.
+
+The knight picked Cecily up with ease and practiced discipline, then rushed back down the hallway with surprising speed. I had to throw a Haste spell just to keep up with her.
+
+Fortunately, the medical room was only a couple doors down. The Soaring Wings had wisely structured the place with this sort of scenario in mind. I imagined it couldn’t be uncommon for people to come back injured. When we reached the door, the knight turned to me before opening it.
+
+“Anything I should know?”
+
+“Her name is Cecily Lambert. She’s a Valian Enchanter. I threw a couple Lesser Regeneration spells on her, but I’m not a real healer.”
+
+“Any knowledge of her medical history?” I shook my head.
+
+“Understood. Go clean that blood off you and then rest in the waiting room near the entrance. We’ll get her help as soon as possible.”
+
+I didn’t like the idea of leaving Cecily alone, but I nodded and complied. They probably had limited room in the healing area, and I would just get in the way.
+
+I walked away with hesitation, then got some directions to a place where I could wash off.
+
+After that, I debated going to find Sera, but stuck with the waiting room instead. I wished I’d taken Sera’s advice and prioritized making message necklaces for everyone.
+
+I sat in the waiting room after that, running over her injuries in my mind. What had happened to her?I felt my hands tighten into fists. I should have been more insistent with my warnings. I knew how dangerous a second Judgment was. At Carnelian level, trying one was virtually suicidal.
+
+I was so very, very tired of people pushing the people I cared about into dangerous situations to satisfy their own ambitions and further their schemes.
+
+Farren might not have expressly said that Cecily was going to be safe, but she knew what she was implying, and she had a responsibility for the consequences of that. Being vague and open-ended wasn’t an excuse.
+
+It was only about an hour before someone came to get me, but it felt like ages. One of the Soaring Wings escorted me to the medical room, then took me past several curtained off areas to one that was open. Cecily was in a bed, a sheet pulled up over her lower body. She was awake.
+
+“Corin?” She sounded half-asleep, blinking as she looked at me. “Where am I?”
+
+I rushed to her. There was a seat next to her bed, and I pulled it closer so I could sit with her. “You’re in a Soaring Wings medical building. You just got out of the spire.”
+
+“The…spire?” She rubbed at her head, wincing. The gash I’d seen on her cheek was bandaged. I couldn’t see the condition of her lower body, since the sheet was covering it.
+
+“The Tiger Spire. You went in for a second Judgment.” “I…” She took a breath. “I…okay. Did I win?”
+
+I pondered for a moment how to answer that.
+
+Detect Aura.
+
+A single crimson field surrounded Cecily. It seemed a little brighter than before, but I couldn’t sense a source of a second shroud. At a glance, I didn’t see a second attunement mark on her, either.
+
+“I…don’t think so, Cecily. You teleported out early, either using a return bell or my circlet.”
+
+“Oh.” Cecily turned her head down. “Well, that’s disappointing.”
+
+I shook my head. “The important thing is that you’re alive. Did the healers say anything about your injuries?”
+
+“I…they said I’d live, at least. I’m supposed to stay here overnight for observation.”
+
+I nodded to her. “I’ll stay with you if they’ll let me. If you’re feeling safe, though, let me go get Sera. She’s nearby.”
+
+“Sera is here?” Cecily frowned. “Wait, how are you here? How’d you know when to find me?”
+
+“Farren told us when you’d be coming out of the spire, but not where. Sera is waiting at one of the exit gates. As for how she knew that…well, I don’t know. Some kind of future sight, it seems. Should I go get Sera?”
+
+“Wait with me a little longer first, please. I don’t want to be alone right now.”
+
+I nodded. “I’ll stay as long as you need.”
+
+***I ended up getting kicked out a bit later when they brought in someone to perform surgery on her injured hand. I tried to get them to let me stay and watch, given both Cecily’s request and my own nascent healing skills, but they weren’t willing to allow some random person be around. I couldn’t blame them.
+
+With that, I went to find Sera. It didn’t take long.
+
+“She’s what?” The color drained from Sera’s face as I explained the situation.
+
+“It’s okay, she’s in surgery. They said she’d be okay.”
+
+Sera snarled. “That witch told us Cecily would be safe in there.” “She implied it, certainly.”
+
+“She implied a lot of things with her behavior. She tricked us.” Sera tightened her jaw. “She’s going to answer for this. Soon.”
+
+I gave her a silent nod in reply, then the siblings were aligned in their cause. We headed back to wait for Cecily to get out of surgery, which took some time.
+
+The wait was agonizing. I wished I could do more.
+
+It was hours before they let us back in to sit with her. The Soaring Wings insisted on keeping her overnight for observation. Sera and I got a hotel nearby, and I took the first shift sitting with Cecily. Sera relieved me in the middle of the night, then I finally went and got some sleep.
+

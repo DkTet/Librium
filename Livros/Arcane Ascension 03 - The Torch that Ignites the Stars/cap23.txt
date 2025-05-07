@@ -1,0 +1,196 @@
+CHAPTER XXII – CRYSTAL CORE
+
+After Keras walked out the door, I went back to the crystal chamber. For a moment, the crystal seemed to glow a bit brighter.
+
+[Congratulations. You have concluded your test.]I sat down immediately. My head was still swimming from overusing Accelerated Computation and abusing my attunement modifications. If I had my mana watch, I might have checked my mana and learned that I’d dropped into negative values. It was probably better that I didn’t have the ability to do so. “Thanks,” I managed to reply after a moment. Then, after a pause, “…There’s something that doesn’t make sense to me about all this.”
+
+[Please continue.]“If this is all about learning and improvement, why do you wipe the memories of the copies after each time they’re used?”
+
+[Copies that become aware of their nature tend to become…distressed, as the copy of Keras did. There are exceptions, but typically, such copies are less useful as challenges.]“Wouldn’t a copy that knows from the outset of entering be able to just…I don’t know, play along?”
+
+[In some cases, yes, but they would be more likely to go easy on the true challenger in those cases. Consider your last challenge: a Keras that was aware that he was simply there to test you from the outset would have posed a minimal threat. While this may have still provided you with a teaching experience, his doubts and anger about his nature significantly increased his threat level. This was what allowed the test to be a sufficient challenge.]I couldn’t argue with the increased challenge — I was sure a copy of Keras that knew he’d consented to the process and why would have treated the whole experience more like a sparring match. “But doesn’t wiping their memories sort of undermine your entire objective?”
+
+[I understand your line of reasoning. There is a factor you are unaware of: the memory alterations to these constructs are temporary. After a significant period of time, their memories will be returned in bulk, and they will be released.]I blinked. “Released? Meaning…into the outside world?”
+
+[Yes.]“So…there are just going to be copies of all these people running around eventually?”
+
+[Yes.]I wasn’t sure how I felt about that. Len seemed nice enough, but… “Does that mean there’s going to be a copy of me in the same situation?”
+
+[Only if you consent to the process.]I nodded. “I…I’ll have to think about that. In the meantime, I have another question.”
+
+[Go ahead.]“How much mana do we have available?”
+
+[You spent twenty-five on the pit trap and three hundred on the pile of couches. You have nine thousand and twenty-five mana remaining.]Just barely over nine-thousand. That was good, but not enough. “No reward for finishing the last round?”
+
+[Normally, the mana is only intended to be used for the test itself, and thus, the last round does not have a reward. It is a concession to allow you to use the unspent mana at all.]I nodded, considering. “Okay, let’s see what I can manage.”
+
+I spent the next several minutes transferring mana into the crystal. My batteries didn’t have much in them — it hadn’t been long enough for them to recharge much — and my shield sigil had basically nothing, since Keras had punched through the shield. My circlet, which I retrieved from the other room, was similarly almost dry.
+
+Draining those conventional mana sources got me to 9500. It was a bit of progress, but still nowhere near enough. “How long are you willing to let me wait and recharge here?”
+
+[I will permit you one hour to recharge items and find means to obtain the mana you need.]I did some mental math. The batteries, sigil, and circlet would get me close after an hour…but not close enough.
+
+My armor was the wrong mana type, so it wouldn’t be compatible. That left me with a few unusual options.
+
+The ring of jumping used transference mana, but it was a foreign item, and I wasn’t confident I could take mana out of it without damaging it. The Jaden Box had the same problem.
+
+The sword I’d gotten from Jerome was still in my box, but it didn’t have the right mana types. In fact, it seemed to use void, which may have been actively harmful to the crystal. That one was out of the question.
+
+I did have one more source of mana that the crystal could theoretically use, but it was dangerous enough that I hadn’t wanted to risk it. Dangerous and, well, possibly heretical.
+
+Selys-Lyann had a rune for spirit magic. A powerful enough one that, if I was willing to drain it, I could easily exceed the level of mana I needed.
+
+It was, however, a more complex rune than I was used to working with. All of Selys-Lyann’s runes were compound: they contained capacity, recharge, and function components within a single apparent rune. I had a much better idea of how that worked now that I’d studied attunements, but I still hadn’t done much work with compound runes.
+
+I didn’t know if draining mana out of a compound rune would ruin the whole thing. Obviously, it had to be able to use mana for its functions without destroying itself, so there was a way for it to expend mana safely… but simply applying transference to that compound rune to push mana out wasn’t the same thing.
+
+I debated, then realized I had a potential solution.
+
+Analyze Attunement Composition was primarily used for looking at how attunements worked, but theoretically, a compound rune was similar in nature. Maybe — just maybe — the same spell would let me look at the interior composition of a compound rune. And maybe, if I was lucky enough, it would have a similar sub-glyph structure for me to comprehend it. If it did, I could try to figure out a safe mana transference method.
+
+If it didn’t work…well, it was more likely to just fail outright than break my brain. The chance of the latter was admittedly absolutely terrifying, but I was trying very hard to push my fears of that sort of thing aside and make the right decisions for any given moment.
+
+I told the crystal my plan, which seemed wise, given that the crystal was also potentially at risk if things went wrong.
+
+[I do not believe that will work the way you anticipate, but I also do not believe it will be harmful.]That was good enough for me.
+
+I put my hand on the spirit rune of Selys-Lyann, made sure I was seated with my back against the wall, and cast a spell.
+
+Analyze Attunement Composition.
+
+Then the world went white.
+
+***I stood in a room of shimmering ice, but I was not alone.
+
+Four bodies were at my feet, already as cold as the chamber’s walls. A fifth man lived still, though only just. He was on the ground, his numb fingers failing to grasp the handle of that axe of his, the one he’d always called by that absurd woman’s name. He’d always insisted that “she” would protect him, see him through any battle.
+
+Mizuchi, it seemed, was an exception.
+
+The serpent stood before me, wearing her hybrid form: a woman with strangely colored hair and iridescent scales covering virtually all of her exposed skin. Her horns and tail were wet with the blood of my fallen friends.
+
+We’d believed we could beat her. Two Emeralds and four others that were near-enough, bearing second attunements and crystal bonds.
+
+We had been fools. She’d never even shown us her true form. And I’d chosen the wrong sword.
+
+I lifted my saber again, frost glittering along the edges, and swept it upward. A wave of ice cascaded across the room, tall as a high tide and stretching from wall-to-wall.
+
+Mizuchi brushed it aside like a stray hair. Then, with a flick of her finger, I was flying backward, my armor of frost cracking on impact.
+
+She flickered forward, appearing in front of me in a heartbeat. Weakly, I swept my sword upward.
+
+She caught it in her right hand. “Mm. It doesn’t feel very sacred, does it?” Mizuchi frowned as I struggled, absolutely ignoring it when I punched her with my other frost-encrusted fist. “Feels…fragile, in fact.”
+
+She squeezed.
+
+Snap.
+
+A legend died in her grasp.
+
+“Oops.” She gave a look of mock dismay as the blade crumbled between her fingers. “Well, that’s not good. Mother would be quite disappointed if she knew I’d broken something so important…so I suppose I can’t let you leave after all.”
+
+She pulled back her other hand.
+
+In one sudden, final moment, I burned every bit of power left, channeling it into speed.
+
+With that speed, I ripped something from my belt and hurled it. Not toward Mizuchi, but past her.
+
+Mizuchi’s hand shot through my chest, piercing through ice and ribs alike. She tore through my heart.
+
+I would be dead in moments.
+
+The last thing I heard was the ringing of the bell that I’d hurled at my fallen friend.
+
+Live, I prayed for him.
+
+And in the next instant, I died.
+
+***My eyes snapped open.
+
+Wha…what was that?I clutched at my chest, feeling the echo of a vision of my own demise. It was only at that moment that I noted that my arm was entirely cocooned by ice.
+
+But that wasn’t what made me panic. I mean, it probably would have either way, but there was something more alarming:I wasn’t cold.
+
+That was worthy of double panic, at least. That implied either I’d gotten so frozen that I was numb to it, or…The moment I began to think about the wrongness of the ice, it began to subside, gradually creeping back toward the blade of the sword.
+
+I blinked, then flexed my hand experimentally. No pain. No numbness.
+
+I was fine, barring of course the mental scarring of just experiencing my own death — or more likely a previous wielder’s death — at the hands of someone who had already very nearly killed me twice.
+
+Mizuchi. It had to be her, didn’t it?I groaned, sitting up and thinking back.
+
+This was similar to what had happened when Selys-Lyann had frozen me in an apparent attempt to defend me against the flames in my first exam, but unlike that time, I seemingly hadn’t harmed myself in the process.
+
+I concentrated for a moment on Selys-Lyann’s blade.
+
+Ice armor.
+
+Ice flowed from the blade onto my arm. Once again, I didn’t feel even a hint of cold.
+
+Okay, okay, that’s enough.
+
+The ice melted away.
+
+Huh. Well, that’s disturbing. I mean, potentially extremely useful, but disturbing.
+
+[It would appear that you have partially connected with the sword’s spirit.]I turned my head toward the crystal. “You could tell what was happening?”
+
+[To some degree. I can only read your surface thoughts. I am aware that you were seeing images of some kind from the sword, but not what they were. I can also conclude that you were not able to determine the functions of the sword’s spirit rune.]“Uh, yeah. Let’s…maybe not try to play with that any further.” I groaned. “Can you give me any insight on how to bond this sword properly or learn to control it better?”
+
+[Certainly, if you wish to use your boon on that subject matter.]I sighed. “I should have expected that. Okay. Let’s get back to figuring out how to charge you.”
+
+[I await your solution to this problem.]I dug through the contents of the Jaden Box, trying to find anything else that might be helpful. The only item I had with perfectly compatible mana was an old shield sigil, which I drained into the crystal immediately.
+
+Almost, but not quite enough.
+
+[You have five minutes remaining.]I drained the batteries again. “How much are we up to?” [You have 11480 mana to spend.]So close.
+
+I transferred every bit of mana from my body that I felt I could do safely. I wasn’t able to go through quite my full mana supply safely, but I pushed it as close as I could.
+
+[You have 11770 mana to spend. Two minutes remaining.]In a panic, I started pulling everything I could think of out of the box.
+
+Mana crystals. I’ve still got a few.
+
+I burned through every gray mana crystal and transference crystal I had.
+
+[You have 11970 mana to send. Thirty seconds remaining.]With a curse, I pulled out my last resort: my Class 2 universal mana crystal.
+
+I’d been saving it for a rainy day. This counted.
+
+I shifted the mana inside it to transference, then pushed the mana into the crystal.
+
+[You have 12006 mana to spend. Ten seconds remaining.] “Mana bond on my left hand.”
+
+[Instructions received. Please wait while I initiate the bonding process.]I felt a sharp pain in my hand as a burst of light filled the room. I tightened my hand into a fist and clenched my jaw.
+
+The pain lasted longer than I’d hoped. Much longer. Minutes passed, until finally, the sharpness in my fingers gave way to numbness, and then vanished entirely.
+
+I flexed my hand experimentally. [Bonding process complete.]I exhaled a deep breath.
+
+I’d taken a number of risks to try to save up the 12000 mana necessary to make a bond with the crystal, but as soon as I’d known the crystal could do that with one of the spirit entities, I’d planned to do it to myself.
+
+I’d also known that bonding to the crystal had some level of risk, but given that the crystal’s mana types were nearly identical to my own, that risk was about as low as it could get.
+
+“Thank you. Now, uh…how does this thing work?”
+
+[Would you like to spend your boon on instructions for how to use your new Transcendence Crystal Bond?]I groaned.
+
+“…How amiable are you to the concept of trade?”
+
+***It was nightfall when I appeared outside of the shrine. I’d refused the offer to have my memories wiped. While I understood the intent, I wasn’t particularly traumatized by the experience, nor did I value the sanctity of the test.
+
+I’d also refused the offer to have myself copied as an opponent for future tests. In part because it creeped me out, but mostly because I didn’t want a copy of myself being interrogated by any future political enemies Ihappened to amass. I couldn’t afford to let my knowledge be used against people like Tristan.
+
+I found Len waiting nearby, sitting on a large rock. She turned her head upward as I appeared, closing her book.
+
+I waved a hand. “Hey, Len. Thanks for waiting.”
+
+“Of course.” She tucked her book away in a pouch at her side. “Are you injured?”
+
+I shook my head. “Not in any significant way, at least.” “Can I trust that means you were successful, then?” “Yep.” I patted the bag at my side.
+
+“Excellent. You have performed to my expectations.” She stood up. “Can I see the crystal?”
+
+“Not until we get back, if you don’t mind. I don’t see any reason why you’d take it and just leave me here, but I’d rather not take any risks.”
+
+“Reasonable. Shall we go back to the tower, then?” I exhaled a breath. “Let’s.”
+

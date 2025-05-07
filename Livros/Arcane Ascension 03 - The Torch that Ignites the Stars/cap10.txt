@@ -1,0 +1,516 @@
+CHAPTER IX – TIGER’S DEN
+
+I always found something disorienting about stepping into a spire. Even knowing to brace myself, my stomach swam and my head spun as I arrived. As I’d expected, the interior was completely unrelated to the outside.
+
+Walking through the doorway into a spire was largely symbolic; every door to a spire was actually a form of teleporter, leading to a different location within the spire. Climbers used sequential designations for floors to maintain their own sanity when trying to organize expeditions, but in reality, there was nothing saying that the “first floor” that we’d just arrived in had to be anywhere close to the bottom of the spire. Conventional wisdom (and a series of navigation spells) seemed to indicate that the physical location of a spire’s entry generally was near the bottom, but exceptions were always possible — like when Keras stepped through a door and ended up in a prison cell.
+
+I’m digressing, sorry.
+
+Anyway, we stepped into the Tiger Spire and found ourselves in a circular room that was pure white. My companions appeared all around me, some staggering with the same feeling of teleportation sickness that I’d experienced. Oddly, Sera seemed to shake it off the most easily, perhaps even more easily than Professor Meltlake. Perhaps her attunement’s teleportation abilities lent her some sort of resistance to teleportation sickness? Something to check later, maybe.
+
+Anyway, circular room. It was about fifty feet in diameter, which was pretty standard for an entry room. In the center was a mana fountain, which wasn’t exactly comforting, given that those were normally right near spire guardian rooms. I didn’t exactly like the idea of running into a spire guardian this soon, but it wasn’t impossible. Perhaps one was through the gigantic locked door straight ahead of us with the skull-shaped keyhole.
+
+That seemed plausible.
+
+Aside from Mr. Skull Door, there were two other doors on the sides of the room with boring generic locks. Unlike the neatly color-coded doors in the Serpent Spire, this spire’s doors were largely unlabeled, save for the aforementioned skull-shaped lock.
+
+The room was illuminated…somehow, but with no obvious light source. I did a quick scan with Detect Aura to see if there were any runes on the walls, but I couldn’t see any. There were no immediate threats of any kind.
+
+The wall behind us was completely blank. This was only mildly unusual; sometimes spire entrances had exits on the first floor, sometimes they didn’t.
+
+“Huh.” I scanned the room again, searching for any kind of hidden monsters or traps.
+
+“Problem?” Sera asked me.
+
+I frowned. “No, just…honestly a little surprised we’re not being teleported straight into room with a god beast or something. This feels… normal.”
+
+Sera laughed. “I think you’ve gotten a little too acclimated to special treatment. Not every experience with a spire has to involve disproportionately deadly and dastardly…what’s a ‘d’-word for the overpowered monsters we keep running into? Oh, demigods. Deadly and dastardly demigods.”
+
+“In fairness, only one of the demigods we’ve fought was inside a spire.” I pointed out. “But that’s beside the point. Shall we get to work?”
+
+“Let’s.”
+
+I waved to Sera. “Lead the way.”
+
+She scanned each of the doors. “Mara, Patrick, any insights from your previous visits?”
+
+“First floor for the last visit was totally different. Looked like a big carnival tent, except everyone and everything there tried to kill us.” Patrick explained.
+
+I felt a hint of relief that our current floor wasn’t anything like that. “That’s kind of how I feel at carnivals in general.”
+
+“Right. You suffer from a tragic allergy to anything fun. We know.” Sera shook her head sadly, then turned to Mara. “Any ideas?”
+
+“Haven’t done any floors quite like this, but it does sound kind of like that temple Keras was describing in his story about Dawnbringer. Maybe we have to find the big skull key in one of the other passages.”
+
+That sounded about right to me, too.
+
+“Any preference on which one?” Sera asked. Mara and Patrick both shook their heads.
+
+Sera turned to Meltlake. “Suggestions?”
+
+“I’d rather let you make the decisions. I’ll tell you if there’s anything critical you seem to be missing.”
+
+“Fair. Okay. Well, since everyone important has given their suggestions…”
+
+I rolled my eyes and cut her off. “In cases like this, general protocol is to open both doors and choose a path based on the contents of the rooms. There are sometimes traps in the doorways, but it’s rare at this level of the spire. Exploration is generally rewarded, rather than punished. Also, we should check the seemingly blank wall for secret passages.”
+
+“Very good, Master Cadence. Always suspect anything that looks out of place.” Meltlake gave me a nod.
+
+“Know something we don’t?” Sera asked.
+
+“Plenty of things.” Meltlake smiled. “But in this case, no, I have no prior knowledge of this room’s layout. I haven’t been here in years.”
+
+“Right.” Mara stepped toward the wall. “Guess I’m on wall testin’ duty, then, unless one of you’ve got a spell for it.”
+
+I did not, in fact, have a spell for it. Not yet. Trap and secret door finding spells were more of Analyst territory, but maybe I could research some in the future.
+
+With a series of confirmations that no one had a better approach, Mara took the traditional route of tapping on the wall for obvious weak spots. She found none. Then, in a possible nod to her mentor, she punched the wall.
+
+There was a crack as her fist met the stone and sent splinters of rock flying. Several rapid punches followed the first, breaking away larger chunks of rock. After a flurry of blows, she’d worn away a large section, but there was nothing but more solid stone beyond.
+
+With a look of mild irritation, she extended her right hand. A warbling blade of energy manifested around her hand, extending nearly a meter and burning through the ground where it made contact. She swung again, this time slicing cleanly through the stone.
+
+She’s gotten much better with the aura blade technique.
+
+I was impressed and a little bit jealous. I’d practiced the technique a bit on the train ride — enough that I was getting used to forming a coherent blade and I thought I could fight with it in a pinch — but my aura blade couldn’t possibly cleave through stone like she was. Her mana compositionmade her blade much sharper and her control was vastly superior to my own.
+
+She really does take after Keras. She’s going to be an absolute terror to fight in dueling class next year.
+
+After a few more sweeps of the aura blade, Mara turned around and shook her head. “Nothin’ ‘ere, so far as I can tell.”
+
+“Very good, Mara, thank you.” Sera nodded to her, then gave me a look. “Sometimes a wall is just a wall.”
+
+“Yes, yes. It was still worth checking. Shall we continue?” I gestured to the door on the right.
+
+“I’ve got it!” Patrick ran to the door excitedly. I didn’t see an actual doorknob or handle to pull, but Patrick must have already known the right procedure. He put a hand on the center of the door and the door slid open, no key required. I wondered why the doors looked like they had keyholes if keys weren’t required, but I didn’t say anything about it at the time.
+
+I jumped out of the way the moment I saw the contents of the next room. I wasn’t the only one, but fortunately, the evasive maneuver wasn’t actually necessary — not immediately, at least.
+
+There was a golem in the center of the room, partially enclosed by a strange formation of stone pillars. Or, rather, there was the top half of a golem — a titanic torso, arms, and head made of solid stone. Beneath it was a single fist-sized crystal contained in a rune-etched metal casing: a power core, and a sophisticated one. Both the core and the golem itself were floating a few feet off the ground, putting the head of the golem about seven feet up.
+
+Now, ordinarily, a half-made golem wouldn’t be a source of alarm, but this one had a glowing circular panel on the center of its chest. I recognized that immediately, and so did my friends: we’d been briefed on common golem weaponry, and that was one of the more irritating types: an integrated beam array. It didn’t unleash the weapon the moment we opened the door, though. Instead, it rotated ninety-degrees in the air and then fired, unleashing a torso-wide burst of light mana straight into one of the room’s walls.
+
+Based on the brightness and intensity of the blast…well, I didn’t want to get hit by that.
+
+It continued hovering in place after that, the weapon inside its chest momentarily dimming as the golem’s power recharged it.
+
+“Woah, okay. Next room?” Patrick asked.
+
+“No, wait.” I told him. I was still evaluating the rest of the chamber. The golem itself was the main feature, but I noted a few other things.
+
+Two other doors, for example, on the right side and straight ahead. Notably, if the golem kept rotating, it would shoot a pillar next, but after that, it would blast the door on the right. Maybe that would open the right door? Was this a timing-based puzzle, where we had to run through the door right after a blast temporarily opened it?No, that would only open that door, and there has to be a way to open the one straight ahead. And with a pillar blocking that route... I kept looking, and I noted something else of interest. It was hard to see from the entrance, but the stone pillars had something shining on one side of each of them, right around at the same height as the golem’s chest. And…were those tiny buttons on the sides of the pillars?Sera must have noted the same thing I did. “There are mechanisms on the pillars, and if you look at the base…I think they can move. And possibly rotate.”
+
+“Oh, goddess. It’s a mirror puzzle.” I groaned, rubbing my temples. “We’re supposed to reflect the light in a specific pattern.”
+
+“Couldn’t we just avoid the light and go straight to the next door?” Patrick asked.
+
+“Maybe. Doors are probably locked until we reflect the light in the correct pattern, maybe into the door, or…”
+
+“Back to the golem?” Patrick considered. “Maybe that would open both doors?”
+
+“Possible.” I frowned. “Or…”
+
+The golem rotated again. I winced, but it just fired its beam into the door on the right…which did, in fact, briefly open.
+
+“Huh. Okay. So, beams do open doors. We could go that route right now…”
+
+The door closed. Apparently, it did only stay open briefly after beinghit.
+
+“Or not. We could wait for it come back around, or try the mirror thingand get it pointed to the other door.”
+
+“Or we could just, you know, punch a hole in the pillar that’s blocking the way to the door we want open,” Mara suggested. “Seems faster than trying to tinker with mirror alignments, yeah?”
+
+I raised an eyebrow at her. “That’s a very Keras solution.”
+
+She glowed a little, apparently taking that as a compliment. “Well, I didlearn from him, you know.”
+
+“Well, if we’re going to keep chatting, we need to move. That one is going to blast us in a couple seconds if we don’t.”
+
+We got back out of the doorway. As predicted, the golem rotated a few seconds later, blasting a beam straight through the open door, and then powered back down.
+
+“...I bet I could reflect that,” Patrick noted.
+
+I considered the solution. “Good if we want the golem broken. Bad if we want it to open doors for us.”
+
+“Hm. I could probably just Bright Reflection a beam to hit the door we want?” Patrick offered.
+
+“Okay, lots of options. This won’t be hard. Let’s check the other room before we commit to this one?” Sera suggested.
+
+“Sounds good.” I replied. We all agreed, walking away from that door to check the one on the opposite side of the chamber.
+
+The next room didn’t have any immediate spinny-killy-things, at least. It did have a lot of spinning involved, though. The room was circular, had three doors clustered on the opposite side, and it was filled with clocks. Some were wall-mounted, others were tall grandfather clocks.
+
+Exactly twelve, I noted after a moment. Six of each type.
+
+It only took me another moment to realize they were all showing a different time. “Oh, I hate it.”
+
+“Your good cheer is a joy to us as always, brother.” Sera peered into the room for another moment, examining the walls, floors, and ceiling. “Looks straightforward. I’m going to assume we’re timed once we step inside.”
+
+“That does seem obvious, yes.” I sighed.
+
+“What do you think the goal is? Get all the clocks on the same hour?” Patrick asked.
+
+“Not enough information to know yet,” Sera noted. “Each of the doors is in a clock position; maybe we set all the clocks to the position of the door we want open.”
+
+I nodded. “Maybe. Since there are twelve, it’s also possible they need to be sequential – one on each hour. It’s probable there’s a clue inside somewhere.”
+
+“Or we’re just supposed to experiment. What are you all thinking? Like this more than light golem?”
+
+“No,” I replied immediately, then bit my lip. “But it’s a mental puzzle, whereas the other one has more of a physical component. If that sets the style of our route, I suppose this one might be safer overall.”
+
+“Wouldn’t call that safer,” Mara noted. “Less fighty, maybe, but mental challenges can still have traps and consequences. Frankly speaking, I’d rather fight a threat I can see straight out.”
+
+Couldn’t argue with that logic. “Patrick?” Sera asked.
+
+“Fine either way, really, but I kinda wanna Bright Reflection the golem.”
+
+The rest of us laughed, but honestly, I didn’t blame him. I kind of wanted to go through the golem room, too, but for other reasons.
+
+“Golem, then?” Sera asked.
+
+“Golem,” came a round of agreements.
+
+We headed back to the golem room door. After some discussion, we had everyone aside from Mara step out of the way, since she could jump out of the way fastest if the golem happened to be firing the laser toward the doorway right when we opened it.
+
+We didn’t need to be concerned. When the door opened, we saw that the golem was inert. It took a few moments to begin to move again. Presumably, it had stopped moving to save mana when the door had been closed.
+
+That’s exploitable, I realized. If we close the door again, we could move into the room and around it before it fully reactivates.
+
+I didn’t actually express this cunning stratagem to my group immediately, though, because I’m bad at things. Instead, we moved back to the doorway to watch it rotate again. Patrick drew Bright Reflection. “So, am I shining the beam somewhere specific? We going to try to open the blocked door, or maybe knock the golem out?”
+
+“Actually, let’s try a different tactic first. Bright Reflection can fire a beam of light like the golem can, correct?”
+
+“Yeah, but that’s not its main function. It’s nowhere near as strong as the real Dawnbringer.”
+
+“Strong isn’t what we need. We need to know if the doors respond to any form of light magic, or just the golem’s light magic.”
+
+“Oh!” Patrick blinked. “Got it. So, you want me to shoot the door?”
+
+I jumped in. “It’s hard to see from here, but…” I pointed across the room, “I’ll bet there’s a rune right at the height of the golem’s chest on the doorway that detects the beam. You want to aim for that. You can move into the room and get right near it if you need to.”
+
+“And if the door closes behind me?” Patrick asked.
+
+“Good point. Let’s all get in.” We waited for the golem to rotate into the safest possible position, then filed into the room.
+
+Patrick walked to the door in question. I spent a few moments while he moved to observe the pillars, noting the positions of the mirrors in case we actually had to use them.
+
+My efforts were unneeded. “Radiant Dawn!” Patrick shouted, pointing his sword at a spot on the door. A beam of light lanced out from the tip of his sword, striking the door…and it opened. Just like that.
+
+“Yeah!” He cheered. The door closed.
+
+“Oh no!” Patrick’s expression sank. “Guess it doesn’t last long.”
+
+“It doesn’t matter.” Sera noted. “Should be enough time to get us all through, provided you can manage a few blasts?”
+
+“Yeah, it’s got enough mana for a couple more. We wanna head through now?”
+
+“No. First, tell us what you saw through the door, I couldn’t see from my angle.” We rotated a little bit as the golem moved, harmlessly blasting another spot of the room.
+
+“So, that one has a gigantic pile of stuff in it. Like, lots and lots of stuff.”
+
+“Stuff?” I asked. “Can you be more specific?”
+
+“I saw some other golem parts, and general bits of metal. Broken swords, shields, tools…” We walked around a bit as the golem continued blasting and Patrick continued going through a list of items he’d seen.
+
+“So, basically a junkyard room.” Sera noted. “Maybe some half- functional golems in the pile, ready to attack. Key hidden amongst the otherpieces. Sounds simple. Doors?”
+
+“Two that I saw. Maybe there could be another one under the rubble pile?”
+
+Sera nodded. “Good thinking. A trap door down there would make sense.”
+
+Patrick stood a little straighter after Sera’s compliment. We waited for the rotating golem to blast open the other door, then briefly looked inside when it was open.
+
+This one was triangular in shape, which was a little odd. There were no visible doors to other rooms, but there was a glowing rune circle in the center surrounded by bars. A portal to elsewhere in the spire, most likely. Maybe even one that could allow us to skip to a higher floor.
+
+There were no obvious threats, but that only made me trust the room less. “Anyone see traps?” I asked.
+
+“Tiny holes in the floors and walls. Can barely see ‘em. Gas traps, I’ll bet.”
+
+I didn’t like the sound of that. “Anything else?”
+
+The door shut before we could get an extended look at the room. “I think there was a discolored section on the back wall,” Patrick noted. “Might be a secret passage or something?”
+
+“Plausible.” Sera noted. We moved again as the golem did, but… “Is it going faster?” I asked. “I think it’s going faster, guys.” “Okay, decisions, then.” Sera exhaled a breath. “Leanings?”
+
+“Well, if I had to choose…” Patrick mused aloud without actually making a choice.
+
+“Junk room.” I pointed toward it. “My magic sword looked like a rusty piece of junk. Could be valuables in there.”
+
+“Seconded.” Mara surprised me with her agreement, but she explained quickly. “Not sure I like the idea of scavenging through the pile, but it’s better than taking a portal to a random spot, yeah?”
+
+I couldn’t have agreed more.
+
+“Any objections?” Sera asked. We walked faster. The golem was definitely spinning faster now, blasting the door where we’d entered only briefly before rotating to the next wall. After a moment without any concerns voiced. “Okay, let’s move. We’ll need to time this carefully.”
+
+“Or…if you’ll indulge me for a moment…” I quickly explained a plan.
+
+Sera snorted. “Fine, try it. Just don’t complain if you die.” “How would I complain if I’m d—never mind. I’m doing it.”
+
+I shifted so that I was right behind the spot the golem had just fired into, giving myself ample time, and then…Haste.
+
+I sped forward, right toward the golem.
+
+As I expected, when I got within a few feet, lights flashed on the golem’s body and it swiveled toward me. “Intruder detected.”
+
+The voice was a nice touch. I’d have to find the rune for that.
+
+The golem’s chest glowed, preparing to fire a beam…but as I’d calculated, it wasn’t quick enough to stop me.
+
+I snapped the Jaden Box open, pressing it against the crystal floating below the golem. “Store golem core.”
+
+The crystal vanished.
+
+The lights on the golem’s upper body faded instantly. I pulled my arms and the box backward as the golem’s upper half fell, the source of its levitation gone.
+
+I was half-surprised that the golem turned off immediately; I’d assumed that taking the core would cause it to power down, but slowly, after bleeding through any remaining mana. Apparently, it must have been structured so that it was entirely reliant on the core. This was most likely a deliberate part of the challenge — one of the classic “attack the weak point for maximum damage” kind of things that the goddess loved putting into her easier challenges.
+
+I was grateful for the weak point, as well as the newly-acquired and extremely expensive golem core.
+
+If we had an ordinary climbing group, this might have been a bad approach, since the light from the golem was also the key to the doors. We could have gotten stuck — but we’d already confirmed that Patrick’s light beams worked as replacement keys. Thus, disabling the golem didn’t really have any downside, except for the risks involved.
+
+I disabled my Haste spell. “So. Who wants to help me take this thing apart?”
+
+***It didn’t take long to separate the golem into small enough pieces that I could store them in the Jaden Box, largely because Meltlake decided tohelp. She had a spell that looked like a blowtorch extended from her finger, cutting through the metal with ease. This was both convenient and, frankly, absolutely terrifying.
+
+With that all done, we moved over to the door to the junk room. Patrick reopened it with a beam of light, then we quickly stepped inside before it closed behind us.
+
+The junk room was even messier than I’d expected from Patrick’s description. Just stepping into the room required stepping onto bits of strewn metal and debris. I was struck by the scent of an unpleasant mixture of rust, industrial chemicals, and something vaguely floral that somehow worried me more than the chemicals did.
+
+The garbage formed something of a mountain shape, with a tall pile toward the center of the room and the rest of it strewn in a distribution pattern that made me suspect it had been dropped in from a chute above us. I didn’t see anything like that, nor any obvious secret doors above us in general, but that didn’t mean one didn’t exist.
+
+The others shifted past me and deeper into the room. I took another step forward, feeling a crunch and something wet sinking into my boot.
+
+I have regrets.
+
+I turned toward Sera to express said regrets, but I didn’t have time.
+
+Almost immediately, the first half-constructed golem began to climb out of the junk pile toward us, like something out of a two-bit horror novel. A blur of motion streaked past me, then Mara was airborne, landing a moment later on top of the golem’s head with a crunch.
+
+“Hey, hey!” I ran after her, dodging as a gigantic golem fist flew out of the pile and missed me by a wide margin. “Don’t wreck them too much! Cores, Mara! Cores!”
+
+“Right, right.” With a glowing aura blade, she sliced the golem’s head off. It didn’t fall inert; instead, it bucked like a horse, leaving Mara to fly off of it with a brief “eep”.
+
+A blast of ice from Sera’s extended hand froze the broken golem in place a moment later. The floating golem hand wheeled around for another pass, only to be blasted out of the air by a well-placed burst of light from Bright Reflection.
+
+I almost chastised Patrick for destroying the floating hand — I was curious how it had detected and attacked us without being attached to agolem body — but when it hit the floor, I realized he’d only shattered one crystal on the back of it. The rest of the hand was intact, runes and all.
+
+I walked over to the giant hand. Out came the box. “And…in you go.” Mara kicked the frozen half-golem, breaking off one of the frozen arms.
+
+“Mean golem. Don’t surprise me like that.”
+
+Two more broken golems climbed out of the pile, but Sera pelted them with more ice blasts before they could get anywhere. With the golems immobilized, breaking them further and taking their more valuable bits was a trivial process.
+
+“Not bad.” Meltlake noted. “Your teamwork could use some work, but your combat skills are much better than they were doing midterms.”
+
+Patrick glowed at the compliment. “Th…thanks, professor. We’re trying our best!”
+
+I was, in fact, trying my best — but mostly at looting. Looting absolutely everything.
+
+I’m going to miss you so much, Jaden Box. I could never replace you.
+
+I was, of course, already thinking about ways to replace the Jaden Box. I hadn’t managed to figure out exactly how its weird presumably Mythralian (or Artinian?) enchantments worked, but some of the properties were replicable…just at extreme costs, or with slightly different methods and downsides. I hadn’t quite decided on exactly what my replacement box was going to look like yet, but I was determined to have something before Keras demanded the box later on in the year to summon Wrynn.
+
+In the meantime, I intended to exploit my near-limitless storage capacity for all it was worth.
+
+“Detect Aura.” I scanned through the rubble pile, finding more magical auras than I expected. Most of said auras, unfortunately, weren’t from more items or golem parts — they were from some kind of disgusting goop that was smeared across much of the pile. That made finding anything of actual value much trickier, especially since I didn’t want to touch whatever that disgusting substance was. Belatedly, I told the others, “Don’t touch the gunk, it’s magic.”
+
+Mara pulled a hand back cautiously. “What, like alchemical stuff?” “Probably. Or just residue from a magical accident. Or…like, a deadslime that exploded, maybe?” I shrugged. I wasn’t really much of an alchemy expert. “Professor?”
+
+“Not helping,” Meltlake insisted. “Sorry, nothing in there looks like it’s worth cheating and helping you this early.”
+
+“It’s not cheating, Professor.” Sera shook her head. “This isn’t actually a spire test, and we’ve already defeated the risks of the room. It’s just about looting efficiency, and you do get a cut of what we’re bringing out of here.” Meltlake seemed almost persuaded, but then a smile cracked her lips.
+
+“No. You’re not quite right on that first part.”
+
+I processed that, then immediately panicked as I realized it meant we hadn’t handled the “risks” in the room yet. I spun around, searching for what I might have missed. Were there more golem hands? Deadlier, stealthier golem hands?There were not.
+
+I didn’t find anything amiss, in fact.
+
+“Think she just means the gunk is itself a risk, Corin. You can calm down. Should be fine as long as we don’t touch it.”
+
+I calmed down. Marginally. What if the gunk had a deadly scent? I sniffed the air, smelling something foul, then immediately realized that sniffing the potentially deadly substance to determine if it was deadly was perhaps the worst decision anyone could have made.
+
+I’ll save you from my own anxiety; it was not, in fact, a substance with a deadly toxic odor. No, the threat from the goop was much more direct. I didn’t even realize it until Mara mentioned it, but…“The goop is moving.” She stared at it, taking a combat stance. “Very, very slowly.”
+
+I didn’t even see it moving, not at first. It was only after several seconds of staring that I saw a tiny bit of it twitch.
+
+“Eew.” Sera remarked. “I think it’s trying to move toward one spot.” “Maybe I should fireball the whole pile? Won’t hurt the metal,” Patrickoffered.
+
+“Or maybe that’s what we’re expected to do and the whole thing will explode into a cloud of toxic gas if it’s ignited,” I replied.
+
+“Oh.” Patrick’s shoulders sagged. “…I suppose that’s possible.”
+
+“Don’t feel too bad, Patrick. We all like to blast things on occasion. In this case, however…” Sera conjured a ball of ice. “I think this might be safer.”
+
+“You’re doing that without incants,” I noted. “You’ve been practicing hand-based casting?”
+
+“Right you are, Corin. Very observant. Now, if there are no objections…”
+
+“Wait.” Meltlake spoke up, surprising all of us. “Ice will work, but you’ll ruin one of the items inside if you use it. And you’re right,” she grinned at Sera, “I am getting part of the loot. Best to keep it intact.”
+
+“Then…”
+
+“You’ve figured out enough. I’ll help a little.” Meltlake tapped her cane to the floor. There was a rumbling as a section of the ground shifted, disrupting the pile of junk. Stone flowed like water, forming a dome over a small section of the junk. “Now, Sera.”
+
+Sera hurled her ball of ice, which split in mid-air and hit several sections of the gunk, freezing it solid. She repeated the process several times, freezing all of the sludge that was visible. Then, with a gesture, Patrick conjured air and carried the slime-cubes out of the junk.
+
+With a little more air, he shifted the pile, exposing more goo. Sera and Patrick repeated the process until they’d separated the goo out entirely — or, at least as close to completely as we could tell at a glance.
+
+“Good enough, Professor?” Sera asked.
+
+“Good enough. Should be safe. If the slime breaks out of the ice, I’ll handle it. Now, go play in the junk, kids.”
+
+Patrick let out a “yay” with surprising enthusiasm and rushed to the pile.
+
+The rest of us followed more slowly, picking through it.
+
+Most of the junk was exactly what it sounded like. Useless, broken down items with no obvious value or function. Some of the items were broken or rusted so badly I couldn’t even recognize what their original function was. The majority of it looked like scrap from a factory; bits of misshapen metal and stone, and some still-intact containers of unidentifiable black sludge.
+
+“Store black sludge.”
+
+I took the sludge, because of course I did.
+
+I also stored a few choice bits from the rest of the junk — somewhat salvageable weapon and armor pieces, some cogs, screws, and bolts, and a single seemingly mundane ring. Others handed similar stuff off to me to store in the box.
+
+The remarkable section was what Meltlake had hidden beneath the section of floor she’d shifted; a potion bottle containing a strange silvery liquid. She took it herself, slipping the potion into her robe. “I’ll call that part of my fee for the escort.”
+
+“What is it, Professor?” Patrick asked.
+
+“A specialized type of elixir. Not the type that would help any of us, but I have a friend that might like it.”
+
+I almost asked for more information, but it was obvious even to me that she didn’t want to talk about it, so I held off for the moment. I couldn’t guarantee I was going to be quiet about it indefinitely, but Meltlake still seemed…off. I didn’t want to risk upsetting her this early into our expedition.
+
+With the looting process completed, I briefly debated taking bits of the frozen goop, but ultimately decided against it. That seemed like the sort of thing that would get all over the place when someone decided to empty out the whole Jaden Box at once, which I expected to happen the moment Wrynn reclaimed it.
+
+There was not, in fact, a trap door under the pile like we’d expected — the strange potion bottle had been the hidden treasure. So, that meant there were only two doors to check: one on the right, one on the left. We also could have turned back to the previous chamber…probably.
+
+In a moment of concern, I touched the door and confirmed that yes, we could leave if we wanted to. That was good.
+
+“Next room?” Sera asked. “Next room,” we all confirmed.
+
+Patrick headed over to the next door. He seemed to be in the pattern of opening doors, which was tactically the absolute worst decision we could have made — he was our ranged fighter, and aside from Sera, probably the least versed in melee combat — but honestly, it was the first floor and no one was really too worried about it. Maybe that was unwise. No, it was definitely unwise. But with Meltlake there, everyone felt pretty secure.
+
+And Mara was right behind him, anyway.
+
+Patrick opened the door on the right side of the room first. The room beyond had a floor covered in alternating black and white tiles, each about five feet by five feet in size. There were three other doors within it, each exactly in the middle of one of the sides.
+
+More importantly, the opposite side of the room was filled with monsters. A barghensi, a line of several skeletons with swords, a line of skeletal archers behind them…with each standing exactly inside one of the squares. Though I tensed when I saw them, none of the monsters moved to attack. Not immediately, at least.
+
+When the monsters didn’t move, I recognized the nature of the challenge immediately. The tiles were a fourteen-by-fourteen game board.
+
+“Crowns,” Sera gave a little laugh. “Excellent. And that’s…a hundred points on the others side. Should be simple enough.”
+
+“Do you think they’ll play by the rules? Moving in turns, only attacking when they are in range, and all that?” I asked.
+
+“Very likely. Given how easy it would be to simply fight our way through with those restrictions, I imagine that the challenge is for us to obey the rules without being, you know, brutally mauled.”
+
+“How do we know how many points we’re worth?” Patrick asked.
+
+“A fair question.” Sera paused, thinking. “I wasn’t considering a deployment limit. If we have one of those…well, Meltlake won’t be able to take to the field at all. She’d be half their points by herself.”
+
+“Only half?” Meltlake leaned heavily on her cane toward Sera. “Aren’t you underestimating me a bit?”
+
+“Fifty is fairly typical for an Emerald-level hero unit. But if you’re saying you’re hiding more power…well, I suppose you could be a solo boss. But either way, you’d be too expensive for us to deploy.”
+
+“That’s assumin’ we’ve got that limit at all, yeah?” Mara noted. “Maybe we should just hop on in there and see what happens. Can’t be assumin’ we’ve got extra rules and bind our hands without reason.”
+
+“Yes, I suppose that’s one possible approach. But I wouldn’t want to be penalized for bringing in too much power…hm. Let’s check the other room first, shall we?”
+
+We moved to the opposite side of the room, checking the other door.
+
+A cool blast of air assailed us immediately, but fortunately, it wasn’t in the form of an attack. The room ahead was simply absurdly cold — but apparently not quite cold enough for the water that filled the majority of it to freeze over.
+
+Not yet, at least.
+
+Basically, the room looked like a giant swimming pool, but with tiny floating platforms hovering above it and a frigid aura in the air. The platforms were circular and just about a foot across, meaning someone could stand on one, but without a lot of room to maneuver. The gaps between the platforms were different distances, but none of them looked too far to jump across at a glance…of course, there would probably be tricks involved.
+
+If I had to guess — and I was obviously going to guess — the room would get colder and colder after we entered, meaning that the water would likely freeze. This would, of course, be problematic for anyone who fell into the pool.
+
+I saw two other doors in that room; one on the right side, another straight ahead. Both looked to be accessible by jumping from floating platform to platform.
+
+Oh, to clarify, when I say floating, I don’t mean on the water. The platforms were hovering in mid-air a few feet above the water…which was actually more suspicious, now that I was paying attention. Maybe they had a weight capacity, or maybe some of them would sink while others remained stable. I started looking for identifying marks on the platforms, but Sera gestured for Patrick to move away from the door. The door shut as soon as Patrick pulled his hand away.
+
+“Problem?” I asked.
+
+Sera shook her head. “No, just sensed that the room was already getting cooler. Hopefully it won’t get any worse while it’s closed.”
+
+“Understood.” I agreed with her logic. Usually, spire rooms wouldn’t change if they were closed. Sometimes they’d even reset completely if you waited long enough, but that would generally take hours.
+
+“Any leanings?” Sera asked the group.
+
+Mara glanced between the doors. “Jumping seems more my fit, but I know you’re a big Crowns gal.”
+
+“Yeah, she’s great at it!” Patrick made an encouraging gesture. “Beats me every time.”
+
+“She is good at Crowns,” I admitted, “But we don’t know what the rules will be in the spire. What happens if we’re limited to whatever abilities a Crowns unit of a specific type should have?”
+
+Sera shrugged. “It’s probable. It’s also probably no problem.”
+
+“With our group composition? There were a lot of skeletons in there, Sera.”
+
+She snorted. “You’re just sad because you’ll be an Enchanter unit and they’re terrible.”
+
+“That is, admittedly, a part of it, yes. But mechanically, we’re…what, four Carnelian-level hero units? Fifteen points apiece against a hundred- point enemy team?”
+
+“In point of fact, there are intermediary measurements between Carnelian and Sunstone, and I think Mara is close enough to count as an Advanced Carnelian unit. And dual attunement units do exist. You might qualify.”
+
+I waved a hand in a “maybe” gesture. “And if they give us the lowest grade possible?”
+
+Sera seemed to ponder that for a moment. “Honestly? I could win with just Patrick and me.”
+
+I folded my arms, giving her a skeptical look. “That’s a pretty bold claim.”
+
+“Not really, if we presume that he counts as a standard Elementalist unit and I can use my summons.”
+
+Summons definitely would swing things, yeah. I mean, Researcher wouldn’t, but…I ran some ideas through my head, but I still couldn’t see her winning with just summons. Not without Seiryu, at least, which obviously wasn’t going to happen. I had a more pressing issue to bring up before I got too distracted. “Before we get into this too far, is that even the route we want to go? We have an extremely mobile group — two people with air mana, three if you count Meltlake. Then the other two of us have enhancement and transference. Crossing a platform room is trivial, and even if we assume it’s going to freeze over, we have access to both fire and ice magic.”
+
+“Yes, true.” Sera pondered that. “But an agility focused room is likely to lead to others, yes? We’ll wear out our mana taking that kind of path. Whereas a route built around board games and other challenges of intellect is likely less mana intensive.”
+
+She did have a valid argument: going through this way did seem more consistent with our general route strategy, and I hated to admit that my main counter was “thinking is more work”. “Okay.” I nodded. “Any objections?”
+
+There were none. Meltlake simply told us that she’d be waiting outside the room unless something happened to force her to intervene, which we all understood. We discussed game mechanics for a couple more minutes, then headed back to the Crowns room.
+
+It was time to play a game.
+
+At our mutual agreement, Mara stepped into the room first, just in case things weren’t quite what they seemed. It was always possible the Crowns board was just an aesthetic and the monsters were going to charge, or worse, that there were some additional traps beyond the Valor board.
+
+Only one event occurred when she stepped inside: A voice spoke from seemingly everywhere at once, clear and easy to understand.
+
+[Player 1 has placed a unit: Carnelian-level Guardian. Value: 15 Points.] That answered a lot of things right away, in the sort of way that madeSera acquire a particularly smug expression.
+
+“E3, please, Mara.” Sera explained, referring to grid square locations on the board. The first four rows on our side were available for us to position our starting units, presuming standard rules applied.
+
+Mara walked to the stated position. Nothing special happened, she just waited there.
+
+“Patrick, your turn. E2.”
+
+“Right!” Patrick walked into the room.
+
+[Player 1 has placed a unit: Carnelian-level Elementalist. Value: 15 Points.]With that announcement made, he positioned himself right behind Mara, as Sera had instructed. Sera’s strategy involved putting us on one side to avoid sustained fire from all the archers, but with some room to maneuver rather than being completely boxed in. I couldn’t say if it would be a good strategy until I had a better idea of whether or not some of her other plans would work.
+
+“Corin, F3.” That put me right next to Mara, in the “front” of our group.
+
+Sera would be right behind me. I stepped in.
+
+[Player 1 has placed a unit: Carnelian-level Multi-Attuned. Value: 25 Points.]I blinked at that. Sera had mentioned multiple attunements showing up being a possibility, but I’d doubted it. Huh.
+
+Patrick gave a whoop of encouragement as I stepped up into my position, but I wasn’t super excited. I had no idea how this would impact the game. I wasn’t aware of any Crowns rules for Arbiters. I doubted even Sera was; as a restricted attunement, they weren’t a part of the normal game.
+
+On a whim, I spoke into the air. “Can I get a list of my valid abilities, please?”
+
+There was no reply.
+
+“Worth tryin’,” Mara offered in consolation. “S’pose we’ll find out soon enough.”
+
+Sera stepped in last.
+
+[Player 1 has placed a unit: Error-level Invoker. Value: 30 Points.]I blinked. Error-level? Was that because she’d been Carnelian, but dropped down into a Quartz level range?Either way, Sera was going to be impossibly smug about having a higher point value than mine.
+
+…Wasn’t she?Oddly, she looked concerned when she stepped into position behind me. I almost asked what was bothering her, but Patrick asked something more practical first. “So…with Meltlake not playing, we’re done positioning ourselves, right? How do we start?”
+
+“I very likely just need to make a declaration. There are some standardized phrases for Crowns. Everyone feel ready?”
+
+We gave her a circle of nods. Sera took a deep breath, still looking worried. “Then…Let the game begin.”
+
+The door behind us slammed shut.
+
