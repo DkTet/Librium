@@ -1,0 +1,218 @@
+:root{
+    --cor-principal: #121212;
+    --cor-subprincipal: #202020;
+    --cor-bordaprincipal: #3C3B3B;
+    --cor-titulo: #FCFCFC;
+    --cor-subtexto: #6B6B6B;
+    --cor-subtexto2: #B7B7B7;
+    --cor-hiperlink: #33289C;
+    --cor-textolink: #766FF1;
+    --cor-botao: #685ECE;
+    --cor-botao2: #242231;
+    --cor-botãotexto: #7174EC;
+    --cor-botãotexto2: #D9D9D9;
+    --cor-botaoborda: #3B366B;
+    --cor-status: #173A25;
+    --cor-statustexto: #71C968;
+    --cor-status2: #462222;
+    --cor-statustexto2: #E40F0F;
+    --fonte-nunito: 'Nunito', sans-serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;    
+}
+body{
+    background-color: #121212;
+}
+p{
+    color: var(--cor-botao);
+    font-family: var(--fonte-nunito);    
+}
+
+/*INICIO HEADER*/
+.header{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 3px var(--cor-bordaprincipal);
+    background-color: var(--cor-principal);
+}
+/*INICIO LOGO*/
+.home{
+    margin-top: -3px;
+}
+.home img{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*---FIM LOGO---*/
+
+/*INICIO NAV BAR*/
+.head1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--fonte-nunito);
+    font-weight: 600;
+    color: var(--cor-botãotexto2);
+    margin-right: 350px;
+    margin-left: 350px;
+}
+.linkhead{
+    margin: 10px;
+}
+.linkhead2{
+    text-decoration: none;
+    color: var(--cor-botãotexto2);
+    
+}
+/*---FIM NAV BAR---*/
+
+/*INICIO DA PAGINA DE LOGIN-1*/
+.entrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: var(--cor-botao);
+    font-family: var(--fonte-nunito);
+    color: var(--cor-botãotexto2); 
+}
+.login-1 a{
+    text-decoration: none;
+}
+.botaologin{
+    height: 50px;
+    width: calc(50% - 10px); /* Largura dos botões para duas colunas, com espaço entre */
+    margin: 5px;
+    background-color: var(--cor-principal);
+    font-family: var(--fonte-nunito);
+    border-radius: 10px;
+    color: var(--cor-subtexto2);
+}
+/*---FIM DAS PAGIANA DE LOGIN-1---*/
+
+/*-------FIM HEADER--------*/
+.section{
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: var(--cor-subprincipal);
+}
+.painel{
+    width: 99%;
+    height: 80px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    background-color: var(--cor-principal);
+}
+.titulo-cap{
+    margin-right: 16vw;
+}
+.pcap{
+    color: var(--cor-subtexto2);
+}
+.botaocabeçalho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.botaocabeçalho1{
+    text-align: center;
+    width: 60px;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 10px;
+    color: var(--cor-botãotexto2);
+    font-family: var(--fonte-nunito);
+    background-color: var(--cor-botao);
+}
+.cap{
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 40px;
+    box-sizing: border-box;
+    background-color: var(--cor-principal);
+    font-family: var(--fonte-nunito);
+    color: var(--cor-subtexto2);
+    overflow-y: auto;  /* Permite a rolagem */
+    max-height: 80%;  /* Limita a altura da área de leitura */
+}
+.cap::-webkit-scrollbar {
+    display: none; /* Chrome, Safari e Edge */
+}
+.asd{
+    text-wrap: wrap;
+    color: var(--cor-subtexto);
+    font-family: var(--fonte-nunito);
+    font-weight: 500;
+    font-size: 20px;
+}
+.painel2{
+    width: 100%;
+    height: 80px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: var(--cor-principal);
+}
+
+/*FOOTER*/
+.footer{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: solid 3px var(--cor-bordaprincipal);
+    background-color: var(--cor-principal);
+    
+}
+.homef{
+    margin-top: -3px;
+    margin: 15px;
+}
+.homef img{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.linkfooter{
+    color: var(--cor-botao);
+    font-family: var(--fonte-nunito);
+}
+.linkfooter2{
+    text-decoration: none;
+    color: var(--cor-botao);
+}
+/*---------FIM DO FOOTER--------*/
+
+
+@media screen and (max-width: 768px) {
+    .subpainel {
+        justify-content: flex-start; /* Alinhar os botões à esquerda em telas menores */
+    }
+    button {
+        width: calc(100% - 10px); /* Largura dos botões para uma coluna em telas menores */
+    }
+}

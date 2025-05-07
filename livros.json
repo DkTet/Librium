@@ -1,0 +1,350 @@
+[
+    {
+        "titulo": "Arcane Ascension 01 - Sufficiently Advanced Magic",
+        "caminho": "Arcane Ascension 01 - Sufficiently Advanced Magic",
+        "imagem": "Livros/Arcane Ascension 01 - Sufficiently Advanced Magic/capa.png",
+        "txt_count": 23
+    },
+    {
+        "titulo": "Arcane Ascension 02 - On the Shoulders of Titans",
+        "caminho": "Arcane Ascension 02 - On the Shoulders of Titans",
+        "imagem": "Livros/Arcane Ascension 02 - On the Shoulders of Titans/capa.png",
+        "txt_count": 26
+    },
+    {
+        "titulo": "Arcane Ascension 03 - The Torch that Ignites the Stars",
+        "caminho": "Arcane Ascension 03 - The Torch that Ignites the Stars",
+        "imagem": "Livros/Arcane Ascension 03 - The Torch that Ignites the Stars/capa.png",
+        "txt_count": 26
+    },
+    {
+        "titulo": "Arcane Ascension 04 - The Silence of Unworthy Gods",
+        "caminho": "Arcane Ascension 04 - The Silence of Unworthy Gods",
+        "imagem": "Livros/Arcane Ascension 04 - The Silence of Unworthy Gods/capa.png",
+        "txt_count": 44
+    },
+    {
+        "titulo": "Arcane Ascension 05 - When Wizards Follow Fools",
+        "caminho": "Arcane Ascension 05 - When Wizards Follow Fools",
+        "imagem": "Livros/Arcane Ascension 05 - When Wizards Follow Fools/capa.png",
+        "txt_count": 36
+    },
+    {
+        "titulo": "Astra Academy 01 - Academy Arcanist",
+        "caminho": "Astra Academy 01 - Academy Arcanist",
+        "imagem": "Livros/Astra Academy 01 - Academy Arcanist/capa.png",
+        "txt_count": 43
+    },
+    {
+        "titulo": "Astra Academy 02 - Mimic Arcanist",
+        "caminho": "Astra Academy 02 - Mimic Arcanist",
+        "imagem": "Livros/Astra Academy 02 - Mimic Arcanist/capa.png",
+        "txt_count": 43
+    },
+    {
+        "titulo": "Astra Academy 03 - Abyssal Arcanist",
+        "caminho": "Astra Academy 03 - Abyssal Arcanist",
+        "imagem": "Livros/Astra Academy 03 - Abyssal Arcanist/capa.png",
+        "txt_count": 49
+    },
+    {
+        "titulo": "Astra Academy 04 - Death Lord Arcanist",
+        "caminho": "Astra Academy 04 - Death Lord Arcanist",
+        "imagem": "Livros/Astra Academy 04 - Death Lord Arcanist/capa.png",
+        "txt_count": 45
+    },
+    {
+        "titulo": "Astra Academy 05 - Labyrinth Arcanist",
+        "caminho": "Astra Academy 05 - Labyrinth Arcanist",
+        "imagem": "Livros/Astra Academy 05 - Labyrinth Arcanist/capa.png",
+        "txt_count": 45
+    },
+    {
+        "titulo": "Dune 01 - Dune",
+        "caminho": "Dune 01 - Dune",
+        "imagem": "Livros/Dune 01 - Dune/capa.png",
+        "txt_count": 45
+    },
+    {
+        "titulo": "Frith Chronicles 01 - Knightmare",
+        "caminho": "Frith Chronicles 01 - Knightmare",
+        "imagem": "Livros/Frith Chronicles 01 - Knightmare/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Frith Chronicles 02 - Dread Pirate",
+        "caminho": "Frith Chronicles 02 - Dread Pirate",
+        "imagem": "Livros/Frith Chronicles 02 - Dread Pirate/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Frith Chronicles 03 - Coliseum",
+        "caminho": "Frith Chronicles 03 - Coliseum",
+        "imagem": "Livros/Frith Chronicles 03 - Coliseum/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Frith Chronicles 04 - Plague",
+        "caminho": "Frith Chronicles 04 - Plague",
+        "imagem": "Livros/Frith Chronicles 04 - Plague/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Frith Chronicles 05 - World Serpent",
+        "caminho": "Frith Chronicles 05 - World Serpent",
+        "imagem": "Livros/Frith Chronicles 05 - World Serpent/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Frith Chronicles 06 - Warlord",
+        "caminho": "Frith Chronicles 06 - Warlord",
+        "imagem": "Livros/Frith Chronicles 06 - Warlord/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Frith Chronicles 07 - Master",
+        "caminho": "Frith Chronicles 07 - Master",
+        "imagem": "Livros/Frith Chronicles 07 - Master/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Frith Chronicles 08 - Grandmaster",
+        "caminho": "Frith Chronicles 08 - Grandmaster",
+        "imagem": "Livros/Frith Chronicles 08 - Grandmaster/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Mage Errant 01 - Into The Labyrinth",
+        "caminho": "Mage Errant 01 - Into The Labyrinth",
+        "imagem": "Livros/Mage Errant 01 - Into The Labyrinth/capa.png",
+        "txt_count": 21
+    },
+    {
+        "titulo": "Mage Errant 02 - Jewel of The Endless Erg",
+        "caminho": "Mage Errant 02 - Jewel of The Endless Erg",
+        "imagem": "Livros/Mage Errant 02 - Jewel of The Endless Erg/capa.png",
+        "txt_count": 28
+    },
+    {
+        "titulo": "Mage Errant 03 - A Traitor In Skyhold",
+        "caminho": "Mage Errant 03 - A Traitor In Skyhold",
+        "imagem": "Livros/Mage Errant 03 - A Traitor In Skyhold/capa.png",
+        "txt_count": 36
+    },
+    {
+        "titulo": "Mage Errant 04 - The Lost City of Ithos",
+        "caminho": "Mage Errant 04 - The Lost City of Ithos",
+        "imagem": "Livros/Mage Errant 04 - The Lost City of Ithos/capa.png",
+        "txt_count": 43
+    },
+    {
+        "titulo": "Mage Errant 05 - The Siege of Skyhold",
+        "caminho": "Mage Errant 05 - The Siege of Skyhold",
+        "imagem": "Livros/Mage Errant 05 - The Siege of Skyhold/capa.png",
+        "txt_count": 56
+    },
+    {
+        "titulo": "Mage Errant 06 - Tonque Eater",
+        "caminho": "Mage Errant 06 - Tonque Eater",
+        "imagem": "Livros/Mage Errant 06 - Tonque Eater/capa.png",
+        "txt_count": 54
+    },
+    {
+        "titulo": "Mage Errant 07 - The Last Echo Of The Lord Of Bells",
+        "caminho": "Mage Errant 07 - The Last Echo Of The Lord Of Bells",
+        "imagem": "Livros/Mage Errant 07 - The Last Echo Of The Lord Of Bells/capa.png",
+        "txt_count": 78
+    },
+    {
+        "titulo": "Mage Errant 08 - Gorgon Incidente And Other Stories",
+        "caminho": "Mage Errant 08 - Gorgon Incidente And Other Stories",
+        "imagem": "Livros/Mage Errant 08 - Gorgon Incidente And Other Stories/capa.png",
+        "txt_count": 24
+    },
+    {
+        "titulo": "Mark of the Fool 01",
+        "caminho": "Mark of the Fool 01",
+        "imagem": "Livros/Mark of the Fool 01/capa.png",
+        "txt_count": 75
+    },
+    {
+        "titulo": "Mark of the Fool 02",
+        "caminho": "Mark of the Fool 02",
+        "imagem": "Livros/Mark of the Fool 02/capa.png",
+        "txt_count": 87
+    },
+    {
+        "titulo": "Mark of the Fool 03",
+        "caminho": "Mark of the Fool 03",
+        "imagem": "Livros/Mark of the Fool 03/capa.png",
+        "txt_count": 98
+    },
+    {
+        "titulo": "Mark of the Fool 04",
+        "caminho": "Mark of the Fool 04",
+        "imagem": "Livros/Mark of the Fool 04/capa.png",
+        "txt_count": 87
+    },
+    {
+        "titulo": "Mark of the Fool 05",
+        "caminho": "Mark of the Fool 05",
+        "imagem": "Livros/Mark of the Fool 05/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Mark of the Fool 06",
+        "caminho": "Mark of the Fool 06",
+        "imagem": "Livros/Mark of the Fool 06/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Mark of the Fool 07",
+        "caminho": "Mark of the Fool 07",
+        "imagem": "Livros/Mark of the Fool 07/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Mark of the Fool 08",
+        "caminho": "Mark of the Fool 08",
+        "imagem": "Livros/Mark of the Fool 08/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Mark of the Fool 09",
+        "caminho": "Mark of the Fool 09",
+        "imagem": "Livros/Mark of the Fool 09/capa.png",
+        "txt_count": 0
+    },
+    {
+        "titulo": "Millennial Mage 01 - Mageling",
+        "caminho": "Millennial Mage 01 - Mageling",
+        "imagem": "Livros/Millennial Mage 01 - Mageling/capa.png",
+        "txt_count": 40
+    },
+    {
+        "titulo": "Millennial Mage 02 - Mage",
+        "caminho": "Millennial Mage 02 - Mage",
+        "imagem": "Livros/Millennial Mage 02 - Mage/capa.png",
+        "txt_count": 30
+    },
+    {
+        "titulo": "Millennial Mage 03 - Blinding",
+        "caminho": "Millennial Mage 03 - Blinding",
+        "imagem": "Livros/Millennial Mage 03 - Blinding/capa.png",
+        "txt_count": 34
+    },
+    {
+        "titulo": "Millennial Mage 04 - Bound",
+        "caminho": "Millennial Mage 04 - Bound",
+        "imagem": "Livros/Millennial Mage 04 - Bound/capa.png",
+        "txt_count": 32
+    },
+    {
+        "titulo": "Millennial Mage 05 - Fusing",
+        "caminho": "Millennial Mage 05 - Fusing",
+        "imagem": "Livros/Millennial Mage 05 - Fusing/capa.png",
+        "txt_count": 38
+    },
+    {
+        "titulo": "Millennial Mage 06 - Fused",
+        "caminho": "Millennial Mage 06 - Fused",
+        "imagem": "Livros/Millennial Mage 06 - Fused/capa.png",
+        "txt_count": 29
+    },
+    {
+        "titulo": "Millennial Mage 07 - Eskau",
+        "caminho": "Millennial Mage 07 - Eskau",
+        "imagem": "Livros/Millennial Mage 07 - Eskau/capa.png",
+        "txt_count": 70
+    },
+    {
+        "titulo": "Millennial Mage 08 - Ironbound",
+        "caminho": "Millennial Mage 08 - Ironbound",
+        "imagem": "Livros/Millennial Mage 08 - Ironbound/capa.png",
+        "txt_count": 58
+    },
+    {
+        "titulo": "My Best Friend is an Eldritch Horror 01 - Blackmist",
+        "caminho": "My Best Friend is an Eldritch Horror 01 - Blackmist",
+        "imagem": "Livros/My Best Friend is an Eldritch Horror 01 - Blackmist/capa.png",
+        "txt_count": 36
+    },
+    {
+        "titulo": "My Best Friend is an Eldritch Horror 02 - Greenblood",
+        "caminho": "My Best Friend is an Eldritch Horror 02 - Greenblood",
+        "imagem": "Livros/My Best Friend is an Eldritch Horror 02 - Greenblood/capa.png",
+        "txt_count": 27
+    },
+    {
+        "titulo": "My Best Friend is an Eldritch Horror 03 - Duskbringer",
+        "caminho": "My Best Friend is an Eldritch Horror 03 - Duskbringer",
+        "imagem": "Livros/My Best Friend is an Eldritch Horror 03 - Duskbringer/capa.png",
+        "txt_count": 40
+    },
+    {
+        "titulo": "My Best Friend is an Eldritch Horror 04 - Voidwalker",
+        "caminho": "My Best Friend is an Eldritch Horror 04 - Voidwalker",
+        "imagem": "Livros/My Best Friend is an Eldritch Horror 04 - Voidwalker/capa.png",
+        "txt_count": 23
+    },
+    {
+        "titulo": "My Best Friend is an Eldritch Horror 05 - Dawnfall",
+        "caminho": "My Best Friend is an Eldritch Horror 05 - Dawnfall",
+        "imagem": "Livros/My Best Friend is an Eldritch Horror 05 - Dawnfall/capa.png",
+        "txt_count": 39
+    },
+    {
+        "titulo": "My Best Friend is an Eldritch Horror 06 - Realmbreaker",
+        "caminho": "My Best Friend is an Eldritch Horror 06 - Realmbreaker",
+        "imagem": "Livros/My Best Friend is an Eldritch Horror 06 - Realmbreaker/capa.png",
+        "txt_count": 31
+    },
+    {
+        "titulo": "Scholomance 01 - A Deadly Education",
+        "caminho": "Scholomance 01 - A Deadly Education",
+        "imagem": "Livros/Scholomance 01 - A Deadly Education/capa.png",
+        "txt_count": 13
+    },
+    {
+        "titulo": "Scholomance 02 - The Last Graduate",
+        "caminho": "Scholomance 02 - The Last Graduate",
+        "imagem": "Livros/Scholomance 02 - The Last Graduate/capa.png",
+        "txt_count": 14
+    },
+    {
+        "titulo": "Scholomance 03 - The Golden Enclaves",
+        "caminho": "Scholomance 03 - The Golden Enclaves",
+        "imagem": "Livros/Scholomance 03 - The Golden Enclaves/capa.png",
+        "txt_count": 17
+    },
+    {
+        "titulo": "Super Powereds - Corpies",
+        "caminho": "Super Powereds - Corpies",
+        "imagem": "Livros/Super Powereds - Corpies/capa.png",
+        "txt_count": 125
+    },
+    {
+        "titulo": "Super Powereds - Year 1",
+        "caminho": "Super Powereds - Year 1",
+        "imagem": "Livros/Super Powereds - Year 1/capa.png",
+        "txt_count": 157
+    },
+    {
+        "titulo": "Super Powereds - Year 2",
+        "caminho": "Super Powereds - Year 2",
+        "imagem": "Livros/Super Powereds - Year 2/capa.png",
+        "txt_count": 196
+    },
+    {
+        "titulo": "Super Powereds - Year 3",
+        "caminho": "Super Powereds - Year 3",
+        "imagem": "Livros/Super Powereds - Year 3/capa.png",
+        "txt_count": 255
+    },
+    {
+        "titulo": "Super Powereds - Year 4",
+        "caminho": "Super Powereds - Year 4",
+        "imagem": "Livros/Super Powereds - Year 4/capa.png",
+        "txt_count": 324
+    }
+]

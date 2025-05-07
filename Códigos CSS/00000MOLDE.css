@@ -1,0 +1,85 @@
+:root{
+    --cor-principal: #121212;
+    --cor-subprincipal: #202020;
+    --cor-bordaprincipal: #3C3B3B;
+    --cor-titulo: #FCFCFC;
+    --cor-subtexto: #6B6B6B;
+    --cor-subtexto2: #B7B7B7;
+    --cor-hiperlink: #33289C;
+    --cor-textolink: #766FF1;
+    --cor-botao: #685ECE;
+    --cor-botao2: #242231;
+    --cor-botãotexto: #7174EC;
+    --cor-botãotexto2: #D9D9D9;
+    --cor-botaoborda: #3B366B;
+    --cor-status: #173A25;
+    --cor-statustexto: #71C968;
+    --cor-status2: #462222;
+    --cor-statustexto2: #E40F0F;
+    --fonte-nunito: 'Nunito', sans-serif;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;    
+}
+body{
+    background-color: #121212;
+}
+
+p{
+    color: var(--cor-botao);
+    font-family: var(--fonte-nunito);    
+}
+
+/*Inicio do Menu Toggle*/
+.painel{
+    font-family: var(--fonte-nunito);
+    font-size: 32px;
+    width: 50%;
+    margin-bottom: 25px;
+    border-bottom: 3px solid var(--cor-botao);
+    color: var(--cor-botãotexto2);
+}
+.content p{
+    color: var(--cor-botãotexto2);
+    font-size: 30px;
+    padding-left: 40px;
+}
+/*-------FIM Menu Toggle--------*/
+
+
+.teste{
+    font-size: 24px;
+    color: var(--cor-titulo);
+    font-family: var(--fonte-nunito);
+    line-height: 50px;
+
+}
+
+details{
+    font-size: 24px;
+    color: var(--cor-titulo);
+    font-family: var(--fonte-nunito);
+
+}
+
+
+
+
+/*BOTÔES EM GERAL*/
+button {
+    height: 50px;
+    width: calc(50% - 10px); /* Largura dos botões para duas colunas, com espaço entre */
+    margin: 5px;
+    background-color: var(--cor-principal);
+    font-family: var(--fonte-nunito);
+    border-radius: 10px;
+    color: var(--cor-subtexto2);
+}
+/*---FIM DO BOTÔES EM GERAL---*/
+
+@media screen and (max-width: 1300px) {
+}
+

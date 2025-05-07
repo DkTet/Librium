@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OWL Novels Sua Leitura Noturna!!</title>
+    <link rel="stylesheet" href="./Códigos CSS/BullyMonkeyssss.css">
+    <link rel="stylesheet" href="./Códigos CSS/header.css">
+    <link rel="stylesheet" href="./Códigos CSS/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/b9ccfa25cd.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header class="header">
+        <div class="home"><a href="./1-index.html"><img src="./Imagens/images.png" alt="Logo"></a></div>
+        <div class="head1"><div class="linkhead"><a href="./2-search.html" class="linkhead2"><i class="fa-solid fa-magnifying-glass"></i>  Procurar</a></div></div>
+    </header>
+
+    <section class="section">
+        <div class="painel-novels">
+            <div class="main-novels">Biblioteca</div>
+            <div class="listadenovels" id="listadenovels"></div>
+        </div>
+    </section>
+
+    <script>
+        fetch("livros.json")
+            .then(response => response.json())
+            .then(livros => {
+                const lista = document.getElementById("listadenovels");
+                lista.innerHTML = ""; 
+                livros.forEach(livro => {
+                    const divLivro = document.createElement("div");
+                    divLivro.classList.add("novel01");
+
+                    const imagemCaminho = livro.imagem;
+                    divLivro.style.backgroundImage = `url('${imagemCaminho}')`;
+    
+                    const tituloDiv = document.createElement("div");
+                    tituloDiv.classList.add("novel01-titulo");
+                    tituloDiv.title = livro.titulo;
+    
+                    const link = document.createElement("a");
+                    link.href = `./3-leitor.html?livro=${encodeURIComponent(livro.caminho)}`;
+                    link.textContent = livro.titulo;
+    
+                    tituloDiv.appendChild(link);
+                    divLivro.appendChild(tituloDiv);
+                    lista.appendChild(divLivro);
+                });})
+            .catch(error => console.error("Erro ao carregar a lista de livros:", error));
+    </script>
+    <footer class="footer"><div class="homef">
+        <a href="./1-index.html"><img src="../Imagens/images.png" alt="Logo"></a></div>
+    </footer>
+</body>
+</html>
+
+
+

@@ -1,0 +1,43 @@
+:root{
+    --cor-principal: #121212;
+    --cor-subprincipal: #202020;
+    --cor-bordaprincipal: #3C3B3B;
+    --cor-titulo: #FCFCFC;
+    --cor-subtexto: #6B6B6B;
+    --cor-subtexto2: #B7B7B7;
+    --cor-hiperlink: #33289C;
+    --cor-textolink: #766FF1;
+    --cor-botao: #685ECE;
+    --cor-botao2: #242231;
+    --cor-botãotexto: #7174EC;
+    --cor-botãotexto2: #D9D9D9;
+    --cor-botaoborda: #3B366B;
+    --cor-status: #173A25;
+    --cor-statustexto: #71C968;
+    --cor-status2: #462222;
+    --cor-statustexto2: #E40F0F;
+    --fonte-nunito: 'Nunito', sans-serif;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;    
+}
+body{
+    background-color: #121212;
+}
+p{
+    color: var(--cor-botao);
+    font-family: var(--fonte-nunito);    
+}
+
+/*Inicio do Section*/
+.section{
+    padding: 10px;
+    height: max-content;
+    width: 70vw;
+    margin: 0 auto;
+    background-color: var(--cor-subprincipal);
+}
+/*-------FIM SECTION-------*/

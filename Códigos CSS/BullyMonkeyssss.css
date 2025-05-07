@@ -1,0 +1,223 @@
+:root{
+    --cor-principal: #121212;
+    --cor-subprincipal: #202020;
+    --cor-bordaprincipal: #3C3B3B;
+    --cor-titulo: #FCFCFC;
+    --cor-subtexto: #6B6B6B;
+    --cor-subtexto2: #B7B7B7;
+    --cor-hiperlink: #33289C;
+    --cor-textolink: #766FF1;
+    --cor-botao: #685ECE;
+    --cor-botao2: #242231;
+    --cor-botãotexto: #7174EC;
+    --cor-botãotexto2: #D9D9D9;
+    --cor-botaoborda: #3B366B;
+    --cor-status: #173A25;
+    --cor-statustexto: #71C968;
+    --cor-status2: #462222;
+    --cor-statustexto2: #E40F0F;
+    --fonte-nunito: 'Nunito', sans-serif;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;    
+}
+body{
+    background-color: #121212;
+    user-select: none;
+}
+p{
+    color: var(--cor-botao);
+    font-family: var(--fonte-nunito);    
+}
+
+.section{
+    padding: 10px;
+    width: 70vw;
+    margin: 0 auto;
+    background-color: var(--cor-subprincipal);
+}
+
+.painel{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*PAINEIS DE INTERAÇÂO DO INCIO*/
+.subpainel{
+    width: 620px;
+    height: 450px;
+    overflow: hidden;
+    margin-right: 10px;
+    position: relative;
+    border-radius: 8px;
+}
+.fundo{
+    width: 620px;
+    height: 450px;
+    border: solid 3px;
+    box-sizing: border-box;
+    filter: blur(8px) brightness(70%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.auxiliar{    
+    position: absolute;
+    top: 40px;
+    left: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    padding: 25px;
+    box-sizing: border-box;
+}
+.capanovel{
+    max-width: 230px;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.capanovel img{
+    max-width: 100%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.texto-painel{
+    margin-left: 20px;
+    width: 60%;
+    color: var(--cor-subtexto2);
+    font-family: var(--fonte-nunito);
+    font-size: 18px;
+    text-shadow: #000 1px 0 10px;
+    box-sizing: border-box;
+    padding-top: 60px;
+}
+.texto-painel h3{
+    margin-bottom: 35px;
+    color: var(--cor-titulo);
+}
+.titulonovel{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 10px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 20px;
+    font-family: var(--fonte-nunito);
+    font-weight: 700;
+    color: var(--cor-subtexto2);
+    background-color: var(--cor-principal);
+}
+#editores-2{
+    display: none;
+}
+#favoritos-2{
+    display: none;
+}
+/*----------FIM DOS PAINEIS DE INTERAÇÂO DO INCIO------------*/
+
+
+.main-novels{
+    font-size: 24px;
+    font-family: var(--fonte-nunito);
+    color: var(--cor-titulo);
+    border-bottom: 2px solid var(--cor-titulo);
+    padding-left: 15px;
+    margin-top: 75px;
+    
+}
+.listadenovels{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 10px;
+    margin-left: 25px;    
+}
+.novel01{
+    width: 230px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content: end;
+    align-items: left;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 10px;
+    background-size: 230px;
+    font-family: var(--fonte-nunito);
+    color: var(--cor-titulo);
+    box-shadow: -0px -100px 50px var(--cor-principal) inset;
+}
+.novel01:hover{
+    opacity: 0.6;
+    transition: .5s ease;
+}
+.novel01-titulo{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 20px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.novel01-titulo a{
+    text-decoration: none;
+    color: var(--cor-titulo);
+}
+.tags{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+.tag{
+    padding: 2px 10px;
+    border-radius: 5px;
+    background-color: var(--cor-subprincipal);
+    border: 1px solid var(--cor-subtexto);
+}
+
+
+
+
+
+/*BOTÔES EM GERAL*/
+button {
+    height: 50px;
+    width: calc(50% - 10px); /* Largura dos botões para duas colunas, com espaço entre */
+    margin: 5px;
+    background-color: var(--cor-principal);
+    font-family: var(--fonte-nunito);
+    border-radius: 10px;
+    color: var(--cor-subtexto2);
+}
+/*---FIM DO BOTÔES EM GERAL---*/
+
+@media screen and (max-width: 1300px) {
+    #editores-1 {
+        display: none; 
+    }
+    #editores-2 {
+        display: none; 
+    }
+}
+

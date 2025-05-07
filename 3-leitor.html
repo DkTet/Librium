@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leitor</title>
+    <link rel="stylesheet" href="../Códigos CSS/leitor.css">
+    <link rel="stylesheet" href="../Códigos CSS/header.css">
+    <link rel="stylesheet" href="../Códigos CSS/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/b9ccfa25cd.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header class="header">
+        <div class="home"><a href="../1-index.html"><img src="../Imagens/images.png" alt="Logo"></a></div>
+        <div class="head1"><div class="linkhead"><a href="../2-search.html" class="linkhead2"><i class="fa-solid fa-magnifying-glass"></i>  Procurar</a></div></div>
+    </header>
+
+    <section class="section">
+        <div class="painel">
+            <div class="titulo-cap"><p></p>
+            <p class="pcap"></p></div>
+            <select id="seletor-capitulo"></select>
+        </div>
+
+        <div class="cap" id="content">
+            <div class="chapter" id="chapter"></div>
+        </div>
+    </section>
+
+    <script>
+        let chapters = []; // Variável para armazenar os capítulos
+        let currentChapter = 0;
+        let isLoading = false;
+        const seletor = document.getElementById("seletor-capitulo");
+        const chapterElement = document.getElementById('chapter');
+
+        fetch('livros.json')
+            .then(response => response.json())  // Converte o conteúdo do arquivo JSON
+            .then(livros => {
+                const livroSelecionado = getQueryParam("livro");
+                if (livroSelecionado) {
+                    const livro = livros.find(l => l.titulo === livroSelecionado);
+                    if (livro) {
+                        chapters = Array.from({ length: livro.txt_count }, (_, i) => `cap${String(i + 1).padStart(2, '0')}.txt`);
+                        populateSelector();
+                        loadChapter(currentChapter);
+                    } else {
+                        console.error("Livro não encontrado!");}
+                } else {
+                    console.error("Nenhum livro selecionado na URL!");} })
+            .catch(error => {
+                console.error('Erro ao carregar o arquivo JSON:', error);});
+                
+        function populateSelector() {
+            chapters.forEach((chapter, index) => {
+            let option = document.createElement('option');
+            option.value = index;
+            option.textContent = `Capítulo ${index + 1}`;
+            seletor.appendChild(option);});}
+
+        seletor.addEventListener('change', function () {
+            currentChapter = parseInt(this.value);
+            loadChapter(currentChapter, true);});
+
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);}
+
+        const livroSelecionado = getQueryParam("livro");
+        if (livroSelecionado) {
+            document.querySelector(".titulo-cap p").textContent = livroSelecionado; // Atualiza o título do livro no leitor
+            function loadChapter(chapterIndex, isFromSelector = false) {
+                if (chapterIndex >= chapters.length || chapterIndex < 0) return;
+                if (isLoading) return;
+                isLoading = true;
+                const chapterElement = document.getElementById('chapter'); // Definir elemento corretamente
+                const chapterPath = `../Livros/${livroSelecionado}/${chapters[chapterIndex]}`;
+                fetch(chapterPath)
+                    .then(response => response.text())
+                    .then(text => {
+                        if (isFromSelector) {
+                            chapterElement.innerHTML = `<div class="chapter"><pre class="asd">${text}</pre></div>`;
+                        } else {
+                            chapterElement.innerHTML += `<div class="chapter"><pre class="asd">${text}</pre></div>`;}
+                        isLoading = false;})
+                    .catch(err => {
+                        console.error('Erro ao carregar o capítulo:', err);
+                        isLoading = false;});}
+        } else {
+            console.error("Nenhum livro selecionado!");}
+        
+        function handleScroll() {
+            if (isLoading) return;
+            const scrollableHeight = document.documentElement.scrollHeight;
+            const currentScroll = window.scrollY + window.innerHeight;
+            if (currentScroll >= scrollableHeight - 100) {
+                if (currentChapter < chapters.length - 1) {
+                    currentChapter++;
+                    loadChapter(currentChapter);}}}
+        
+        function checkAndLoadMoreChapters() {
+            if (document.documentElement.scrollHeight <= window.innerHeight) {
+                if (currentChapter < chapters.length - 1) {
+                    currentChapter++;
+                    loadChapter(currentChapter);}}}
+        
+        populateSelector();
+        loadChapter(currentChapter);
+        window.addEventListener("scroll", handleScroll);
+    </script>   
+
+    <footer class="footer"><div class="homef">
+        <a href="./1-index.html"><img src="../Imagens/images.png" alt="Logo"></a></div>
+</footer>
+</body>
+</html>
+
